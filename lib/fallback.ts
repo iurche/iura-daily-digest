@@ -1,15 +1,6 @@
-// Deterministic hash to pick a fallback image index from 0–7
-function simpleHash(str: string): number {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    const char = str.charCodeAt(i);
-    hash = (hash << 5) - hash + char;
-    hash = hash & hash; // Convert to 32bit integer
-  }
-  return Math.abs(hash);
-}
-
-export function getFallbackUrl(storyId: string, topic: string): string {
-  const index = simpleHash(storyId) % 8;
-  return `/images/fallback/${topic}/${index}.svg`;
+// Returns a deterministic, beautiful editorial photo for any story.
+// Uses Lorem Picsum — free, no API key, same story always gets same photo.
+export function getFallbackUrl(storyId: string, _topic: string): string {
+  const seed = encodeURIComponent(storyId);
+  return `https://picsum.photos/seed/${seed}/800/534`;
 }
