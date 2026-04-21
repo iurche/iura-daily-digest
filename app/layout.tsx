@@ -11,6 +11,10 @@ export const metadata: Metadata = {
   },
   description:
     "A curated daily digest of product design, AI, IoT, and career signals — editorial magazine format.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/favicon.png",
+  },
   openGraph: {
     siteName: "Iura's Daily Digest",
     type: "website",
