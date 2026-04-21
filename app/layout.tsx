@@ -29,15 +29,6 @@ export const metadata: Metadata = {
   },
 };
 
-function getIssueNumber(date: string): number {
-  const epoch = new Date("2026-01-01");
-  const d = new Date(date);
-  const diff = Math.floor(
-    (d.getTime() - epoch.getTime()) / (1000 * 60 * 60 * 24)
-  );
-  return Math.max(1, diff + 1);
-}
-
 export default function RootLayout({
   children,
 }: {
@@ -45,13 +36,12 @@ export default function RootLayout({
 }) {
   const dates = getAllDates();
   const latestDate = dates[0] || new Date().toISOString().slice(0, 10);
-  const issueNumber = getIssueNumber(latestDate);
 
   return (
     <html lang="en">
       <body className="min-h-screen bg-white">
         <header className="border-b border-gray-200">
-          <Masthead date={latestDate} issueNumber={issueNumber} />
+          <Masthead date={latestDate} />
           <TopicNav />
         </header>
         <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

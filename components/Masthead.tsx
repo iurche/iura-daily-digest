@@ -1,6 +1,5 @@
 type MastheadProps = {
   date: string;
-  issueNumber: number;
 };
 
 function formatDate(dateStr: string): string {
