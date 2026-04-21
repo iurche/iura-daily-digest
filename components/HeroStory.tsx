@@ -1,4 +1,3 @@
-import Image from "next/image";
 import type { Story } from "@/lib/types";
 import { TOPIC_LABELS } from "@/lib/topic-labels";
 import SaveButton from "@/components/SaveButton";
@@ -51,13 +50,13 @@ export default function HeroStory({ story, date }: HeroStoryProps) {
               height={675}
             />
           ) : (
-            <Image
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
               src={imageUrl}
               alt={story.headline}
-              fill
-              priority
-              className="object-cover"
-              sizes="(max-width: 1280px) 100vw, 1200px"
+              className="absolute inset-0 w-full h-full object-cover"
+              width={1200}
+              height={675}
             />
           )}
         </div>

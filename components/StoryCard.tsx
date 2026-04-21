@@ -1,7 +1,6 @@
 "use client";
 
 import { useRef, useEffect, useState, useCallback, KeyboardEvent } from "react";
-import Image from "next/image";
 import type { Story } from "@/lib/types";
 import { TOPIC_LABELS } from "@/lib/topic-labels";
 import SaveButton from "@/components/SaveButton";
@@ -74,13 +73,12 @@ export default function StoryCard({ story, date }: StoryCardProps) {
             className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         ) : (
-          <Image
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
             src={imageUrl}
             alt={story.headline}
-            fill
             loading="lazy"
-            className="object-cover transition-transform duration-500 group-hover:scale-105"
-            sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 33vw"
+            className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         )}
       </div>
