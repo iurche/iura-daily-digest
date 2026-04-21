@@ -4,6 +4,7 @@ import { fetchInTheWorld } from '../lib/ingestion/in-the-world';
 import type { Digest, Story, Topic } from '../lib/types';
 
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY || '';
+const PEXELS_API_KEY = process.env.PEXELS_API_KEY || '';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 const GUARDIAN_API_KEY = process.env.GUARDIAN_API_KEY || '';
 
@@ -106,6 +107,35 @@ async function fetchUnsplashImage(
   }
 }
 
+interface PexelsPhoto {
+  src: { large: string };
+  photographer: string;
+}
+
+async function fetchPexelsImage(
+  story: Story
+): Promise<{ url: string; credit: string } | null> {
+  if (!PEXELS_API_KEY) return null;
+  const words = story.headline.split(' ').slice(0, 4).join(' ');
+  const query = `${words} ${story.topic}`;
+  try {
+    const res = await fetch(
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape`,
+      { headers: { Authorization: PEXELS_API_KEY } }
+    );
+    if (!res.ok) return null;
+    const data = (await res.json()) as { photos: PexelsPhoto[] };
+    const photo = data.photos?.[0];
+    if (!photo) return null;
+    return {
+      url: photo.src.large,
+      credit: `Photo by ${photo.photographer} on Pexels`,
+    };
+  } catch {
+    return null;
+  }
+}
+
 function generateStoryId(date: string, topic: string, index: number): string {
   return `${date}-${topic}-${index}`;
 }
@@ -144,26 +174,38 @@ async function main() {
 
   const allStories: Story[] = [...baseStories, ...taggedInWorld];
 
-  // 5. Fetch Unsplash images for non-hero stories
-  console.log(`\n[Step 2] Fetching Unsplash images for ${allStories.length} stories...`);
+  // 5. Fetch images for non-hero stories (Unsplash + Pexels)
+  console.log(`\n[Step 2] Fetching images for ${allStories.length} stories...`);
   let unsplashFetched = 0;
-  let unsplashFailed = 0;
+  let pexelsFetched = 0;
+  let skipped = 0;
 
   for (let i = 0; i < allStories.length; i++) {
     const story = allStories[i];
-    if (story.imageUrl) continue; // skip if already has image
-    const img = await fetchUnsplashImage(story);
+    // Force refresh images for testing - remove this in production
+    // if (story.imageUrl) continue; 
+
+    // Try Unsplash first
+    let img = await fetchUnsplashImage(story);
     if (img) {
       allStories[i] = { ...story, imageUrl: img.url, imageCredit: img.credit };
       unsplashFetched++;
-    } else {
-      unsplashFailed++;
+      await new Promise((r) => setTimeout(r, 200));
+      continue;
     }
-    // Rate limit: ~50 req/hr on free tier
-    await new Promise((r) => setTimeout(r, 200));
+
+    // Try Pexels if Unsplash fails
+    img = await fetchPexelsImage(story);
+    if (img) {
+      allStories[i] = { ...story, imageUrl: img.url, imageCredit: img.credit };
+      pexelsFetched++;
+      continue;
+    }
+
+    skipped++;
   }
 
-  console.log(`[Unsplash] Fetched: ${unsplashFetched}, Failed/skipped: ${unsplashFailed}`);
+  console.log(`[Images] Unsplash: ${unsplashFetched}, Pexels: ${pexelsFetched}, Skipped: ${skipped}`);
 
   // 6. Determine hero story
   const heroStory =
@@ -205,7 +247,7 @@ async function main() {
   console.log(`Hero: ${heroStory.headline}`);
   console.log(`Hero image: ${heroImageUrl || 'not generated'}`);
   console.log(`InTheWorld — fetched: ${inWorldStats.fetched}, paywall drops: ${inWorldStats.dropped_paywall}, dupes: ${inWorldStats.dropped_duplicate}, selected: ${inWorldStats.selected}`);
-  console.log(`Unsplash — fetched: ${unsplashFetched}, failed: ${unsplashFailed}`);
+  console.log(`Images — Unsplash: ${unsplashFetched}, Pexels: ${pexelsFetched}, Skipped: ${skipped}`);
   console.log('===================\n');
 }
 

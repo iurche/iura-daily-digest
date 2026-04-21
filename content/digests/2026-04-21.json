@@ -11,7 +11,8 @@
       "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
       "isHero": true,
       "publishedAt": "2026-04-20T08:00:00.000Z",
-      "imageUrl": "/images/heroes/2026-04-21.png"
+      "imageUrl": "/images/heroes/2026-04-21.png",
+      "imageCredit": "Photo by Voice + Video on Unsplash"
     },
     {
       "id": "2026-04-20-product-design-1",
@@ -20,7 +21,9 @@
       "dek": "With AI letting anyone clone workflows in weeks, the real competitive edge is how fast your team notices change, updates beliefs, and ships a different answer.",
       "source": "Medium",
       "sourceUrl": "https://antmurphy.medium.com/how-product-is-changing-in-2026-78a08f150aca",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7674594/pexels-photo-7674594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pavel Danilyuk on Pexels"
     },
     {
       "id": "2026-04-20-product-design-2",
@@ -29,7 +32,9 @@
       "dek": "Friction removal has replaced engagement as the core design goal — if users spend 10 minutes doing a 1-minute task, the product has failed.",
       "source": "Product School",
       "sourceUrl": "https://productschool.com/blog/product-fundamentals/product-management-trends",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/29509536/pexels-photo-29509536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Matheus Bertelli on Pexels"
     },
     {
       "id": "2026-04-20-product-design-3",
@@ -38,7 +43,9 @@
       "dek": "Strong product explainability ensures AI systems represent your offering accurately without human mediation — a new design layer that's now essential.",
       "source": "Userback",
       "sourceUrl": "https://userback.io/blog/future-of-product-management/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1615387000571-bdcfe92eb67c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTIwRXhwbGFpbmFiaWxpdHklM0ElMjBEZXNpZ25pbmclMjBmb3IlMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzc2NzYyNjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Munbaik Cycling Clothing on Unsplash"
     },
     {
       "id": "2026-04-20-product-design-4",
@@ -47,7 +54,9 @@
       "dek": "Low-visual-noise interfaces with intuitive ergonomics are gaining ground against over-engineered products as users prioritize clarity and speed.",
       "source": "Cambridge DT",
       "sourceUrl": "https://www.cambridge-dt.com/product-design-trends-to-watch-in-2026-and-beyond/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612984098374-fe55a61a1187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTaW1wbGljaXR5JTIwV2lucyUzQSUyMENsZWFuJTIwVUklMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzc2NzYyNjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
     },
     {
       "id": "2026-04-20-ux-research-0",
@@ -56,7 +65,9 @@
       "dek": "AI now handles tagging qualitative data, summarizing transcripts, and generating insight drafts — freeing researchers for higher-level synthesis and strategy.",
       "source": "LogRocket",
       "sourceUrl": "https://blog.logrocket.com/ux-design/ux-research-trends-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1606343647114-3cf38d47ded4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw4OCUyNSUyMG9mJTIwUmVzZWFyY2hlcnMlMjBOYW1lJTIwdXgtcmVzZWFyY2h8ZW58MHwwfHx8MTc3Njc2MjYwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mohamed Boumaiza on Unsplash"
     },
     {
       "id": "2026-04-20-ux-research-1",
@@ -65,7 +76,9 @@
       "dek": "PMs, designers, and marketers are increasingly owning user research — creating demand for lightweight tools like Maze that run at the speed of product sprints.",
       "source": "Nielsen Norman Group",
       "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1630852722667-ef9764a76b3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXNlYXJjaCUyMERlbW9jcmF0aXphdGlvbiUzQSUyMEV2ZXJ5b25lJTIwRG9lcyUyMHV4LXJlc2VhcmNofGVufDB8MHx8fDE3NzY3NjI2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Karl Solano on Unsplash"
     },
     {
       "id": "2026-04-20-ux-research-2",
@@ -74,7 +87,9 @@
       "dek": "The most significant 2026 shift: research teams are being asked to prove value in revenue and retention metrics, not just design quality scores.",
       "source": "UX Studio",
       "sourceUrl": "https://www.uxstudioteam.com/ux-blog/ux-research-trends",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1590483200421-58b5a8a0be55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMFJlc2VhcmNoJTIwTXVzdCUyME5vdyUyMHV4LXJlc2VhcmNofGVufDB8MHx8fDE3NzY3NjI2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
     },
     {
       "id": "2026-04-20-ux-research-3",
@@ -83,7 +98,9 @@
       "dek": "Blending interviews and usability tests with heatmaps and session recordings gives a fuller picture of how users actually behave versus what they say they do.",
       "source": "Mockflow",
       "sourceUrl": "https://mockflow.com/blog/top-trends-for-ux-research",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaXhlZCUyME1ldGhvZHMlM0ElMjBDb21iaW5pbmclMjBRdWFsaXRhdGl2ZSUyMHV4LXJlc2VhcmNofGVufDB8MHx8fDE3NzY3NjI2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amélie Mourichon on Unsplash"
     },
     {
       "id": "2026-04-20-ai-tools-0",
@@ -92,7 +109,9 @@
       "dek": "AI agents can now browse, select, and pay for goods autonomously — Visa's platform handles tokenization, authentication, and spend controls for agentic commerce.",
       "source": "Mean CEO",
       "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-april-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1656639969810-a8347d8bb1af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWaXNhJTIwTGF1bmNoZXMlMjBJbnRlbGxpZ2VudCUyMENvbW1lcmNlJTIwYWktdG9vbHN8ZW58MHwwfHx8MTc3Njc2MjYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Oberon Copeland @veryinformed.com on Unsplash"
     },
     {
       "id": "2026-04-20-ai-tools-1",
@@ -101,7 +120,9 @@
       "dek": "Google DeepMind's latest update brings multimodal real-time capabilities, strengthening its position against GPT-5.4's expanded coding and workflow automation tools.",
       "source": "LLM Stats",
       "sourceUrl": "https://llm-stats.com/ai-news",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1758626044744-463ce33546a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZW1pbmklMjAzLjElMjBBZGRzJTIwUmVhbC1UaW1lJTIwYWktdG9vbHN8ZW58MHwwfHx8MTc3Njc2MjYxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jo Lin on Unsplash"
     },
     {
       "id": "2026-04-20-ai-tools-2",
@@ -110,7 +131,9 @@
       "dek": "The expanded Autodesk Assistant responds to plain-language requests by writing and executing Fusion API scripts directly inside workflows — a leap for design automation.",
       "source": "Autodesk Blog",
       "sourceUrl": "https://www.autodesk.com/products/fusion-360/blog/april-2026-product-update-whats-new/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1720879996903-24859d1df48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBdXRvZGVzayUyMEZ1c2lvbiUyMEFJJTIwTm93JTIwYWktdG9vbHN8ZW58MHwwfHx8MTc3Njc2MjYxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Thorium on Unsplash"
     },
     {
       "id": "2026-04-20-ai-tools-3",
@@ -119,7 +142,9 @@
       "dek": "New messaging-native AI agent manages scheduling, reminders, and email monitoring — represents the shift toward ambient AI that lives where users already are.",
       "source": "Launch AI Jam",
       "sourceUrl": "https://launchaijam.com/new-ai-tools",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009285-b55f562641b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGFydHVwJTIwUG9rZSUzQSUyMEFJJTIwQWdlbnQlMjBhaS10b29sc3xlbnwwfDB8fHwxNzc2NzYyNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
     },
     {
       "id": "2026-04-20-ai-tools-4",
@@ -128,7 +153,9 @@
       "dek": "New inference-optimized chip signals continued hardware race to support the surging demand for on-device and edge AI processing outside cloud environments.",
       "source": "MarketingProfs",
       "sourceUrl": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1696041760280-8f582aa05cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdWF3ZWklMjA5NTBQUiUyMENoaXAlMjBUYXJnZXRzJTIwYWktdG9vbHN8ZW58MHwwfHx8MTc3Njc2MjYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hakim Menikh on Unsplash"
     },
     {
       "id": "2026-04-20-ai-research-0",
@@ -137,7 +164,9 @@
       "dek": "Combining neural networks with symbolic reasoning slashes compute cost dramatically — a breakthrough that makes sophisticated AI viable for resource-constrained deployments.",
       "source": "ScienceDaily",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMEVuZXJneSUyMFVzZSUyMEN1dCUyMGFpLXJlc2VhcmNofGVufDB8MHx8fDE3NzY3NjI2MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
     },
     {
       "id": "2026-04-20-ai-research-1",
@@ -146,7 +175,9 @@
       "dek": "University of Michigan system identifies neurological conditions and prioritizes emergencies instantly — directly comparable to AI triage potential in rheumatology imaging.",
       "source": "Crescendo AI",
       "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1770233621425-5d9ee7a0a700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMFJlYWRzJTIwQnJhaW4lMjBNUklzJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc3Njc2MjYxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
     },
     {
       "id": "2026-04-20-ai-research-2",
@@ -155,7 +186,9 @@
       "dek": "Open models enabling robots to understand multi-step NL commands, paired with Cosmos world models for synthetic training data — robotics AI is maturing fast.",
       "source": "NVIDIA Blog",
       "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOVklESUElMjBJc2FhYyUyMEdSMDBUJTNBJTIwUm9ib3RzJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc3Njc2MjYxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mariia Shalabaieva on Unsplash"
     },
     {
       "id": "2026-04-20-ai-research-3",
@@ -164,7 +197,9 @@
       "dek": "Two major compression breakthroughs aim to maximize intelligence-per-parameter, enabling powerful models to run on significantly less hardware and energy.",
       "source": "InfoWorld",
       "sourceUrl": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1678483789470-8fa5c40c4e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBUdXJib1F1YW50JTIwJTJCJTIwTUlUJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc3Njc2MjYxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
     },
     {
       "id": "2026-04-20-ai-research-4",
@@ -173,7 +208,9 @@
       "dek": "Brain-inspired chips now handle complex physics equations once requiring supercomputers — a step toward energy-efficient scientific computing at the edge.",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135136-760c813028c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXVyb21vcnBoaWMlMjBDb21wdXRlcnMlMjBTb2x2ZSUyMFBoeXNpY3MlMjBhaS1yZXNlYXJjaHxlbnwwfDB8fHwxNzc2NzYyNjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
     },
     {
       "id": "2026-04-20-iot-hardware-0",
@@ -182,7 +219,9 @@
       "dek": "Chipmakers are integrating Neural Processing Units directly into SoCs, delivering 10–100× better inference efficiency and enabling small LLMs to run locally on low-power devices.",
       "source": "IoT Insider",
       "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1743324401900-0e5c4f9c96b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOUFVzJTIwTm93JTIwQnVpbHQlMjBJbnRvJTIwaW90LWhhcmR3YXJlfGVufDB8MHx8fDE3NzY3NjI2MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Fajar Al Hadi on Unsplash"
     },
     {
       "id": "2026-04-20-iot-hardware-1",
@@ -191,7 +230,9 @@
       "dek": "Global IoT device count reaches 22B this year on a trajectory to exceed 40B by 2034, with market value surpassing $471 billion as enterprise adoption accelerates.",
       "source": "1NCE",
       "sourceUrl": "https://www.1nce.com/en-eu/resources/news/blog/iot-trends-2026",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1584761650834-efc7932b9c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyMiUyMEJpbGxpb24lMjBDb25uZWN0ZWQlMjBEZXZpY2VzJTIwaW90LWhhcmR3YXJlfGVufDB8MHx8fDE3NzY3NjI2MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Pi Supply on Unsplash"
     },
     {
       "id": "2026-04-20-iot-hardware-2",
@@ -200,7 +241,9 @@
       "dek": "Wearable sensors and connected medical equipment enable continuous care outside clinics — directly relevant to rheumatology patient monitoring and product roadmaps.",
       "source": "IoT Business News",
       "sourceUrl": "https://iotbusinessnews.com/2026/04/14/connected-healthcare-iot-remote-monitoring-medical-devices-and-data-challenges/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1645684949347-58cb7ebfeaca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZWFsdGhjYXJlJTIwSW9UJTNBJTIwUmVtb3RlJTIwTW9uaXRvcmluZyUyMGlvdC1oYXJkd2FyZXxlbnwwfDB8fHwxNzc2NzYyNjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Trnava University on Unsplash"
     },
     {
       "id": "2026-04-20-iot-hardware-3",
@@ -209,7 +252,9 @@
       "dek": "Industrial IoT-driven predictive maintenance grows from $1.5B (2016) to $28B this year, driven by edge sensors, digital twins, and real-time anomaly detection.",
       "source": "IoT Business News",
       "sourceUrl": "https://iotbusinessnews.com/2026/04/09/predictive-maintenance-with-iot-from-sensors-to-actionable-insights/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcmVkaWN0aXZlJTIwTWFpbnRlbmFuY2UlMjBNYXJrZXQlMjBSZWFjaGVzJTIwaW90LWhhcmR3YXJlfGVufDB8MHx8fDE3NzY3NjI2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zan Lazarevic on Unsplash"
     },
     {
       "id": "2026-04-20-aiot-0",
@@ -218,7 +263,9 @@
       "dek": "Moving AI from cloud to edge enables real-time decisions at the sensor — critical for privacy-sensitive healthcare applications and latency-critical industrial systems.",
       "source": "Speed4Trading",
       "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1762329381993-c6834c7ff010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFZGdlJTIwQUklMjBBY2hpZXZlcyUyME1pbGxpc2Vjb25kJTIwYWlvdHxlbnwwfDB8fHwxNzc2NzYyNjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
     },
     {
       "id": "2026-04-20-aiot-1",
@@ -227,7 +274,9 @@
       "dek": "Specialized AIoT devices enable large-scale real-time crop health analysis, combining sensor data with AI inference for autonomous agronomic decision-making.",
       "source": "Hikvision",
       "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/3912469/pexels-photo-3912469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by ThisIsEngineering on Pexels"
     },
     {
       "id": "2026-04-20-aiot-2",
@@ -236,7 +285,9 @@
       "dek": "Traffic management, energy optimization, public safety, and predictive maintenance are all converging on AIoT architectures that combine cloud intelligence with edge action.",
       "source": "IndustriaX",
       "sourceUrl": "https://www.industriaxplc.com/blogs/news/aiot-in-2026-the-new-brain-of-industrial-automation",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTIwYXMlMjB0aGUlMjBCcmFpbiUyMGFpb3R8ZW58MHwwfHx8MTc3Njc2MjYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
     },
     {
       "id": "2026-04-20-aiot-3",
@@ -245,7 +296,9 @@
       "dek": "Widespread adoption of UNS alongside OPC UA and AAS standards is finally breaking down IoT data silos — devices from different makers now interoperate reliably.",
       "source": "Metapress",
       "sourceUrl": "https://metapress.com/iot-trends-in-2026/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1645947091786-4399f228f5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVbmlmaWVkJTIwTmFtZXNwYWNlJTIwJTI4VU5TJTI5JTIwRW5hYmxlcyUyMGFpb3R8ZW58MHwwfHx8MTc3Njc2MjYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ayush Sharma on Unsplash"
     },
     {
       "id": "2026-04-20-smart-agriculture-0",
@@ -254,7 +307,9 @@
       "dek": "Growing at 10.5% CAGR, smart farming IoT is driven by precision irrigation, drone-sensor integration, and ML-based yield prediction across all major crop regions.",
       "source": "Folio3 AgTech",
       "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/5230957/pexels-photo-5230957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Anna Shvets on Pexels"
     },
     {
       "id": "2026-04-20-smart-agriculture-1",
@@ -263,7 +318,9 @@
       "dek": "AI + IoT soil-moisture systems raise crop yields by ~20% while cutting water use in half — carbon credit programs now reward IoT-enabled soil carbon monitoring too.",
       "source": "Farmonaut",
       "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1623750133368-0ed97efba30e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcmVjaXNpb24lMjBJcnJpZ2F0aW9uJTIwU2F2ZXMlMjA1MCUyNSUyMHNtYXJ0LWFncmljdWx0dXJlfGVufDB8MHx8fDE3NzY3NjI2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Juandré De Bruyn on Unsplash"
     },
     {
       "id": "2026-04-20-smart-agriculture-2",
@@ -272,7 +329,9 @@
       "dek": "Generative AI interprets complex multi-sensor datasets and delivers plain-language action plans to farmers — the agricultural equivalent of clinical companion approaches.",
       "source": "ScienceDirect",
       "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2772375525000814",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1650878669283-f4f0c11f4d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGFzJTIwQ29udmVyc2F0aW9uYWwlMjBBZ3Jvbm9teSUyMHNtYXJ0LWFncmljdWx0dXJlfGVufDB8MHx8fDE3NzY3NjI2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by holakarlos on Unsplash"
     },
     {
       "id": "2026-04-20-smart-agriculture-3",
@@ -281,7 +340,9 @@
       "dek": "Renewable energy integration with micro-grids and energy-harvesting modules removes cost barriers for remote IoT deployments in agriculture and energy monitoring.",
       "source": "IoT For All",
       "sourceUrl": "https://www.iotforall.com/iot-ai-energy-management",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1670519808728-335b1eb2ef52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb2xhci1Qb3dlcmVkJTIwU2Vuc29yJTIwTmV0d29ya3MlMjBNYWtlJTIwc21hcnQtYWdyaWN1bHR1cmV8ZW58MHwwfHx8MTc3Njc2MjYyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Green Voltaics Energy on Unsplash"
     },
     {
       "id": "2026-04-20-career-signals-0",
@@ -290,7 +351,9 @@
       "dek": "Glassdoor lists 296 active product designer positions in Barcelona as of early 2026, with many offering remote/hybrid arrangements — strong hiring momentum in the market.",
       "source": "Glassdoor",
       "sourceUrl": "https://www.glassdoor.com/Job/barcelona-product-designer-jobs-SRCH_IL.0,9_IC2547194_KO10,26.htm",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyOTYlMjBQcm9kdWN0JTIwRGVzaWduZXIlMjBPcGVuaW5ncyUyMGNhcmVlci1zaWduYWxzfGVufDB8MHx8fDE3NzY3NjI2MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-04-20-career-signals-1",
@@ -299,7 +362,9 @@
       "dek": "Privacy-focused Proton seeks 5+ years experienced designer for core collaboration features and design systems — strong brand, mission-driven, strong growth trajectory.",
       "source": "UI/UX Jobs Board",
       "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/18848926/pexels-photo-18848926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Resume Genius on Pexels"
     },
     {
       "id": "2026-04-20-career-signals-2",
@@ -308,7 +373,9 @@
       "dek": "Director-level design positions are open at Barcelona-based companies in 2026 — companies include Lodgify, FeverUp, and others; salary range ~€76K+ for senior roles.",
       "source": "startup.jobs",
       "sourceUrl": "https://startup.jobs/locations/barcelona/design",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1637684666463-8ae4424267d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcmluY2lwYWwlMjAlMjYlMjBTZW5pb3IlMjBEaXJlY3RvciUyMGNhcmVlci1zaWduYWxzfGVufDB8MHx8fDE3NzY3NjI2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Adetola Afolabi on Unsplash"
     },
     {
       "id": "2026-04-20-career-signals-3",
@@ -317,7 +384,9 @@
       "dek": "5+ years experience in digital platform design required; focus on UX/UI, user research, and design systems for a high-growth B2B marketplace — strong portfolio opportunity.",
       "source": "WoodyJobs",
       "sourceUrl": "https://www.woodyjobs.com/barcelona",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/31112214/pexels-photo-31112214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by EqualStock IN on Pexels"
     },
     {
       "id": "2026-04-21-in-the-world-0",
@@ -326,16 +395,20 @@
       "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea tha",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "publishedAt": "Mon, 20 Apr 2026 12:10:00 +0000"
+      "publishedAt": "Mon, 20 Apr 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1574726161113-646bf2c0c2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMG11cmRlcm91cyUyMCVFMiU4MCU5OG1pcnJvciVFMiU4MCU5OSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc2NzYyNjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christian Mack on Unsplash"
     },
     {
       "id": "2026-04-21-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
-      "dek": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+      "headline": "How to Watch the 2026 Lyrids Meteor Shower at Its Peak",
+      "dek": "Between the night of April 21 and the early morning of April 22, those looking in the right place will see the sky light up with 15 to 20 meteors per hour.",
       "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
-      "publishedAt": "Mon, 20 Apr 2026 10:00:00 +0000"
+      "sourceUrl": "https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/",
+      "publishedAt": "Tue, 21 Apr 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1582490848870-a27fd5930304?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMFdhdGNoJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzY3NjI2Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by simon follin on Unsplash"
     },
     {
       "id": "2026-04-21-in-the-world-2",
@@ -344,7 +417,9 @@
       "dek": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
-      "publishedAt": "Tue, 21 Apr 2026 01:02:04 +0000"
+      "publishedAt": "Tue, 21 Apr 2026 01:02:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1722581887962-bfeb8754472a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaG8lMjBpcyUyMEpvaG4lMjBUZXJudXMlMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3Njc2MjYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
       "id": "2026-04-21-in-the-world-3",
@@ -353,25 +428,31 @@
       "dek": "Sony is starting to comply with the UK's Online Safety Act by notifying PlayStation players of its age verification requirements today. PS4 and PS5 owners in the UK and Ireland won't be able to participate in voice chats, messaging, parties, or other third-party communication services from June unle",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
-      "publishedAt": "2026-04-21T07:11:34.000Z"
+      "publishedAt": "2026-04-21T07:11:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1672814519670-16eedb80ac83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQbGF5U3RhdGlvbiUyNiUyMzgyMTclM0JzJTIwYWdlLWdhdGluZyUyMHJlc3RyaWN0aW9ucyUyMGFyZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc2NzYyNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ahmad Mohammadnejad on Unsplash"
     },
     {
       "id": "2026-04-21-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The real reason so many enterprise AI initiatives are failing? LLMs were never built to run a company ",
+      "dek": "When ChatGPT launched in November 2022, the reaction was immediate and visceral: this works. For the first time, millions of people experienced AI not as a distant promise, but as something useful, intuitive, and even with its flaws, astonishingly capable. \nThat instinct was correct. The conclusion ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91528182/ai-enterprise-failing-llms",
+      "publishedAt": "2026-04-21T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1729062172760-2360e4ebadf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjByZWFsJTIwcmVhc29uJTIwc28lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3Njc2MjYzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-04-21-in-the-world-5",
       "topic": "in-the-world",
       "headline": "How to respond to ‘benevolent sexism’ at work",
       "dek": "Walk into any office and you’ll hear it. “She’s so nurturing — she’d be great leading the wellness committee.” “Don’t worry, the guys will handle the heavy lifting on this pitch.” “You look amazing today!” These statements arrive warmly, often from people who genuinely mean well. That’s exactly what",
       "source": "Fast Company",
       "sourceUrl": "https://www.fastcompany.com/91527592/how-to-respond-to-benevolent-sexism-at-work",
-      "publishedAt": "2026-04-21T05:00:00"
-    },
-    {
-      "id": "2026-04-21-in-the-world-5",
-      "topic": "in-the-world",
-      "headline": "Stop outsourcing your judgment: Brené Brown in conversation with leadership coach Aiko Bethea",
-      "dek": "Conflict, while uncomfortable, is a fact of life. However, few of us deal with it well–either we avoid it  until it swells into resentment, or it explodes creating damage we often fail to repair. In her new book, Anchored, Aligned and Accountable: A Framework For Transcending B*llshit and Transformi",
-      "source": "Fast Company",
-      "sourceUrl": "https://www.fastcompany.com/91529459/stop-outsourcing-your-judgement-brene-brown",
-      "publishedAt": "2026-04-21T05:00:00"
+      "publishedAt": "2026-04-21T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1640158616235-731aa6b43d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMHJlc3BvbmQlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc2NzYyNjMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Claudio Schwarz on Unsplash"
     }
   ]
 }
