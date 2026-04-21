@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "heroStoryId": "2026-04-20-product-design-0",
   "stories": [
     {
@@ -10,7 +10,8 @@
       "source": "UX Pilot",
       "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
       "isHero": true,
-      "publishedAt": "2026-04-20T08:00:00.000Z"
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "/images/heroes/2026-04-21.png"
     },
     {
       "id": "2026-04-20-product-design-1",
@@ -317,6 +318,60 @@
       "source": "WoodyJobs",
       "sourceUrl": "https://www.woodyjobs.com/barcelona",
       "publishedAt": "2026-04-20T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-21-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea tha",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "publishedAt": "Mon, 20 Apr 2026 12:10:00 +0000"
+    },
+    {
+      "id": "2026-04-21-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+      "dek": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+      "publishedAt": "Mon, 20 Apr 2026 10:00:00 +0000"
+    },
+    {
+      "id": "2026-04-21-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Who is John Ternus, the incoming Apple CEO?",
+      "dek": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "publishedAt": "Tue, 21 Apr 2026 01:02:04 +0000"
+    },
+    {
+      "id": "2026-04-21-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "PlayStation&#8217;s age-gating restrictions are coming to UK consoles",
+      "dek": "Sony is starting to comply with the UK's Online Safety Act by notifying PlayStation players of its age verification requirements today. PS4 and PS5 owners in the UK and Ireland won't be able to participate in voice chats, messaging, parties, or other third-party communication services from June unle",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+      "publishedAt": "2026-04-21T07:11:34.000Z"
+    },
+    {
+      "id": "2026-04-21-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How to respond to ‘benevolent sexism’ at work",
+      "dek": "Walk into any office and you’ll hear it. “She’s so nurturing — she’d be great leading the wellness committee.” “Don’t worry, the guys will handle the heavy lifting on this pitch.” “You look amazing today!” These statements arrive warmly, often from people who genuinely mean well. That’s exactly what",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91527592/how-to-respond-to-benevolent-sexism-at-work",
+      "publishedAt": "2026-04-21T05:00:00"
+    },
+    {
+      "id": "2026-04-21-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Stop outsourcing your judgment: Brené Brown in conversation with leadership coach Aiko Bethea",
+      "dek": "Conflict, while uncomfortable, is a fact of life. However, few of us deal with it well–either we avoid it  until it swells into resentment, or it explodes creating damage we often fail to repair. In her new book, Anchored, Aligned and Accountable: A Framework For Transcending B*llshit and Transformi",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91529459/stop-outsourcing-your-judgement-brene-brown",
+      "publishedAt": "2026-04-21T05:00:00"
     }
   ]
 }
