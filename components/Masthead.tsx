@@ -13,22 +13,22 @@ function formatDate(dateStr: string): string {
   });
 }
 
-export default function Masthead({ date, issueNumber }: MastheadProps) {
+export default function Masthead({ date }: MastheadProps) {
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-center">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center border-b border-gray-200">
       <a href="/" className="inline-block group">
         <h1
-          className="font-serif text-2xl sm:text-3xl tracking-tight text-ink group-hover:text-red transition-colors"
-          style={{ letterSpacing: "-0.01em" }}
+          className="font-serif text-3xl sm:text-4xl tracking-tight text-gray-900 group-hover:text-gray-600 transition-colors"
+          style={{ letterSpacing: "-0.02em" }}
         >
           IURA&apos;S DAILY DIGEST
         </h1>
       </a>
       <p
-        className="font-sans text-xs text-muted mt-1"
-        style={{ letterSpacing: "0.1em", textTransform: "uppercase" }}
+        className="font-sans text-xs text-gray-500 mt-2"
+        style={{ letterSpacing: "0.15em", textTransform: "uppercase" }}
       >
-        {formatDate(date)}&ensp;&mdash;&ensp;Issue #{issueNumber}
+        {formatDate(date)}
       </p>
     </div>
   );

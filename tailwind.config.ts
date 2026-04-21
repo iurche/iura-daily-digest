@@ -8,11 +8,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        cream: "#FAF7F2",
-        ink: "#1A1A1A",
-        red: "#8B1A1A",
-        rule: "#E5E0D5",
-        muted: "#6B6560",
+        cream: "#FAF8F5",
+        ink: "#111111",
+        red: "#991B1B",
+        rule: "#E5E5E5",
+        muted: "#6B7280",
       },
       fontFamily: {
         serif: ["Playfair Display", "Georgia", "serif"],

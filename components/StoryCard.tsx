@@ -54,14 +54,14 @@ export default function StoryCard({ story, date }: StoryCardProps) {
       ref={cardRef}
       tabIndex={0}
       onKeyDown={handleKeyDown}
-      className={`group flex flex-col bg-cream border border-rule hover:border-ink/20 transition-all cursor-pointer focus:outline-none focus:ring-2 focus:ring-red focus:ring-offset-2 ${
+      className={`group flex flex-col border border-gray-200 hover:shadow-lg transition-all cursor-pointer focus:outline-none focus:ring-2 focus:ring-gray-400 ${
         visible ? "animate-fade-in" : "opacity-0"
       }`}
       aria-label={`${story.headline} — ${story.source}`}
     >
       {/* Image */}
       <div
-        className="relative w-full overflow-hidden bg-rule flex-shrink-0"
+        className="relative w-full overflow-hidden bg-gray-100 flex-shrink-0"
         style={{ aspectRatio: "3/2" }}
       >
         {isLocal ? (
@@ -70,7 +70,7 @@ export default function StoryCard({ story, date }: StoryCardProps) {
             src={imageUrl}
             alt={story.headline}
             loading="lazy"
-            className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
           />
         ) : (
           // eslint-disable-next-line @next/next/no-img-element
@@ -78,7 +78,7 @@ export default function StoryCard({ story, date }: StoryCardProps) {
             src={imageUrl}
             alt={story.headline}
             loading="lazy"
-            className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
           />
         )}
       </div>
@@ -86,7 +86,7 @@ export default function StoryCard({ story, date }: StoryCardProps) {
       {/* Content */}
       <div className="flex flex-col flex-1 p-4">
         <p
-          className="font-sans text-muted mb-2"
+          className="font-sans text-gray-500 mb-2"
           style={{
             fontSize: "0.6875rem",
             letterSpacing: "0.15em",
@@ -104,20 +104,19 @@ export default function StoryCard({ story, date }: StoryCardProps) {
           className="flex-1"
           onClick={(e) => e.stopPropagation()}
         >
-          <h3 className="font-serif text-xl sm:text-2xl text-ink leading-snug group-hover:text-red transition-colors line-clamp-3">
+<h3 className="font-serif text-xl sm:text-2xl text-gray-900 leading-snug group-hover:text-gray-600 transition-colors line-clamp-3">
             {story.headline}
           </h3>
-        </a>
 
-        <p className="font-sans text-sm text-muted leading-relaxed mt-2 line-clamp-2">
+        <p className="font-sans text-sm text-gray-500 leading-relaxed mt-2 line-clamp-2">
           {story.dek}
         </p>
 
-        <footer className="flex items-center justify-between mt-4 pt-3 border-t border-rule">
+        <footer className="flex items-center justify-between mt-4 pt-3 border-t border-gray-100">
           <span
-            className="font-sans text-muted"
+            className="font-sans text-gray-400"
             style={{
-              fontSize: "0.7rem",
+              fontSize: "0.6875rem",
               letterSpacing: "0.08em",
               textTransform: "uppercase",
             }}

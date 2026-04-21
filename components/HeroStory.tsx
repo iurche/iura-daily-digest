@@ -25,7 +25,7 @@ export default function HeroStory({ story, date }: HeroStoryProps) {
     <article className="relative">
       {/* Image container with 16:9 on desktop, 4:5 on mobile */}
       <div
-        className="relative w-full overflow-hidden bg-rule"
+        className="relative w-full overflow-hidden bg-gray-100"
         style={{ aspectRatio: "16/9" }}
       >
         {/* On small screens, use 4:5 ratio via padding trick */}
@@ -79,7 +79,7 @@ export default function HeroStory({ story, date }: HeroStoryProps) {
       {/* Content */}
       <div className="mt-6 max-w-3xl mx-auto text-center">
         <p
-          className="font-sans text-xs text-red mb-3"
+          className="font-sans text-xs text-gray-500 mb-3"
           style={{ letterSpacing: "0.15em", textTransform: "uppercase" }}
         >
           {TOPIC_LABELS[story.topic] ?? story.topic}
@@ -91,23 +91,23 @@ export default function HeroStory({ story, date }: HeroStoryProps) {
           rel="noopener noreferrer"
           className="group"
         >
-          <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl text-ink leading-tight group-hover:text-red transition-colors">
+          <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl text-gray-900 leading-tight group-hover:text-gray-600 transition-colors">
             {story.headline}
           </h2>
         </a>
 
-        <p className="drop-cap font-sans text-base sm:text-lg text-ink/80 leading-relaxed mt-4 text-left sm:text-center">
+        <p className="drop-cap font-sans text-base sm:text-lg text-gray-600 leading-relaxed mt-4 text-left sm:text-center">
           {story.dek}
         </p>
 
-        <div className="flex items-center justify-center gap-3 mt-4 text-sm text-muted font-sans">
+        <div className="flex items-center justify-center gap-3 mt-4 text-sm text-gray-400 font-sans">
           <span
-            style={{ letterSpacing: "0.08em", textTransform: "uppercase", fontSize: "0.7rem" }}
+            style={{ letterSpacing: "0.08em", textTransform: "uppercase", fontSize: "0.6875rem" }}
           >
             {story.source}
           </span>
           <span>&middot;</span>
-          <span style={{ letterSpacing: "0.05em", fontSize: "0.7rem" }}>
+          <span style={{ letterSpacing: "0.05em", fontSize: "0.6875rem" }}>
             {formatDate(date)}
           </span>
         </div>

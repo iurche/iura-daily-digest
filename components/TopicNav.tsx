@@ -20,61 +20,61 @@ export default function TopicNav({ activeTopic }: TopicNavProps) {
 
   return (
     <nav
-      className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-2"
+      className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3"
       aria-label="Topic navigation"
     >
-      <div className="flex items-center gap-1 overflow-x-auto scrollbar-hide pb-1">
+      <div className="flex items-center gap-2 overflow-x-auto pb-1">
         <Link
           href="/"
-          className={`flex-shrink-0 px-3 py-1.5 font-sans text-xs transition-colors rounded-full ${
+          className={`flex-shrink-0 px-2 py-1 font-sans text-xs transition-colors ${
             pathname === "/"
-              ? "bg-ink text-cream"
-              : "text-muted hover:text-ink hover:bg-rule"
+              ? "text-gray-900 font-medium border-b-2 border-gray-900"
+              : "text-gray-500 hover:text-gray-900"
           }`}
-          style={{ letterSpacing: "0.05em", whiteSpace: "nowrap" }}
+          style={{ whiteSpace: "nowrap" }}
         >
           Today
         </Link>
 
-        <div className="w-px h-4 bg-rule mx-1 flex-shrink-0" />
+        <span className="text-gray-300">|</span>
 
         {TOPICS.map((topic) => (
           <Link
             key={topic}
             href={`/topic/${topic}`}
-            className={`flex-shrink-0 px-3 py-1.5 font-sans text-xs transition-colors rounded-full ${
+            className={`flex-shrink-0 px-2 py-1 font-sans text-xs transition-colors ${
               currentTopic === topic
-                ? "bg-red text-cream"
-                : "text-muted hover:text-ink hover:bg-rule"
+                ? "text-gray-900 font-medium border-b-2 border-gray-900"
+                : "text-gray-500 hover:text-gray-900"
             }`}
-            style={{ letterSpacing: "0.03em", whiteSpace: "nowrap" }}
+            style={{ whiteSpace: "nowrap" }}
           >
             {TOPIC_LABELS[topic]}
           </Link>
         ))}
 
-        <div className="w-px h-4 bg-rule mx-1 flex-shrink-0" />
+        <span className="text-gray-300">|</span>
 
         <Link
           href="/archive"
-          className={`flex-shrink-0 px-3 py-1.5 font-sans text-xs transition-colors rounded-full ${
+          className={`flex-shrink-0 px-2 py-1 font-sans text-xs transition-colors ${
             pathname === "/archive"
-              ? "bg-ink text-cream"
-              : "text-muted hover:text-ink hover:bg-rule"
+              ? "text-gray-900 font-medium border-b-2 border-gray-900"
+              : "text-gray-500 hover:text-gray-900"
           }`}
-          style={{ letterSpacing: "0.03em", whiteSpace: "nowrap" }}
+          style={{ whiteSpace: "nowrap" }}
         >
           Archive
         </Link>
 
         <Link
           href="/shelf"
-          className={`flex-shrink-0 px-3 py-1.5 font-sans text-xs transition-colors rounded-full ${
+          className={`flex-shrink-0 px-2 py-1 font-sans text-xs transition-colors ${
             pathname === "/shelf"
-              ? "bg-ink text-cream"
-              : "text-muted hover:text-ink hover:bg-rule"
+              ? "text-gray-900 font-medium border-b-2 border-gray-900"
+              : "text-gray-500 hover:text-gray-900"
           }`}
-          style={{ letterSpacing: "0.03em", whiteSpace: "nowrap" }}
+          style={{ whiteSpace: "nowrap" }}
         >
           Shelf
         </Link>

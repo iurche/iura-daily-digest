@@ -49,18 +49,18 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className="min-h-screen bg-cream">
-        <header className="sticky top-0 z-50 bg-cream/95 backdrop-blur-sm border-b border-rule">
+      <body className="min-h-screen bg-white">
+        <header className="border-b border-gray-200">
           <Masthead date={latestDate} issueNumber={issueNumber} />
           <TopicNav />
         </header>
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           {children}
         </main>
-        <footer className="border-t border-rule mt-16 py-8 text-center text-sm text-muted font-sans">
+        <footer className="border-t border-gray-200 mt-16 py-8 text-center text-sm text-gray-500 font-sans">
           <p>
             Iura&apos;s Daily Digest &mdash; curated for{" "}
-            <span className="text-ink">product designers</span> building in the
+            <span className="text-gray-900">product designers</span> building in the
             AI era.
           </p>
         </footer>
