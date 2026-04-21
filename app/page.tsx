@@ -39,12 +39,12 @@ export default function HomePage() {
   if (!digest) {
     return (
       <div className="flex flex-col items-center justify-center py-32 text-center">
-        <h1 className="font-serif text-4xl text-ink mb-4">
+        <h1 className="font-serif text-4xl text-gray-900 mb-4">
           No digest available yet
         </h1>
-        <p className="text-muted font-sans text-base max-w-md">
+        <p className="text-gray-500 font-sans text-base max-w-md">
           The morning pipeline hasn&apos;t run yet. Run{" "}
-          <code className="bg-rule px-2 py-0.5 rounded text-sm">
+          <code className="bg-gray-100 px-2 py-0.5 rounded text-sm">
             pnpm build-digest
           </code>{" "}
           to generate today&apos;s digest.
@@ -67,7 +67,7 @@ export default function HomePage() {
     <div>
       {hero && <HeroStory story={hero} date={digest.date} />}
 
-      <div className="my-10 border-t border-rule" />
+      <div className="my-10 border-t border-gray-200" />
 
       {Array.from(grouped.entries()).map(([topic, stories]) => (
         <TopicSection

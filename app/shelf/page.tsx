@@ -44,16 +44,16 @@ export default function ShelfPage() {
   if (loading) {
     return (
       <div className="flex items-center justify-center py-32">
-        <p className="text-muted font-sans text-sm">Loading your shelf&hellip;</p>
+        <p className="text-gray-500 font-sans text-sm">Loading your shelf&hellip;</p>
       </div>
     );
   }
 
   return (
     <div>
-      <div className="mb-8 border-b border-rule pb-6">
-        <h1 className="font-serif text-4xl text-ink">Your Shelf</h1>
-        <p className="text-muted text-sm font-sans mt-2">
+      <div className="mb-8 border-b border-gray-200 pb-6">
+        <h1 className="font-serif text-4xl text-gray-900">Your Shelf</h1>
+        <p className="text-gray-500 text-sm font-sans mt-2">
           {savedStories.length}{" "}
           {savedStories.length === 1 ? "story" : "stories"} saved
         </p>
@@ -75,7 +75,7 @@ export default function ShelfPage() {
               d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"
             />
           </svg>
-          <p className="text-muted font-sans text-base max-w-sm">
+          <p className="text-gray-500 font-sans text-base max-w-sm">
             Your shelf is empty. Save stories from the digest to read later.
           </p>
         </div>
@@ -84,7 +84,7 @@ export default function ShelfPage() {
           <ShelfFilters stories={savedStories} onFilter={setFiltered} />
 
           {filtered.length === 0 ? (
-            <p className="text-muted font-sans text-sm mt-8">
+            <p className="text-gray-500 font-sans text-sm mt-8">
               No stories match your current filters.
             </p>
           ) : (

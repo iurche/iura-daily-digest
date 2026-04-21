@@ -36,8 +36,8 @@ export default function SaveButton({ storyId }: SaveButtonProps) {
         animating ? "scale-125" : "scale-100"
       } ${
         saved
-          ? "text-red hover:text-red/70"
-          : "text-muted hover:text-ink"
+          ? "text-gray-600 hover:text-gray-600/70"
+          : "text-gray-500 hover:text-gray-900"
       }`}
       style={{ transition: "transform 0.15s ease, color 0.15s ease" }}
     >

@@ -104,9 +104,10 @@ export default function StoryCard({ story, date }: StoryCardProps) {
           className="flex-1"
           onClick={(e) => e.stopPropagation()}
         >
-<h3 className="font-serif text-xl sm:text-2xl text-gray-900 leading-snug group-hover:text-gray-600 transition-colors line-clamp-3">
+          <h3 className="font-serif text-xl sm:text-2xl text-gray-900 leading-snug group-hover:text-gray-600 transition-colors line-clamp-3">
             {story.headline}
           </h3>
+        </a>
 
         <p className="font-sans text-sm text-gray-500 leading-relaxed mt-2 line-clamp-2">
           {story.dek}

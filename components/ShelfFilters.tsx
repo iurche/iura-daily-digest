@@ -104,10 +104,10 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
   return (
     <div className="flex flex-wrap items-center gap-2 mb-2">
       {/* Date filter */}
-      <div className="flex items-center gap-1 border border-rule rounded px-3 py-1.5">
+      <div className="flex items-center gap-1 border border-gray-200 rounded px-3 py-1.5">
         <label
           htmlFor="shelf-date"
-          className="font-sans text-xs text-muted"
+          className="font-sans text-xs text-gray-500"
           style={{ letterSpacing: "0.05em" }}
         >
           Day
@@ -117,7 +117,7 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           type="date"
           value={dateFilter}
           onChange={handleDateChange}
-          className="font-sans text-xs text-ink bg-transparent focus:outline-none cursor-pointer"
+          className="font-sans text-xs text-gray-900 bg-transparent focus:outline-none cursor-pointer"
         />
       </div>
 
@@ -131,8 +131,8 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           }}
           className={`flex items-center gap-1.5 border rounded px-3 py-1.5 font-sans text-xs transition-colors ${
             selectedTopics.size > 0
-              ? "border-ink text-ink"
-              : "border-rule text-muted hover:border-ink hover:text-ink"
+              ? "border-ink text-gray-900"
+              : "border-gray-200 text-gray-500 hover:border-gray-300 hover:text-gray-900"
           }`}
         >
           Topic
@@ -146,11 +146,11 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           </svg>
         </button>
         {showTopicDropdown && (
-          <div className="absolute z-20 top-full left-0 mt-1 bg-cream border border-rule rounded shadow-lg min-w-44 py-1">
+          <div className="absolute z-20 top-full left-0 mt-1 bg-white border border-gray-200 rounded shadow-lg min-w-44 py-1">
             {allTopics.map((topic) => (
               <label
                 key={topic}
-                className="flex items-center gap-2 px-3 py-2 hover:bg-rule cursor-pointer font-sans text-xs text-ink"
+                className="flex items-center gap-2 px-3 py-2 hover:bg-gray-100 cursor-pointer font-sans text-xs text-gray-900"
               >
                 <input
                   type="checkbox"
@@ -175,8 +175,8 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           }}
           className={`flex items-center gap-1.5 border rounded px-3 py-1.5 font-sans text-xs transition-colors ${
             selectedSources.size > 0
-              ? "border-ink text-ink"
-              : "border-rule text-muted hover:border-ink hover:text-ink"
+              ? "border-ink text-gray-900"
+              : "border-gray-200 text-gray-500 hover:border-gray-300 hover:text-gray-900"
           }`}
         >
           Source
@@ -190,11 +190,11 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           </svg>
         </button>
         {showSourceDropdown && (
-          <div className="absolute z-20 top-full left-0 mt-1 bg-cream border border-rule rounded shadow-lg min-w-48 py-1 max-h-64 overflow-y-auto">
+          <div className="absolute z-20 top-full left-0 mt-1 bg-white border border-gray-200 rounded shadow-lg min-w-48 py-1 max-h-64 overflow-y-auto">
             {allSources.map((source) => (
               <label
                 key={source}
-                className="flex items-center gap-2 px-3 py-2 hover:bg-rule cursor-pointer font-sans text-xs text-ink"
+                className="flex items-center gap-2 px-3 py-2 hover:bg-gray-100 cursor-pointer font-sans text-xs text-gray-900"
               >
                 <input
                   type="checkbox"
@@ -213,7 +213,7 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
       {hasFilters && (
         <button
           onClick={clearAll}
-          className="font-sans text-xs text-muted hover:text-ink transition-colors px-2 py-1.5"
+          className="font-sans text-xs text-gray-500 hover:text-gray-900 transition-colors px-2 py-1.5"
         >
           Clear all
         </button>
@@ -230,7 +230,7 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
             setShowTopicDropdown(false);
             setShowSourceDropdown(false);
           }}
-          className="flex items-center gap-1.5 border border-rule rounded px-3 py-1.5 font-sans text-xs text-muted hover:border-ink hover:text-ink transition-colors"
+          className="flex items-center gap-1.5 border border-gray-200 rounded px-3 py-1.5 font-sans text-xs text-gray-500 hover:border-gray-300 hover:text-gray-900 transition-colors"
         >
           Export
           <svg className="w-3 h-3" viewBox="0 0 12 12" fill="currentColor">
@@ -238,13 +238,13 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
           </svg>
         </button>
         {showExportDropdown && (
-          <div className="absolute z-20 top-full right-0 mt-1 bg-cream border border-rule rounded shadow-lg min-w-40 py-1">
+          <div className="absolute z-20 top-full right-0 mt-1 bg-white border border-gray-200 rounded shadow-lg min-w-40 py-1">
             <button
               onClick={() => {
                 exportAs(stories, "json");
                 setShowExportDropdown(false);
               }}
-              className="w-full text-left px-3 py-2 hover:bg-rule font-sans text-xs text-ink"
+              className="w-full text-left px-3 py-2 hover:bg-gray-100 font-sans text-xs text-gray-900"
             >
               Export as JSON
             </button>
@@ -253,7 +253,7 @@ export default function ShelfFilters({ stories, onFilter }: ShelfFiltersProps) {
                 exportAs(stories, "markdown");
                 setShowExportDropdown(false);
               }}
-              className="w-full text-left px-3 py-2 hover:bg-rule font-sans text-xs text-ink"
+              className="w-full text-left px-3 py-2 hover:bg-gray-100 font-sans text-xs text-gray-900"
             >
               Export as Markdown
             </button>

@@ -55,18 +55,18 @@ export default async function TopicPage({ params, searchParams }: Props) {
 
   return (
     <div>
-      <div className="mb-8 border-b border-rule pb-6">
-        <p className="text-xs uppercase tracking-widest text-muted font-sans mb-1">
+      <div className="mb-8 border-b border-gray-200 pb-6">
+        <p className="text-xs uppercase tracking-widest text-gray-500 font-sans mb-1">
           Topic
         </p>
-        <h1 className="font-serif text-4xl text-ink">{label}</h1>
-        <p className="text-muted text-sm font-sans mt-2">
+        <h1 className="font-serif text-4xl text-gray-900">{label}</h1>
+        <p className="text-gray-500 text-sm font-sans mt-2">
           {total} {total === 1 ? "story" : "stories"} across all issues
         </p>
       </div>
 
       {paginated.length === 0 ? (
-        <p className="text-muted font-sans text-base">
+        <p className="text-gray-500 font-sans text-base">
           No stories found for this topic yet.
         </p>
       ) : (
@@ -82,18 +82,18 @@ export default async function TopicPage({ params, searchParams }: Props) {
           {page > 1 && (
             <a
               href={`/topic/${slug}?page=${page - 1}`}
-              className="px-4 py-2 border border-rule text-ink hover:bg-rule transition-colors"
+              className="px-4 py-2 border border-gray-200 text-gray-900 hover:bg-gray-100 transition-colors"
             >
               &larr; Previous
             </a>
           )}
-          <span className="text-muted">
+          <span className="text-gray-500">
             Page {page} of {totalPages}
           </span>
           {page < totalPages && (
             <a
               href={`/topic/${slug}?page=${page + 1}`}
-              className="px-4 py-2 border border-rule text-ink hover:bg-rule transition-colors"
+              className="px-4 py-2 border border-gray-200 text-gray-900 hover:bg-gray-100 transition-colors"
             >
               Next &rarr;
             </a>

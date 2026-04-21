@@ -52,7 +52,7 @@ export default function DateNav({
 
   return (
     <nav
-      className="flex items-center justify-between border-t border-b border-rule py-4 font-sans"
+      className="flex items-center justify-between border-t border-b border-gray-200 py-4 font-sans"
       aria-label="Date navigation"
     >
       {/* Previous */}
@@ -60,7 +60,7 @@ export default function DateNav({
         {prevDate ? (
           <Link
             href={`/${prevDate}`}
-            className="flex items-center gap-1 text-sm text-muted hover:text-ink transition-colors group"
+            className="flex items-center gap-1 text-sm text-gray-500 hover:text-gray-900 transition-colors group"
             aria-label={`Previous issue: ${prevDate}`}
           >
             <span className="text-base group-hover:-translate-x-1 transition-transform">
@@ -70,14 +70,14 @@ export default function DateNav({
             <span className="sm:hidden">Prev</span>
           </Link>
         ) : (
-          <span className="text-sm text-muted/40">&larr; Older</span>
+          <span className="text-sm text-gray-500/40">&larr; Older</span>
         )}
       </div>
 
       {/* Current date + date picker */}
       <div className="flex flex-col items-center gap-1">
         <span
-          className="text-xs text-muted"
+          className="text-xs text-gray-500"
           style={{ letterSpacing: "0.1em", textTransform: "uppercase" }}
         >
           {formatDate(currentDate)}
@@ -86,11 +86,11 @@ export default function DateNav({
           type="date"
           defaultValue={currentDate}
           onChange={handleDateChange}
-          className="text-xs text-muted bg-transparent border-b border-rule focus:outline-none focus:border-ink cursor-pointer"
+          className="text-xs text-gray-500 bg-transparent border-b border-gray-200 focus:outline-none focus:border-ink cursor-pointer"
           aria-label="Jump to date"
           style={{ letterSpacing: "0.05em" }}
         />
-        <span className="text-xs text-muted/50" style={{ fontSize: "0.65rem" }}>
+        <span className="text-xs text-gray-500/50" style={{ fontSize: "0.65rem" }}>
           [ prev &nbsp; ] next
         </span>
       </div>
@@ -100,7 +100,7 @@ export default function DateNav({
         {nextDate ? (
           <Link
             href={`/${nextDate}`}
-            className="flex items-center gap-1 text-sm text-muted hover:text-ink transition-colors group"
+            className="flex items-center gap-1 text-sm text-gray-500 hover:text-gray-900 transition-colors group"
             aria-label={`Next issue: ${nextDate}`}
           >
             <span className="hidden sm:inline">{formatDate(nextDate)}</span>
@@ -110,7 +110,7 @@ export default function DateNav({
             </span>
           </Link>
         ) : (
-          <span className="text-sm text-muted/40">Newer &rarr;</span>
+          <span className="text-sm text-gray-500/40">Newer &rarr;</span>
         )}
       </div>
     </nav>

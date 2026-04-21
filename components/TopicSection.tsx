@@ -19,10 +19,10 @@ export default function TopicSection({
 
   return (
     <section className="mb-14" aria-labelledby={`section-${topic}`}>
-      <div className="flex items-center gap-4 mb-6 border-b border-rule pb-3">
+      <div className="flex items-center gap-4 mb-6 border-b border-gray-200 pb-3">
         <h2
           id={`section-${topic}`}
-          className="font-sans text-xs text-ink"
+          className="font-sans text-xs text-gray-900"
           style={{
             letterSpacing: "0.18em",
             textTransform: "uppercase",
@@ -33,7 +33,7 @@ export default function TopicSection({
         </h2>
         <Link
           href={`/topic/${topic}`}
-          className="font-sans text-xs text-muted hover:text-red transition-colors ml-auto"
+          className="font-sans text-xs text-gray-500 hover:text-gray-600 transition-colors ml-auto"
           style={{ letterSpacing: "0.05em" }}
         >
           All {label} &rarr;

@@ -63,7 +63,7 @@ export default async function DigestPage({ params }: Props) {
     <div>
       {hero && <HeroStory story={hero} date={digest.date} />}
 
-      <div className="my-10 border-t border-rule" />
+      <div className="my-10 border-t border-gray-200" />
 
       {Array.from(grouped.entries()).map(([topic, stories]) => (
         <TopicSection
