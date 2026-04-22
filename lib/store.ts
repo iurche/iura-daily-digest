@@ -4,11 +4,12 @@ import { create } from 'zustand';
 interface ShelfStore {
   saved: Set<string>;
   toggle: (id: string) => void;
+  remove: (id: string) => void;
   isSaved: (id: string) => boolean;
   hydrate: () => void;
 }
 
-const STORAGE_KEY = 'iura-shelf';
+const STORAGE_KEY = 'dd-saved';
 
 export const useShelf = create<ShelfStore>((set, get) => ({
   saved: new Set(),
@@ -16,6 +17,12 @@ export const useShelf = create<ShelfStore>((set, get) => ({
     const next = new Set(get().saved);
     if (next.has(id)) next.delete(id);
     else next.add(id);
+    set({ saved: next });
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]));
+  },
+  remove: (id) => {
+    const next = new Set(get().saved);
+    next.delete(id);
     set({ saved: next });
     localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]));
   },

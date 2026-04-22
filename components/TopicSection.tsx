@@ -1,48 +1,45 @@
-import type { Story, Topic } from "@/lib/types";
-import StoryCard from "@/components/StoryCard";
-import Link from "next/link";
+"use client";
 
-type TopicSectionProps = {
-  topic: Topic;
-  label: string;
-  stories: Story[];
-  date: string;
+import StoryCard from "./StoryCard";
+
+type Story = {
+  id: string;
+  topic: string;
+  headline: string;
+  dek: string;
+  source: string;
+  sourceUrl: string;
+  imageUrl?: string;
 };
 
-export default function TopicSection({
-  topic,
-  label,
-  stories,
-  date,
-}: TopicSectionProps) {
-  if (stories.length === 0) return null;
+type TopicSectionProps = {
+  topic: string;
+  label: string;
+  stories: Story[];
+};
+
+export default function TopicSection({ topic, label, stories }: TopicSectionProps) {
+  if (!stories.length) return null;
+
+  const cols = stories.length >= 3 ? 3 : stories.length === 2 ? 2 : 1;
 
   return (
-    <section className="mb-14" aria-labelledby={`section-${topic}`}>
-      <div className="flex items-center gap-4 mb-6 border-b border-gray-200 pb-3">
-        <h2
-          id={`section-${topic}`}
-          className="font-sans text-xs text-gray-900"
-          style={{
-            letterSpacing: "0.18em",
-            textTransform: "uppercase",
-            fontWeight: 600,
-          }}
-        >
+    <section className="mb-14">
+      <div className="flex items-center gap-3 mb-6 pb-4 border-b border-[var(--border)]">
+        <div className="w-[3px] h-[18px] rounded-full bg-[var(--brand)] flex-shrink-0" />
+        <h2 className="text-[11px] font-bold uppercase tracking-widest text-[var(--text-muted)]">
           {label}
         </h2>
-        <Link
-          href={`/topic/${topic}`}
-          className="font-sans text-xs text-gray-500 hover:text-gray-600 transition-colors ml-auto"
-          style={{ letterSpacing: "0.05em" }}
-        >
-          All {label} &rarr;
-        </Link>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {stories.map((story) => (
-          <StoryCard key={story.id} story={story} date={date} />
+      <div
+        className="grid gap-4"
+        style={{
+          gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))`,
+        }}
+      >
+        {stories.map((story, i) => (
+          <StoryCard key={story.id} story={story} delay={i * 60} />
         ))}
       </div>
     </section>

@@ -1,29 +1,28 @@
 import type { Metadata } from "next";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
-import Masthead from "@/components/Masthead";
-import TopicNav from "@/components/TopicNav";
-import { getAllDates } from "@/lib/digests";
+import Nav from "@/components/Nav";
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Iura's Daily Digest",
-    default: "Iura's Daily Digest",
+    template: "%s | Daily Digest",
+    default: "Daily Digest",
   },
   description:
-    "A curated daily digest of product design, AI, IoT, and career signals — editorial magazine format.",
+    "A curated daily digest of product design, AI, IoT, and career signals.",
   icons: {
     icon: "/favicon.ico",
     apple: "/favicon.png",
   },
   openGraph: {
-    siteName: "Iura's Daily Digest",
+    siteName: "Daily Digest",
     type: "website",
     images: [
       {
         url: "/og-default.png",
         width: 1200,
         height: 630,
-        alt: "Iura's Daily Digest",
+        alt: "Daily Digest",
       },
     ],
   },
@@ -34,26 +33,11 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const dates = getAllDates();
-  const latestDate = dates[0] || new Date().toISOString().slice(0, 10);
-
   return (
-    <html lang="en">
-      <body className="min-h-screen bg-white">
-        <header className="border-b border-gray-200">
-          <Masthead date={latestDate} />
-          <TopicNav />
-        </header>
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          {children}
-        </main>
-        <footer className="border-t border-gray-200 mt-16 py-8 text-center text-sm text-gray-500 font-sans">
-          <p>
-            Iura&apos;s Daily Digest &mdash; curated for{" "}
-            <span className="text-gray-900">product designers</span> building in the
-            AI era.
-          </p>
-        </footer>
+    <html lang="en" data-theme="dark" className="font-sans">
+      <body className="min-h-screen bg-base text-strong antialiased">
+        <Nav />
+        <main>{children}</main>
       </body>
     </html>
   );

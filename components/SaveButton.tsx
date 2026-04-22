@@ -1,61 +1,85 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState, useCallback } from "react";
 import { useShelf } from "@/lib/store";
 
 type SaveButtonProps = {
   storyId: string;
+  size?: "sm" | "lg";
 };
 
-export default function SaveButton({ storyId }: SaveButtonProps) {
-  const { toggle, isSaved, hydrate } = useShelf();
-  const [hydrated, setHydrated] = useState(false);
+export default function SaveButton({ storyId, size = "sm" }: SaveButtonProps) {
+  const { toggle, isSaved } = useShelf();
   const [animating, setAnimating] = useState(false);
+  const [particles, setParticles] = useState<{ id: number; dx: number; dy: number }[]>([]);
 
-  useEffect(() => {
-    hydrate();
-    setHydrated(true);
-  }, [hydrate]);
+  const saved = isSaved(storyId);
+  const iconSize = size === "lg" ? 22 : 18;
 
-  const saved = hydrated ? isSaved(storyId) : false;
-
-  function handleClick(e: React.MouseEvent) {
-    e.preventDefault();
-    e.stopPropagation();
-    setAnimating(true);
+  const handleClick = useCallback(() => {
+    if (!saved) {
+      setAnimating(true);
+      const pts = Array.from({ length: 8 }, (_, i) => ({
+        id: i,
+        dx: Math.cos((i / 8) * Math.PI * 2) * 28,
+        dy: Math.sin((i / 8) * Math.PI * 2) * 28,
+      }));
+      setParticles(pts);
+      setTimeout(() => {
+        setAnimating(false);
+        setParticles([]);
+      }, 600);
+    }
     toggle(storyId);
-    setTimeout(() => setAnimating(false), 200);
-  }
+  }, [saved, storyId, toggle]);
+
+  const color = saved ? "var(--brand)" : "var(--text-muted)";
 
   return (
-    <button
-      onClick={handleClick}
-      aria-label={saved ? "Remove from shelf" : "Save to shelf"}
-      aria-pressed={saved}
-      className={`flex items-center justify-center w-8 h-8 rounded-full transition-all focus:outline-none focus:ring-2 focus:ring-red focus:ring-offset-1 ${
-        animating ? "scale-125" : "scale-100"
-      } ${
-        saved
-          ? "text-gray-600 hover:text-gray-600/70"
-          : "text-gray-500 hover:text-gray-900"
-      }`}
-      style={{ transition: "transform 0.15s ease, color 0.15s ease" }}
-    >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-        fill={saved ? "currentColor" : "none"}
-        stroke="currentColor"
-        strokeWidth={1.75}
-        className="w-4 h-4"
-        aria-hidden="true"
+    <div className="relative inline-flex items-center">
+      {particles.map((p) => (
+        <div
+          key={p.id}
+          className="absolute rounded-full animate-particleOut pointer-events-none z-10"
+          style={{
+            left: "50%",
+            top: "50%",
+            width: 5,
+            height: 5,
+            background: "var(--brand)",
+            "--dx": `${p.dx}px`,
+            "--dy": `${p.dy}px`,
+          } as React.CSSProperties}
+        />
+      ))}
+      <button
+        onClick={handleClick}
+        aria-pressed={saved}
+        aria-label={saved ? "Remove from shelf" : "Save to shelf"}
+        className="flex items-center gap-1.5 transition-all duration-200 focus-ring rounded-md"
+        style={{
+          color,
+          animation: animating ? "bookmarkPop 400ms ease" : "none",
+        }}
       >
-        <path
+        <svg
+          width={iconSize}
+          height={iconSize}
+          viewBox="0 0 24 24"
+          fill={saved ? "var(--brand)" : "none"}
+          stroke={color}
+          strokeWidth="1.8"
           strokeLinecap="round"
           strokeLinejoin="round"
-          d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"
-        />
-      </svg>
-    </button>
+        >
+          <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+        </svg>
+        {size === "lg" && (
+          <span className="text-xs font-semibold uppercase tracking-wider">
+            {saved ? "Saved" : "Save"}
+          </span>
+        )}
+      </button>
+    </div>
   );
 }

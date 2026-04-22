@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Digest — Apr 22, 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-family:'Plus Jakarta Sans',sans-serif;-webkit-font-smoothing:antialiased}
+body{background:var(--bg);color:var(--text-strong);transition:background .3s,color .3s;overflow-x:hidden}
+:root,[data-theme="dark"]{
+  --bg:#0A0A0A;--surface:#141414;--surface-2:#1E1E1E;--surface-3:#2A2A2A;
+  --text-strong:#F9F9F9;--text-med:#B2B2B2;--text-muted:#757575;
+  --border:#2A2A2A;--border-med:#3F3F3F;
+  --brand:#049EE2;--brand-dim:#045B9C;--brand-text:#17C0FD;
+  --accent:#FD6325;--accent-dim:#7C1A06;
+  --overlay:rgba(10,10,10,.75);
+  --card-shadow:0 1px 3px rgba(0,0,0,.4),0 4px 12px rgba(0,0,0,.3);
+  --nav-bg:rgba(10,10,10,.85);
+}
+[data-theme="light"]{
+  --bg:#FFFFFF;--surface:#F3F3F3;--surface-2:#EDEDED;--surface-3:#E0E0E0;
+  --text-strong:#0A0A0A;--text-med:#595959;--text-muted:#959595;
+  --border:#E5E5E5;--border-med:#D2D2D2;
+  --brand:#0279BE;--brand-dim:#B3FAFC;--brand-text:#045B9C;
+  --accent:#DB3400;--accent-dim:#FCF2E9;
+  --overlay:rgba(10,10,10,.55);
+  --card-shadow:0 1px 3px rgba(0,0,0,.06),0 4px 12px rgba(0,0,0,.08);
+  --nav-bg:rgba(255,255,255,.88);
+}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+button{cursor:pointer;font-family:inherit;background:none;border:none;padding:0}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border-med);border-radius:99px}
+::selection{background:var(--brand);color:#fff}
+
+@keyframes bookmarkPop{0%{transform:scale(1)}40%{transform:scale(1.45) rotate(-8deg)}70%{transform:scale(.92)}100%{transform:scale(1)}}
+@keyframes particleOut{0%{transform:translate(0,0) scale(1.2);opacity:1}100%{transform:translate(var(--dx),var(--dy)) scale(0);opacity:0}}
+@keyframes toastIn{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@keyframes toastOut{from{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(8px)}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+.fade-up{animation:fadeUp .5s ease forwards}
+.fade-up-2{animation:fadeUp .5s .1s ease both}
+.fade-up-3{animation:fadeUp .5s .2s ease both}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+
+const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+// ─── DATA ───────────────────────────────────────────────────────────────
+const TOPIC_LABELS = {
+  'product-design': 'Product Design', 'ux-research': 'UX Research',
+  'ai-tools': 'AI Tools', 'ai-research': 'AI Research',
+  'iot-hardware': 'IoT & Hardware', 'aiot': 'AIoT',
+  'smart-agriculture': 'Smart Agriculture', 'career-signals': 'Career Signals',
+  'in-the-world': 'In The World'
+};
+const TOPIC_ORDER = ['product-design', 'ux-research', 'ai-tools', 'ai-research', 'iot-hardware', 'aiot', 'smart-agriculture', 'career-signals', 'in-the-world'];
+
+const STORIES = [
+{ id: "pd0", topic: "product-design", headline: "Machine Experience (MX) Design Is the New Frontier", dek: "Designing for AI agents now matters as much as designing for humans — semantic HTML, labels, and hierarchy need to serve both audiences simultaneously.", source: "UX Pilot", sourceUrl: "https://uxpilot.ai/blogs/product-design-trends", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1600&auto=format&fit=crop", isHero: true },
+{ id: "pd1", topic: "product-design", headline: "Learning Speed Is the New Moat in Product", dek: "With AI letting anyone clone workflows in weeks, the real competitive edge is how fast your team notices change, updates beliefs, and ships a different answer.", source: "Medium", sourceUrl: "https://antmurphy.medium.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.pexels.com/photos/7674594/pexels-photo-7674594.jpeg?auto=compress&cs=tinysrgb&w=800" },
+{ id: "pd2", topic: "product-design", headline: '"Time Saved" Is the North Star Metric of 2026', dek: "Friction removal has replaced engagement as the core design goal — if users spend 10 minutes doing a 1-minute task, the product has failed.", source: "Product School", sourceUrl: "https://productschool.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.pexels.com/photos/29509536/pexels-photo-29509536.jpeg?auto=compress&cs=tinysrgb&w=800" },
+{ id: "pd3", topic: "product-design", headline: "Simplicity Wins: Clean UI Outperforms Feature-Heavy Design", dek: "Low-visual-noise interfaces with intuitive ergonomics are gaining ground against over-engineered products as users prioritize clarity and speed.", source: "Cambridge DT", sourceUrl: "https://www.cambridge-dt.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1612984098374-fe55a61a1187?w=800&auto=format&fit=crop" },
+{ id: "ux0", topic: "ux-research", headline: "88% of Researchers Name AI-Assisted Analysis as Top 2026 Trend", dek: "AI now handles tagging qualitative data, summarizing transcripts, and generating insight drafts — freeing researchers for higher-level synthesis.", source: "LogRocket", sourceUrl: "https://blog.logrocket.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1606343647114-3cf38d47ded4?w=800&auto=format&fit=crop" },
+{ id: "ux1", topic: "ux-research", headline: "Research Democratization: Everyone Does UX Now", dek: "PMs, designers, and marketers are increasingly owning user research — creating demand for lightweight tools that run at the speed of product sprints.", source: "Nielsen Norman Group", sourceUrl: "https://www.nngroup.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1630852722667-ef9764a76b3e?w=800&auto=format&fit=crop" },
+{ id: "ux2", topic: "ux-research", headline: "UX Research Must Now Speak in Business Terms", dek: "The most significant 2026 shift: research teams are being asked to prove value in revenue and retention metrics, not just design quality scores.", source: "UX Studio", sourceUrl: "https://www.uxstudioteam.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1590483200421-58b5a8a0be55?w=800&auto=format&fit=crop" },
+{ id: "at0", topic: "ai-tools", headline: "Visa Launches Intelligent Commerce Connect for AI Agents", dek: "AI agents can now browse, select, and pay for goods autonomously — Visa's platform handles tokenization, authentication, and spend controls.", source: "Mean CEO", sourceUrl: "https://blog.mean.ceo", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1656639969810-a8347d8bb1af?w=800&auto=format&fit=crop" },
+{ id: "at1", topic: "ai-tools", headline: "Gemini 3.1 Adds Real-Time Voice and Image Analysis", dek: "Google DeepMind's latest update brings multimodal real-time capabilities, strengthening its position against GPT-5.4's expanded coding tools.", source: "LLM Stats", sourceUrl: "https://llm-stats.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1758626044744-463ce33546a2?w=800&auto=format&fit=crop" },
+{ id: "at2", topic: "ai-tools", headline: "Autodesk Fusion AI Now Writes and Runs Its Own Scripts", dek: "The expanded Autodesk Assistant responds to plain-language requests by writing and executing Fusion API scripts directly inside workflows.", source: "Autodesk Blog", sourceUrl: "https://www.autodesk.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1720879996903-24859d1df48f?w=800&auto=format&fit=crop" },
+{ id: "ar0", topic: "ai-research", headline: "AI Energy Use Cut by 100× While Improving Accuracy", dek: "Combining neural networks with symbolic reasoning slashes compute cost dramatically — making sophisticated AI viable for resource-constrained deployments.", source: "ScienceDaily", sourceUrl: "https://www.sciencedaily.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?w=800&auto=format&fit=crop" },
+{ id: "ar1", topic: "ai-research", headline: "AI Reads Brain MRIs in Seconds, Flags Urgent Cases", dek: "University of Michigan system identifies neurological conditions and prioritizes emergencies instantly — directly comparable to AI triage potential in imaging.", source: "Crescendo AI", sourceUrl: "https://www.crescendo.ai", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1770233621425-5d9ee7a0a700?w=800&auto=format&fit=crop" },
+{ id: "ar2", topic: "ai-research", headline: "NVIDIA Isaac GR00T: Robots Follow Natural Language Instructions", dek: "Open models enabling robots to understand multi-step NL commands, paired with Cosmos world models for synthetic training data.", source: "NVIDIA Blog", sourceUrl: "https://blogs.nvidia.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1716967318503-05b7064afa41?w=800&auto=format&fit=crop" },
+{ id: "ih0", topic: "iot-hardware", headline: "NPUs Now Built Into Microcontrollers — Edge AI Goes Mainstream", dek: "Chipmakers are integrating Neural Processing Units directly into SoCs, delivering 10–100× better inference efficiency on low-power devices.", source: "IoT Insider", sourceUrl: "https://www.iotinsider.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1743324401900-0e5c4f9c96b4?w=800&auto=format&fit=crop" },
+{ id: "ih1", topic: "iot-hardware", headline: "22 Billion Connected Devices in 2026 — Market Hits $471B", dek: "Global IoT device count reaches 22B this year on a trajectory to exceed 40B by 2034, with market value surpassing $471 billion.", source: "1NCE", sourceUrl: "https://www.1nce.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1584761650834-efc7932b9c4d?w=800&auto=format&fit=crop" },
+{ id: "cs0", topic: "career-signals", headline: "296 Product Designer Openings in Barcelona Right Now", dek: "Glassdoor lists 296 active product designer positions in Barcelona as of early 2026, with many offering remote/hybrid arrangements.", source: "Glassdoor", sourceUrl: "https://www.glassdoor.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1676285437303-744ef82a0263?w=800&auto=format&fit=crop" },
+{ id: "cs1", topic: "career-signals", headline: "Proton Hiring Senior Product Designer for B2B Products (Barcelona)", dek: "Privacy-focused Proton seeks 5+ years experienced designer for core collaboration features and design systems — strong brand, mission-driven.", source: "UI/UX Jobs Board", sourceUrl: "https://uiuxdesignerjobs.com", publishedAt: "2026-04-20T08:00:00Z", imageUrl: "https://images.pexels.com/photos/18848926/pexels-photo-18848926.jpeg?auto=compress&cs=tinysrgb&w=800" },
+{ id: "iw0", topic: "in-the-world", headline: "Who is John Ternus, the incoming Apple CEO?", dek: "Starting September 1, Ternus will lead one of the world's most valuable companies — he's largely remained out of the spotlight until now.", source: "TechCrunch", sourceUrl: "https://techcrunch.com", publishedAt: "2026-04-21T01:02:04Z", imageUrl: "https://images.unsplash.com/photo-1722581887962-bfeb8754472a?w=800&auto=format&fit=crop" },
+{ id: "iw1", topic: "in-the-world", headline: "How to Watch the 2026 Lyrids Meteor Shower at Its Peak", dek: "Between the night of April 21 and early morning of April 22, those looking in the right place will see 15–20 meteors per hour.", source: "Wired", sourceUrl: "https://www.wired.com", publishedAt: "2026-04-21T09:00:00Z", imageUrl: "https://images.unsplash.com/photo-1582490848870-a27fd5930304?w=800&auto=format&fit=crop" },
+{ id: "iw2", topic: "in-the-world", headline: "The real reason enterprise AI initiatives are failing", dek: "LLMs were never built to run a company — the instinct that AI works was correct, but the conclusion that it can run entire workflows was wrong.", source: "Fast Company", sourceUrl: "https://www.fastcompany.com", publishedAt: "2026-04-21T08:00:00Z", imageUrl: "https://images.unsplash.com/photo-1729062172760-2360e4ebadf6?w=800&auto=format&fit=crop" }];
+
+
+const HERO = STORIES.find((s) => s.isHero);
+const BY_TOPIC = TOPIC_ORDER.reduce((acc, t) => {
+  acc[t] = STORIES.filter((s) => s.topic === t && !s.isHero);
+  return acc;
+}, {});
+
+// ─── SAVE BUTTON ────────────────────────────────────────────────────────
+function SaveButton({ storyId, onSave, saved, size = 'sm' }) {
+  const isSaved = saved.has(storyId);
+  const [animating, setAnimating] = useState(false);
+  const [particles, setParticles] = useState([]);
+
+  const handleClick = (e) => {
+    e.preventDefault();e.stopPropagation();
+    if (!isSaved) {
+      setAnimating(true);
+      const pts = Array.from({ length: 8 }, function (_, i) {return { id: i, dx: Math.cos(i / 8 * Math.PI * 2) * 28, dy: Math.sin(i / 8 * Math.PI * 2) * 28 };});
+      setParticles(pts);
+      setTimeout(() => {setAnimating(false);setParticles([]);}, 600);
+    }
+    onSave(storyId);
+  };
+
+  const iconSize = size === 'lg' ? 22 : 18;
+  const color = isSaved ? 'var(--brand)' : 'var(--text-muted)';
+
+  return (
+    <div style={{ position: 'relative', display: 'inline-flex', alignItems: 'center' }}>
+      {particles.map((p) =>
+      <div key={p.id} style={{
+        position: 'absolute', left: '50%', top: '50%',
+        width: 5, height: 5, borderRadius: '50%',
+        background: 'var(--brand)',
+        '--dx': p.dx + 'px', '--dy': p.dy + 'px',
+        animation: 'particleOut .5s ease forwards',
+        pointerEvents: 'none', zIndex: 10
+      }} />
+      )}
+      <button
+        onClick={handleClick}
+        title={isSaved ? 'Remove from shelf' : 'Save to shelf'}
+        aria-pressed={isSaved}
+        style={{
+          display: 'flex', alignItems: 'center', gap: 6,
+          color, transition: 'color .2s',
+          animation: animating ? 'bookmarkPop .4s ease' : 'none'
+        }}>
+        
+        <svg width={iconSize} height={iconSize} viewBox="0 0 24 24" fill={isSaved ? 'var(--brand)' : 'none'} stroke={color} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+        </svg>
+        {size === 'lg' && <span style={{ fontSize: 11, fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase' }}>{isSaved ? 'Saved' : 'Save'}</span>}
+      </button>
+    </div>);
+
+}
+
+// ─── TOAST ──────────────────────────────────────────────────────────────
+function Toast({ toast }) {
+  if (!toast.visible && !toast.hiding) return null;
+  return (
+    <div style={{
+      position: 'fixed', bottom: 32, right: 32, zIndex: 9999,
+      background: 'var(--surface-2)', border: '1px solid var(--border-med)',
+      borderRadius: 12, padding: '12px 18px',
+      display: 'flex', alignItems: 'center', gap: 10,
+      boxShadow: '0 8px 24px rgba(0,0,0,.3)',
+      animation: toast.hiding ? 'toastOut .25s ease forwards' : 'toastIn .3s ease forwards',
+      backdropFilter: 'blur(12px)'
+    }}>
+      <div style={{ width: 8, height: 8, borderRadius: '50%', background: 'var(--brand)', flexShrink: 0 }} />
+      <span style={{ fontSize: 13, fontWeight: 500, color: 'var(--text-strong)' }}>{toast.msg}</span>
+    </div>);
+
+}
+
+// ─── STORY CARD ─────────────────────────────────────────────────────────
+function StoryCard({ story, saved, onSave, size = 'md', delay = 0 }) {
+  const [imgErr, setImgErr] = useState(false);
+  const topicColor = story.topic.includes('ai') ? 'var(--brand)' : story.topic === 'in-the-world' ? 'var(--accent)' : 'var(--text-muted)';
+
+  return (
+    <article className="fade-up" style={{
+      animationDelay: delay + 'ms',
+      background: 'var(--surface)', border: '1px solid var(--border)',
+      borderRadius: 16, overflow: 'hidden',
+      transition: 'border-color .2s, transform .2s, box-shadow .2s',
+      cursor: 'pointer', display: 'flex', flexDirection: 'column',
+      boxShadow: 'var(--card-shadow)'
+    }}
+    onMouseEnter={(e) => {e.currentTarget.style.borderColor = 'var(--border-med)';e.currentTarget.style.transform = 'translateY(-2px)';e.currentTarget.style.boxShadow = '0 8px 24px rgba(0,0,0,.25)';}}
+    onMouseLeave={(e) => {e.currentTarget.style.borderColor = 'var(--border)';e.currentTarget.style.transform = 'translateY(0)';e.currentTarget.style.boxShadow = 'var(--card-shadow)';}}>
+      
+      <a href={story.sourceUrl} target="_blank" rel="noopener noreferrer" style={{ display: 'block', position: 'relative', aspectRatio: '16/9', overflow: 'hidden', flexShrink: 0 }}>
+        {!imgErr ?
+        <img src={story.imageUrl} alt={story.headline} onError={() => setImgErr(true)}
+        style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform .4s ease' }}
+        onMouseEnter={(e) => e.target.style.transform = 'scale(1.04)'}
+        onMouseLeave={(e) => e.target.style.transform = 'scale(1)'} /> :
+
+
+        <div style={{ width: '100%', height: '100%', background: 'var(--surface-2)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" strokeWidth="1.5"><rect x="3" y="3" width="18" height="18" rx="2" /><circle cx="8.5" cy="8.5" r="1.5" /><path d="M21 15l-5-5L5 21" /></svg>
+          </div>
+        }
+        <div style={{ position: 'absolute', top: 10, left: 10 }}>
+          <span style={{ background: 'var(--bg)', backdropFilter: 'blur(8px)', border: '1px solid var(--border)', borderRadius: 6, padding: '3px 8px', fontSize: 10, fontWeight: 600, letterSpacing: '0.07em', textTransform: 'uppercase', color: topicColor }}>
+            {TOPIC_LABELS[story.topic]}
+          </span>
+        </div>
+      </a>
+      <div style={{ padding: '16px 16px 14px', flex: 1, display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <a href={story.sourceUrl} target="_blank" rel="noopener noreferrer">
+          <h3 style={{ fontSize: size === 'lg' ? 17 : 15, fontWeight: 700, lineHeight: 1.35, color: 'var(--text-strong)', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden', transition: 'color .15s' }}
+          onMouseEnter={(e) => e.target.style.color = 'var(--brand)'}
+          onMouseLeave={(e) => e.target.style.color = 'var(--text-strong)'}>
+            {story.headline}</h3>
+        </a>
+        <p style={{ fontSize: 13, color: 'var(--text-muted)', lineHeight: 1.5, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden', flex: 1 }}>{story.dek}</p>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginTop: 4 }}>
+          <span style={{ fontSize: 11, fontWeight: 600, letterSpacing: '0.06em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{story.source}</span>
+          <SaveButton storyId={story.id} saved={saved} onSave={onSave} />
+        </div>
+      </div>
+    </article>);
+
+}
+
+// ─── HERO ────────────────────────────────────────────────────────────────
+function Hero({ story, saved, onSave }) {
+  const [imgErr, setImgErr] = useState(false);
+  return (
+    <section style={{ position: 'relative', height: '88vh', minHeight: 560, overflow: 'hidden', marginBottom: 0 }}>
+      {!imgErr ?
+      <img src={story.imageUrl} alt={story.headline} onError={() => setImgErr(true)}
+      style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} /> :
+
+
+      <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(135deg,#0A1525,#094074)' }} />
+      }
+      {/* gradient overlay */}
+      <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(5,5,5,.98) 0%, rgba(5,5,5,.6) 45%, rgba(5,5,5,.15) 100%)' }} />
+      
+      {/* content */}
+      <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, padding: '0 clamp(20px,5vw,80px) 56px' }}>
+        <div style={{ maxWidth: 820 }}>
+          <div className="fade-up" style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 18 }}>
+            <span style={{ background: 'var(--brand)', color: '#fff', borderRadius: 6, padding: '3px 10px', fontSize: 10, fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase' }}>
+              {TOPIC_LABELS[story.topic]}
+            </span>
+            <span style={{ fontSize: 11, fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', color: 'rgba(255,255,255,.5)' }}>COVER STORY</span>
+          </div>
+          <a href={story.sourceUrl} target="_blank" rel="noopener noreferrer">
+            <h1 className="fade-up-2" style={{ fontSize: 'clamp(28px,4.5vw,58px)', fontWeight: 800, lineHeight: 1.1, color: '#fff', marginBottom: 18, textWrap: 'balance', letterSpacing: '-0.02em', transition: 'color .15s' }}
+            onMouseEnter={(e) => e.target.style.color = 'var(--brand-text)'}
+            onMouseLeave={(e) => e.target.style.color = '#fff'}>
+              {story.headline}</h1>
+          </a>
+          <p className="fade-up-3" style={{ fontSize: 'clamp(14px,1.6vw,18px)', color: 'rgba(255,255,255,.65)', lineHeight: 1.6, marginBottom: 24, maxWidth: 600, fontWeight: 400 }}>{story.dek}</p>
+          <div className="fade-up-3" style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+            <a href={story.sourceUrl} target="_blank" rel="noopener noreferrer"
+            style={{ display: 'flex', alignItems: 'center', gap: 8, background: 'var(--brand)', color: '#fff', borderRadius: 10, padding: '11px 22px', fontSize: 13, fontWeight: 700, letterSpacing: '0.03em', transition: 'opacity .15s' }}
+            onMouseEnter={(e) => e.target.style.opacity = '.85'}
+            onMouseLeave={(e) => e.target.style.opacity = '1'}>
+              
+              Read story
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M7 17L17 7M17 7H7M17 7v10" /></svg>
+            </a>
+            <SaveButton storyId={story.id} saved={saved} onSave={onSave} size="lg" />
+          </div>
+        </div>
+      </div>
+    </section>);
+
+}
+
+// ─── TOPIC SECTION ───────────────────────────────────────────────────────
+function TopicSection({ topic, stories, saved, onSave }) {
+  if (!stories.length) return null;
+  const label = TOPIC_LABELS[topic];
+  const cols = stories.length >= 3 ? 3 : stories.length === 2 ? 2 : 1;
+
+  return (
+    <section style={{ marginBottom: 56 }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 24, paddingBottom: 16, borderBottom: '1px solid var(--border)' }}>
+        <div style={{ width: 3, height: 18, borderRadius: 99, background: 'var(--brand)', flexShrink: 0 }} />
+        <h2 style={{ fontSize: 11, fontWeight: 700, letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{label}</h2>
+      </div>
+      <div style={{ display: 'grid', gridTemplateColumns: `repeat(${cols}, 1fr)`, gap: 16 }}>
+        {stories.map((s, i) => <StoryCard key={s.id} story={s} saved={saved} onSave={onSave} delay={i * 60} />)}
+      </div>
+    </section>);
+
+}
+
+// ─── SHELF VIEW ──────────────────────────────────────────────────────────
+function ShelfView({ saved, onSave, allStories, onBack }) {
+  const [filter, setFilter] = useState('all');
+  const savedStories = useMemo(() => allStories.filter((s) => saved.has(s.id)), [allStories, saved]);
+  const topics = useMemo(() => [...new Set(savedStories.map((s) => s.topic))], [savedStories]);
+  const filtered = filter === 'all' ? savedStories : savedStories.filter((s) => s.topic === filter);
+
+  const exportMd = () => {
+    const md = savedStories.map((s) => `## ${s.headline}\n\n${s.dek}\n\n**Source:** ${s.source}\n\n[Read →](${s.sourceUrl})\n\n---`).join('\n\n');
+    const a = document.createElement('a');a.href = URL.createObjectURL(new Blob([md], { type: 'text/markdown' }));
+    a.download = 'shelf.md';a.click();
+  };
+
+  return (
+    <div style={{ minHeight: '100vh', paddingTop: 72 }}>
+      {/* header */}
+      <div style={{ padding: '48px clamp(20px,5vw,80px) 32px', borderBottom: '1px solid var(--border)' }}>
+        <button onClick={onBack} style={{ display: 'flex', alignItems: 'center', gap: 6, color: 'var(--text-muted)', fontSize: 12, fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 24, transition: 'color .15s' }}
+        onMouseEnter={(e) => e.currentTarget.style.color = 'var(--text-strong)'}
+        onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-muted)'}>
+          
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><path d="M19 12H5M5 12l7 7M5 12l7-7" /></svg>
+          Back to digest
+        </button>
+        <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16 }}>
+          <div>
+            <h1 style={{ fontSize: 'clamp(28px,4vw,48px)', fontWeight: 800, letterSpacing: '-0.02em', color: 'var(--text-strong)' }}>Your shelf</h1>
+            <p style={{ fontSize: 14, color: 'var(--text-muted)', marginTop: 6 }}>{savedStories.length} saved {savedStories.length === 1 ? 'story' : 'stories'}</p>
+          </div>
+          {savedStories.length > 0 &&
+          <button onClick={exportMd} style={{ display: 'flex', alignItems: 'center', gap: 7, border: '1px solid var(--border)', borderRadius: 10, padding: '9px 16px', fontSize: 12, fontWeight: 600, color: 'var(--text-med)', transition: 'border-color .15s,color .15s' }}
+          onMouseEnter={(e) => {e.currentTarget.style.borderColor = 'var(--brand)';e.currentTarget.style.color = 'var(--brand)';}}
+          onMouseLeave={(e) => {e.currentTarget.style.borderColor = 'var(--border)';e.currentTarget.style.color = 'var(--text-med)';}}>
+            
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="7 10 12 15 17 10" /><line x1="12" y1="15" x2="12" y2="3" /></svg>
+              Export as Markdown
+            </button>
+          }
+        </div>
+        {topics.length > 1 &&
+        <div style={{ display: 'flex', gap: 8, marginTop: 24, flexWrap: 'wrap' }}>
+            {['all', ...topics].map((t) =>
+          <button key={t} onClick={() => setFilter(t)} style={{
+            padding: '5px 14px', borderRadius: 99, fontSize: 11, fontWeight: 600, letterSpacing: '0.06em', textTransform: 'uppercase',
+            border: filter === t ? '1px solid var(--brand)' : '1px solid var(--border)',
+            background: filter === t ? 'var(--brand)' : 'transparent',
+            color: filter === t ? '#fff' : 'var(--text-muted)',
+            transition: 'all .15s', cursor: 'pointer'
+          }}>{t === 'all' ? 'All' : TOPIC_LABELS[t]}</button>
+          )}
+          </div>
+        }
+      </div>
+
+      {savedStories.length === 0 ?
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '80px 20px', textAlign: 'center' }}>
+          <div style={{ width: 64, height: 64, borderRadius: 16, background: 'var(--surface)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 20 }}>
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" strokeWidth="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+          </div>
+          <h2 style={{ fontSize: 22, fontWeight: 700, color: 'var(--text-strong)', marginBottom: 8 }}>Nothing saved yet</h2>
+          <p style={{ fontSize: 14, color: 'var(--text-muted)', maxWidth: 340, lineHeight: 1.6 }}>Save stories from the digest to build your personal reading list.</p>
+          <button onClick={onBack} style={{ marginTop: 24, color: 'var(--brand)', fontSize: 13, fontWeight: 600 }}>Browse today's digest</button>
+        </div> :
+
+      <div style={{ padding: '32px clamp(20px,5vw,80px)', display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(280px,1fr))', gap: 16 }}>
+          {filtered.map((s, i) => <StoryCard key={s.id} story={s} saved={saved} onSave={onSave} delay={i * 40} />)}
+        </div>
+      }
+    </div>);
+
+}
+
+// ─── NAV ────────────────────────────────────────────────────────────────
+function Nav({ scrolled, theme, onThemeToggle, savedCount, onShelfClick }) {
+  return (
+    <header style={{
+      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 100,
+      height: scrolled ? 52 : 64,
+      background: scrolled ? 'var(--nav-bg)' : 'transparent',
+      backdropFilter: scrolled ? 'blur(16px)' : 'none',
+      borderBottom: scrolled ? '1px solid var(--border)' : '1px solid transparent',
+      transition: 'height .25s,background .25s,border-color .25s,backdrop-filter .25s',
+      display: 'flex', alignItems: 'center', padding: '0 clamp(20px,5vw,80px)', gap: 16
+    }}>
+      <div style={{ flex: 1, display: 'flex', alignItems: 'center', gap: 8 }}>
+        <div style={{ width: 28, height: 28, borderRadius: 8, background: 'var(--brand)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+          <span style={{ fontSize: 11, fontWeight: 800, color: '#fff', letterSpacing: '-0.03em' }}>DD</span>
+        </div>
+        <span style={{ fontSize: 13, fontWeight: 700, letterSpacing: '-0.01em', color: 'var(--text-strong)' }}>Daily Digest</span>
+        <span style={{ fontSize: 11, color: 'var(--text-muted)', marginLeft: 4, display: scrolled ? 'none' : 'inline' }}>Apr 22, 2026</span>
+      </div>
+
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <button onClick={onShelfClick} style={{
+          display: 'flex', alignItems: 'center', gap: 6,
+          border: '1px solid var(--border)', borderRadius: 10,
+          padding: '6px 14px', fontSize: 12, fontWeight: 600, color: 'var(--text-med)',
+          transition: 'border-color .15s,color .15s,background .15s'
+        }}
+        onMouseEnter={(e) => {e.currentTarget.style.borderColor = 'var(--brand)';e.currentTarget.style.color = 'var(--brand)';}}
+        onMouseLeave={(e) => {e.currentTarget.style.borderColor = 'var(--border)';e.currentTarget.style.color = 'var(--text-med)';}}>
+          
+          <svg width="14" height="14" viewBox="0 0 24 24" fill={savedCount > 0 ? 'var(--brand)' : 'none'} stroke={savedCount > 0 ? 'var(--brand)' : 'currentColor'} strokeWidth="1.8"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" /></svg>
+          Shelf {savedCount > 0 && <span style={{ background: 'var(--brand)', color: '#fff', borderRadius: 99, padding: '0 6px', fontSize: 10, fontWeight: 700, lineHeight: '16px' }}>{savedCount}</span>}
+        </button>
+
+        <button onClick={onThemeToggle} style={{
+          width: 36, height: 36, borderRadius: 10, border: '1px solid var(--border)',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          color: 'var(--text-muted)', transition: 'border-color .15s,color .15s'
+        }}
+        onMouseEnter={(e) => {e.currentTarget.style.borderColor = 'var(--border-med)';e.currentTarget.style.color = 'var(--text-strong)';}}
+        onMouseLeave={(e) => {e.currentTarget.style.borderColor = 'var(--border)';e.currentTarget.style.color = 'var(--text-muted)';}}
+        title="Toggle theme">
+          {theme === 'dark' ?
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="5" /><line x1="12" y1="1" x2="12" y2="3" /><line x1="12" y1="21" x2="12" y2="23" /><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" /><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" /><line x1="1" y1="12" x2="3" y2="12" /><line x1="21" y1="12" x2="23" y2="12" /><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" /><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" /></svg> :
+
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" /></svg>
+          }
+        </button>
+      </div>
+    </header>);
+
+}
+
+// ─── TWEAKS ──────────────────────────────────────────────────────────────
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{ "accentColor": "cyan", "cardRadius": 16, "showDek": true } /*EDITMODE-END*/;
+
+function TweaksPanel({ tweaks, onTweak, onClose }) {
+  return (
+    <div style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 200, background: 'var(--surface)', border: '1px solid var(--border-med)', borderRadius: 16, padding: 20, width: 240, boxShadow: '0 8px 32px rgba(0,0,0,.4)' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 }}>
+        <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>Tweaks</span>
+        <button onClick={onClose} style={{ color: 'var(--text-muted)', lineHeight: 1 }}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+        </button>
+      </div>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+        <div>
+          <label style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-muted)', letterSpacing: '0.06em', textTransform: 'uppercase', display: 'block', marginBottom: 8 }}>Brand accent</label>
+          <div style={{ display: 'flex', gap: 8 }}>
+            {[['cyan', '#049EE2'], ['orange', '#FD6325'], ['green', '#08AC3A']].map(([k, c]) =>
+            <button key={k} onClick={() => onTweak('accentColor', k)} style={{ width: 28, height: 28, borderRadius: 8, background: c, border: tweaks.accentColor === k ? '2px solid var(--text-strong)' : '2px solid transparent', transition: 'border-color .15s' }} />
+            )}
+          </div>
+        </div>
+        <div>
+          <label style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-muted)', letterSpacing: '0.06em', textTransform: 'uppercase', display: 'block', marginBottom: 8 }}>Card radius — {tweaks.cardRadius}px</label>
+          <input type="range" min={4} max={24} value={tweaks.cardRadius} onChange={(e) => onTweak('cardRadius', +e.target.value)}
+          style={{ width: '100%', accentColor: 'var(--brand)' }} />
+        </div>
+        <label style={{ display: 'flex', alignItems: 'center', gap: 10, cursor: 'pointer' }}>
+          <input type="checkbox" checked={tweaks.showDek} onChange={(e) => onTweak('showDek', e.target.checked)} style={{ accentColor: 'var(--brand)', width: 14, height: 14 }} />
+          <span style={{ fontSize: 12, fontWeight: 500, color: 'var(--text-med)' }}>Show descriptions</span>
+        </label>
+      </div>
+    </div>);
+
+}
+
+// ─── APP ─────────────────────────────────────────────────────────────────
+function App() {
+  const [theme, setTheme] = useState(() => localStorage.getItem('dd-theme') || 'dark');
+  const [view, setView] = useState('home');
+  const [saved, setSaved] = useState(() => {
+    try {return new Set(JSON.parse(localStorage.getItem('dd-saved') || '[]'));}
+    catch {return new Set();}
+  });
+  const [toast, setToast] = useState({ visible: false, hiding: false, msg: '' });
+  const [scrolled, setScrolled] = useState(false);
+  const [tweaksOpen, setTweaksOpen] = useState(false);
+  const [tweaks, setTweaks] = useState(TWEAK_DEFAULTS);
+  const toastTimer = useRef(null);
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('dd-theme', theme);
+  }, [theme]);
+
+  useEffect(() => {
+    localStorage.setItem('dd-saved', JSON.stringify([...saved]));
+  }, [saved]);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 60);
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  // Apply tweaks
+  useEffect(() => {
+    const accentMap = { cyan: '#049EE2', orange: '#FD6325', green: '#08AC3A' };
+    document.documentElement.style.setProperty('--brand', accentMap[tweaks.accentColor] || '#049EE2');
+    document.querySelectorAll('article').forEach((el) => {el.style.borderRadius = tweaks.cardRadius + 'px';});
+  }, [tweaks]);
+
+  const showToast = (msg) => {
+    clearTimeout(toastTimer.current);
+    setToast({ visible: true, hiding: false, msg });
+    toastTimer.current = setTimeout(() => {
+      setToast((t) => ({ ...t, hiding: true }));
+      setTimeout(() => setToast({ visible: false, hiding: false, msg: '' }), 300);
+    }, 2200);
+  };
+
+  const handleSave = useCallback((id) => {
+    setSaved((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) {next.delete(id);showToast('Removed from shelf');} else
+      {next.add(id);showToast('Saved to shelf');}
+      return next;
+    });
+  }, []);
+
+  const handleTweak = (k, v) => {
+    const next = { ...tweaks, [k]: v };
+    setTweaks(next);
+    window.parent.postMessage({ type: '__edit_mode_set_keys', edits: next }, '*');
+  };
+
+  // Tweaks panel toggle support
+  useEffect(() => {
+    const handler = (e) => {
+      if (e.data?.type === '__activate_edit_mode') setTweaksOpen(true);
+      if (e.data?.type === '__deactivate_edit_mode') setTweaksOpen(false);
+    };
+    window.addEventListener('message', handler);
+    window.parent.postMessage({ type: '__edit_mode_available' }, '*');
+    return () => window.removeEventListener('message', handler);
+  }, []);
+
+  const topicsWithStories = TOPIC_ORDER.filter((t) => t !== 'product-design' && BY_TOPIC[t]?.length > 0);
+
+  return (
+    <div style={{ minHeight: '100vh', background: 'var(--bg)' }}>
+      <Nav scrolled={scrolled} theme={theme} onThemeToggle={() => setTheme((t) => t === 'dark' ? 'light' : 'dark')} savedCount={saved.size} onShelfClick={() => setView((v) => v === 'shelf' ? 'home' : 'shelf')} />
+      
+      {view === 'shelf' ?
+      <ShelfView saved={saved} onSave={handleSave} allStories={STORIES} onBack={() => setView('home')} /> :
+
+      <main>
+          <Hero story={HERO} saved={saved} onSave={handleSave} />
+          <div style={{ padding: '56px clamp(20px,5vw,80px)' }}>
+            {/* Hero topic inline */}
+            <TopicSection topic="product-design" stories={BY_TOPIC['product-design']} saved={saved} onSave={handleSave} />
+            {topicsWithStories.map((t) =>
+          <TopicSection key={t} topic={t} stories={BY_TOPIC[t]} saved={saved} onSave={handleSave} />
+          )}
+          </div>
+          <footer style={{ borderTop: '1px solid var(--border)', padding: '24px clamp(20px,5vw,80px)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              <div style={{ width: 20, height: 20, borderRadius: 6, background: 'var(--brand)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <span style={{ fontSize: 8, fontWeight: 800, color: '#fff' }}>DD</span>
+              </div>
+              <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Daily Digest · Apr 22, 2026 · Issue #204</span>
+            </div>
+            <span style={{ fontSize: 11, color: 'var(--text-muted)' }}>Curated intelligence for product designers building in the AI era</span>
+          </footer>
+        </main>
+      }
+
+      <Toast toast={toast} />
+      {tweaksOpen && <TweaksPanel tweaks={tweaks} onTweak={handleTweak} onClose={() => setTweaksOpen(false)} />}
+    </div>);
+
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

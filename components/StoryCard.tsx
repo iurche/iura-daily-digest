@@ -1,131 +1,113 @@
 "use client";
 
-import { useRef, useEffect, useState, useCallback, KeyboardEvent } from "react";
-import type { Story } from "@/lib/types";
-import { TOPIC_LABELS } from "@/lib/topic-labels";
-import SaveButton from "@/components/SaveButton";
-import { getFallbackUrl } from "@/lib/fallback";
-import { useShelf } from "@/lib/store";
+import { useState } from "react";
+import Link from "next/link";
+import Image from "next/image";
+import SaveButton from "./SaveButton";
+import { TOPIC_LABELS, TOPIC_COLORS } from "@/lib/topics";
+
+type Story = {
+  id: string;
+  topic: string;
+  headline: string;
+  dek: string;
+  source: string;
+  sourceUrl: string;
+  imageUrl?: string;
+};
 
 type StoryCardProps = {
   story: Story;
-  date: string;
+  size?: "md" | "lg";
+  delay?: number;
 };
 
-export default function StoryCard({ story, date }: StoryCardProps) {
-  const cardRef = useRef<HTMLElement>(null);
-  const [visible, setVisible] = useState(false);
-  const { toggle } = useShelf();
-  const imageUrl = story.imageUrl ?? getFallbackUrl(story.id, story.topic);
-  const isLocal = imageUrl.startsWith("/");
-
-  // Intersection Observer for fade-in
-  useEffect(() => {
-    const el = cardRef.current;
-    if (!el) return;
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setVisible(true);
-          observer.disconnect();
-        }
-      },
-      { threshold: 0.1 }
-    );
-    observer.observe(el);
-    return () => observer.disconnect();
-  }, []);
-
-  const handleKeyDown = useCallback(
-    (e: KeyboardEvent<HTMLElement>) => {
-      if (e.key === "Enter") {
-        window.open(story.sourceUrl, "_blank", "noopener,noreferrer");
-      }
-      if (e.key === "s" || e.key === "S") {
-        e.preventDefault();
-        toggle(story.id);
-      }
-    },
-    [story.sourceUrl, story.id, toggle]
-  );
+export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardProps) {
+  const [imgErr, setImgErr] = useState(false);
+  const topicColor = TOPIC_COLORS[story.topic] || "var(--text-muted)";
 
   return (
     <article
-      ref={cardRef}
-      tabIndex={0}
-      onKeyDown={handleKeyDown}
-      className={`group flex flex-col border border-gray-200 hover:shadow-lg transition-all cursor-pointer focus:outline-none focus:ring-2 focus:ring-gray-400 ${
-        visible ? "animate-fade-in" : "opacity-0"
-      }`}
-      aria-label={`${story.headline} — ${story.source}`}
+      className="fade-up bg-[var(--surface)] border border-[var(--border)] rounded-lg overflow-hidden transition-all duration-200 hover:border-[var(--border-med)] hover:shadow-elevated flex flex-col"
+      style={{
+        animationDelay: `${delay}ms`,
+        boxShadow: "var(--card-shadow)",
+        borderRadius: 16,
+      }}
     >
-      {/* Image */}
-      <div
-        className="relative w-full overflow-hidden bg-gray-100 flex-shrink-0"
-        style={{ aspectRatio: "3/2" }}
+      <Link
+        href={story.sourceUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block relative aspect-video overflow-hidden flex-shrink-0"
       >
-        {isLocal ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={imageUrl}
+        {!imgErr && story.imageUrl ? (
+          <Image
+            src={story.imageUrl}
             alt={story.headline}
-            loading="lazy"
-            className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+            fill
+            className="object-cover transition-transform duration-400 hover:scale-105"
+            onError={() => setImgErr(true)}
+            sizes="(min-width: 768px) 33vw, 100vw"
           />
         ) : (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
-            src={imageUrl}
-            alt={story.headline}
-            loading="lazy"
-            className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-          />
+          <div className="w-full h-full bg-[var(--surface-2)] flex items-center justify-center">
+            <svg
+              width="32"
+              height="32"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="var(--text-muted)"
+              strokeWidth="1.5"
+            >
+              <rect x="3" y="3" width="18" height="18" rx="2" />
+              <circle cx="8.5" cy="8.5" r="1.5" />
+              <path d="M21 15l-5-5L5 21" />
+            </svg>
+          </div>
         )}
-      </div>
+        <div className="absolute top-2.5 left-2.5">
+          <span
+            className="px-2 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md border"
+            style={{
+              background: "var(--bg)",
+              backdropFilter: "blur(8px)",
+              borderColor: "var(--border)",
+              color: topicColor,
+            }}
+          >
+            {TOPIC_LABELS[story.topic] || story.topic}
+          </span>
+        </div>
+      </Link>
 
-      {/* Content */}
-      <div className="flex flex-col flex-1 p-4">
-        <p
-          className="font-sans text-gray-500 mb-2"
-          style={{
-            fontSize: "0.6875rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-          }}
-        >
-          {TOPIC_LABELS[story.topic] ?? story.topic}
-        </p>
-
-        <a
+      <div className="p-4 flex-1 flex flex-col gap-2">
+        <Link
           href={story.sourceUrl}
           target="_blank"
           rel="noopener noreferrer"
-          tabIndex={-1}
-          className="flex-1"
-          onClick={(e) => e.stopPropagation()}
+          className="block"
         >
-          <h3 className="font-serif text-xl sm:text-2xl text-gray-900 leading-snug group-hover:text-gray-600 transition-colors line-clamp-3">
+          <h3
+            className="font-semibold leading-snug text-[var(--text-strong)] line-clamp-3 transition-colors duration-150 hover:text-[var(--brand)]"
+            style={{
+              fontSize: size === "lg" ? 17 : 15,
+            }}
+          >
             {story.headline}
           </h3>
-        </a>
+        </Link>
 
-        <p className="font-sans text-sm text-gray-500 leading-relaxed mt-2 line-clamp-2">
+        <p className="text-sm text-[var(--text-muted)] line-clamp-2 flex-1">
           {story.dek}
         </p>
 
-        <footer className="flex items-center justify-between mt-4 pt-3 border-t border-gray-100">
-          <span
-            className="font-sans text-gray-400"
-            style={{
-              fontSize: "0.6875rem",
-              letterSpacing: "0.08em",
-              textTransform: "uppercase",
-            }}
-          >
+        <div className="flex items-center justify-between mt-1">
+          <span className="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
             {story.source}
           </span>
           <SaveButton storyId={story.id} />
-        </footer>
+        </div>
       </div>
     </article>
   );
