@@ -21,8 +21,6 @@ type TopicSectionProps = {
 export default function TopicSection({ topic, label, stories }: TopicSectionProps) {
   if (!stories.length) return null;
 
-  const cols = stories.length >= 3 ? 3 : stories.length === 2 ? 2 : 1;
-
   return (
     <section className="mb-14">
       <div className="flex items-center gap-3 mb-6 pb-4 border-b border-[var(--border)]">
@@ -32,12 +30,7 @@ export default function TopicSection({ topic, label, stories }: TopicSectionProp
         </h2>
       </div>
 
-      <div
-        className="grid gap-4"
-        style={{
-          gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))`,
-        }}
-      >
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {stories.map((story, i) => (
           <StoryCard key={story.id} story={story} delay={i * 60} />
         ))}
