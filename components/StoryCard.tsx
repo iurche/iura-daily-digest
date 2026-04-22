@@ -22,8 +22,13 @@ type StoryCardProps = {
   delay?: number;
 };
 
+function pexelsFallback(story: Story) {
+  const q = `${story.headline.split(" ").slice(0, 4).join(" ")} ${story.topic}`;
+  return `/api/pexels-image?q=${encodeURIComponent(q)}`;
+}
+
 export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardProps) {
-  const [imgErr, setImgErr] = useState(false);
+  const [imgSrc, setImgSrc] = useState(story.imageUrl || pexelsFallback(story));
   const topicColor = TOPIC_COLORS[story.topic] || "var(--text-muted)";
 
   return (
@@ -41,31 +46,14 @@ export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardPr
         rel="noopener noreferrer"
         className="block relative aspect-video overflow-hidden flex-shrink-0"
       >
-        {!imgErr && story.imageUrl ? (
-          <Image
-            src={story.imageUrl}
-            alt={story.headline}
-            fill
-            className="object-cover transition-transform duration-400 hover:scale-105"
-            onError={() => setImgErr(true)}
-            sizes="(min-width: 768px) 33vw, 100vw"
-          />
-        ) : (
-          <div className="w-full h-full bg-[var(--surface-2)] flex items-center justify-center">
-            <svg
-              width="32"
-              height="32"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="var(--text-muted)"
-              strokeWidth="1.5"
-            >
-              <rect x="3" y="3" width="18" height="18" rx="2" />
-              <circle cx="8.5" cy="8.5" r="1.5" />
-              <path d="M21 15l-5-5L5 21" />
-            </svg>
-          </div>
-        )}
+        <Image
+          src={imgSrc}
+          alt={story.headline}
+          fill
+          className="object-cover transition-transform duration-400 hover:scale-105"
+          onError={() => setImgSrc(pexelsFallback(story))}
+          sizes="(min-width: 768px) 33vw, 100vw"
+        />
         <div className="absolute top-2.5 left-2.5">
           <span
             className="px-2 py-1 text-[10px] font-bold uppercase tracking-wider rounded-md border"

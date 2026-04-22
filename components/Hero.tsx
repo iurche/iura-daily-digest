@@ -21,27 +21,19 @@ type HeroProps = {
 };
 
 export default function Hero({ story }: HeroProps) {
-  const [imgErr, setImgErr] = useState(false);
+  const pexelsSrc = `/api/pexels-image?q=${encodeURIComponent(story.headline.split(" ").slice(0, 4).join(" ") + " " + story.topic)}`;
+  const [imgSrc, setImgSrc] = useState(story.imageUrl || pexelsSrc);
 
   return (
     <section className="relative h-[88vh] min-h-[560px] overflow-hidden">
-      {!imgErr && story.imageUrl ? (
-        <Image
-          src={story.imageUrl}
-          alt={story.headline}
-          fill
-          priority
-          className="object-cover"
-          onError={() => setImgErr(true)}
-        />
-      ) : (
-        <div
-          className="absolute inset-0"
-          style={{
-            background: "linear-gradient(135deg, #0A1525, #094074)",
-          }}
-        />
-      )}
+      <Image
+        src={imgSrc}
+        alt={story.headline}
+        fill
+        priority
+        className="object-cover"
+        onError={() => setImgSrc(pexelsSrc)}
+      />
 
       <div
         className="absolute inset-0"
