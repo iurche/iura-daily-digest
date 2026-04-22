@@ -15,10 +15,12 @@ type Story = {
   imageUrl?: string;
 };
 
+const STORAGE_KEY = "dd-shelf";
+
 export default function ShelfPage() {
   const [stories, setStories] = useState<Story[]>([]);
   const [loading, setLoading] = useState(true);
-  const [saved, setSaved] = useState<Set<string>>(new Set());
+  const [savedStories, setSavedStories] = useState<Story[]>([]);
   const [filter, setFilter] = useState("all");
   const [toast, setToast] = useState({ visible: false, hiding: false, msg: "" });
   const toastTimer = useRef<NodeJS.Timeout | null>(null);
@@ -37,17 +39,14 @@ export default function ShelfPage() {
     };
 
     try {
-      const raw = localStorage.getItem("dd-saved");
-      if (raw) setSaved(new Set(JSON.parse(raw)));
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) setSavedStories(JSON.parse(raw));
     } catch {}
 
     loadData();
   }, []);
 
-  const savedStories = useMemo(
-    () => stories.filter((s) => saved.has(s.id)),
-    [stories, saved]
-  );
+  const saved = useMemo(() => new Set(savedStories.map((s) => s.id)), [savedStories]);
 
   const topics = useMemo(
     () => [...new Set(savedStories.map((s) => s.topic))],
@@ -66,17 +65,18 @@ export default function ShelfPage() {
     }, 2200);
   };
 
-  const toggle = useCallback((id: string) => {
-    setSaved((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) {
-        next.delete(id);
+  const toggle = useCallback((story: Story) => {
+    setSavedStories((prev) => {
+      const exists = prev.find((s) => s.id === story.id);
+      let next: Story[];
+      if (exists) {
+        next = prev.filter((s) => s.id !== story.id);
         showToast("Removed from shelf");
       } else {
-        next.add(id);
+        next = [...prev, story];
         showToast("Saved to shelf");
       }
-      localStorage.setItem("dd-saved", JSON.stringify([...next]));
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
       return next;
     });
   }, []);
@@ -249,7 +249,7 @@ export default function ShelfPage() {
                     {story.source}
                   </span>
                   <button
-                    onClick={() => toggle(story.id)}
+                    onClick={() => toggle(story)}
                     className="flex items-center gap-1.5 transition-colors"
                     style={{ color: saved.has(story.id) ? "var(--brand)" : "var(--text-muted)" }}
                   >

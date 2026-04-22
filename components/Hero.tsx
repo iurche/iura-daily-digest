@@ -109,7 +109,7 @@ export default function Hero({ story }: HeroProps) {
                 <path d="M7 17L17 7M17 7H7M17 7v10" />
               </svg>
             </Link>
-            <SaveButton storyId={story.id} size="lg" />
+            <SaveButton story={story} size="lg" />
           </div>
         </div>
       </div>

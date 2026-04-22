@@ -106,7 +106,7 @@ export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardPr
           <span className="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
             {story.source}
           </span>
-          <SaveButton storyId={story.id} />
+          <SaveButton story={story} />
         </div>
       </div>
     </article>

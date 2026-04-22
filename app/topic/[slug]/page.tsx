@@ -114,7 +114,7 @@ export default async function TopicPage({ params }: Props) {
                   <span className="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
                     {story.source}
                   </span>
-                  <SaveButton storyId={story.id} />
+                  <SaveButton story={story} />
                 </div>
               </div>
             </article>

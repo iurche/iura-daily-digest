@@ -1,19 +1,19 @@
 "use client";
 
 import { useState, useCallback } from "react";
-import { useShelf } from "@/lib/store";
+import { useShelf, type Story } from "@/lib/store";
 
 type SaveButtonProps = {
-  storyId: string;
+  story: Story;
   size?: "sm" | "lg";
 };
 
-export default function SaveButton({ storyId, size = "sm" }: SaveButtonProps) {
+export default function SaveButton({ story, size = "sm" }: SaveButtonProps) {
   const { toggle, isSaved } = useShelf();
   const [animating, setAnimating] = useState(false);
   const [particles, setParticles] = useState<{ id: number; dx: number; dy: number }[]>([]);
 
-  const saved = isSaved(storyId);
+  const saved = isSaved(story.id);
   const iconSize = size === "lg" ? 22 : 18;
 
   const handleClick = useCallback(() => {
@@ -30,8 +30,8 @@ export default function SaveButton({ storyId, size = "sm" }: SaveButtonProps) {
         setParticles([]);
       }, 600);
     }
-    toggle(storyId);
-  }, [saved, storyId, toggle]);
+    toggle(story);
+  }, [saved, story, toggle]);
 
   const color = saved ? "var(--brand)" : "var(--text-muted)";
 
