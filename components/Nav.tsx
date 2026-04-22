@@ -40,15 +40,7 @@ export default function Nav() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-250 ${
-        scrolled ? "h-13 bg-[var(--nav-bg)] backdrop-blur-md border-b border-[var(--border)]" : "h-16 bg-transparent border-transparent"
-      }`}
-      style={{
-        height: scrolled ? 52 : 64,
-        background: scrolled ? "var(--nav-bg)" : "transparent",
-        backdropFilter: scrolled ? "blur(16px)" : "none",
-        borderColor: scrolled ? "var(--border)" : "transparent",
-      }}
+      className="fixed top-0 left-0 right-0 z-50 h-16 bg-[var(--nav-bg)] backdrop-blur-md border-b border-[var(--border)] transition-all duration-250"
     >
       <div className="flex items-center justify-between h-full px-5 md:px-[5vw] lg:px-20">
         <Link href="/" className="flex items-center gap-2">
