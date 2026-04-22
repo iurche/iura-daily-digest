@@ -50,7 +50,7 @@ export default function Nav() {
             {formatDate(new Date())}
           </span>
 
-          <div className="hidden md:flex items-center gap-1.5 ml-2">
+          <div className="hidden lg:flex items-center gap-1.5 ml-2">
             <Link
               href="/"
               className="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider transition-all"
@@ -61,7 +61,7 @@ export default function Nav() {
             >
               All
             </Link>
-            {TOPIC_ORDER.slice(0, 6).map((topic) => (
+            {TOPIC_ORDER.map((topic) => (
               <Link
                 key={topic}
                 href={`/topic/${topic}`}

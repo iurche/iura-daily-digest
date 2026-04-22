@@ -9,6 +9,12 @@ type Props = {
   params: Promise<{ slug: string }>;
 };
 
+function getImageUrl(story: any) {
+  if (story.imageUrl) return story.imageUrl;
+  const q = `${story.headline.split(" ").slice(0, 4).join(" ")} ${story.topic}`;
+  return `/api/pexels-image?q=${encodeURIComponent(q)}`;
+}
+
 export async function generateStaticParams() {
   return TOPIC_ORDER.map((slug) => ({ slug }));
 }
@@ -80,15 +86,13 @@ export default async function TopicPage({ params }: Props) {
                 rel="noopener noreferrer"
                 className="block relative aspect-video overflow-hidden flex-shrink-0"
               >
-                {story.imageUrl && (
-                  <Image
-                    src={story.imageUrl}
-                    alt={story.headline}
-                    fill
-                    className="object-cover transition-transform duration-400 hover:scale-105"
-                    sizes="(min-width: 1024px) 33vw, 50vw"
-                  />
-                )}
+                <Image
+                  src={getImageUrl(story)}
+                  alt={story.headline}
+                  fill
+                  className="object-cover transition-transform duration-400 hover:scale-105"
+                  sizes="(min-width: 1024px) 33vw, 50vw"
+                />
               </Link>
 
               <div className="p-4 flex-1 flex flex-col gap-2">
