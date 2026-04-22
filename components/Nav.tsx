@@ -4,12 +4,22 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
+function formatDate(date: Date): string {
+  return date.toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
+}
+
 export default function Nav() {
   const [theme, setTheme] = useState("dark");
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
     const saved = localStorage.getItem("dd-theme") || "dark";
     setTheme(saved);
     document.documentElement.setAttribute("data-theme", saved);
@@ -48,9 +58,9 @@ export default function Nav() {
           <span className="text-sm font-bold tracking-tight text-[var(--text-strong)]">
             Daily Digest
           </span>
-          {!scrolled && (
+          {!scrolled && mounted && (
             <span className="text-xs text-[var(--text-muted)] ml-1">
-              Apr 22, 2026
+              {formatDate(new Date())}
             </span>
           )}
         </Link>
