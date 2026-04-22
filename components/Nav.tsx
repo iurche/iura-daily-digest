@@ -50,7 +50,7 @@ export default function Nav() {
             {formatDate(new Date())}
           </span>
 
-          <div className="hidden lg:flex items-center gap-1.5 ml-2">
+          <div className="hidden sm:flex items-center gap-1.5 ml-2">
             <Link
               href="/"
               className="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider transition-all"
@@ -66,6 +66,32 @@ export default function Nav() {
                 key={topic}
                 href={`/topic/${topic}`}
                 className="px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider transition-all"
+                style={{
+                  background: currentTopic === topic ? "var(--brand)" : "transparent",
+                  color: currentTopic === topic ? "#fff" : "var(--text-muted)",
+                }}
+              >
+                {TOPIC_LABELS[topic]}
+              </Link>
+            ))}
+          </div>
+
+          <div className="flex sm:hidden items-center gap-1 ml-2 overflow-x-auto">
+            <Link
+              href="/"
+              className="px-2.5 py-1 rounded-full text-xs font-semibold uppercase tracking-wider transition-all whitespace-nowrap"
+              style={{
+                background: isRoot ? "var(--brand)" : "transparent",
+                color: isRoot ? "#fff" : "var(--text-muted)",
+              }}
+            >
+              All
+            </Link>
+            {TOPIC_ORDER.map((topic) => (
+              <Link
+                key={topic}
+                href={`/topic/${topic}`}
+                className="px-2.5 py-1 rounded-full text-xs font-semibold uppercase tracking-wider transition-all whitespace-nowrap"
                 style={{
                   background: currentTopic === topic ? "var(--brand)" : "transparent",
                   color: currentTopic === topic ? "#fff" : "var(--text-muted)",
