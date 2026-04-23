@@ -1,0 +1,336 @@
+{
+  "date": "2026-04-23",
+  "heroStoryId": "2026-04-23-product-design-0",
+  "stories": [
+    {
+      "id": "2026-04-23-product-design-0",
+      "topic": "product-design",
+      "headline": "Nielsen Norman Group: Design Deeper to Differentiate in 2026",
+      "dek": "NNG's State of UX 2026 report argues that surface-level visual polish no longer sets products apart — only systems-level thinking and deep user understanding create durable competitive advantage.",
+      "source": "Nielsen Norman Group",
+      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
+      "isHero": true,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-product-design-1",
+      "topic": "product-design",
+      "headline": "10 UX Design Shifts You Can't Ignore in 2026",
+      "dek": "From spatial interfaces powered by Vision Pro to sound design emerging as a core component of design systems, UX is expanding well beyond the screen this year.",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/10-ux-design-shifts-you-cant-ignore-in-2026-8f0da1c6741d",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-product-design-2",
+      "topic": "product-design",
+      "headline": "AI Is Eliminating the Mechanical Parts of Design Workflows",
+      "dek": "73% of designers say AI as a design collaborator will have the most impact in 2026, with tools automating component variants, responsive resizing, and initial layout generation.",
+      "source": "UX Pilot",
+      "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-product-design-3",
+      "topic": "product-design",
+      "headline": "Evolved Glassmorphism: From Aesthetic Trend to Functional Design Layer",
+      "dek": "The 2026 revival of frosted panels and translucent surfaces is backed by modern blur APIs and cross-device performance improvements, making depth-layered UI finally practical at scale.",
+      "source": "Orizon",
+      "sourceUrl": "https://www.orizon.co/blog/10-ui-ux-trends-that-will-shape-2026",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ux-research-0",
+      "topic": "ux-research",
+      "headline": "How AI Is Transforming Usability Testing Analysis in 2026",
+      "dek": "AI tools are now helping UX teams process larger volumes of usability data and surface recurring patterns far faster, reducing the time from study to actionable insight.",
+      "source": "Parallel HQ",
+      "sourceUrl": "https://www.parallelhq.com/blog/how-to-do-usability-testing",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ux-research-1",
+      "topic": "ux-research",
+      "headline": "10 Essential UX Research Tools Reshaping Teams in 2026",
+      "dek": "Qualtrics surveys the platforms gaining adoption for everything from remote moderated sessions to large-scale behavioral analytics — with AI-assisted synthesis now table stakes.",
+      "source": "Qualtrics",
+      "sourceUrl": "https://www.qualtrics.com/articles/strategy-research/ux-research-tools/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ux-research-2",
+      "topic": "ux-research",
+      "headline": "Qualitative vs. Quantitative: Building a Balanced UX Research Strategy",
+      "dek": "Interviews and open-ended surveys uncover the 'why,' while A/B tests and analytics answer 'what' and 'when' — teams winning in 2026 are those combining both approaches systematically.",
+      "source": "ProCreator",
+      "sourceUrl": "https://procreator.design/blog/best-ux-research-methods/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-tools-0",
+      "topic": "ai-tools",
+      "headline": "Google Gemini 3.1 Ultra Ships with 2M Token Context and Native Multi-Modal Reasoning",
+      "dek": "Unlike prior versions, Gemini 3.1 was trained to reason across text, image, audio, and video simultaneously — and ships with a sandboxed Code Execution tool for mid-conversation coding.",
+      "source": "IM Founder",
+      "sourceUrl": "https://imfounder.com/science-tech/ai/ai-updates-april-2026-openai-codex-claude-design/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-tools-1",
+      "topic": "ai-tools",
+      "headline": "Visa Launches Intelligent Commerce Connect for AI Agent Transactions",
+      "dek": "Visa's new platform lets AI agents browse, select, and pay on behalf of users — with tokenization, authentication, and spend controls built in through a unified integration layer.",
+      "source": "Mean CEO Blog",
+      "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-april-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-tools-2",
+      "topic": "ai-tools",
+      "headline": "Autodesk Fusion Gets AI Scripting: Write and Run API Code from Plain Language",
+      "dek": "Autodesk's April update lets the Autodesk Assistant write and execute scripts against the Fusion API mid-workflow in response to natural language requests, eliminating a major barrier to automation.",
+      "source": "Autodesk",
+      "sourceUrl": "https://www.autodesk.com/products/fusion-360/blog/april-2026-product-update-whats-new/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-tools-3",
+      "topic": "ai-tools",
+      "headline": "OpenAI Introduces GPT-Rosalind for Pharmaceutical Drug Discovery",
+      "dek": "Named after Rosalind Franklin, this GPT variant is purpose-built for drug discovery workflows, marking a significant step toward specialized LLMs for life sciences applications.",
+      "source": "MarketingProfs",
+      "sourceUrl": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-research-0",
+      "topic": "ai-research",
+      "headline": "Neuro-Symbolic AI Cuts Energy Use 100x While Boosting Accuracy",
+      "dek": "Tufts University researchers combined neural networks with symbolic reasoning to reduce AI energy consumption by up to 100× — a potentially transformative result for sustainable AI deployment.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-research-1",
+      "topic": "ai-research",
+      "headline": "Stanford AI Index 2026: 12 Takeaways on Where AI Stands Today",
+      "dek": "HAI's annual index tracks AI's progress across research, deployment, and societal impact — with vibe coding and agentic systems emerging as the defining development trends of the year.",
+      "source": "Stanford HAI",
+      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-research-2",
+      "topic": "ai-research",
+      "headline": "NVIDIA's Physical AI Push: Isaac GR00T Models Enable Robots to Follow Natural Language",
+      "dek": "New open models from NVIDIA let humanoid robots understand everyday language instructions and complete complex, multi-step tasks using vision-language-action reasoning.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-ai-research-3",
+      "topic": "ai-research",
+      "headline": "MIT Technology Review Names Vibe Coding a 2026 Breakthrough Technology",
+      "dek": "Building applications through natural language prompts rather than traditional coding has arrived as a recognized engineering paradigm, fueling productivity gains across industries.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-iot-hardware-0",
+      "topic": "iot-hardware",
+      "headline": "IoT Semiconductor Innovation Heats Up: 6 Predictions for 2026",
+      "dek": "IoT Analytics outlines how chips powering 20+ billion connected devices are evolving — with edge AI integration, ultra-low power designs, and multi-protocol connectivity as key battlegrounds.",
+      "source": "IoT Analytics",
+      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-iot-hardware-1",
+      "topic": "iot-hardware",
+      "headline": "MultiTech Showcases Solar-Powered Sensors and Sustainable IoT at CES 2026",
+      "dek": "MultiTech unveiled wireless sensors and edge gateways designed to measure critical environmental and energy data, with a focus on reducing waste and supporting long-term sustainability goals.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-iot-hardware-2",
+      "topic": "iot-hardware",
+      "headline": "Why IoT Platforms Must Evolve for Edge Intelligence",
+      "dek": "As sensor-driven applications scale, integrated platforms combining ultra-low power, multi-protocol connectivity, and on-device AI are becoming essential — cloud-only architectures are losing ground.",
+      "source": "Fierce Sensors",
+      "sourceUrl": "https://www.fiercesensors.com/sensors/why-iot-platforms-must-evolve-edge-intelligence",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-iot-hardware-3",
+      "topic": "iot-hardware",
+      "headline": "The Technologies Driving the Next Wave of IoT Growth in 2026",
+      "dek": "IoT Insider maps the convergence of 5G, edge computing, and AI enabling new categories of connected infrastructure across industrial, smart-city, and healthcare applications.",
+      "source": "IoT Insider",
+      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-aiot-0",
+      "topic": "aiot",
+      "headline": "AIoT in 2026: The Shift from Edge Intelligence to Agentic Systems",
+      "dek": "LLM-powered AI agents are transforming AIoT from specialized tools requiring expert configuration into natural-language-accessible intelligent systems, opening deployment to far broader audiences.",
+      "source": "IoT Evolution World",
+      "sourceUrl": "https://www.iotevolutionworld.com/iot/articles/463180-aiot-2026-from-edge-intelligence-agentic-systems.htm",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-aiot-1",
+      "topic": "aiot",
+      "headline": "Hikvision's Top 5 AIoT Trends: Multi-Modal AI and Video-First Intelligence",
+      "dek": "Video is becoming the foundational data type for a new generation of IoT applications in 2026, with multi-modal AI models capable of extracting meaning from image, video, and audio simultaneously.",
+      "source": "Hikvision",
+      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-aiot-2",
+      "topic": "aiot",
+      "headline": "AIoT Market to Hit $102 Billion as Smart Systems Redefine Business Operations",
+      "dek": "AI and IoT together deliver exponentially more value than either alone — from optimizing production lines to enabling real-time environmental monitoring across conservation and agriculture.",
+      "source": "Speed4Trading",
+      "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-smart-agriculture-0",
+      "topic": "smart-agriculture",
+      "headline": "IoT Precision Irrigation Cuts Water Use 30% — Now It's an Operational Necessity",
+      "dek": "Smart farming IoT has moved from experimental to essential: solar-powered sensor networks with edge computing are now economically viable even on marginal land, with proven 30% water use reductions.",
+      "source": "Agtech Folio3",
+      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-smart-agriculture-1",
+      "topic": "smart-agriculture",
+      "headline": "Soil Carbon IoT Sensors Create New Revenue Streams Through Carbon Credits",
+      "dek": "Real-time soil monitoring is now generating carbon-credit income for farmers, creating a direct financial incentive to improve soil health alongside the environmental benefit.",
+      "source": "Farmonaut",
+      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-smart-agriculture-2",
+      "topic": "smart-agriculture",
+      "headline": "Self-Sustaining IoT Networks Use AI-Driven Energy Harvesting for Field Sensors",
+      "dek": "New research demonstrates IoT agricultural networks powered by renewable energy harvesting, eliminating the battery replacement burden that has long hampered continuous field monitoring.",
+      "source": "Spectrum of Engineering Sciences",
+      "sourceUrl": "https://thesesjournal.com/index.php/1/article/view/2099",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-smart-agriculture-3",
+      "topic": "smart-agriculture",
+      "headline": "Advancing Agriculture Through IoT, Big Data, and AI: A Sustainability Review",
+      "dek": "A ScienceDirect review synthesizes evidence that combined IoT-AI systems are materially improving resource utilization, crop yields, and environmental outcomes across farming operations globally.",
+      "source": "ScienceDirect",
+      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2772375525000814",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-career-signals-0",
+      "topic": "career-signals",
+      "headline": "Senior Director of Product Design at Skyscanner Open in Barcelona",
+      "dek": "Skyscanner is hiring a Senior Director of Product Design in Barcelona — one of dozens of senior design roles active across Spain in April 2026, with salaries ranging from €60K–€90K.",
+      "source": "UI/UX Designer Jobs",
+      "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-career-signals-1",
+      "topic": "career-signals",
+      "headline": "Spain's Design Job Market: 296 Open Roles in Barcelona, Figma Tops Skill Demand",
+      "dek": "With hundreds of open roles across Barcelona and remote-EU positions, employers are increasingly requiring both tool fluency and AI collaboration skills alongside traditional UX competencies.",
+      "source": "UI/UX Jobs Board",
+      "sourceUrl": "https://uiuxjobsboard.com/design-jobs/spain",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-career-signals-2",
+      "topic": "career-signals",
+      "headline": "Remote Senior Product Designer Roles on the Rise Across EU-Based Companies",
+      "dek": "Companies like Lisk, PandaDoc, and Elastic are hiring senior product designers with fully remote EU-compatible contracts, broadening options for designers outside major tech hubs.",
+      "source": "Design Remote Jobs",
+      "sourceUrl": "https://www.designremotejobs.com/job/lisk-senior-product-designer",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Beijing Is Building a Town Where Everyone Works on Satellites",
+      "dek": "China is constructing a dedicated satellite industry township to compete in the global commercial space race, clustering manufacturing, R&D, and talent in one purpose-built location.",
+      "source": "Technology.org",
+      "sourceUrl": "https://www.technology.org/2026/04/20/beijing-is-building-a-town-where-everyone-works-on-satellites/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Meta Set to Surpass Google in Global Advertising Revenue in 2026",
+      "dek": "Analysts project Meta will reach $243B in ad revenue versus Google's $239B — driven by AI-powered automation and superior performance measurement tools across its platforms.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "NVIDIA and Adobe Partner on AI Agents for Enterprise Content Creation",
+      "dek": "The collaboration uses NVIDIA's Agent Toolkit and Nemotron models to power AI agents that automate content creation, editing, and decision-making workflows for enterprise creative teams.",
+      "source": "IT Today",
+      "sourceUrl": "https://www.newtech.ro/en/blog-it-news-april-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    },
+    {
+      "id": "2026-04-23-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Google to Unveil Next-Generation TPUs at Cloud Next 2026",
+      "dek": "Google is set to announce dedicated inference chips designed to accelerate AI model execution, and is in talks with Marvell Technology to develop a memory processing unit optimized for inference workloads.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/21/top-tech-news-today-april-21-2026/",
+      "isHero": false,
+      "publishedAt": "2026-04-23T08:00:00.000Z"
+    }
+  ]
+}
