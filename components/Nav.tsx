@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { TOPIC_ORDER, TOPIC_LABELS } from "@/lib/topics";
+import { useShelf } from "@/lib/store";
 
 function formatDate(date: Date): string {
   return date.toLocaleDateString("en-US", {
@@ -18,6 +19,11 @@ export default function Nav() {
   const [topicOpen, setTopicOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
+  const hydrate = useShelf((state) => state.hydrate);
+
+  useEffect(() => {
+    hydrate();
+  }, [hydrate]);
 
   useEffect(() => {
     const saved = localStorage.getItem("dd-theme") || "dark";

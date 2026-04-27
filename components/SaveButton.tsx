@@ -10,7 +10,6 @@ type SaveButtonProps = {
 
 export default function SaveButton({ story, size = "sm" }: SaveButtonProps) {
   const toggle = useShelf((state) => state.toggle);
-  const hydrate = useShelf((state) => state.hydrate);
   const savedStories = useShelf((state) => state.saved);
   
   const [mounted, setMounted] = useState(false);
@@ -19,8 +18,7 @@ export default function SaveButton({ story, size = "sm" }: SaveButtonProps) {
 
   useEffect(() => {
     setMounted(true);
-    hydrate();
-  }, [hydrate]);
+  }, []);
 
   const saved = mounted ? savedStories.some(s => s.sourceUrl === story.sourceUrl) : false;
   const iconSize = size === "lg" ? 22 : 18;
