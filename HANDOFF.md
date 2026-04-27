@@ -1,180 +1,96 @@
 # Daily Digest — Handoff Document
 
-**Last updated:** 2026-04-22  
+**Last updated:** April 27, 2026  
 **Owner:** Iura Osadchuk  
 **Live site:** https://iura-daily-digest.vercel.app
 
 ---
 
-## Architecture Overview
+## 1. Automation Architecture
+
+The system is fully automated and runs entirely in the cloud via GitHub Actions.
 
 ```
-[CCR Morning Agent — 8:00 AM Madrid / 6:00 AM UTC]
+[GitHub Actions — 06:00 UTC / 08:00 Madrid]
     │
-    ├─ WebSearch × 9 topics (last 24h)
-    ├─ Paywall filter (hard rule — see §6)
-    ├─ Build Digest JSON
-    ├─ git clone iurche/iura-daily-digest
-    ├─ Write content/digests/YYYY-MM-DD.json
+    ├─ pnpm build-digest (scripts/build-digest.ts)
+    │    ├─ Filter previously seen URLs (content/seen-urls.json)
+    │    ├─ Fetch news (RSS feeds + The Guardian API)
+    │    └─ Fetch cover images (Unsplash/Pexels)
+    │
+    ├─ Write digest JSON → content/digests/YYYY-MM-DD.json
+    │
     ├─ git commit + git push origin main
     │       └─ Vercel auto-build triggered
+    │
     └─ Telegram notification → @iurasclaude_bot
 ```
 
-**Stack:** Next.js 16 App Router · TypeScript · Tailwind CSS · Zustand · Vercel  
-**Content store:** JSON files in `/content/digests/YYYY-MM-DD.json` — no database  
-**Shelf state:** `localStorage` — stores full Story objects, not just IDs
+**Stack:** Next.js 15 App Router · TypeScript · Tailwind CSS · Zustand · GitHub Actions · Vercel  
+**Deduplication:** Persistent 30-day rolling log in `content/seen-urls.json`. Articles are never repeated within a month.
 
 ---
 
-## 1. JSON Schema
+## 2. Shelf & Cross-Device Sync
 
-The morning pipeline must write files that exactly match this schema.
+The "Shelf" allows saving articles across devices and browser sessions.
 
-### `Digest` (top-level file)
-```ts
-{
-  date: string;          // YYYY-MM-DD
-  heroStoryId: string;   // Must match the id of a story in stories[] where isHero: true
-  stories: Story[];
-}
-```
-
-### `Story`
-```ts
-{
-  id: string;            // "{date}-{topic}-{index}" e.g. "2026-04-21-ai-tools-2"
-  topic: Topic;          // Exact slug — see valid values below
-  headline: string;      // Article title, max ~120 chars
-  dek: string;           // 1–2 sentence editorial summary
-  source: string;        // Display name of publication e.g. "The Guardian"
-  sourceUrl: string;     // Direct article URL — must be free, no paywall
-  imageUrl?: string;     // Optional. Unsplash URL. Falls back to Pexels if null.
-  imageCredit?: string;  // Optional. "Photo by Name on Unsplash"
-  isHero?: boolean;      // true on exactly one story per digest (first product-design story)
-  publishedAt: string;   // ISO 8601 e.g. "2026-04-21T08:00:00.000Z"
-}
-```
-
-### Valid `Topic` slugs
-```
-product-design | ux-research | ai-tools | ai-research |
-iot-hardware   | aiot        | smart-agriculture | career-signals | in-the-world
-```
+- **Instant State:** Uses `localStorage` as a zero-latency local cache.
+- **Cloud Sync:** Syncs to a private **GitHub Gist** in the background via a server-side proxy route (`/api/shelf`).
+- **Stable Identity:** Articles are identified by their `sourceUrl`. This ensures bookmarks remain valid even if the daily digest is rebuilt or stories are reordered.
+- **Hydration:** The app automatically merges local and remote saves on every page load.
 
 ---
 
-## 2. Infrastructure
+## 3. Infrastructure & Credentials
 
-| Resource | Value |
+All secrets are managed as **GitHub Actions Secrets**.
+
+| Resource | Value / Location |
 |---|---|
-| Live site | https://iura-daily-digest.vercel.app |
-| GitHub repo | https://github.com/iurche/iura-daily-digest (private) |
-| Vercel project | https://vercel.com/iurches-projects/iura-daily-digest |
-| Vercel project ID | `prj_8qAe7bjzbNCE4JeAxctZ4XERGV7q` |
-| Vercel team ID | `team_hFg1AbJcnmTpl80fMp9B67g1` |
-| CCR trigger | https://claude.ai/code/scheduled/trig_01GbKbhfBPM3s5zTM2xvFNJH |
-| Trigger name | Iura Daily Digest v5 |
-| Cron | `0 6 * * *` (06:00 UTC = 08:00 Madrid) |
-| Telegram bot | @iurasclaude_bot · chat_id `382160671` |
+| GitHub Repository | https://github.com/iurche/iura-daily-digest |
+| GitHub Actions | /actions (Runs every day at 06:00 UTC) |
+| Vercel Project | `iura-daily-digest` |
+| Telegram Bot | `@iurasclaude_bot` (Chat ID: `382160671`) |
+| Storage (Shelf) | Private GitHub Gist |
+
+### Required Secrets (GitHub)
+- `VERCEL_TOKEN`: For deployment status/CLI access.
+- `TELEGRAM_BOT_TOKEN`: For automated daily notifications.
+- `GH_PAT`: Personal Access Token for the bot to push new digests to the repo.
+- `SHELF_GIST_ID` & `SHELF_GITHUB_TOKEN`: For cross-device shelf storage.
+- `UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`, `GEMINI_API_KEY`, `GUARDIAN_API_KEY`: Content APIs.
 
 ---
 
-## 3. Routes
+## 4. Topics & Content
 
-| Route | Description | Caching |
-|---|---|---|
-| `/` | Today's digest (latest JSON) | SSG |
-| `/topic/[slug]` | All stories for a topic | SSG (pre-rendered) |
-| `/shelf` | Saved stories from localStorage | Client-only |
-| `/api/stories` | Flat JSON of all stories | Dynamic |
+The digest covers 8-10 core topics including Product Design, UX Research, AI Innovation, IoT, and Career Signals.
 
----
-
-## 4. Components
-
-| Component | Purpose |
-|---|---|
-| `Nav` | Fixed header with logo, date, topic pills (desktop), dropdown (mobile), Shelf button, theme toggle |
-| `Hero` | Full-bleed hero story with gradient overlay |
-| `StoryCard` | Image-top card used in topic grids |
-| `TopicSection` | Section header + responsive StoryCard grid (1/2/3 columns) |
-| `SaveButton` | Bookmark toggle with particle animation |
-| `Toast` | Notification popup for save/unsave actions |
-| `Footer` | Dynamic date, links |
-
-### Responsive Breakpoints
-- Mobile: 1 column grid, topic dropdown
-- Tablet (md): 2 columns
-- Desktop (lg): 3 columns, inline topic pills
+**Key Features:**
+- **Hero Story:** The lead article of the day with high-impact visuals.
+- **Topic Filtering:** Dedicated views for every discipline.
+- **Archive:** Full calendar-based navigation of historical digests.
+- **Same-day Safety:** Manual re-runs of the pipeline (via GitHub Actions "Run workflow") are safe and will refresh content without blocking same-day stories unless they were featured in previous days.
 
 ---
 
-## 5. Navigation
+## 5. Development & Deployment
 
-**Desktop (sm+):** Inline horizontal pills showing all 8 topics
-**Mobile:** Dropdown menu with "Topics" button
-
-Current topics in nav order:
-1. All (homepage)
-2. Product Design
-3. UX Research
-4. AI Tools
-5. AI Research
-6. IoT & Hardware
-7. AIoT
-8. Smart Agriculture
-9. Career Signals
-10. In The World
-
----
-
-## 6. Shelf (Saved Stories)
-
-- Full Story objects stored in `localStorage` key `dd-shelf` as JSON array
-- Persists across days (not lost when stories rotate out of today's feed)
-- Export to Markdown available on shelf page
-
----
-
-## 7. Theme
-
-- Dark mode (default): `--bg: #0A0A0A`, `--brand: #049EE2` (cyan)
-- Light mode: toggle in nav
-- CSS variables in `app/globals.css`
-
----
-
-## 8. Imagery
-
-**Image priority:**
-1. `story.imageUrl` from JSON (Unsplash)
-2. Pexels fallback via `/api/pexels-image?q={query}` route
-3. No image if both fail
-
-**Pexels API:** Key stored in Vercel env var `PEXELS_API_KEY`
-
----
-
-## 9. Local Dev
-
+### Local Development
 ```bash
 pnpm install
 pnpm dev
 ```
 
+### Manual Trigger
+If you need to force an update immediately:
+1. Go to **GitHub Actions** → **Daily Digest**.
+2. Click **Run workflow** → **Branch: main**.
+
 ---
 
-## 10. Deploy
-
-```bash
-git add -A
-git commit -m "message"
-git push origin main
-# Vercel auto-deploys
-```
-
-Or manually:
-```bash
-npx vercel --prod --yes
-```
+## 6. Known Items
+1. **Stable IDs**: Articles saved before April 27, 2026, should be re-saved to use the new `sourceUrl` identification format.
+2. **First Load Sync**: Cloud sync happens in the background. After saving on a new device, allow 1-2 seconds for the state to merge on other devices.
+3. **Legacy Triggers**: All old Claude Cloud (CCR) triggers have been decommissioned in favor of GitHub Actions.
