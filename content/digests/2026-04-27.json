@@ -1,304 +1,72 @@
 {
   "date": "2026-04-27",
-  "heroStoryId": "2026-04-27-product-design-0",
+  "heroStoryId": "2026-04-27-in-the-world-0",
   "stories": [
-    {
-      "id": "2026-04-27-product-design-0",
-      "topic": "product-design",
-      "headline": "The End of the App: Why Conversational Interfaces Are Replacing Screens",
-      "dek": "As voice and agent-driven interaction matures, the traditional screen-based app paradigm is being challenged. Designers now must think in flows, not frames — and the shift is bigger than mobile-to-web ever was.",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/the-end-of-the-app-why-conversational-interfaces-are-replacing-screens",
-      "isHero": true,
-      "publishedAt": "2026-04-27T07:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-product-design-1",
-      "topic": "product-design",
-      "headline": "Designing for Uncertainty: How to Build Products That Survive Rapid AI Change",
-      "dek": "The best product teams in 2026 are designing for optionality — building modular systems that can absorb AI capability upgrades without requiring full redesigns.",
-      "source": "Mind the Product",
-      "sourceUrl": "https://www.mindtheproduct.com/designing-for-uncertainty-ai-product-change/",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-product-design-2",
-      "topic": "product-design",
-      "headline": "Micro-Feedback Loops: The Design Pattern Every AI Product Needs",
-      "dek": "Lightweight in-context feedback — a thumbs up, a quick correction, a tone dial — is how leading AI products improve without breaking the flow. Here's how to design them well.",
-      "source": "Nielsen Norman Group",
-      "sourceUrl": "https://www.nngroup.com/articles/micro-feedback-ai-products/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-product-design-3",
-      "topic": "product-design",
-      "headline": "The Comeback of Skeuomorphism — But Make It AI",
-      "dek": "Flat design's reign may be ending. As AI interfaces try to signal capability and trustworthiness, designers are reaching back to tactile metaphors — but with a modern, data-driven twist.",
-      "source": "Fast Company Design",
-      "sourceUrl": "https://www.fastcompany.com/design/skeuomorphism-ai-interfaces-2026",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ux-research-0",
-      "topic": "ux-research",
-      "headline": "Shadow AI Use in Enterprise: What Researchers Are Finding When They Actually Look",
-      "dek": "New field studies show employees use personal AI tools for work tasks at rates companies never suspected — creating invisible UX gaps and compliance exposure that research teams are just beginning to map.",
-      "source": "Harvard Business Review",
-      "sourceUrl": "https://hbr.org/2026/04/shadow-ai-enterprise-ux-research",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ux-research-1",
-      "topic": "ux-research",
-      "headline": "Diary Studies Are Having a Moment — Here's Why Longitudinal UX Is Back",
-      "dek": "With AI products embedding into daily routines, snapshot usability tests are missing the full picture. Diary studies that track behavior over weeks are back in fashion — and much cheaper to run in 2026.",
-      "source": "Boxes and Arrows",
-      "sourceUrl": "https://boxesandarrows.com/diary-studies-longitudinal-ux-2026/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ux-research-2",
-      "topic": "ux-research",
-      "headline": "How to Run AI-Assisted Thematic Analysis Without Losing the Human Signal",
-      "dek": "AI can cluster 500 interview transcripts in minutes — but researchers warn that automated theme labeling flattens nuance. A new protocol from Spotify's research team aims to preserve it.",
-      "source": "UX Matters",
-      "sourceUrl": "https://www.uxmatters.com/mt/archives/2026/04/ai-assisted-thematic-analysis.php",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ux-research-3",
-      "topic": "ux-research",
-      "headline": "The Curse of the Expert Researcher: Why Deep UX Knowledge Slows Insight Cycles",
-      "dek": "Experienced researchers often take longer to synthesize findings than generalists with AI tools. A provocative new analysis suggests the field needs to rethink seniority ladders and what 'expertise' actually means now.",
-      "source": "UX Planet",
-      "sourceUrl": "https://uxplanet.org/curse-expert-researcher-insight-cycles-2026",
-      "publishedAt": "2026-04-23T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-tools-0",
-      "topic": "ai-tools",
-      "headline": "Anthropic Launches Claude for Work: Shared Memory, Team Projects, Persistent Context",
-      "dek": "Claude for Work introduces org-level memory and shared project spaces, letting teams build a persistent institutional knowledge layer that every Claude conversation can draw from automatically.",
-      "source": "Anthropic Blog",
-      "sourceUrl": "https://www.anthropic.com/news/claude-for-work-2026",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-tools-1",
-      "topic": "ai-tools",
-      "headline": "Figma AI Adds 'Design from Brief' — One Prompt, Full Component Set",
-      "dek": "Figma's April update introduces end-to-end brief-to-component generation: paste a product requirement and get a responsive component set, annotated and variant-ready, in seconds.",
-      "source": "Figma Blog",
-      "sourceUrl": "https://www.figma.com/blog/design-from-brief-ai-2026/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-tools-2",
-      "topic": "ai-tools",
-      "headline": "Perplexity Launches Comet: An AI Browser That Reasons Before It Browses",
-      "dek": "Comet replaces the traditional address bar with a reasoning layer — the browser plans a multi-step research path before fetching any pages, returning synthesized answers rather than raw results.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/2026/04/25/perplexity-comet-ai-browser",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-tools-3",
-      "topic": "ai-tools",
-      "headline": "NotebookLM Adds Live Collaboration: Multiple Researchers, One Shared AI Mind",
-      "dek": "Google's NotebookLM now supports real-time multiplayer sessions where up to 20 researchers can simultaneously interrogate the same document set, see each other's queries, and build shared insight threads.",
-      "source": "Google Blog",
-      "sourceUrl": "https://blog.google/products/notebooklm/live-collaboration-april-2026/",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-research-0",
-      "topic": "ai-research",
-      "headline": "OpenAI Releases o4: Reasoning Model That Plans, Searches, and Self-Corrects Mid-Task",
-      "dek": "o4 introduces continuous self-evaluation during long tasks — the model pauses, audits its own reasoning chain, and backtracks when it detects likely errors, dramatically reducing hallucination rates on complex tasks.",
-      "source": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/research/o4-reasoning-model-2026",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-research-1",
-      "topic": "ai-research",
-      "headline": "DeepMind's AlphaFold 4 Predicts Protein-Drug Binding With Near-Lab Accuracy",
-      "dek": "The latest AlphaFold release extends beyond protein structure prediction into binding affinity modeling, giving drug discovery teams a computational alternative to expensive wet-lab screening at the early discovery stage.",
-      "source": "DeepMind Blog",
-      "sourceUrl": "https://deepmind.google/discover/blog/alphafold4-protein-drug-binding-2026/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-research-2",
-      "topic": "ai-research",
-      "headline": "The Alignment Tax Is Shrinking: Safe Models Now Within 3% of Unconstrained Benchmarks",
-      "dek": "A new Stanford analysis shows that the performance gap between safety-aligned and unconstrained frontier models has narrowed to 3% on standard reasoning tasks — a milestone for making alignment economically viable.",
-      "source": "Stanford HAI",
-      "sourceUrl": "https://hai.stanford.edu/research/alignment-tax-analysis-2026",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-ai-research-3",
-      "topic": "ai-research",
-      "headline": "Mixture-of-Experts Goes Consumer: Why Your Next Phone Will Run a 70B-Class Model",
-      "dek": "New MoE architectures activate only a fraction of parameters per inference step, making models that rival GPT-4-class performance runnable on smartphone hardware — with no cloud dependency.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/24/mixture-of-experts-consumer-devices/",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-iot-hardware-0",
-      "topic": "iot-hardware",
-      "headline": "RISC-V Hits Critical Mass: 50% of New IoT SoC Designs Now Use Open ISA",
-      "dek": "For the first time, RISC-V has crossed the majority threshold in new IoT chip designs, according to an RISC-V International survey — driven by licensing costs, customisation freedom, and growing toolchain maturity.",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/risc-v-iot-majority-2026",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-iot-hardware-1",
-      "topic": "iot-hardware",
-      "headline": "Ambient Backscatter 2.0: IoT Sensors That Harvest Wi-Fi Signals to Run Indefinitely",
-      "dek": "A University of Washington team demonstrated a new ambient backscatter protocol that harvests enough energy from ambient Wi-Fi and Bluetooth signals to run a full BLE sensor node perpetually — with no battery.",
-      "source": "Ars Technica",
-      "sourceUrl": "https://arstechnica.com/science/2026/04/ambient-backscatter-iot-wifi-battery-free/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-iot-hardware-2",
-      "topic": "iot-hardware",
-      "headline": "Matter 2.0 Ratified: Thread Mesh, Energy Reporting, and Camera APIs Now Standard",
-      "dek": "The Connectivity Standards Alliance ratified Matter 2.0, adding Thread mesh networking, standardised energy-usage reporting for appliances, and a unified camera streaming API — closing major gaps that slowed smart home adoption.",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/2026/04/matter-2-ratified-thread-energy-camera",
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-iot-hardware-3",
-      "topic": "iot-hardware",
-      "headline": "Industrial IoT Security: Why OT Networks Are Still the Weakest Link in 2026",
-      "dek": "A new Dragos threat report finds that 68% of critical-infrastructure incidents start with an unsecured OT device — and that patching cycles measured in years, not weeks, remain the core systemic problem.",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/industrial-iot-ot-security-weakest-link-2026/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-aiot-0",
-      "topic": "aiot",
-      "headline": "NVIDIA Jetson Thor Lands: 2,000 TOPS, Designed for Humanoid Robots and Autonomous Vehicles",
-      "dek": "Jetson Thor is NVIDIA's most powerful edge AI module to date, targeting applications that require full autonomy — from warehouse robots to autonomous delivery vehicles — all running locally with no cloud dependency.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/jetson-thor-edge-ai-2026/",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-aiot-1",
-      "topic": "aiot",
-      "headline": "Federated Learning Reaches Production Scale in Manufacturing AIoT Deployments",
-      "dek": "Siemens and Bosch have both shipped production federated-learning pipelines where hundreds of factory-floor AIoT devices train a shared quality-control model without sharing raw sensor data — addressing privacy and bandwidth constraints simultaneously.",
-      "source": "IoT Analytics",
-      "sourceUrl": "https://iot-analytics.com/federated-learning-manufacturing-aiot-2026/",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-aiot-2",
-      "topic": "aiot",
-      "headline": "TinyML Benchmarks 2026: Which Edge AI Frameworks Win on Power vs. Accuracy?",
-      "dek": "An independent benchmark comparing TensorFlow Lite, ONNX Runtime, and ExecuTorch on six hardware platforms reveals wide divergence in power draw — and that the 'best' framework depends entirely on your target chip.",
-      "source": "Embedded Computing Design",
-      "sourceUrl": "https://www.embedded-computing.com/tinyml-benchmark-2026-edge-ai-frameworks/",
-      "publishedAt": "2026-04-23T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-aiot-3",
-      "topic": "aiot",
-      "headline": "Smart Grid Meets AIoT: How Utilities Are Using Edge AI to Prevent Blackouts",
-      "dek": "Pacific Gas & Electric deployed an AIoT sensor grid across 1,200 substations that predicts equipment failure 72 hours in advance — the pilot prevented an estimated 14 outages in its first six months.",
-      "source": "IEEE Spectrum",
-      "sourceUrl": "https://spectrum.ieee.org/smart-grid-aiot-blackout-prevention-2026",
-      "publishedAt": "2026-04-22T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-smart-agriculture-0",
-      "topic": "smart-agriculture",
-      "headline": "John Deere's Autonomous Tractor Logs 1 Million Hours: What the Data Shows",
-      "dek": "John Deere released a first-of-kind operational dataset from its autonomous tractor fleet — revealing that machine-hours per acre have dropped 34%, while fuel efficiency improved 18% compared to human-operated baselines.",
-      "source": "AgFunder News",
-      "sourceUrl": "https://agfundernews.com/john-deere-autonomous-tractor-1-million-hours-data-2026",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-smart-agriculture-1",
-      "topic": "smart-agriculture",
-      "headline": "Vertical Farming's Profitability Crisis — and How AI Is the Only Path Out",
-      "dek": "After a wave of closures, the surviving vertical farms share one thing: AI-optimized grow cycles. The technology has cut energy-per-kilogram by up to 40%, finally making the economics work for leafy greens at scale.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/vertical-farming-ai-profitability/",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-smart-agriculture-2",
-      "topic": "smart-agriculture",
-      "headline": "EU Approves 'Digital Farm Twin' Subsidy — €2B to Connect Every EU Farm by 2030",
-      "dek": "The European Commission approved a landmark programme funding digital twin infrastructure for EU farms, linking soil sensors, satellite imagery, and weather data into unified farm-management platforms for operators of all scales.",
-      "source": "Euractiv",
-      "sourceUrl": "https://www.euractiv.com/eu-digital-farm-twin-subsidy-2026/",
-      "publishedAt": "2026-04-23T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-career-signals-0",
-      "topic": "career-signals",
-      "headline": "Barcelona's Tech Hiring Surge: 40% More Senior Design Roles Than This Time Last Year",
-      "dek": "LinkedIn Talent Insights data shows Barcelona posted 40% more senior product design and UX roles in Q1 2026 versus Q1 2025, with the strongest demand coming from fintech, health-tech, and B2B SaaS scale-ups.",
-      "source": "LinkedIn Talent Blog",
-      "sourceUrl": "https://www.linkedin.com/business/talent/blog/talent-strategy/barcelona-tech-hiring-2026",
-      "publishedAt": "2026-04-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-career-signals-1",
-      "topic": "career-signals",
-      "headline": "The €90K Design Role: Why Barcelona Salaries Are Catching Up to London and Amsterdam",
-      "dek": "A new Levels.fyi analysis shows Barcelona senior designer salaries now reaching €85–95K total compensation at scale-ups — still a gap to London, but narrowing as remote-first culture reduces geographic arbitrage.",
-      "source": "Levels.fyi Blog",
-      "sourceUrl": "https://www.levels.fyi/blog/barcelona-designer-salaries-2026/",
-      "publishedAt": "2026-04-24T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-27-career-signals-2",
-      "topic": "career-signals",
-      "headline": "Wallapop, Holaluz, and Factorial Open Design System Roles — April 2026 Roundup",
-      "dek": "Three prominent Barcelona tech companies posted design system and principal design roles this week, signalling continued investment in foundational design infrastructure rather than feature-team headcount alone.",
-      "source": "startup.jobs",
-      "sourceUrl": "https://startup.jobs/locations/barcelona/design?week=2026-04-27",
-      "publishedAt": "2026-04-27T07:00:00.000Z"
-    },
     {
       "id": "2026-04-27-in-the-world-0",
       "topic": "in-the-world",
-      "headline": "Pope Leo XIV Elected: First American Pope in Catholic Church History",
-      "dek": "Cardinal Robert Francis Prevost of Chicago was elected Pope Leo XIV on Thursday, becoming the first American to lead the Catholic Church. The 69-year-old is known for his work with marginalised communities and his moderate theological stance.",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/world/2026/apr/27/pope-leo-xiv-elected-first-american-pope",
-      "publishedAt": "2026-04-27T06:00:00.000Z"
+      "headline": "Google’s new gradient icon design is coming to more apps",
+      "dek": "In late 2025, Google started rolling out new icons with a gradient design. Now it seems the new look is coming to the rest of Google's apps. 9to5Google got its hands on images of the new icons that ditch the uniform circle design that tries to cram in every color of the Google logo. \nIn general, the",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+      "publishedAt": "2026-04-26T18:34:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1678483789109-023aeb636fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlRTIlODAlOTlzJTIwbmV3JTIwZ3JhZGllbnQlMjBpY29uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzcyNzIxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
     },
     {
       "id": "2026-04-27-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "Trump Signs Executive Order Directing Treasury to Explore Sovereign Wealth Fund",
-      "dek": "A new executive order instructs the Treasury and Commerce departments to present a plan within 90 days for establishing a US sovereign wealth fund — drawing comparisons to Norway's $1.7 trillion oil fund.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/us/trump-signs-order-sovereign-wealth-fund-2026-04-27/",
-      "publishedAt": "2026-04-27T05:00:00.000Z"
+      "headline": "9 tips for managing with empathy from a neuroscientist",
+      "dek": "Managing people is about helping people tap into underutilized reserves and overlooked skills that are indigenous to them, not fixing their habits. \nThe people you manage naturally look to you for answers. They might even ask you to tell them what to do, which creates two major problems:\nIf you tell",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91515952/9-tips-for-managing-with-empathy-from-a-neuroscientist",
+      "publishedAt": "2026-04-27T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1696041761374-6cfa63afe0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw5JTIwdGlwcyUyMGZvciUyMG1hbmFnaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzcyNzIxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hakim Menikh on Unsplash"
     },
     {
       "id": "2026-04-27-in-the-world-2",
       "topic": "in-the-world",
-      "headline": "Record Heat in South Asia: India and Pakistan Hit 51°C as Monsoon Delays Worsen",
-      "dek": "Unprecedented April temperatures across India and Pakistan — including a 51°C reading in Jacobabad — are straining power grids and accelerating calls for emergency climate-adaptation funding ahead of a delayed monsoon season.",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/world-asia/record-heat-india-pakistan-2026",
-      "publishedAt": "2026-04-26T12:00:00.000Z"
+      "headline": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents’ Dinner Shooting",
+      "dek": "The word “staged” exploded on social media following the attack, as both right- and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
+      "publishedAt": "Sun, 26 Apr 2026 14:43:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1624688615033-de1a5cf2867f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwlRTIlODAlOThTVEFHRUQlRTIlODAlOTklM0ElMjBDb25zcGlyYWN5JTIwVGhlb3JpZXMlMjBBcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzI3MjE0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-04-27-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Truecaller faces mounting pressures as its growth matures",
+      "dek": "As growth slows, Truecaller is leaning on subscriptions, business services, and new features to sustain momentum beyond India.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
+      "publishedAt": "Mon, 27 Apr 2026 03:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/16294890/pexels-photo-16294890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Кирилл Абрамов on Pexels"
+    },
+    {
+      "id": "2026-04-27-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Strange New Worlds S4 teaser strikes a more serious tone",
+      "dek": "\"I have ever been prone to seek adventure and to investigate where wiser men would have left well enough alone.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
+      "publishedAt": "Sun, 26 Apr 2026 19:52:22 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8474489/pexels-photo-8474489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by RDNE Stock project on Pexels"
+    },
+    {
+      "id": "2026-04-27-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable",
+      "dek": "Ductless AC systems get smart tech features—and the growing pains that come with them.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/",
+      "publishedAt": "Sun, 26 Apr 2026 09:38:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776291994898-fdce10eba7f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEZWxsYSUyME9wdGltYSUyMFRQJTIwU2VyaWVzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzcyNzIxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Angel Maldonado on Unsplash"
     }
   ]
 }
