@@ -9,18 +9,20 @@ type SaveButtonProps = {
 };
 
 export default function SaveButton({ story, size = "sm" }: SaveButtonProps) {
-  const { toggle, isSaved, hydrate } = useShelf();
+  const toggle = useShelf((state) => state.toggle);
+  const hydrate = useShelf((state) => state.hydrate);
+  const savedStories = useShelf((state) => state.saved);
+  
   const [mounted, setMounted] = useState(false);
   const [animating, setAnimating] = useState(false);
   const [particles, setParticles] = useState<{ id: number; dx: number; dy: number }[]>([]);
 
   useEffect(() => {
     setMounted(true);
-    // Initial sync from localStorage + Gist
     hydrate();
   }, [hydrate]);
 
-  const saved = mounted ? isSaved(story.id) : false;
+  const saved = mounted ? savedStories.some(s => s.sourceUrl === story.sourceUrl) : false;
   const iconSize = size === "lg" ? 22 : 18;
 
   const handleClick = useCallback(() => {

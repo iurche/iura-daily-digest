@@ -17,17 +17,28 @@ interface ShelfStore {
   toggle: (story: Story) => void;
   remove: (id: string) => void;
   isSaved: (id: string) => boolean;
+  isSavedUrl: (url: string) => boolean;
   hydrate: () => void;
 }
 
 const STORAGE_KEY = 'dd-shelf';
 
-/** Write to localStorage AND sync to Gist (fire-and-forget) */
+/** Read saved stories from localStorage synchronously (SSR-safe). */
+function readLocal(): Story[] {
+  if (typeof window === 'undefined') return [];
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    return raw ? (JSON.parse(raw) as Story[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+/** Write to localStorage AND sync to Gist (fire-and-forget). */
 function persist(stories: Story[]) {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(stories));
   } catch {}
-  // Sync to Gist in background — failures are silent (localStorage is source of truth)
   fetch('/api/shelf', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -35,50 +46,50 @@ function persist(stories: Story[]) {
   }).catch(() => {});
 }
 
-/** Merge local + remote: union by id, remote wins on conflict */
+/** Merge local + remote: union by id, remote wins on conflict. */
 function merge(local: Story[], remote: Story[]): Story[] {
   const map = new Map<string, Story>();
   for (const s of local) map.set(s.id, s);
-  for (const s of remote) map.set(s.id, s); // remote overwrites local on same id
+  for (const s of remote) map.set(s.id, s);
   return [...map.values()];
 }
 
 export const useShelf = create<ShelfStore>((set, get) => ({
-  saved: [],
+  // ← Pre-populated from localStorage on first import — no flash, no delay
+  saved: readLocal(),
   syncing: false,
 
   toggle: (story) => {
-    const exists = get().saved.find((s) => s.id === story.id);
+    const exists = get().saved.find((s) => s.sourceUrl === story.sourceUrl);
     const next = exists
-      ? get().saved.filter((s) => s.id !== story.id)
+      ? get().saved.filter((s) => s.sourceUrl !== story.sourceUrl)
       : [...get().saved, story];
     set({ saved: next });
     persist(next);
   },
 
   remove: (id) => {
+    // Keep remove by id for internal removals, but could also be URL
     const next = get().saved.filter((s) => s.id !== id);
     set({ saved: next });
     persist(next);
   },
 
   isSaved: (id) => get().saved.some((s) => s.id === id),
+  isSavedUrl: (url) => get().saved.some((s) => s.sourceUrl === url),
 
   hydrate: () => {
-    // 1. Load from localStorage immediately (instant, no flash)
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) set({ saved: JSON.parse(raw) });
-    } catch {}
+    // Sync from localStorage again (in case it changed in another tab)
+    const local = readLocal();
+    set({ saved: local });
 
-    // 2. Fetch from Gist in background and merge (picks up saves from other devices)
+    // Then fetch from Gist and merge any saves from other devices
     set({ syncing: true });
     fetch('/api/shelf')
       .then((r) => r.json())
       .then((remote: Story[]) => {
         if (!Array.isArray(remote) || remote.length === 0) return;
         const merged = merge(get().saved, remote);
-        // Only update if remote added something new
         if (merged.length !== get().saved.length) {
           set({ saved: merged });
           try {
