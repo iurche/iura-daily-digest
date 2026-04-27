@@ -145,8 +145,14 @@ async function main() {
   console.log(`\n=== Daily Digest Build — ${TODAY} ===\n`);
 
   // 0. Load cross-day seen URLs to prevent duplicate articles
+  // Only block URLs that were featured on a *previous* day — same-day re-runs always refresh
   const seenUrls = loadSeenUrls();
-  console.log(`[SeenUrls] Loaded ${seenUrls.size} previously-featured URLs`);
+  const previousDayUrls = new Set(
+    [...seenUrls.entries()]
+      .filter(([, date]) => date < TODAY)
+      .map(([url]) => url)
+  );
+  console.log(`[SeenUrls] Loaded ${seenUrls.size} total, ${previousDayUrls.size} from previous days`);
 
   // 1. Fetch "In the World" stories
   console.log('[Step 1] Fetching "In the World" stories...');
@@ -166,22 +172,22 @@ async function main() {
     }
   }
 
-  // 3. Assemble stories — filter out any that were already featured
+  // 3. Assemble base stories from today's existing digest — only filter cross-*day* dupes
   const baseStories: Story[] = (existingDigest
     ? existingDigest.stories.filter((s) => s.topic !== 'in-the-world')
     : []
   ).filter((s) => {
-    if (s.sourceUrl && seenUrls.has(s.sourceUrl)) {
+    if (s.sourceUrl && previousDayUrls.has(s.sourceUrl)) {
       console.log(`[SeenUrls] Skipping previously-featured story: "${s.headline}"`);
       return false;
     }
     return true;
   });
 
-  // 4. Tag in-the-world stories with IDs, filter cross-day dupes
+  // 4. Tag in-the-world stories with IDs — filter only cross-day dupes
   const taggedInWorld: Story[] = inWorldStories
     .filter((s) => {
-      if (s.sourceUrl && seenUrls.has(s.sourceUrl)) {
+      if (s.sourceUrl && previousDayUrls.has(s.sourceUrl)) {
         console.log(`[SeenUrls] Skipping previously-featured in-the-world: "${s.headline}"`);
         return false;
       }
