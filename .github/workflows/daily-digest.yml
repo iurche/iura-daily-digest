@@ -1,0 +1,95 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # 06:00 UTC = 08:00 Madrid (CET/CEST). Runs before Telegram notification.
+    - cron: '0 6 * * *'
+  # Allow manual trigger from GitHub Actions UI for testing
+  workflow_dispatch:
+
+jobs:
+  build-digest:
+    name: Build & Publish Daily Digest
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git log works; token lets us push back
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      # ── 2. Setup Node ────────────────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      # ── 3. Run digest build script ───────────────────────────────────────────
+      - name: Build today's digest
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+        run: pnpm build-digest
+
+      # ── 4. Commit & push new digest + updated seen-urls ─────────────────────
+      - name: Commit and push digest
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          git config user.name  "Daily Digest Bot"
+          git config user.email "bot@iura-daily-digest.vercel.app"
+
+          git add content/digests/${TODAY}.json content/seen-urls.json || true
+
+          # Only commit if there's something new
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit — digest already up to date."
+          else
+            git commit -m "digest: ${TODAY}"
+            git push origin main
+            echo "PUSHED=true" >> $GITHUB_ENV
+          fi
+
+      # ── 5. Send Telegram notification ────────────────────────────────────────
+      - name: Send Telegram notification
+        if: env.PUSHED == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+
+          # Extract hero headline from the digest JSON
+          HERO_ID=$(jq -r '.heroStoryId' content/digests/${TODAY}.json)
+          HEADLINE=$(jq -r --arg id "$HERO_ID" '.stories[] | select(.id == $id) | .headline' content/digests/${TODAY}.json)
+          STORY_COUNT=$(jq '.stories | length' content/digests/${TODAY}.json)
+
+          MESSAGE="🗞 *Daily Digest — ${TODAY}*
+
+          Today's lead: _${HEADLINE}_
+
+          ${STORY_COUNT} stories across 9 topics.
+
+          👉 [Read today's digest](https://iura-daily-digest.vercel.app)"
+
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"chat_id\": \"${TELEGRAM_CHAT_ID}\",
+              \"text\": $(echo "$MESSAGE" | jq -Rs .),
+              \"parse_mode\": \"Markdown\",
+              \"disable_web_page_preview\": false
+            }"
