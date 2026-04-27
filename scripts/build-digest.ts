@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fetchInTheWorld } from '../lib/ingestion/in-the-world';
+import { loadSeenUrls, saveSeenUrls, markUrlsAsSeen } from '../lib/seen-urls';
 import type { Digest, Story, Topic } from '../lib/types';
 
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY || '';
@@ -143,6 +144,10 @@ function generateStoryId(date: string, topic: string, index: number): string {
 async function main() {
   console.log(`\n=== Daily Digest Build — ${TODAY} ===\n`);
 
+  // 0. Load cross-day seen URLs to prevent duplicate articles
+  const seenUrls = loadSeenUrls();
+  console.log(`[SeenUrls] Loaded ${seenUrls.size} previously-featured URLs`);
+
   // 1. Fetch "In the World" stories
   console.log('[Step 1] Fetching "In the World" stories...');
   const { stories: inWorldStories, stats: inWorldStats } =
@@ -161,16 +166,31 @@ async function main() {
     }
   }
 
-  // 3. Assemble stories
-  const baseStories: Story[] = existingDigest
+  // 3. Assemble stories — filter out any that were already featured
+  const baseStories: Story[] = (existingDigest
     ? existingDigest.stories.filter((s) => s.topic !== 'in-the-world')
-    : [];
+    : []
+  ).filter((s) => {
+    if (s.sourceUrl && seenUrls.has(s.sourceUrl)) {
+      console.log(`[SeenUrls] Skipping previously-featured story: "${s.headline}"`);
+      return false;
+    }
+    return true;
+  });
 
-  // 4. Tag in-the-world stories with IDs
-  const taggedInWorld: Story[] = inWorldStories.map((s, i) => ({
-    ...s,
-    id: generateStoryId(TODAY, 'in-the-world', i),
-  }));
+  // 4. Tag in-the-world stories with IDs, filter cross-day dupes
+  const taggedInWorld: Story[] = inWorldStories
+    .filter((s) => {
+      if (s.sourceUrl && seenUrls.has(s.sourceUrl)) {
+        console.log(`[SeenUrls] Skipping previously-featured in-the-world: "${s.headline}"`);
+        return false;
+      }
+      return true;
+    })
+    .map((s, i) => ({
+      ...s,
+      id: generateStoryId(TODAY, 'in-the-world', i),
+    }));
 
   const allStories: Story[] = [...baseStories, ...taggedInWorld];
 
@@ -240,7 +260,12 @@ async function main() {
   fs.writeFileSync(existingPath, JSON.stringify(digest, null, 2), 'utf-8');
   console.log(`\n[Done] Digest written to ${existingPath}`);
 
-  // 10. Stats summary
+  // 10. Mark all featured URLs as seen (persists cross-day deduplication)
+  const featuredUrls = allStories.map((s) => s.sourceUrl).filter(Boolean) as string[];
+  markUrlsAsSeen(seenUrls, featuredUrls, TODAY);
+  saveSeenUrls(seenUrls);
+
+  // 11. Stats summary
   console.log('\n=== Build Summary ===');
   console.log(`Date: ${TODAY}`);
   console.log(`Total stories: ${allStories.length}`);
