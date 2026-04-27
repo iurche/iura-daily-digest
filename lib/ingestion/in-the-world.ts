@@ -188,23 +188,23 @@ export async function fetchInTheWorld(guardianApiKey?: string): Promise<{
   // Sort by score descending
   deduplicated.sort((a, b) => score(b) - score(a));
 
-  // Select top 6, max 1 per source unless needed
+  // Select top 12, max 1 per source unless needed
   const selected: InWorldStory[] = [];
   for (const story of deduplicated) {
-    if (selected.length >= 6) break;
+    if (selected.length >= 12) break;
     const sourceCount = sourceSeen.get(story.source) || 0;
-    if (sourceCount >= 1 && selected.length < 5) {
-      // Skip second story from same source until we've filled 5 slots
+    if (sourceCount >= 1 && selected.length < 10) {
+      // Skip second story from same source until we've filled 10 slots
       continue;
     }
     selected.push(story);
     sourceSeen.set(story.source, sourceCount + 1);
   }
 
-  // If not enough, fill up to 6
-  if (selected.length < 6) {
+  // If not enough, fill up to 12
+  if (selected.length < 12) {
     for (const story of deduplicated) {
-      if (selected.length >= 6) break;
+      if (selected.length >= 12) break;
       if (!selected.includes(story)) {
         selected.push(story);
       }
