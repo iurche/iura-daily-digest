@@ -1,17 +1,7 @@
 {
   "date": "2026-04-28",
-  "heroStoryId": "2026-04-28-product-design-0",
+  "heroStoryId": "2026-04-28-product-design-1",
   "stories": [
-    {
-      "id": "2026-04-28-product-design-0",
-      "topic": "product-design",
-      "headline": "State of UX 2026: Design Deeper to Differentiate",
-      "dek": "Nielsen Norman Group's annual report identifies 'designing deeper' as the key differentiator for UX teams this year, urging designers to move beyond AI-generated surfaces toward high-judgment design decisions that machines can't replicate.",
-      "source": "Nielsen Norman Group",
-      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
-      "isHero": true,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
-    },
     {
       "id": "2026-04-28-product-design-1",
       "topic": "product-design",
@@ -20,7 +10,9 @@
       "source": "Index.dev",
       "sourceUrl": "https://www.index.dev/blog/ui-ux-design-trends",
       "isHero": false,
-      "publishedAt": "2026-04-27T08:00:00.000Z"
+      "publishedAt": "2026-04-27T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw5MyUyNSUyMG9mJTIwRGVzaWduZXJzJTIwQXJlJTIwcHJvZHVjdC1kZXNpZ258ZW58MHwwfHx8MTc3NzM2MzUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-04-28-product-design-2",
@@ -30,17 +22,9 @@
       "source": "UXPin",
       "sourceUrl": "https://www.uxpin.com/studio/blog/ui-ux-design-trends/",
       "isHero": false,
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-product-design-3",
-      "topic": "product-design",
-      "headline": "Glassmorphism 2.0 and Spatial Interfaces Define 2026's Aesthetic",
-      "dek": "Frosted-glass panels are back—but now functional rather than decorative—while spatial UI for AR/VR headsets is pushing designers to think in three dimensions instead of flat screens.",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d",
-      "isHero": false,
-      "publishedAt": "2026-04-25T08:00:00.000Z"
+      "publishedAt": "2026-04-26T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEZXNpZ24lMjBTeXN0ZW1zJTIwRXZvbHZlJTIwaW50byUyMHByb2R1Y3QtZGVzaWdufGVufDB8MHx8fDE3NzczNjM1MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-04-28-ux-research-0",
@@ -50,17 +34,9 @@
       "source": "Userlytics",
       "sourceUrl": "https://www.userlytics.com/resources/blog/ux-research-methods/",
       "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-ux-research-1",
-      "topic": "ux-research",
-      "headline": "10 Essential UX Research Tools Reshaping Teams in 2026",
-      "dek": "Qualtrics maps the platform landscape for modern UX research teams, highlighting tools that combine behavioral analytics, participant recruitment, and AI-assisted synthesis in a single workflow.",
-      "source": "Qualtrics",
-      "sourceUrl": "https://www.qualtrics.com/articles/strategy-research/ux-research-tools/",
-      "isHero": false,
-      "publishedAt": "2026-04-24T08:00:00.000Z"
+      "publishedAt": "2026-04-28T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMElzJTIwQWNjZWxlcmF0aW5nJTIwVXNhYmlsaXR5JTIwdXgtcmVzZWFyY2h8ZW58MHwwfHx8MTc3NzM2MzUxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hitesh Choudhary on Unsplash"
     },
     {
       "id": "2026-04-28-ux-research-2",
@@ -70,7 +46,9 @@
       "source": "UX Design Institute",
       "sourceUrl": "https://www.uxdesigninstitute.com/blog/guide-to-usability-testing-for-ux/",
       "isHero": false,
-      "publishedAt": "2026-04-22T08:00:00.000Z"
+      "publishedAt": "2026-04-22T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1588214321417-4db0632c764a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGluay1BbG91ZCUyMGFuZCUyMEhlYXRtYXBzJTIwUmVtYWluJTIwdXgtcmVzZWFyY2h8ZW58MHwwfHx8MTc3NzM2MzUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Guido Coppa on Unsplash"
     },
     {
       "id": "2026-04-28-ai-tools-0",
@@ -80,7 +58,9 @@
       "source": "IMFounder",
       "sourceUrl": "https://imfounder.com/science-tech/ai/ai-updates-april-2026-openai-codex-claude-design/",
       "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
+      "publishedAt": "2026-04-28T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676272682018-b1435bad1cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBVbnZlaWxzJTIwR1BULTUuNCUyMHdpdGglMjBhaS10b29sc3xlbnwwfDB8fHwxNzc3MzYzNTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rolf van Root on Unsplash"
     },
     {
       "id": "2026-04-28-ai-tools-1",
@@ -90,7 +70,9 @@
       "source": "AllInOneAICenter",
       "sourceUrl": "https://allinoneaicenter.com/blog/new-ai-tools-april-2026",
       "isHero": false,
-      "publishedAt": "2026-04-27T08:00:00.000Z"
+      "publishedAt": "2026-04-27T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1675557570482-df9926f61d86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWRqb3VybmV5JTIwVjguMSUyME1ha2VzJTIwSEQlMjBhaS10b29sc3xlbnwwfDB8fHwxNzc3MzYzNTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
     },
     {
       "id": "2026-04-28-ai-tools-2",
@@ -100,7 +82,9 @@
       "source": "LLM Stats",
       "sourceUrl": "https://llm-stats.com/llm-updates",
       "isHero": false,
-      "publishedAt": "2026-04-25T08:00:00.000Z"
+      "publishedAt": "2026-04-25T08:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/30901568/pexels-photo-30901568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
     },
     {
       "id": "2026-04-28-ai-tools-3",
@@ -110,17 +94,9 @@
       "source": "DataNorth AI",
       "sourceUrl": "https://datanorth.ai/blog/top-10-ai-tools-for-2026",
       "isHero": false,
-      "publishedAt": "2026-04-23T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-ai-research-0",
-      "topic": "ai-research",
-      "headline": "AI Cuts Energy Use 100× by Combining Neural Networks with Symbolic Reasoning",
-      "dek": "A new hybrid architecture merges deep learning with logical inference, enabling robots to reason more efficiently and dramatically reducing compute energy consumption while actually improving accuracy.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-      "isHero": false,
-      "publishedAt": "2026-04-05T08:00:00.000Z"
+      "publishedAt": "2026-04-23T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1651235732694-0d057ace2f30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBSZWxlYXNlcyUyME9wZW4tU291cmNlJTIwQWdlbnQlMjBhaS10b29sc3xlbnwwfDB8fHwxNzc3MzYzNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ed Hardie on Unsplash"
     },
     {
       "id": "2026-04-28-ai-research-1",
@@ -130,57 +106,9 @@
       "source": "ScienceDaily",
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
       "isHero": false,
-      "publishedAt": "2026-04-22T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-ai-research-2",
-      "topic": "ai-research",
-      "headline": "Stanford AI Index 2026: 79% of Organizations Now Running AI Agents",
-      "dek": "The annual Stanford report documents agentic AI's mainstream arrival, projecting 40% of enterprise apps will have embedded agents by year-end and flagging growing energy consumption and governance as urgent concerns.",
-      "source": "Stanford HAI",
-      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "isHero": false,
-      "publishedAt": "2026-04-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-ai-research-3",
-      "topic": "ai-research",
-      "headline": "NVIDIA's Physical AI Roadmap: Open GR00T Models Enable Natural Language Robotics",
-      "dek": "NVIDIA's Isaac GR00T open models let robots follow natural language instructions and perform complex multi-step tasks using vision-language-action reasoning, extending Jensen Huang's physical AI vision into real deployments.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-      "isHero": false,
-      "publishedAt": "2026-04-18T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-iot-hardware-0",
-      "topic": "iot-hardware",
-      "headline": "IoT in 2026: 5G, AI Integration, and Miniaturization Drive the Next Wave",
-      "dek": "With over 16 billion connected devices active worldwide, five forces—5G, AI integration, low-power sensors, edge computing, and miniaturization—are defining the next phase of IoT growth toward 25 billion devices by 2030.",
-      "source": "IOT Insider",
-      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
-      "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-iot-hardware-1",
-      "topic": "iot-hardware",
-      "headline": "MultiTech Showcases Self-Sustaining Sensor Networks at CES 2026",
-      "dek": "MultiTech demonstrated energy-harvesting IoT modules at CES that eliminate battery replacement in remote deployments, pointing toward a new generation of perpetually connected, maintenance-free sensor infrastructure.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
-      "isHero": false,
-      "publishedAt": "2026-01-10T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-iot-hardware-2",
-      "topic": "iot-hardware",
-      "headline": "Six IoT Semiconductor Predictions Shaping Hardware Priorities in 2026",
-      "dek": "IoT Analytics lays out how chip design priorities are shifting toward ultra-low-power processing and on-device AI inference as the connected device count surges and edge computing requirements intensify.",
-      "source": "IoT Analytics",
-      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
-      "isHero": false,
-      "publishedAt": "2026-04-15T08:00:00.000Z"
+      "publishedAt": "2026-04-22T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMERpc2NvdmVycyUyME5ldyUyMFBoeXNpY3MlMjBhaS1yZXNlYXJjaHxlbnwwfDB8fHwxNzc3MzYzNTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
     },
     {
       "id": "2026-04-28-aiot-0",
@@ -190,57 +118,9 @@
       "source": "IoT Business News",
       "sourceUrl": "https://iotbusinessnews.com/2026/04/27/aiot-from-connected-data-to-intelligent-automation-across-industries/",
       "isHero": false,
-      "publishedAt": "2026-04-27T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-aiot-1",
-      "topic": "aiot",
-      "headline": "AIoT in 2026: LLMs Give IoT Systems Natural Language Interfaces",
-      "dek": "Large language models are transforming AIoT from specialist industrial tools requiring professional training into accessible intelligent assistants that any operator can direct through plain language commands.",
-      "source": "IoT Evolution World",
-      "sourceUrl": "https://www.iotevolutionworld.com/iot/articles/463180-aiot-2026-from-edge-intelligence-agentic-systems.htm",
-      "isHero": false,
-      "publishedAt": "2026-04-26T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-aiot-2",
-      "topic": "aiot",
-      "headline": "Top 5 AIoT Trends for 2026: Edge Compute, Large Models, and Expanding Use Cases",
-      "dek": "Hikvision's industry outlook highlights how large-scale AI model integration and edge computing delivering millisecond offline response times are the two forces most rapidly reshaping the AIoT product landscape.",
-      "source": "Hikvision",
-      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
-      "isHero": false,
-      "publishedAt": "2026-04-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-smart-agriculture-0",
-      "topic": "smart-agriculture",
-      "headline": "IoT Precision Irrigation Cuts Water Use 30% on Commercial Farms",
-      "dek": "Real-time soil moisture and weather sensor networks are delivering measurable efficiency gains, with documented cases showing 30% water savings and up to 25% lower energy consumption across irrigated cropland.",
-      "source": "Folio3 AgTech",
-      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
-      "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-smart-agriculture-1",
-      "topic": "smart-agriculture",
-      "headline": "Self-Sustaining IoT Networks and AI Energy Harvesting Reshape Smart Farming",
-      "dek": "New research shows that solar and ambient-energy-harvesting IoT sensor arrays can run indefinitely without maintenance, making continuous precision agriculture economically viable even on marginal land.",
-      "source": "Spectrum of Engineering Sciences",
-      "sourceUrl": "https://thesesjournal.com/index.php/1/article/view/2099",
-      "isHero": false,
-      "publishedAt": "2026-04-21T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-smart-agriculture-2",
-      "topic": "smart-agriculture",
-      "headline": "Soil Carbon IoT Sensors Open New Revenue Streams via Carbon Credits",
-      "dek": "Smart agriculture platforms are connecting real-time soil monitoring to carbon-credit markets, giving farmers direct financial incentives to improve soil health rather than simply managing it as an input cost.",
-      "source": "Farmonaut",
-      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
-      "isHero": false,
-      "publishedAt": "2026-04-18T08:00:00.000Z"
+      "publishedAt": "2026-04-27T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTNBJTIwRnJvbSUyMENvbm5lY3RlZCUyMERhdGElMjBhaW90fGVufDB8MHx8fDE3NzczNjM1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Conny Schneider on Unsplash"
     },
     {
       "id": "2026-04-28-smart-agriculture-3",
@@ -250,27 +130,9 @@
       "source": "Wiley / International Journal of Communication Systems",
       "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/dac.70310",
       "isHero": false,
-      "publishedAt": "2026-04-14T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-career-signals-0",
-      "topic": "career-signals",
-      "headline": "Skyscanner Hiring Senior Director of Product Design in Barcelona",
-      "dek": "The travel search giant has posted a senior director-level design leadership role in Barcelona, one of several high-seniority design positions opening in Spain's growing tech sector this spring.",
-      "source": "WoodyJobs",
-      "sourceUrl": "https://www.woodyjobs.com/barcelona",
-      "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
-    },
-    {
-      "id": "2026-04-28-career-signals-1",
-      "topic": "career-signals",
-      "headline": "20 New Senior Product Designer Roles Open in Spain in April 2026",
-      "dek": "Companies including Bitpanda, FeverUp, and Elastic are actively hiring senior product designers in Spain, with most roles offering hybrid or fully remote arrangements and salaries around €76,000.",
-      "source": "UI/UX Designer Jobs",
-      "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
-      "isHero": false,
-      "publishedAt": "2026-04-27T08:00:00.000Z"
+      "publishedAt": "2026-04-14T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1627920769541-daa658ed6b59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw1Ry1Db25uZWN0ZWQlMjBJb1QlMjBSZWR1Y2VzJTIwRmllbGQlMjBzbWFydC1hZ3JpY3VsdHVyZXxlbnwwfDB8fHwxNzc3MzYzNTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Baltz on Unsplash"
     },
     {
       "id": "2026-04-28-career-signals-2",
@@ -280,47 +142,141 @@
       "source": "Wellfound",
       "sourceUrl": "https://wellfound.com/role/l/designer/europe",
       "isHero": false,
-      "publishedAt": "2026-04-28T08:00:00.000Z"
+      "publishedAt": "2026-04-28T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1603189751032-7d5b09d9c8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdXJvcGVhbiUyMFN0YXJ0dXAlMjBEZXNpZ24lMjBIaXJpbmclMjBjYXJlZXItc2lnbmFsc3xlbnwwfDB8fHwxNzc3MzYzNTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Cherrydeck on Unsplash"
     },
     {
       "id": "2026-04-28-in-the-world-0",
       "topic": "in-the-world",
-      "headline": "Intel Stock Posts Best Day Since 1987 on Signs of Turnaround",
-      "dek": "Intel shares surged 24% on April 24—its biggest single-day gain in nearly four decades—as investors responded to early signals that the chipmaker's deep restructuring is beginning to take hold.",
-      "source": "TechRadar",
-      "sourceUrl": "https://www.techradar.com/news/archive",
-      "isHero": false,
-      "publishedAt": "2026-04-24T08:00:00.000Z"
+      "headline": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+      "dek": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "publishedAt": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "imageUrl": "https://images.pexels.com/photos/12861275/pexels-photo-12861275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by iCliff Agendia on Pexels"
     },
     {
       "id": "2026-04-28-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "Google to Invest Up to $40 Billion in Anthropic",
-      "dek": "Google's expanded commitment to Anthropic signals an intensifying AI infrastructure race, spreading the search giant's bets across multiple frontier model labs as competition with Microsoft and OpenAI deepens.",
-      "source": "Crescendo AI",
-      "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "isHero": false,
-      "publishedAt": "2026-04-26T08:00:00.000Z"
+      "headline": "Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon",
+      "dek": "Weighing 97 grams with a stiff carbon-fiber plate in the sole, Adidas’ new shoes helped Sabastian Sawe beat the two-hour mark in the London Marathon, a time barrier once considered insurmountable.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/",
+      "publishedAt": "Tue, 28 Apr 2026 08:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1581078837150-f20e5a101e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZGlkYXMlRTIlODAlOTklMjBMaWdodGVzdCUyMFNob2VzJTIwRXZlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3MzYzNTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Grailify on Unsplash"
     },
     {
       "id": "2026-04-28-in-the-world-2",
       "topic": "in-the-world",
-      "headline": "AI Personas Are Infiltrating Online Communities to Steer Public Opinion",
-      "dek": "Researchers warn that AI-powered synthetic personas are now sophisticated enough to join real online communities and subtly coordinate influence campaigns—adapting messaging in ways that distinguish them from earlier generation bots.",
-      "source": "SciTechDaily",
-      "sourceUrl": "https://scitechdaily.com/",
-      "isHero": false,
-      "publishedAt": "2026-04-25T08:00:00.000Z"
+      "headline": "OpenAI could be making a phone with AI agents replacing apps",
+      "dek": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBjb3VsZCUyMGJlJTIwbWFraW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzczNjM1MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
     },
     {
       "id": "2026-04-28-in-the-world-3",
       "topic": "in-the-world",
-      "headline": "Meta and Microsoft Layoffs Intensify Debate Over AI-Driven Labor Displacement",
-      "dek": "Significant job cuts at two of the world's largest tech employers this month have sharpened the debate about whether AI productivity gains are beginning to displace knowledge workers at meaningful scale.",
-      "source": "MarketingProfs",
-      "sourceUrl": "https://www.marketingprofs.com/opinions/2026/54530/ai-update-april-10-2026-ai-news-and-views-from-the-past-week",
-      "isHero": false,
-      "publishedAt": "2026-04-10T08:00:00.000Z"
+      "headline": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
+      "dek": "Logitech’s Creative Console and other MX accessories are now compatible with several productivity apps. | Image: Logitech\t\n\nLogitech has announced a new suite of Productivity Plugins for its entire MX line of accessories, including its Stream Deck alternative, the MX Creative Console. Since the cons",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+      "publishedAt": "2026-04-28T07:01:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1632239776255-0a7f24814df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBPZmZpY2UlMjBjYW4lMjBub3clMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzM2MzUyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ed Hardie on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How to build a team that runs itself",
+      "dek": "A twenty-something man once went to a French restaurant in New York—the kind of place with tuxedoed servers. He told the waiter he had never eaten anywhere so fancy and had a hundred dollars to spend, then asked him to bring the best meal he could within that budget. What arrived was a feast worth a",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91527218/how-to-build-a-team-that-runs-itself",
+      "publishedAt": "2026-04-28T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1673515336163-e988e60d099b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMGJ1aWxkJTIwYSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3MzYzNTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ling App on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027",
+      "dek": "SpaceX and Blue Origin tell NASA their lunar landers will be ready for Artemis III in late 2027.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/",
+      "publishedAt": "Tue, 28 Apr 2026 00:14:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1734444409260-143ab2cad64c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQdXQlMjBpdCUyMGluJTIwcGVuY2lsJTNBJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzczNjM1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "GTFOBins",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://gtfobins.org/",
+      "publishedAt": "Tue, 28 Apr 2026 06:27:39 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1590607244529-ee3e6dc7f65f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHVEZPQmlucyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3MzYzNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Carmen Priscilla on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The missing step between hype and profit",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+      "publishedAt": "Mon, 27 Apr 2026 16:13:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1571939831265-d710665a1ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBtaXNzaW5nJTIwc3RlcCUyMGJldHdlZW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzM2MzUyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jason Dent on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Rebuilding the data stack for AI",
+      "dek": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "publishedAt": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1687603921109-46401b201195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZWJ1aWxkaW5nJTIwdGhlJTIwZGF0YSUyMHN0YWNrJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzczNjM1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rahul Mishra on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the mod",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "publishedAt": "Mon, 27 Apr 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1738107450287-8ccd5a2f8806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMERlZXBTZWVrJUUyJTgwJTk5cyUyMGxhdGVzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3MzYzNTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Solen Feyissa on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "dek": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one.\nThe Verge reporter Elizabeth Lopatto",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "publishedAt": "2026-04-28T03:39:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1740817747723-da5b669a8a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKdXJ5JTIwc2VsZWN0aW9uJTIwaW4lMjBNdXNrJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzczNjM1Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-04-28-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Google is testing AI chatbot search for YouTube",
+      "dek": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "publishedAt": "2026-04-28T00:01:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1592096304832-62463bfdc822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBpcyUyMHRlc3RpbmclMjBBSSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3MzYzNTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Greg Bulla on Unsplash"
     }
   ]
 }
