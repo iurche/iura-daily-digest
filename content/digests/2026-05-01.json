@@ -1,0 +1,360 @@
+{
+  "date": "2026-05-01",
+  "heroStoryId": "2026-05-01-product-design-0",
+  "stories": [
+    {
+      "id": "2026-05-01-product-design-0",
+      "topic": "product-design",
+      "headline": "State of UX 2026: Design Deeper to Differentiate",
+      "dek": "Nielsen Norman Group's annual report argues that surface-level AI-assisted design is becoming a commodity, pushing designers toward deeper systems thinking and governance. Accessibility-first workflows and privacy-centred UX are identified as the next competitive differentiators.",
+      "source": "Nielsen Norman Group",
+      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
+      "isHero": true,
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1562728927-855a5ccb4c6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGF0ZSUyQm9mJTJCVVglMkIyMDI2JTNBfGVufDB8MHx8fDE3Nzc2MTY1MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Shontae Ramsey on Unsplash"
+    },
+    {
+      "id": "2026-05-01-product-design-1",
+      "topic": "product-design",
+      "headline": "Product Design in 2026: The Beginning of a Fantastic Voyage",
+      "dek": "UX Collective contributor Kike Pe\u00f1a maps the expanding role of the product designer as AI handles routine wireframing, freeing practitioners to focus on strategy, ethics, and cross-disciplinary collaboration. He argues we are entering a renaissance, not a replacement era.",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTJCRGVzaWduJTJCaW4lMkIyMDI2JTNBfGVufDB8MHx8fDE3Nzc2MTY1MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
+    },
+    {
+      "id": "2026-05-01-product-design-2",
+      "topic": "product-design",
+      "headline": "The Most Popular Experience Design Trends of 2026",
+      "dek": "Joe Smiley's UX Collective roundup tracks glassmorphism 2.0, intentional sound design, and nostalgia-driven aesthetics as designers reach for warmth amid AI saturation. Voice-first interfaces are moving from experimental to production-ready this year.",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1753907537868-ef974bb78408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMkJNb3N0JTJCUG9wdWxhciUyQkV4cGVyaWVuY2V8ZW58MHwwfHx8MTc3NzYxNjUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Planet Volumes on Unsplash"
+    },
+    {
+      "id": "2026-05-01-product-design-3",
+      "topic": "product-design",
+      "headline": "12 Product Design Trends for 2026: AI Workflows, Spatial Interfaces, and Governance",
+      "dek": "UXPilot identifies AI-first design workflows, design systems as governance platforms, and spatial AR overlays as headline trends. 73 percent of designers surveyed say AI as a design collaborator will have the greatest impact this year.",
+      "source": "UXPilot",
+      "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxMiUyQlByb2R1Y3QlMkJEZXNpZ24lMkJUcmVuZHN8ZW58MHwwfHx8MTc3NzYxNjUyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ux-research-0",
+      "topic": "ux-research",
+      "headline": "UX Research Methods: The Complete 2026 Guide",
+      "dek": "Userlytics breaks down 12 core UX research methods, noting that AI-assisted analysis is helping teams process larger participant sets faster. Accessibility testing is now flagged as a legal requirement under the EU Accessibility Act, not an optional extra.",
+      "source": "Userlytics",
+      "sourceUrl": "https://www.userlytics.com/resources/blog/ux-research-methods/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1760952851538-17a59f691efe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyQlJlc2VhcmNoJTJCTWV0aG9kcyUzQSUyQlRoZXxlbnwwfDB8fHwxNzc3NjE2NTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bluestonex on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ux-research-1",
+      "topic": "ux-research",
+      "headline": "8 Usability Testing Methods That Work in 2026: Types and Examples",
+      "dek": "Contentsquare's guide covers moderated, unmoderated, remote, and in-person testing formats, reaffirming that five well-recruited participants still uncover the majority of major usability problems. Session replay and heatmap analytics are increasingly used as complementary quantitative layers.",
+      "source": "Contentsquare",
+      "sourceUrl": "https://contentsquare.com/guides/usability-testing/methods/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw4JTJCVXNhYmlsaXR5JTJCVGVzdGluZyUyQk1ldGhvZHN8ZW58MHwwfHx8MTc3NzYxNjUyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Travis on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ux-research-2",
+      "topic": "ux-research",
+      "headline": "Qualitative UX Testing: Methods, Examples, and Use Cases Explained",
+      "dek": "Greenbook unpacks qualitative UX methods from one-on-one interviews to think-aloud tests, arguing that qualitative depth is the antidote to metric overload that AI-generated quantitative reports can produce. The piece shows when each method generates the richest actionable insights.",
+      "source": "Greenbook",
+      "sourceUrl": "https://www.greenbook.org/insights/qualitative-market-research/from-interviews-to-usability-tests-qualitative-ux-methods-explained",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1740560051651-33f2fdd4fa19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxRdWFsaXRhdGl2ZSUyQlVYJTJCVGVzdGluZyUzQSUyQk1ldGhvZHMlMkN8ZW58MHwwfHx8MTc3NzYxNjUyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-tools-0",
+      "topic": "ai-tools",
+      "headline": "New AI Model Releases April 2026: GPT-5.5, Claude Mythos 5, and Grok 5 Arrive",
+      "dek": "April 2026 brought OpenAI's GPT-5.5, Anthropic's Claude Mythos 5 with 10 trillion parameters, and xAI's Grok 5 using a 6-trillion-parameter Mixture-of-Experts architecture, the largest publicly announced AI model to date. The startup ecosystem is racing to build vertical applications on top of these foundation models.",
+      "source": "Mean CEO Blog",
+      "sourceUrl": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1599111344551-c6622678c7b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXclMkJBSSUyQk1vZGVsJTJCUmVsZWFzZXN8ZW58MHwwfHx8MTc3NzYxNjUyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by TVBEATS on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-tools-1",
+      "topic": "ai-tools",
+      "headline": "AI Product Launches March 2026: Every Major Release and Announcement Tracker",
+      "dek": "TLDL's tracker covers the March wave including Cursor 3, which lets developers run multiple AI agents in parallel across local and cloud environments, and Google's Gemini 3.1 Flash Live audio model live in over 200 countries. Microsoft Agent 365 launched May 1 as an enterprise agent control plane.",
+      "source": "TLDL",
+      "sourceUrl": "https://www.tldl.io/blog/ai-product-launches-march-2026",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1763110305836-17790330be78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyQlByb2R1Y3QlMkJMYXVuY2hlcyUyQk1hcmNofGVufDB8MHx8fDE3Nzc2MTY1MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Immo Wegmann on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-tools-2",
+      "topic": "ai-tools",
+      "headline": "Top 10 Best AI Tools for 2026: Q2 Update Benchmarks Cursor, Gemini, and Lovable",
+      "dek": "DataNorth's Q2 benchmark ranks leading AI productivity tools across coding, content, and design categories, with Cursor 3 and Gemini 3.1 Ultra as standouts. Two-million-token context windows are shifting AI from assistants to autonomous collaborators capable of managing entire project workflows.",
+      "source": "DataNorth AI",
+      "sourceUrl": "https://datanorth.ai/blog/top-10-ai-tools-for-2026",
+      "publishedAt": "2026-05-01T08:00:00.000Z"
+    },
+    {
+      "id": "2026-05-01-ai-tools-3",
+      "topic": "ai-tools",
+      "headline": "Google March 2026 AI Updates: Gemini 3.1 Ultra, Lyria 3 Pro, and Flash Live Launched",
+      "dek": "Google's March recap covers Gemini 3.1 Ultra's 2-million-token native multimodal context, Lyria 3 Pro music generation enabling 3-minute tracks, and Gemini Flash Live's rollout to 200-plus countries. The updates signal Google's push to close the gap with OpenAI in real-time conversational AI.",
+      "source": "Google Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947190722-5d272f82a526?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMkJNYXJjaCUyQjIwMjYlMkJBSXxlbnwwfDB8fHwxNzc3NjE2NTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-research-0",
+      "topic": "ai-research",
+      "headline": "AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
+      "dek": "Researchers combined neural networks with symbolic reasoning to reduce AI energy consumption by up to 100 times while improving accuracy, potentially solving one of the field's biggest sustainability bottlenecks. The technique is especially promising for edge deployment in IoT and medical devices.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyQkJyZWFrdGhyb3VnaCUyQkN1dHMlMkJFbmVyZ3l8ZW58MHwwfHx8MTc3NzYxNjUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-research-1",
+      "topic": "ai-research",
+      "headline": "Inside the AI Index 2026: 12 Takeaways from Stanford HAI's Annual Report",
+      "dek": "Stanford HAI's 2026 AI Index finds that agentic AI has crossed into mainstream enterprise adoption, with models demonstrating doctoral-level performance across multiple scientific domains. The report also flags widening gaps in AI governance readiness between leading and lagging nations.",
+      "source": "Stanford HAI",
+      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1529522210435-26cb9e92a33d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbnNpZGUlMkJ0aGUlMkJBSSUyQkluZGV4fGVufDB8MHx8fDE3Nzc2MTY1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Thought Catalog on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-research-2",
+      "topic": "ai-research",
+      "headline": "Mechanistic Interpretability Named MIT Tech Review Top Breakthrough Technology of 2026",
+      "dek": "MIT Technology Review's Breakthrough Technologies list includes mechanistic interpretability, which maps features and pathways across entire AI models to explain their decisions. The recognition signals a shift from treating LLMs as black boxes toward demanding transparent, auditable AI systems.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1767481256070-26e685285817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZWNoYW5pc3RpYyUyQkludGVycHJldGFiaWxpdHklMkJOYW1lZCUyQk1JVHxlbnwwfDB8fHwxNzc3NjE2NTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-05-01-ai-research-3",
+      "topic": "ai-research",
+      "headline": "NVIDIA National Robotics Week 2026: Physical AI and Humanoid Robot Foundation Models",
+      "dek": "NVIDIA's Robotics Week showcase highlights robot foundation models unifying perception, planning, and control, bringing humanoid systems closer to performing complex autonomous household tasks. Embodied AI is accelerating as real-time inference compute costs drop sharply and dataset quality improves.",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "publishedAt": "2026-05-01T08:00:00.000Z"
+    },
+    {
+      "id": "2026-05-01-iot-hardware-0",
+      "topic": "iot-hardware",
+      "headline": "MultiTech Showcases Intelligent Sensor Innovation and Sustainable IoT at CES 2026",
+      "dek": "MultiTech unveiled a new generation of AI-edge sensors at CES 2026 designed for industrial and agricultural deployments, combining low-power operation with on-device inference to eliminate cloud dependency. The hardware targets the 16-billion-device connected ecosystem where energy and security are primary constraints.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1706777387154-ab5bf204a5bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNdWx0aVRlY2glMkJTaG93Y2FzZXMlMkJJbnRlbGxpZ2VudCUyQlNlbnNvcnxlbnwwfDB8fHwxNzc3NjE2NTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tom Claes on Unsplash"
+    },
+    {
+      "id": "2026-05-01-iot-hardware-1",
+      "topic": "iot-hardware",
+      "headline": "IoT in 2026: Technologies Driving the Next Wave of Connected Systems Growth",
+      "dek": "IoT Insider identifies edge AI processing, 5G private networks, and post-quantum security as the three technology layers accelerating the next IoT growth wave. With cybercrime projected to exceed 20 trillion dollars by 2026, security-by-design is now a procurement requirement.",
+      "source": "IoT Insider",
+      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1537151331551-0551b27d1b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMkJpbiUyQjIwMjYlM0ElMkJUZWNobm9sb2dpZXN8ZW58MHwwfHx8MTc3NzYxNjUyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dai on Unsplash"
+    },
+    {
+      "id": "2026-05-01-iot-hardware-2",
+      "topic": "iot-hardware",
+      "headline": "6 IoT Semiconductor Predictions for 2026: AI Compute, NPUs, and Secure Enclaves",
+      "dek": "IoT Analytics forecasts chip vendors leaning heavily on EDA tools optimised for AI compute, reusable low-power NPU IP, and mature-node foundry processes to meet mixed workload demands. Predictions point to a bifurcation between cloud-offload and fully on-device inference architectures.",
+      "source": "IoT Analytics",
+      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1565292793248-f5c13612c48e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw2JTJCSW9UJTJCU2VtaWNvbmR1Y3RvciUyQlByZWRpY3Rpb25zfGVufDB8MHx8fDE3Nzc2MTY1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Enayet Raheem on Unsplash"
+    },
+    {
+      "id": "2026-05-01-aiot-0",
+      "topic": "aiot",
+      "headline": "The Future of AIoT in 2026: How Smart Systems Are Redefining Business Operations",
+      "dek": "With the AIoT market reaching an estimated 102 billion dollars, AI-embedded IoT systems are moving from pilots to enterprise backbone, optimising operations, security, and sustainability at scale. Software accounts for nearly 68 percent of total AIoT revenue, dominated by analytics and orchestration platforms.",
+      "source": "Speed4Trading",
+      "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
+      "publishedAt": "2026-05-01T08:00:00.000Z"
+    },
+    {
+      "id": "2026-05-01-aiot-1",
+      "topic": "aiot",
+      "headline": "Top 5 AIoT Trends in 2026: Predictive Maintenance to Ecological Monitoring",
+      "dek": "Hikvision identifies edge AI, predictive maintenance, public safety, agriculture, and ecological monitoring as the five dominant AIoT application trends for 2026. The convergence of computer vision and environmental sensors enables real-time biodiversity and pollution tracking at unprecedented scale.",
+      "source": "Hikvision",
+      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
+      "publishedAt": "2026-05-01T08:00:00.000Z"
+    },
+    {
+      "id": "2026-05-01-aiot-2",
+      "topic": "aiot",
+      "headline": "AIoT in 2026: From Edge Intelligence to Agentic Systems at the Network Periphery",
+      "dek": "IoT Evolution World examines how agentic AI is moving inference and decision-making to the IoT edge, enabling millisecond responses and offline operation without cloud dependency. The shift raises new questions about model governance, update management, and liability when autonomous edge systems act independently.",
+      "source": "IoT Evolution World",
+      "sourceUrl": "https://www.iotevolutionworld.com/iot/articles/463180-aiot-2026-from-edge-intelligence-agentic-systems.htm",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1660922857253-881f5d6969cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTJCaW4lMkIyMDI2JTNBJTJCRnJvbXxlbnwwfDB8fHwxNzc3NjE2NTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kamilla Isalieva on Unsplash"
+    },
+    {
+      "id": "2026-05-01-aiot-3",
+      "topic": "aiot",
+      "headline": "IoT and AI in 2026: Market Scale, Architecture Shifts, and Industry Impact",
+      "dek": "KaaIoT's analysis finds the global AI-in-IoT space valued at up to 99 billion dollars in 2026, growing at a 14-22 percent CAGR through 2031, with North America holding 41 percent share and Asia-Pacific expanding fastest. Architecture is shifting from centralised cloud to distributed edge-cloud hybrids.",
+      "source": "KaaIoT",
+      "sourceUrl": "https://www.kaaiot.com/iot-knowledge-base/iot-and-ai-in-2026-market-scale-architecture-and-industry-impact",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1649000373264-a19c7f3936dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMkJhbmQlMkJBSSUyQmlufGVufDB8MHx8fDE3Nzc2MTY1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Michal Hajtas on Unsplash"
+    },
+    {
+      "id": "2026-05-01-smart-agriculture-0",
+      "topic": "smart-agriculture",
+      "headline": "IoT in Agriculture: The 2026 Smart Farming Guide for Agribusiness",
+      "dek": "Folio3 Agtech argues IoT has moved beyond proof-of-concept in agriculture and is now an operational necessity, with solar-powered edge sensors and precision irrigation becoming standard practice. Farms using IoT-enabled irrigation report 30 percent reductions in water use alongside improved yields.",
+      "source": "Folio3 Agtech",
+      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1697166002173-101da2fdda05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMkJpbiUyQkFncmljdWx0dXJlJTNBJTJCVGhlfGVufDB8MHx8fDE3Nzc2MTY1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by li quan on Unsplash"
+    },
+    {
+      "id": "2026-05-01-smart-agriculture-1",
+      "topic": "smart-agriculture",
+      "headline": "Smart Farming IoT Data: Top 7 Innovations Transforming Agriculture in 2026",
+      "dek": "Farmonaut highlights seven IoT-driven innovations including AI-powered crop disease detection, autonomous irrigation drones, and soil carbon sensors that generate carbon-credit revenue streams for farmers. Seamless, solar-powered sensor networks now enable continuous monitoring on marginal land.",
+      "source": "Farmonaut",
+      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1643456457241-745a30930c17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTbWFydCUyQkZhcm1pbmclMkJJb1QlMkJEYXRhJTNBfGVufDB8MHx8fDE3Nzc2MTY1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bernd \ud83d\udcf7 Dittrich on Unsplash"
+    },
+    {
+      "id": "2026-05-01-smart-agriculture-2",
+      "topic": "smart-agriculture",
+      "headline": "IoT and AI in Agriculture: A Systematic Review of Smart Sensing Technologies",
+      "dek": "A peer-reviewed PMC study finds IoT-AI integration significantly improves yield prediction, resource efficiency, and early pest detection versus conventional methods. The authors call for biodegradable sensor hardware and low-power AI models to address the environmental footprint of expanding sensor networks.",
+      "source": "PubMed Central",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12196926/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1649000373264-a19c7f3936dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMkJhbmQlMkJBSSUyQmlufGVufDB8MHx8fDE3Nzc2MTY1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Michal Hajtas on Unsplash"
+    },
+    {
+      "id": "2026-05-01-career-signals-0",
+      "topic": "career-signals",
+      "headline": "Product Designer Jobs in Spain Surge in April 2026 with 20 New Openings",
+      "dek": "UIUX Designer Jobs lists 20 new product designer openings across Spain in April 2026, with senior roles at Proton, Nivoda, and Bitpanda requiring deep design-systems expertise and 5-plus years of experience. Salaries for senior positions are converging around 76,000 euros annually.",
+      "source": "UIUX Designer Jobs",
+      "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1614036634955-ae5e90f9b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTJCRGVzaWduZXIlMkJKb2JzJTJCaW58ZW58MHwwfHx8MTc3NzYxNjUyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brands&People on Unsplash"
+    },
+    {
+      "id": "2026-05-01-career-signals-1",
+      "topic": "career-signals",
+      "headline": "Product and Design Jobs in Barcelona: Live Openings at Skyscanner, Bitpanda, and More",
+      "dek": "WoodyJobs aggregates live product and design roles in Barcelona, with Skyscanner's Senior Director of Product Design and multiple senior IC roles at Bitpanda among the headline listings. Barcelona is cementing its status as a southern European product design hub.",
+      "source": "WoodyJobs",
+      "sourceUrl": "https://www.woodyjobs.com/barcelona",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTJCYW5kJTJCRGVzaWduJTJCSm9ic3xlbnwwfDB8fHwxNzc3NjE2NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
+    },
+    {
+      "id": "2026-05-01-career-signals-2",
+      "topic": "career-signals",
+      "headline": "Design Jobs in Spain 2026: UX, Product Design, and Research Roles Across Sectors",
+      "dek": "UIUX Jobs Board's Spain listing shows a healthy spread of UX researcher, product designer, and design lead roles at fintech scale-ups and travel platforms. Remote-friendly and hybrid contracts dominate, reflecting the normalisation of distributed design teams across Europe.",
+      "source": "UIUX Jobs Board",
+      "sourceUrl": "https://uiuxjobsboard.com/design-jobs/spain",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1773664253619-324259cdadc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEZXNpZ24lMkJKb2JzJTJCaW4lMkJTcGFpbnxlbnwwfDB8fHwxNzc3NjE2NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrea Huls Pareja on Unsplash"
+    },
+    {
+      "id": "2026-05-01-career-signals-3",
+      "topic": "career-signals",
+      "headline": "Product Designer Jobs Spain 2026: Startup and Scale-Up Opportunities on Wellfound",
+      "dek": "Wellfound's Spain board features product designer roles at funded startups and Series B-to-D scale-ups, with equity packages and remote flexibility as common differentiators. The concentration of AI and fintech startups in Barcelona and Madrid is driving demand for designers comfortable with ambiguity.",
+      "source": "Wellfound",
+      "sourceUrl": "https://wellfound.com/role/l/product-designer/spain",
+      "publishedAt": "2026-05-01T08:00:00.000Z"
+    },
+    {
+      "id": "2026-05-01-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "From Quantum Computing to mRNA Therapeutics: Seven Technologies to Watch in 2026",
+      "dek": "Nature's feature identifies quantum computing, mRNA therapeutics, physical AI, and space-based computing among the seven defining technologies of 2026, noting the first AI model trained in orbit emerged from an Nvidia-StarCloud collaboration. Post-quantum cryptography is moving from labs to real-world deployment, redefining digital trust infrastructure.",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-00188-6",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695462131550-24be3156b25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGcm9tJTJCUXVhbnR1bSUyQkNvbXB1dGluZyUyQnRvfGVufDB8MHx8fDE3Nzc2MTY1MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-05-01-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Tech Trends 2026: Five Forces Shaping the Future of Technology and Society",
+      "dek": "Globant's Foresight Report frames five macro forces reshaping technology in 2026: agentic AI, autonomous mobility, ambient robotics, space computing, and quantum-secure infrastructure. Driverless vehicles already operating 24/7 in major cities are beginning to reshape urban planning and car ownership models.",
+      "source": "Globant Reports",
+      "sourceUrl": "https://reports.globant.com/en/trends/tech-trends-report-2026/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1654842493917-49d75a9eaafd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZWNoJTJCVHJlbmRzJTJCMjAyNiUzQSUyQkZpdmV8ZW58MHwwfHx8MTc3NzYxNjUzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-05-01-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "4 Tech Trends That Will Shape 2026 and the Breakthroughs Powering Them",
+      "dek": "Bernard Marr highlights agentic AI, quantum-AI convergence, physical robotics, and ambient intelligence as the four trends with the broadest societal impact in 2026. The global robotics market is on track to surge from 44.7 billion dollars to 280 billion by 2034, fuelled by 20 percent yearly growth.",
+      "source": "Bernard Marr",
+      "sourceUrl": "https://bernardmarr.com/4-tech-trends-that-will-shape-2026-and-the-breakthroughs-powering-them/",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285437175-4c271304f343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw0JTJCVGVjaCUyQlRyZW5kcyUyQlRoYXR8ZW58MHwwfHx8MTc3NzYxNjUzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
+    },
+    {
+      "id": "2026-05-01-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "NTT DATA Foresight Report 2026: Six Trends Shaping Technology Innovation Globally",
+      "dek": "NTT DATA's Foresight Report identifies six technology trends including AI-native enterprise architecture, green computing, and sovereign cloud strategies gaining momentum as geopolitical fragmentation reshapes data governance. 75 percent of enterprises are experimenting with AI agents, though only 15 percent have deployed fully autonomous systems.",
+      "source": "NTT DATA",
+      "sourceUrl": "https://www.nttdata.com/global/en/news/press-release/2026/january/012700",
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1584931423312-5d53d862446a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOVFQlMkJEQVRBJTJCRm9yZXNpZ2h0JTJCUmVwb3J0fGVufDB8MHx8fDE3Nzc2MTY1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Martin Sanchez on Unsplash"
+    }
+  ]
+}
