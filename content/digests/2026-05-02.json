@@ -1,52 +1,7 @@
 {
   "date": "2026-05-02",
-  "heroStoryId": "2026-05-02-product-design-0",
+  "heroStoryId": "2026-05-02-product-design-4",
   "stories": [
-    {
-      "id": "2026-05-02-product-design-0",
-      "topic": "product-design",
-      "headline": "State of UX 2026: Design Deeper to Differentiate",
-      "dek": "Nielsen Norman Group's annual report finds that as AI floods the market with good-enough interfaces, depth of craft and research-backed decisions are becoming the primary competitive differentiators for design teams.",
-      "source": "Nielsen Norman Group",
-      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
-      "isHero": true,
-      "publishedAt": "2026-05-02T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMGRlc2lnbiUyMGludGVyZmFjZXxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Olaf Val on Unsplash"
-    },
-    {
-      "id": "2026-05-02-product-design-1",
-      "topic": "product-design",
-      "headline": "Product Design in 2026: The Beginning of a Fantastic Voyage",
-      "dek": "A sweeping overview of how AI-generated UI, voice interfaces, and spatial computing are forcing designers to rethink foundational assumptions about what a screen even is.",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac",
-      "publishedAt": "2026-05-01T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1758862493208-2046897d09d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwZGVzaWduJTIwdm95YWdlfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Tyler Lagalo on Unsplash"
-    },
-    {
-      "id": "2026-05-02-product-design-2",
-      "topic": "product-design",
-      "headline": "The Most Popular Experience Design Trends of 2026",
-      "dek": "From glassmorphism's functional comeback to privacy-first UX mandated by the EU Accessibility Act, this roundup identifies the movements gaining real traction in production design work.",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/the-most-popular-experience-design-trends-of-2026-3ca85c8a3e3d",
-      "publishedAt": "2026-04-30T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1763581202272-747df7ec2e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxleHBlcmllbmNlJTIwZGVzaWduJTIwdHJlbmRzfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Kwami Fattah Al Sissi on Unsplash"
-    },
-    {
-      "id": "2026-05-02-product-design-3",
-      "topic": "product-design",
-      "headline": "12 Product Design Trends for 2026",
-      "dek": "AI-first workflows, generative UI that renders at static-page speed, and sound design as a system component are among the twelve trends reshaping how product teams build and ship.",
-      "source": "UXPilot",
-      "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
-      "publishedAt": "2026-04-28T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1610187475256-2b19b921f7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxkZXNpZ24lMjB0b29scyUyMDIwMjZ8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Rombo on Unsplash"
-    },
     {
       "id": "2026-05-02-product-design-4",
       "topic": "product-design",
@@ -55,52 +10,8 @@
       "source": "UX Tigers",
       "sourceUrl": "https://www.uxtigers.com/post/2026-predictions",
       "publishedAt": "2026-04-27T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1714123113510-8f3954b277e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMHByZWRpY3Rpb25zJTIwZnV0dXJlfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Daniel Silva on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ux-research-0",
-      "topic": "ux-research",
-      "headline": "UX Research Methods: The Complete 2026 Guide",
-      "dek": "Userlytics maps the full landscape of research methods from moderated usability testing to card sorting, with guidance on matching method to development stage and team resources.",
-      "source": "Userlytics",
-      "sourceUrl": "https://www.userlytics.com/resources/blog/ux-research-methods/",
-      "publishedAt": "2026-05-01T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1760952851538-17a59f691efe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMHJlc2VhcmNoJTIwbWV0aG9kc3xlbnwwfDB8fHwxNzc3NzAzMTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Bluestonex on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ux-research-1",
-      "topic": "ux-research",
-      "headline": "8 Usability Testing Methods That Work in 2026",
-      "dek": "Contentsquare's practical guide covers the eight methods with real ROI in 2026, including how AI is now helping teams analyse larger volumes of session data and surface recurring patterns far faster.",
-      "source": "Contentsquare",
-      "sourceUrl": "https://contentsquare.com/guides/usability-testing/methods/",
-      "publishedAt": "2026-04-30T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1585624882829-f92c2d4cd89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHx1c2FiaWxpdHklMjB0ZXN0aW5nfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by UX Indonesia on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ux-research-2",
-      "topic": "ux-research",
-      "headline": "Qualitative UX Testing: Methods, Examples, and Use Cases",
-      "dek": "Greenbook explains why qualitative approaches — interviews, contextual inquiry, diary studies — remain irreplaceable even as quantitative platforms scale, and how to combine both for richer insight.",
-      "source": "Greenbook",
-      "sourceUrl": "https://www.greenbook.org/insights/qualitative-market-research/from-interviews-to-usability-tests-qualitative-ux-methods-explained",
-      "publishedAt": "2026-04-29T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1588144606768-3a6a1edf7729?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxxdWFsaXRhdGl2ZSUyMFVYJTIwcmVzZWFyY2h8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by UX Indonesia on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ux-research-3",
-      "topic": "ux-research",
-      "headline": "The Ultimate Guide to Usability Testing for UX in 2026",
-      "dek": "The UX Design Institute breaks down in-person versus remote testing trade-offs, with a focus on how expanding accessibility requirements make early usability testing far more cost-effective than retrofitting after launch.",
-      "source": "UX Design Institute",
-      "sourceUrl": "https://www.uxdesigninstitute.com/blog/guide-to-usability-testing-for-ux/",
-      "publishedAt": "2026-04-28T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHx1c2FiaWxpdHklMjB0ZXN0aW5nJTIwZ3VpZGV8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by David Travis on Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1743385779313-ac03bb0f997b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxOCUyMFVYJTIwUHJlZGljdGlvbnMlMjBmb3IlMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzc3NzA2MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kelly Sikkema on Unsplash"
     },
     {
       "id": "2026-05-02-ai-tools-0",
@@ -110,30 +21,8 @@
       "source": "Mean CEO",
       "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-may-2026/",
       "publishedAt": "2026-05-01T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1633311905139-7b6088a69e33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMHByb2R1Y3QlMjBsYXVuY2h8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Jackson Sophat on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-tools-1",
-      "topic": "ai-tools",
-      "headline": "Top 10 Best AI Tools for 2026 (Q2 Update)",
-      "dek": "DataNorth's quarterly rankings update covers Microsoft Agent 365, Cursor 3's parallel agents window, and the broader shift from chat-based AI to autonomous digital coworkers executing multi-step workflows.",
-      "source": "DataNorth AI",
-      "sourceUrl": "https://datanorth.ai/blog/top-10-ai-tools-for-2026",
-      "publishedAt": "2026-04-30T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1763568258533-d0597f86ce62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMHRvb2xzJTIwc29mdHdhcmV8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Daniil Komov on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-tools-2",
-      "topic": "ai-tools",
-      "headline": "Google AI Updates March 2026: Gemini 3.1 Ultra and Lyria 3 Pro Launch",
-      "dek": "Google's March rollout introduced Gemini 3.1 Ultra with a 2-million-token native multimodal context window alongside Lyria 3 Pro, enabling up to three minutes of granular music generation.",
-      "source": "Google Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "publishedAt": "2026-03-31T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1678483789109-023aeb636fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBBSSUyMHVwZGF0ZXN8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1770745778460-9d9f1a7e8632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMFByb2R1Y3QlMjBMYXVuY2hlcyUyME5ld3MlM0ElMjBhaS10b29sc3xlbnwwfDB8fHwxNzc3NzA2MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
     },
     {
       "id": "2026-05-02-ai-tools-3",
@@ -143,74 +32,8 @@
       "source": "AllInOneAICenter",
       "sourceUrl": "https://allinoneaicenter.com/blog/new-ai-tools-may-2026",
       "publishedAt": "2026-05-02T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1758626038030-96f813504d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxuZXclMjBBSSUyMHRvb2xzfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758626038030-96f813504d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXclMjBBSSUyMFRvb2xzJTIwJUUyJTgwJTk0JTIwYWktdG9vbHN8ZW58MHwwfHx8MTc3NzcwNjMyMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageCredit": "Photo by Jo Lin on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-research-0",
-      "topic": "ai-research",
-      "headline": "AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
-      "dek": "Researchers unveiled a neuro-symbolic AI approach that combines classical neural networks with symbolic reasoning, slashing energy consumption by up to 100× compared to standard deep learning while actually improving model accuracy.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-      "publishedAt": "2026-04-05T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGVuZXJneSUyMGJyZWFrdGhyb3VnaHxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Zach M on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-research-1",
-      "topic": "ai-research",
-      "headline": "6 AI Breakthroughs That Will Define 2026",
-      "dek": "InfoWorld identifies the six research advances with the most near-term industry impact: post-training specialization, physics-informed ML, edge inference optimization, agentic multi-step reasoning, open-source democratization, and AI-driven scientific discovery.",
-      "source": "InfoWorld",
-      "sourceUrl": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "publishedAt": "2026-04-20T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGJyZWFrdGhyb3VnaHMlMjB0ZWNobm9sb2d5fGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Growtika on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-research-2",
-      "topic": "ai-research",
-      "headline": "Mechanistic Interpretability Named a Top Breakthrough Technology of 2026",
-      "dek": "MIT Technology Review places mechanistic interpretability on its annual Breakthrough Technologies list, citing new tools that let researchers trace exactly which circuits inside a neural network produce specific outputs.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
-      "publishedAt": "2026-01-12T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGludGVycHJldGFiaWxpdHklMjByZXNlYXJjaHxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Markus Winkler on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-research-3",
-      "topic": "ai-research",
-      "headline": "Inside the AI Index: 12 Takeaways from Stanford HAI's 2026 Report",
-      "dek": "Stanford's Human-Centered AI Institute releases its annual state-of-AI report, with key findings on model capability growth, compute costs, labor market effects, and the expansion of AI benchmarks into real-world task performance.",
-      "source": "Stanford HAI",
-      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "publishedAt": "2026-04-10T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1775185172785-4bbd6b0fc8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGluZGV4JTIwcmVzZWFyY2glMjByZXBvcnR8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Galina Nelyubova on Unsplash"
-    },
-    {
-      "id": "2026-05-02-ai-research-4",
-      "topic": "ai-research",
-      "headline": "NVIDIA Spotlights Physical AI Research Breakthroughs for National Robotics Week",
-      "dek": "NVIDIA's Robotics Week roundup highlights advances in robot foundation models that unify perception, planning, and control, with teams deploying humanoid systems capable of complex autonomous household tasks.",
-      "source": "NVIDIA Blog",
-      "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-      "publishedAt": "2026-04-17T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1662947683270-136b00fbf3c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOVklESUElMjByb2JvdGljcyUyMEFJfGVufDB8MHx8fDE3Nzc3MDMxMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
-    },
-    {
-      "id": "2026-05-02-iot-hardware-0",
-      "topic": "iot-hardware",
-      "headline": "MultiTech Showcases Intelligent Sensor Innovation at CES 2026",
-      "dek": "MultiTech debuted a new generation of sustainable IoT sensor platforms at CES 2026, featuring ultra-low-power edge processing and energy-harvesting modules designed to significantly reduce field deployment costs.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
-      "publishedAt": "2026-01-09T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1652084824366-536ccc72f2b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBzZW5zb3IlMjBpbm5vdmF0aW9ufGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Mark Kats on Unsplash"
     },
     {
       "id": "2026-05-02-iot-hardware-1",
@@ -220,127 +43,8 @@
       "source": "MetaDesk Global",
       "sourceUrl": "https://metadeskglobal.com/iot-trends-2026/",
       "publishedAt": "2026-04-15T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1718866033984-c3ddab9af2a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBjb25uZWN0ZWQlMjBkZXZpY2VzfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Jakub Żerdzicki on Unsplash"
-    },
-    {
-      "id": "2026-05-02-iot-hardware-2",
-      "topic": "iot-hardware",
-      "headline": "6 IoT Semiconductor Predictions for 2026",
-      "dek": "IoT Analytics identifies the six chip-level trends shaping hardware procurement this year, including the shift to heterogeneous compute architectures and rising demand for AI-capable microcontrollers in edge deployments.",
-      "source": "IoT Analytics",
-      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
-      "publishedAt": "2026-02-20T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBzZW1pY29uZHVjdG9yJTIwY2hpcHxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by D koi on Unsplash"
-    },
-    {
-      "id": "2026-05-02-iot-hardware-3",
-      "topic": "iot-hardware",
-      "headline": "IoT in 2026: The Technologies Driving the Next Wave of Growth",
-      "dek": "IOT Insider maps the converging forces — satellite backhaul, private 5G, LPWAN 2.0, and edge AI — that are removing the last connectivity and compute barriers to industrial and rural IoT deployments.",
-      "source": "IOT Insider",
-      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
-      "publishedAt": "2026-04-01T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1761497039673-83fea602ae8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjB0ZWNobm9sb2d5JTIwZnV0dXJlfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Amal S on Unsplash"
-    },
-    {
-      "id": "2026-05-02-aiot-0",
-      "topic": "aiot",
-      "headline": "Top 5 AIoT Trends in 2026",
-      "dek": "Hikvision's industry overview identifies the five dominant AIoT movements: natural language control of physical devices, edge AI with millisecond latency, conservation applications, smart city infrastructure, and the market reaching $102 billion.",
-      "source": "Hikvision",
-      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
-      "publishedAt": "2026-03-15T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1643000867361-cd545336249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTIwc21hcnQlMjBzeXN0ZW1zfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Deng Xiang on Unsplash"
-    },
-    {
-      "id": "2026-05-02-aiot-1",
-      "topic": "aiot",
-      "headline": "IoT and AI in 2026: Market Scale, Architecture, and Industry Impact",
-      "dek": "Kaa IoT's deep-dive finds software commands 67% of AIoT revenue as analytics engines dominate investment, while Asia-Pacific expands at a 23% CAGR and North America holds 41% of the global market share.",
-      "source": "Kaa IoT",
-      "sourceUrl": "https://www.kaaiot.com/iot-knowledge-base/iot-and-ai-in-2026-market-scale-architecture-and-industry-impact",
-      "publishedAt": "2026-04-10T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1709120395858-92f1c7c577f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBBSSUyMG1hcmtldHxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Numan Ali on Unsplash"
-    },
-    {
-      "id": "2026-05-02-aiot-2",
-      "topic": "aiot",
-      "headline": "The Future of AIoT in 2026: How Smart Systems Are Redefining Business",
-      "dek": "Speed4Trading examines how AIoT convergence reshapes enterprise operations across manufacturing, logistics, and energy, with real-time AI inference at the edge enabling autonomous decision loops previously impossible on cloud latency.",
-      "source": "Speed4Trading",
-      "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
-      "publishedAt": "2026-04-05T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1753513291124-4f615bf1f6de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBBSSUyMGVkZ2UlMjBjb21wdXRpbmd8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Sumaid pal Singh Bakshi on Unsplash"
-    },
-    {
-      "id": "2026-05-02-smart-agriculture-0",
-      "topic": "smart-agriculture",
-      "headline": "IoT in Agriculture: 2026 Smart Farming Guide",
-      "dek": "Agtech Folio3's guide shows smart farming has moved beyond proof-of-concept, with solar-powered edge nodes, precision irrigation reducing water use by 30%, and AI-driven livestock monitoring delivering measurable ROI.",
-      "source": "Agtech Folio3",
-      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
-      "publishedAt": "2026-04-20T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1599511491576-ab06653a4ace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGZhcm1pbmclMjBJb1R8ZW58MHwwfHx8MTc3NzcwMzEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Luke Thornton on Unsplash"
-    },
-    {
-      "id": "2026-05-02-smart-agriculture-1",
-      "topic": "smart-agriculture",
-      "headline": "Smart Farming IoT Data: Top 7 Innovations for 2026",
-      "dek": "Farmonaut highlights seven precision-agriculture innovations gaining traction this year, including soil carbon monitoring networks that generate carbon-credit revenue and satellite-connected sensors for continuous monitoring on marginal land.",
-      "source": "Farmonaut",
-      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
-      "publishedAt": "2026-04-15T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1768602182173-154eeedeed05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGZhcm1pbmclMjBpbm5vdmF0aW9ufGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Oscar Solano on Unsplash"
-    },
-    {
-      "id": "2026-05-02-smart-agriculture-2",
-      "topic": "smart-agriculture",
-      "headline": "IoT and 5G Technologies Enhance Precision Farming and Sustainability",
-      "dek": "A peer-reviewed Wiley study demonstrates how private 5G networks combined with dense IoT sensor arrays enable real-time agronomic decisions at field scale, with documented yield improvements and significant input waste reductions.",
-      "source": "Wiley / International Journal of Communication Systems",
-      "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/dac.70310",
-      "publishedAt": "2026-03-01T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1722119272044-fc49006131e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxwcmVjaXNpb24lMjBmYXJtaW5nJTIwdGVjaG5vbG9neXxlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Justin Wilkens on Unsplash"
-    },
-    {
-      "id": "2026-05-02-smart-agriculture-3",
-      "topic": "smart-agriculture",
-      "headline": "Advancing Agriculture Through IoT, Big Data, and AI: A Sustainability Review",
-      "dek": "A ScienceDirect review synthesizes the evidence for smart agriculture's sustainability gains, finding that integrated IoT-AI systems consistently reduce water and fertilizer use while providing data infrastructure needed for carbon-credit certification.",
-      "source": "ScienceDirect",
-      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2772375525000814",
-      "publishedAt": "2026-02-15T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1599511491576-ab06653a4ace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBhZ3JpY3VsdHVyZSUyMHN1c3RhaW5hYmlsaXR5fGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Luke Thornton on Unsplash"
-    },
-    {
-      "id": "2026-05-02-career-signals-0",
-      "topic": "career-signals",
-      "headline": "Product Designer Jobs in Spain: 2026 Market Overview on Wellfound",
-      "dek": "Wellfound's live listings show strong demand for product designers across Spain in 2026, with roles at funded startups concentrated in Barcelona and Madrid, many offering remote-first or hybrid arrangements.",
-      "source": "Wellfound",
-      "sourceUrl": "https://wellfound.com/role/l/product-designer/spain",
-      "publishedAt": "2026-05-02T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-02-career-signals-1",
-      "topic": "career-signals",
-      "headline": "Product and Design Jobs in Barcelona: WoodyJobs Aggregated Listings",
-      "dek": "WoodyJobs aggregates Barcelona design roles across multiple boards, showing openings at Skyscanner, Bitpanda, Proton, and Nivoda, with seniority ranging from mid-level to Director of Product Design.",
-      "source": "WoodyJobs",
-      "sourceUrl": "https://www.woodyjobs.com/barcelona",
-      "publishedAt": "2026-05-02T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1749295672848-3be0a70da20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxkZXNpZ24lMjBqb2JzJTIwRXVyb3BlfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Andreas Maier on Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1584761650834-efc7932b9c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBUcmVuZHMlMjAyMDI2JTNBJTIwVGVjaG5vbG9naWVzJTIwaW90LWhhcmR3YXJlfGVufDB8MHx8fDE3Nzc3MDYzMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Pi Supply on Unsplash"
     },
     {
       "id": "2026-05-02-career-signals-2",
@@ -349,51 +53,130 @@
       "dek": "Glassdoor's 2026 compensation data puts the average Senior Product Designer salary in Barcelona at €60,200/year, with the middle range spanning €48,000–€70,125, reflecting sustained demand for experienced UX talent in the city's tech ecosystem.",
       "source": "Glassdoor",
       "sourceUrl": "https://www.glassdoor.com/Salaries/barcelona-spain-senior-product-designer-salary-SRCH_IL.0,15_IM1015_KO16,39.htm",
-      "publishedAt": "2026-05-01T08:00:00.000Z"
+      "publishedAt": "2026-05-01T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1653923787829-bfdebad30bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZW5pb3IlMjBQcm9kdWN0JTIwRGVzaWduZXIlMjBTYWxhcnklMjBjYXJlZXItc2lnbmFsc3xlbnwwfDB8fHwxNzc3NzA2MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by M. khan on Unsplash"
     },
     {
       "id": "2026-05-02-in-the-world-0",
       "topic": "in-the-world",
-      "headline": "From Quantum Computing to mRNA Therapeutics: Seven Technologies to Watch in 2026",
-      "dek": "Nature's annual technology outlook identifies seven fields at inflection points this year, including AI-powered climate modelling, quantum error correction milestones, and mRNA therapeutics expanding beyond vaccines into metabolic diseases.",
-      "source": "Nature",
-      "sourceUrl": "https://www.nature.com/articles/d41586-026-00188-6",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1752451399417-eb6e072269bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxxdWFudHVtJTIwY29tcHV0aW5nJTIwdGVjaG5vbG9neXxlbnwwfDB8fHwxNzc3NzAzMTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Logan Voss on Unsplash"
+      "headline": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "dek": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "publishedAt": "Fri, 01 May 2026 22:08:19 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30945294/pexels-photo-30945294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
     },
     {
       "id": "2026-05-02-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "4 Tech Trends That Will Shape 2026 and the Breakthroughs Powering Them",
-      "dek": "Bernard Marr maps the four macro-trends driving 2026 — physical AI entering the real world, quantum computing's error-correction leap, intelligent sensing infrastructure, and space-extended connectivity — and the research making each possible.",
-      "source": "Bernard Marr",
-      "sourceUrl": "https://bernardmarr.com/4-tech-trends-that-will-shape-2026-and-the-breakthroughs-powering-them/",
-      "publishedAt": "2026-01-10T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1759661966728-4a02e3c6ed91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwdHJlbmRzJTIwZnV0dXJlfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Jakub Żerdzicki on Unsplash"
+      "headline": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "dek": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "publishedAt": "Sat, 02 May 2026 06:36:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1723083661335-c88891b92323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVYmVyJTIwd2FudHMlMjB0byUyMHR1cm4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzcwNjMyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Erik Mclean on Unsplash"
     },
     {
       "id": "2026-05-02-in-the-world-2",
       "topic": "in-the-world",
-      "headline": "12 Technology Trends That Will Shape the Agenda in 2026",
-      "dek": "ESADE's Do Better blog surveys twelve technology forces with direct societal implications this year, including AI governance frameworks gaining teeth, humanoid robots entering commercial deployment, and the successor-to-smartphone race.",
-      "source": "ESADE Do Better",
-      "sourceUrl": "https://dobetter.esade.edu/en/technology-trends-2026",
-      "publishedAt": "2026-01-08T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1676285437175-4c271304f343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwc29jaWV0eSUyMHRyZW5kc3xlbnwwfDB8fHwxNzc3NzAzMTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Walls.io on Unsplash"
+      "headline": "Hate your job, but can’t quit? Try this",
+      "dek": "At one point or another, most of us have stared at our computer screen and wondered: Is this it? For some, it’s a passing feeling. Yet, for others, that boredom turns into lingering dissatisfaction, leading to quiet quitting, or even walking away from a job entirely, which rarely solves the deeper p",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91534819/hate-your-job-but-cant-quit-try-this",
+      "publishedAt": "2026-05-02T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1709985532799-92d35afb7593?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIYXRlJTIweW91ciUyMGpvYiUyQyUyMGJ1dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3NzA2MzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Boston Public Library on Unsplash"
     },
     {
       "id": "2026-05-02-in-the-world-3",
       "topic": "in-the-world",
-      "headline": "NTT DATA Foresight Report 2026: Six Trends Shaping Technology Innovation",
-      "dek": "NTT DATA's annual foresight report identifies six macro-trends redefining enterprise technology strategy in 2026, with emphasis on AI-native infrastructure, sovereign data architectures, and the acceleration of industrial automation globally.",
-      "source": "NTT DATA",
-      "sourceUrl": "https://www.nttdata.com/global/en/news/press-release/2026/january/012700",
-      "publishedAt": "2026-01-27T08:00:00.000Z",
-      "imageUrl": "https://images.unsplash.com/photo-1732877579540-7d5f4435f4f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTYW1zdW5nJTIwQUklMjBtZW1vcnklMjBjaGlwfGVufDB8MHx8fDE3Nzc3MDMxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": "Photo by Snap Wander on Unsplash"
+      "headline": "Therabody Promo Codes: 15% Off May 2026",
+      "dek": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/therabody-promo-code/",
+      "publishedAt": "Sat, 02 May 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/19388389/pexels-photo-19388389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Alexandru Cojanu on Pexels"
+    },
+    {
+      "id": "2026-05-02-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Virgin Galactic reveals new ship, but it's running out of time and cash",
+      "dek": "It's not clear whether Virgin Galactic has the cash reserves to fund a prolonged test phase.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/",
+      "publishedAt": "Fri, 01 May 2026 14:42:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1654280983312-110b5b422397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWaXJnaW4lMjBHYWxhY3RpYyUyMHJldmVhbHMlMjBuZXclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzcwNjMyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alessandro Ferrari on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Why does it take so long to release black fan versions?",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "publishedAt": "Sat, 02 May 2026 04:38:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1679234300714-9982a978df2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBkb2VzJTIwaXQlMjB0YWtlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzc3MDYzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Katja Ano on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Cyber-Insecurity in the AI Era",
+      "dek": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought wit",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDeWJlci1JbnNlY3VyaXR5JTIwaW4lMjB0aGUlMjBBSSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3NzA2MzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Operationalizing AI for Scale and Sovereignty",
+      "dek": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unl",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "publishedAt": "Fri, 01 May 2026 15:31:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVyYXRpb25hbGl6aW5nJTIwQUklMjBmb3IlMjBTY2FsZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3NzA2MzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: a new Christian phone network, and debugging LLMs",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "publishedAt": "Fri, 01 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1622796476782-35e5163bbd6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBuZXclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3NzcwNjMyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "dek": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "publishedAt": "Fri, 01 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1504179825965-0c72f5d014e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbmV4cGVuc2l2ZSUyMHNlYWZsb29yLWhvcHBpbmclMjBzdWJtZXJzaWJsZXMlMjBjb3VsZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3NzA2MzI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Haythem Gataa on Unsplash"
+    },
+    {
+      "id": "2026-05-02-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Trump’s mass firing just dealt another blow to American science",
+      "dek": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "publishedAt": "Fri, 01 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1740817747725-e000727e3c5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcnVtcCVFMiU4MCU5OXMlMjBtYXNzJTIwZmlyaW5nJTIwanVzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc3NzA2MzI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
     }
   ]
 }
