@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-03",
+  "heroStoryId": "2026-05-03-product-design-0",
+  "stories": [
+    {
+      "id": "2026-05-03-product-design-0",
+      "topic": "product-design",
+      "headline": "Nielsen Norman Group: State of UX 2026 Urges Designers to Go Deeper to Differentiate",
+      "dek": "NNG's annual report argues that surface-level AI-assisted design is now table stakes—the firms winning in 2026 are those investing in rigorous research, systems thinking, and strategic depth.",
+      "source": "Nielsen Norman Group",
+      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
+      "isHero": true,
+      "publishedAt": "2026-05-03T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1772272935464-2e90d8218987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dharmik Moradiya on Unsplash"
+    },
+    {
+      "id": "2026-05-03-product-design-1",
+      "topic": "product-design",
+      "headline": "UX Collective: Product Design in 2026 Enters a New Era of Possibility",
+      "dek": "A UX Collective essay traces how converging trends—spatial interfaces, AI co-design, and accessibility mandates—are redefining the scope and ambition of the product design profession.",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac",
+      "publishedAt": "2026-05-02T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1777503810337-e78757a41278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Creatvise on Unsplash"
+    },
+    {
+      "id": "2026-05-03-product-design-2",
+      "topic": "product-design",
+      "headline": "UX Tigers' 18 Predictions for Product Design in 2026",
+      "dek": "From AI-generated component variants to sound as a design material, UX Tigers catalogues 18 shifts reshaping how teams prototype, iterate, and ship digital products.",
+      "source": "UX Tigers",
+      "sourceUrl": "https://www.uxtigers.com/post/2026-predictions",
+      "publishedAt": "2026-05-01T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1714123113510-8f3954b277e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Silva on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ux-research-0",
+      "topic": "ux-research",
+      "headline": "Userlytics Publishes the Complete 2026 Guide to UX Research Methods",
+      "dek": "The comprehensive guide outlines when to use moderated vs. unmoderated testing, how AI is accelerating pattern analysis, and why 83% of practitioners now advocate for research at every product stage.",
+      "source": "Userlytics",
+      "sourceUrl": "https://www.userlytics.com/resources/blog/ux-research-methods/",
+      "publishedAt": "2026-05-02T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1630852722069-7062272a0f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Karl Solano on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ux-research-1",
+      "topic": "ux-research",
+      "headline": "UX Army Breaks Down Comparative Usability Testing: Best Practices for 2026",
+      "dek": "Head-to-head product comparisons are gaining traction as teams compete in crowded markets—this guide details methodology, recruiting criteria, and how to interpret divergent results fairly.",
+      "source": "UX Army",
+      "sourceUrl": "https://uxarmy.com/blog/comparative-usability-testing/",
+      "publishedAt": "2026-05-01T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Travis on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ux-research-2",
+      "topic": "ux-research",
+      "headline": "Qualtrics Names 10 Essential UX Research Tools for 2026",
+      "dek": "From AI-assisted session analysis to continuous feedback loops, Qualtrics maps the modern UX research stack and the capabilities that separate efficient teams from overwhelmed ones.",
+      "source": "Qualtrics",
+      "sourceUrl": "https://www.qualtrics.com/articles/strategy-research/ux-research-tools/",
+      "publishedAt": "2026-04-30T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1772272935464-2e90d8218987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dharmik Moradiya on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-tools-0",
+      "topic": "ai-tools",
+      "headline": "May 2026 AI Product Launch Roundup: What Shipped This Month",
+      "dek": "The startup edition tracker covers the most consequential AI product releases of May 2026, including new agent frameworks, developer tooling, and multimodal model updates.",
+      "source": "Mean.CEO",
+      "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-may-2026/",
+      "publishedAt": "2026-05-03T07:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1763110305836-17790330be78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Immo Wegmann on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-tools-1",
+      "topic": "ai-tools",
+      "headline": "AllInOneAICenter's Daily Tracker: New AI Tools Launched in May 2026",
+      "dek": "A continuously updated log of AI tools going live this month, spanning productivity, code generation, design, and healthcare verticals.",
+      "source": "AllInOneAICenter",
+      "sourceUrl": "https://allinoneaicenter.com/blog/new-ai-tools-may-2026",
+      "publishedAt": "2026-05-03T06:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1648134859187-71dadc9f815a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Team Nocoloco on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-tools-2",
+      "topic": "ai-tools",
+      "headline": "DataNorth Updates Its Top 10 AI Tools List for Q2 2026",
+      "dek": "The Q2 refresh reflects a competitive reshuffling as Claude Opus 4.7, GPT-5.4, and Gemini 3.1 Ultra each claim leadership in different task categories.",
+      "source": "DataNorth AI",
+      "sourceUrl": "https://datanorth.ai/blog/top-10-ai-tools-for-2026",
+      "publishedAt": "2026-05-02T07:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hitesh Choudhary on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-research-0",
+      "topic": "ai-research",
+      "headline": "New Algorithm Cuts AI Energy Consumption by 100× While Improving Accuracy",
+      "dek": "Researchers have unveiled a hybrid approach combining neural networks with symbolic reasoning that slashes the energy cost of large model inference while delivering measurably better outputs.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "publishedAt": "2026-04-05T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1770170389700-eb0f9b910ed8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-research-1",
+      "topic": "ai-research",
+      "headline": "Stanford HAI's AI Index 2026: 12 Key Takeaways on the State of Artificial Intelligence",
+      "dek": "The annual benchmark report tracks model capability growth, compute costs, labour market effects, and global AI governance developments, painting a nuanced picture of an industry at an inflection point.",
+      "source": "Stanford HAI",
+      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "publishedAt": "2026-04-21T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1775185172785-4bbd6b0fc8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Galina Nelyubova on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-research-2",
+      "topic": "ai-research",
+      "headline": "MIT Tech Review Names Mechanistic Interpretability a Top Breakthrough Technology of 2026",
+      "dek": "Research into how neural networks compute their outputs is graduating from academic curiosity to engineering discipline—with implications for AI safety, debugging, and regulatory compliance.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
+      "publishedAt": "2026-01-12T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
+    },
+    {
+      "id": "2026-05-03-ai-research-3",
+      "topic": "ai-research",
+      "headline": "InfoWorld: The 6 AI Breakthroughs That Will Define 2026",
+      "dek": "From physics-informed machine learning to autonomous scientific discovery, InfoWorld identifies the research threads most likely to generate practical, deployable impact within the year.",
+      "source": "InfoWorld",
+      "sourceUrl": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
+      "publishedAt": "2026-04-28T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
+    },
+    {
+      "id": "2026-05-03-iot-hardware-0",
+      "topic": "iot-hardware",
+      "headline": "MultiTech Showcases Intelligent Sensor Innovation and Sustainable IoT at CES 2026",
+      "dek": "MultiTech demonstrated a new generation of low-power, AI-enabled sensors at CES 2026 designed to reduce operational costs while supporting sustainability goals across industrial deployments.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
+      "publishedAt": "2026-01-07T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1760553120324-d3d2bf53852b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by ANOOF C on Unsplash"
+    },
+    {
+      "id": "2026-05-03-iot-hardware-1",
+      "topic": "iot-hardware",
+      "headline": "IOT Insider: The Technologies Driving the Next Wave of IoT Growth in 2026",
+      "dek": "Edge AI integration, LPWAN connectivity advances, and hardware miniaturisation are collectively enabling a new class of always-on, energy-autonomous IoT devices.",
+      "source": "IOT Insider",
+      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
+      "publishedAt": "2026-04-25T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1718866033984-c3ddab9af2a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jakub Zerdzicki on Unsplash"
+    },
+    {
+      "id": "2026-05-03-iot-hardware-2",
+      "topic": "iot-hardware",
+      "headline": "IoT Analytics Issues 6 Semiconductor Predictions Shaping the IoT Market in 2026",
+      "dek": "Chip supply dynamics, RISC-V adoption, and integrated AI accelerators are the defining semiconductor trends analysts say will determine the economics of connected hardware through the year.",
+      "source": "IoT Analytics",
+      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
+      "publishedAt": "2026-04-29T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by D koi on Unsplash"
+    },
+    {
+      "id": "2026-05-03-aiot-0",
+      "topic": "aiot",
+      "headline": "Hikvision Identifies the Top 5 AIoT Trends Reshaping Intelligent Systems in 2026",
+      "dek": "Edge AI, natural-language device interfaces, and expanded environmental applications headline Hikvision's annual AIoT trend analysis, as the market approaches $102 billion in value.",
+      "source": "Hikvision",
+      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
+      "publishedAt": "2026-04-15T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621685743771-fd5e13734ae6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by wu yi on Unsplash"
+    },
+    {
+      "id": "2026-05-03-aiot-1",
+      "topic": "aiot",
+      "headline": "KaaIoT Maps the Market Scale, Architecture, and Industry Impact of AI-Powered IoT in 2026",
+      "dek": "Software captures 68% of AIoT revenue as analytics engines and AI orchestration layers take precedence over raw hardware, signalling a maturation of the market's value chain.",
+      "source": "KaaIoT",
+      "sourceUrl": "https://www.kaaiot.com/iot-knowledge-base/iot-and-ai-in-2026-market-scale-architecture-and-industry-impact",
+      "publishedAt": "2026-04-20T09:00:00.000Z"
+    },
+    {
+      "id": "2026-05-03-aiot-2",
+      "topic": "aiot",
+      "headline": "How Smart AIoT Systems Are Redefining Business Operations in 2026",
+      "dek": "An industry analysis explores how the convergence of AI and IoT is enabling autonomous decision-making at the edge, reducing latency and human oversight requirements across logistics, manufacturing, and retail.",
+      "source": "Speed4Trading",
+      "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1756728585264-cd762f4b519c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bernardine Cantwell on Unsplash"
+    },
+    {
+      "id": "2026-05-03-smart-agriculture-0",
+      "topic": "smart-agriculture",
+      "headline": "Folio3 Agtech: The 2026 Smart Farming Guide to IoT in Agriculture",
+      "dek": "Precision irrigation, satellite connectivity, and AI-driven decision support have matured into operational necessities—the guide maps the technology stack now essential for competitive and sustainable agribusinesses.",
+      "source": "Folio3 Agtech",
+      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
+      "publishedAt": "2026-04-28T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1625740905704-9f1045f98bab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zac Edmonds on Unsplash"
+    },
+    {
+      "id": "2026-05-03-smart-agriculture-1",
+      "topic": "smart-agriculture",
+      "headline": "Farmonaut Highlights the Top Smart Farming IoT Innovations for 2026",
+      "dek": "Solar-powered sensor networks, edge computing in the field, and seamless satellite data integration are the seven innovations Farmonaut identifies as defining precision agriculture this year.",
+      "source": "Farmonaut",
+      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
+      "publishedAt": "2026-04-25T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695393349419-8974dc8e4c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hannah Shedrow on Unsplash"
+    },
+    {
+      "id": "2026-05-03-smart-agriculture-2",
+      "topic": "smart-agriculture",
+      "headline": "New Research: IoT and 5G Connectivity Are Accelerating Precision Farming and Sustainability Goals",
+      "dek": "Published in the International Journal of Communication Systems, the study quantifies how 5G-connected sensor arrays improve crop yield prediction accuracy and reduce water and fertiliser waste at scale.",
+      "source": "Wiley Online Library",
+      "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/dac.70310",
+      "publishedAt": "2026-04-10T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1627920769541-daa658ed6b59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Baltz on Unsplash"
+    },
+    {
+      "id": "2026-05-03-career-signals-0",
+      "topic": "career-signals",
+      "headline": "7 New Product Designer Jobs Listed in Spain for May 2026",
+      "dek": "The latest openings span Barcelona, Madrid, and remote-first roles, with Nivoda, Bitpanda, and Skyscanner among the active hirers seeking mid-to-senior design talent.",
+      "source": "UI/UX Designer Jobs",
+      "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
+      "publishedAt": "2026-05-03T06:00:00.000Z"
+    },
+    {
+      "id": "2026-05-03-career-signals-1",
+      "topic": "career-signals",
+      "headline": "UX Jobs Board: Design Hiring in Spain Spans UX Research, Product Design, and Leadership Roles",
+      "dek": "The dedicated Spain listing aggregates openings across UX research, product design, and design leadership, with several director-level positions appearing at scale-ups and established tech firms.",
+      "source": "UI/UX Jobs Board",
+      "sourceUrl": "https://uiuxjobsboard.com/design-jobs/spain",
+      "publishedAt": "2026-05-02T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1632085912694-53661d151471?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christian Lue on Unsplash"
+    },
+    {
+      "id": "2026-05-03-career-signals-2",
+      "topic": "career-signals",
+      "headline": "WoodyJobs Curates Product and Design Hiring in Barcelona for May 2026",
+      "dek": "Barcelona's design job market shows healthy momentum, with 296+ open roles tracked on Glassdoor and new positions at fintechs, travel tech firms, and SaaS companies added weekly.",
+      "source": "WoodyJobs",
+      "sourceUrl": "https://www.woodyjobs.com/barcelona",
+      "publishedAt": "2026-05-03T07:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1774200031927-d52bcec8cf8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sergej Kaldesic on Unsplash"
+    },
+    {
+      "id": "2026-05-03-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Nature: Seven Technologies to Watch in 2026, From Quantum Computing to mRNA Therapeutics",
+      "dek": "Nature's editorial team selects the research fronts most likely to generate breakthroughs this year, spanning computing, medicine, energy, and climate—with AI threading through nearly every category.",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-00188-6",
+      "publishedAt": "2026-04-20T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695462131550-24be3156b25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-05-03-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "ESADE: 12 Technology Trends Set to Shape the 2026 Global Agenda",
+      "dek": "The Barcelona-based business school maps twelve converging forces—from AI governance to digital identity—that executives, policymakers, and designers will need to navigate this year.",
+      "source": "ESADE Do Better",
+      "sourceUrl": "https://dobetter.esade.edu/en/technology-trends-2026",
+      "publishedAt": "2026-04-18T09:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1607037183811-2a54d746cd35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matthew TenBruggencate on Unsplash"
+    },
+    {
+      "id": "2026-05-03-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Bernard Marr: Four Tech Trends That Will Shape 2026 and the Breakthroughs Behind Them",
+      "dek": "From humanoid robots entering airports and warehouses to AI agents reshaping knowledge work, Marr identifies the four macro-trends with the highest near-term societal impact.",
+      "source": "Bernard Marr",
+      "sourceUrl": "https://bernardmarr.com/4-tech-trends-that-will-shape-2026-and-the-breakthroughs-powering-them/",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1737644467636-6b0053476bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gabriele Malaspina on Unsplash"
+    }
+  ]
+}
