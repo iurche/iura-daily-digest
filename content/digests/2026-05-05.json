@@ -76,7 +76,7 @@
       "source": "Fast Company",
       "sourceUrl": "https://www.fastcompany.com/91533944/google-fi-phone-service-review",
       "publishedAt": "2026-05-05T04:30:00",
-      "imageUrl": "https://images.unsplash.com/photo-1750173760885-2fc27322d5dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzJTIwcmVhc29ucyUyMHRvJTIwdXNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzc5NjIzNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1750173760885-2fc27322d5dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzJTIwcmVhc29ucyUyMHRvJTIwdXNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzc5Njc1ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
@@ -93,13 +93,13 @@
     {
       "id": "2026-05-05-in-the-world-6",
       "topic": "in-the-world",
-      "headline": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "headline": "Async Rust never left the MVP state",
       "dek": "Comments",
       "source": "Hacker News",
-      "sourceUrl": "https://walzr.com/empty-screenings",
-      "publishedAt": "Tue, 05 May 2026 04:33:22 +0000",
-      "imageUrl": "https://images.pexels.com/photos/33068208/pexels-photo-33068208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "imageCredit": "Photo by Miles Rothoerl on Pexels"
+      "sourceUrl": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "publishedAt": "Tue, 05 May 2026 07:26:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1576065666737-ca388e705411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBc3luYyUyMFJ1c3QlMjBuZXZlciUyMGxlZnQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3Nzk2NzU4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Al Ho on Unsplash"
     },
     {
       "id": "2026-05-05-in-the-world-7",
