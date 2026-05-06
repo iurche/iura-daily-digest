@@ -53,7 +53,7 @@ export function trimMessages(messages: { role: string; content: string }[], limi
 }
 
 export async function getGeminiResponseStream(systemPrompt: string, history: { role: string; content: string }[]) {
-  const models = ["gemini-2.0-flash", "gemini-1.5-flash"];
+  const models = ["gemini-1.5-flash", "gemini-1.5-pro"];
   let lastError: any;
 
   for (const modelName of models) {
