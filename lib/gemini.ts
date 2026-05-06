@@ -77,11 +77,17 @@ export async function getGeminiResponseStream(systemPrompt: string, history: { r
     } catch (err: any) {
       console.warn(`[Gemini] ${modelName} failed, trying next...`, err.message);
       lastError = err;
-      // If it's a 503, continue to next model
-      if (err.message?.includes("503") || err.message?.includes("high demand")) {
+      // Fallback on temporary issues: 503 (Capacity), 429 (Quota), or high demand messages
+      const isTemporary = 
+        err.message?.includes("503") || 
+        err.message?.includes("429") || 
+        err.message?.includes("high demand") || 
+        err.message?.includes("quota");
+
+      if (isTemporary) {
         continue;
       }
-      throw err; // Re-throw if it's not a temporary capacity issue
+      throw err; // Re-throw if it's a permanent error (e.g. auth, safety)
     }
   }
 
