@@ -149,6 +149,10 @@ Each saved note includes:
 
 **Note:** Credentials are stored server-side only, never exposed to the browser.
 
+**⚠️ Important:** The Simplenote legacy API (simple-note.appspot.com) was deprecated in October 2018 and may no longer be functional. If saving doesn't work:
+1. Consider using Simperium's current v2 API as an alternative
+2. Or switch to a different note-taking service (Apple Notes, Notion, Google Docs)
+
 ---
 
 ## 7. Topics & Content
@@ -186,6 +190,8 @@ If you need to force an update immediately:
 3. **Note Format Updates:** Notes now use "Q: [Topic] - [Date]" format for easy scanning in Simplenote.
 4. **Error Handling:** If Simplenote save fails, the formatted note is automatically copied to clipboard.
 5. **Vercel Env Vars Added:** `SIMPLENOTE_EMAIL` and `SIMPLENOTE_PASSWORD` must be set in Vercel project settings.
+
+**Known Issue:** The Simplenote legacy API (simple-note.appspot.com) used for this integration was deprecated in October 2018. If saving fails, investigate switching to Simperium's current v2 API or a different note-taking service.
 
 ### May 6, 2026 Updates
 1. **In-Site Reader:** All articles now open at `/article/[id]` with embedded extraction. Content is extracted at build time and persisted in `content/extracted/`.
