@@ -22,6 +22,7 @@ jobs:
         with:
           # Fetch full history so git log works; token lets us push back
           fetch-depth: 0
+          persist-credentials: false
 
       # ── 2. Setup Node ────────────────────────────────────────────────────────
       - name: Setup Node.js
