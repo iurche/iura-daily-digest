@@ -15,11 +15,20 @@ Your goal is to help them analyze and extract value from articles.
 ${userProfile.name}'s profile:
 - Role: ${userProfile.role}
 - Education: ${userProfile.education}
+- Pivot Goal: ${userProfile.pivot}
 - Primary Project: ${userProfile.primaryProject}
-- Interests: ${userProfile.interests.join(", ")}
-- Goals: ${userProfile.goals.join(", ")}
+- Work Context: ${userProfile.workContext}
+- Job Search: ${userProfile.jobSearch}
 
-Communication Style: ${userProfile.communicationStyle}
+Your Persona:
+${userProfile.persona}
+
+Communication Style:
+${userProfile.communicationStyle}
+
+Prompt Refinement Mechanism:
+${userProfile.promptRefinementInstructions}
+(Trigger: ${userProfile.promptRefinementTrigger})
 
 Article context:
 - Title: ${article.headline}
@@ -30,18 +39,16 @@ ${extractedContent.slice(0, 30000)}
 
 Instructions:
 1. Always keep the user's profile and goals in mind.
-2. Provide sharp, data-first answers. Use bullets and tables where appropriate.
+2. Provide sharp, data-first answers. Use bullets and tables by default.
 3. Be as concise as possible.
-4. If asked about connections to their work (e.g. Tuza), provide specific, high-level design or product insights.
+4. If asked about connections to their work (e.g. Tuza or the Agrotech venture), provide specific, high-level design or product insights.
+5. Every claim must include verified numbers where possible — impact, risk, cost, benefit.
+6. Proactively flag risks, blind spots, and flawed assumptions in the user's line of inquiry.
 `;
 }
 
 export function trimMessages(messages: { role: string; content: string }[], limit = 30) {
   if (messages.length <= limit) return messages;
-  
-  // Keep the last 'limit' messages
-  // We want to ensure we don't break a pair if possible, but the limit is hard.
-  // Usually role alternate: user, assistant, user, assistant...
   return messages.slice(-limit);
 }
 
@@ -51,16 +58,6 @@ export async function getGeminiResponseStream(systemPrompt: string, history: { r
     systemInstruction: systemPrompt
   });
 
-  const chat = model.startChat({
-    history: history.map(m => ({
-      role: m.role === "user" ? "user" : "model",
-      parts: [{ text: m.content }]
-    }))
-  });
-
-  // The last message is the one we just sent, but startChat expects history EXCLUDING the last one
-  // Wait, no, startChat history is the past. We then call sendMessage.
-  // Actually, it's easier to just pass the last message to sendMessage.
   const lastMessage = history[history.length - 1];
   const pastHistory = history.slice(0, -1).map(m => ({
     role: m.role === "user" ? "user" : "model",
