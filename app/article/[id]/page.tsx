@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getStoryById } from '@/lib/digests';
@@ -30,78 +31,95 @@ export default async function ArticlePage({ params }: Props) {
     notFound();
   }
 
-  // 1. Try to get pre-extracted content from disk
-  let content = getExtractedContent(story.sourceUrl);
+  try {
+    // 1. Try to get pre-extracted content from disk
+    let content = getExtractedContent(story.sourceUrl);
 
-  // 2. Fallback to runtime extraction if missing
-  if (!content) {
-    console.log(`[Reader] Content missing for ${story.id}, triggering runtime extraction...`);
-    content = await extractArticle(story.sourceUrl);
-  }
+    // 2. Fallback to runtime extraction if missing
+    if (!content) {
+      console.log(`[Reader] Content missing for ${story.id}, triggering runtime extraction...`);
+      content = await extractArticle(story.sourceUrl);
+    }
 
-  const publishedDate = new Date(story.publishedAt).toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
-  });
+    const publishedDate = new Date(story.publishedAt).toLocaleDateString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric'
+    });
 
-  return (
-    <div className="min-h-screen bg-[var(--bg)]">
-      <Nav />
-      
-      <main className="max-w-[800px] mx-auto px-5 md:px-10 pt-24 pb-12 md:py-20">
-        <ArticleReaderClient story={story} />
+    const showChat = !!(content && process.env.GEMINI_API_KEY);
 
-        <header className="mb-12">
-          <div className="flex items-center gap-3 mb-6">
-            <span className="text-[11px] font-bold uppercase tracking-widest text-[var(--brand)]">
-              {story.source}
-            </span>
-            <span className="w-1 h-1 rounded-full bg-[var(--border-med)]" />
-            <span className="text-[11px] font-semibold uppercase tracking-wider text-[var(--text-muted)]">
-              {publishedDate}
-            </span>
-          </div>
+    return (
+      <div className="min-h-screen bg-[var(--bg)]">
+        <Nav />
+        
+        <main className="max-w-[800px] mx-auto px-5 md:px-10 pt-24 pb-12 md:py-20">
+          <Suspense fallback={<div>Loading interaction controls...</div>}>
+            <ArticleReaderClient story={story} />
+          </Suspense>
 
-          <h1 className="text-4xl md:text-5xl font-extrabold leading-[1.1] text-[var(--text-strong)] mb-6 tracking-tight">
-            {story.headline}
-          </h1>
+          <header className="mb-12">
+            <div className="flex items-center gap-3 mb-6">
+              <span className="text-[11px] font-bold uppercase tracking-widest text-[var(--brand)]">
+                {story.source}
+              </span>
+              <span className="w-1 h-1 rounded-full bg-[var(--border-med)]" />
+              <span className="text-[11px] font-semibold uppercase tracking-wider text-[var(--text-muted)]">
+                {publishedDate}
+              </span>
+            </div>
 
-          {content?.byline && (
-            <p className="text-sm font-medium text-[var(--text-muted)] italic">
-              By {content.byline}
-            </p>
+            <h1 className="text-4xl md:text-5xl font-extrabold leading-[1.1] text-[var(--text-strong)] mb-6 tracking-tight">
+              {story.headline}
+            </h1>
+
+            {content?.byline && (
+              <p className="text-sm font-medium text-[var(--text-muted)] italic">
+                By {content.byline}
+              </p>
+            )}
+          </header>
+
+          {content ? (
+            <article 
+              className="prose prose-dd max-w-none"
+              dangerouslySetInnerHTML={{ __html: content.content }}
+            />
+          ) : (
+            <div className="py-20 text-center border-2 border-dashed border-[var(--border)] rounded-3xl bg-[var(--surface-2)]">
+              <p className="text-[var(--text-muted)] mb-4">
+                We couldn't extract the full content for this article.
+              </p>
+              <a 
+                href={story.sourceUrl} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-[var(--brand)] font-bold hover:underline inline-flex items-center gap-2"
+              >
+                Read on {story.source}
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3" />
+                </svg>
+              </a>
+            </div>
           )}
-        </header>
+        </main>
 
-        {content ? (
-          <article 
-            className="prose prose-dd max-w-none"
-            dangerouslySetInnerHTML={{ __html: content.content }}
-          />
-        ) : (
-          <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-10 text-center">
-            <p className="text-[var(--text-muted)] mb-6">
-              We couldn't extract the full content of this article.
-            </p>
-            <a
-              href={story.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-[var(--brand)] text-white rounded-lg px-6 py-3 font-bold transition-opacity hover:opacity-90"
-            >
-              Read on {story.source}
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3" />
-              </svg>
-            </a>
-          </div>
-        )}
-      </main>
-      
-      {content && process.env.GEMINI_API_KEY && <ChatPanel articleId={story.id} />}
-
-      <Footer />
-    </div>
-  );
+        <Footer />
+        
+        {showChat && <ChatPanel articleId={story.id} />}
+      </div>
+    );
+  } catch (error: any) {
+    console.error("[Reader] Server crash:", error);
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)] px-6">
+        <div className="text-center">
+          <h1 className="text-2xl font-bold mb-4">Something went wrong</h1>
+          <p className="text-[var(--text-muted)] mb-6">{error.message}</p>
+          <a href="/" className="text-[var(--brand)] font-bold">Return to homepage</a>
+        </div>
+      </div>
+    );
+  }
 }

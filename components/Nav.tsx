@@ -20,8 +20,10 @@ export default function Nav() {
   const dropdownRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const hydrate = useShelf((state) => state.hydrate);
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
     hydrate();
   }, [hydrate]);
 
@@ -64,9 +66,11 @@ export default function Nav() {
             </span>
           </Link>
 
-          <span className="text-xs text-[var(--text-muted)] hidden sm:inline">
-            {formatDate(new Date())}
-          </span>
+          {mounted && (
+            <span className="text-xs text-[var(--text-muted)] hidden sm:inline">
+              {formatDate(new Date())}
+            </span>
+          )}
 
           <div className="hidden sm:flex items-center gap-1.5 ml-2">
             <Link
