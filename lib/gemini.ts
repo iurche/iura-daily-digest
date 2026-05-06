@@ -58,6 +58,7 @@ export async function getGeminiResponseStream(systemPrompt: string, history: { r
 
   for (const modelName of models) {
     try {
+      console.log(`[Gemini] Attempting ${modelName}...`);
       const model = genAI.getGenerativeModel({ 
         model: modelName,
         systemInstruction: systemPrompt
@@ -73,21 +74,24 @@ export async function getGeminiResponseStream(systemPrompt: string, history: { r
         history: pastHistory
       });
 
-      return await chatSession.sendMessageStream(lastMessage.content);
+      const result = await chatSession.sendMessageStream(lastMessage.content);
+      console.log(`[Gemini] ${modelName} stream started successfully.`);
+      return result;
     } catch (err: any) {
-      console.warn(`[Gemini] ${modelName} failed, trying next...`, err.message);
+      console.error(`[Gemini] ${modelName} failed:`, err.message);
       lastError = err;
-      // Fallback on temporary issues: 503 (Capacity), 429 (Quota), or high demand messages
+      
       const isTemporary = 
         err.message?.includes("503") || 
         err.message?.includes("429") || 
         err.message?.includes("high demand") || 
         err.message?.includes("quota");
 
-      if (isTemporary) {
+      if (isTemporary && modelName !== models[models.length - 1]) {
+        console.warn(`[Gemini] ${modelName} temporary failure, falling back...`);
         continue;
       }
-      throw err; // Re-throw if it's a permanent error (e.g. auth, safety)
+      throw err; 
     }
   }
 
