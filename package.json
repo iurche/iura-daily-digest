@@ -25,6 +25,7 @@
     "remark-gfm": "^4.0.1",
     "rss-parser": "^3.13.0",
     "sharp": "^0.33.5",
+    "simplenote": "^0.0.2",
     "zustand": "^5.0.3"
   },
   "devDependencies": {

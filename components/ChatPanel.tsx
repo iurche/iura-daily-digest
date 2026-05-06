@@ -204,7 +204,12 @@ export default function ChatPanel({ articleId, story }: ChatPanelProps) {
             )}
 
             {messages.map((m, i) => (
-              <ChatMessage key={i} message={m} story={story || undefined} />
+              <ChatMessage 
+                key={i} 
+                message={m} 
+                story={story || undefined}
+                previousUserMessage={i > 0 ? messages.slice(0, i).reverse().find(msg => msg.role === 'user')?.content : undefined}
+              />
             ))}
 
             {streamingContent && (
