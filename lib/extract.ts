@@ -1,4 +1,5 @@
 import { Readability } from '@mozilla/readability';
+import { parseHTML } from 'linkedom';
 
 export type ExtractedContent = {
   url: string;
@@ -16,6 +17,7 @@ export async function extractArticle(url: string): Promise<ExtractedContent | nu
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
       },
+      next: { revalidate: 86400 } // Cache for 24h
     });
 
     if (!response.ok) {
@@ -24,9 +26,10 @@ export async function extractArticle(url: string): Promise<ExtractedContent | nu
     }
 
     const html = await response.text();
-    const { JSDOM } = require('jsdom');
-    const dom = new JSDOM(html, { url });
-    const reader = new Readability(dom.window.document);
+    const { document } = parseHTML(html);
+    
+    // Readability expects a DOM-like object
+    const reader = new Readability(document as any);
     const article = reader.parse();
 
     if (!article) {

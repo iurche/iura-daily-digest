@@ -51,7 +51,8 @@ export default async function ArticlePage({ params }: Props) {
       year: 'numeric'
     });
 
-    const showChat = !!(content && process.env.GEMINI_API_KEY);
+    console.log(`[Reader] Content for ${story.id}: ${content ? 'Found' : 'Missing'}`);
+    const showChat = !!(process.env.GEMINI_API_KEY);
 
     return (
       <>
