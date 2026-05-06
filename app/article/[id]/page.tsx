@@ -99,7 +99,7 @@ export default async function ArticlePage({ params }: Props) {
         )}
       </main>
       
-      {content && <ChatPanel articleId={story.id} />}
+      {content && process.env.GEMINI_API_KEY && <ChatPanel articleId={story.id} />}
 
       <Footer />
     </div>

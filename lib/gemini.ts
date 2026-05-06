@@ -4,6 +4,10 @@ import { Story } from "./types";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
 
+if (!process.env.GEMINI_API_KEY) {
+  console.warn("[Gemini] GEMINI_API_KEY not set. Chat will be unavailable.");
+}
+
 export function buildSystemPrompt(article: Story, extractedContent: string) {
   return `You are a helpful AI assistant for ${userProfile.name}.
 Your goal is to help them analyze and extract value from articles.
