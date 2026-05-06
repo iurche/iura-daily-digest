@@ -2,12 +2,12 @@
 
 import { useState, useEffect, useRef } from "react";
 import { useChats } from "@/lib/chats-store";
-import { getStoryById } from "@/lib/digests";
 import ChatMessage from "./ChatMessage";
-import { ChatMessage as ChatMessageType } from "@/lib/types";
+import { ChatMessage as ChatMessageType, Story } from "@/lib/types";
 
 interface ChatPanelProps {
   articleId: string;
+  story?: Story;
 }
 
 const STARTER_PROMPTS = [
@@ -16,7 +16,7 @@ const STARTER_PROMPTS = [
   "What should I take away as a senior designer?",
 ];
 
-export default function ChatPanel({ articleId }: ChatPanelProps) {
+export default function ChatPanel({ articleId, story }: ChatPanelProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -28,7 +28,6 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
   const { addMessage, hydrate, getThread } = useChats();
   const thread = getThread(articleId);
   const messages = thread?.messages || [];
-  const story = getStoryById(articleId);
 
   const scrollRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);

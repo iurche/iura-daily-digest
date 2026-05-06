@@ -110,7 +110,7 @@ export default async function ArticlePage({ params }: Props) {
 
         <Footer />
         
-        {showChat && <ChatPanel articleId={story.id} />}
+        {showChat && <ChatPanel articleId={story.id} story={story} />}
       </>
     );
   } catch (error: any) {
