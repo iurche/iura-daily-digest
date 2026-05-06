@@ -49,8 +49,8 @@ jobs:
       - name: Commit and push digest
         run: |
           TODAY=$(date -u +%Y-%m-%d)
-          git config user.name  "Daily Digest Bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "Iurii Osadchuk"
+          git config user.email "iuriiosad@gmail.com"
 
           git add content/digests/${TODAY}.json content/seen-urls.json || true
 

@@ -27,3 +27,14 @@ export type Digest = {
   heroStoryId: string;
   stories: Story[];
 };
+
+export type ChatMessage = {
+  role: "user" | "assistant";
+  content: string;
+  ts: number;
+};
+
+export type ChatThread = {
+  messages: ChatMessage[];
+  updatedAt: string;
+};

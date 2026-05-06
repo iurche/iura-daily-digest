@@ -55,7 +55,21 @@ Articles are now read directly on the site via the reader view at `/article/[id]
 
 ---
 
-## 3. Infrastructure & Credentials
+## 4. Contextual Gemini Chat
+
+Every article has a contextual chat assistant aware of both the article content and the user's professional profile.
+
+- **Profile Config:** `lib/profile.ts` contains Iura's role, goals, and interests. Changes here apply to all future chats on next deploy.
+- **Model:** Uses `gemini-2.0-flash` for high-speed, sharp responses.
+- **Context Management:** 
+    - Full extracted article text is injected into the system prompt (truncated to 30k chars).
+    - **Sliding Window:** Sends only the most recent 30 messages to Gemini to maintain context without hitting limits.
+- **Persistence:** Chat threads are synced to the same GitHub Gist as the Shelf, stored in `chats.json`.
+- **UI:** A floating sparkle button opens a slide-in drawer (desktop) or bottom sheet (mobile). Supports streaming responses and starter prompts.
+
+---
+
+## 5. Infrastructure & Credentials
 
 All secrets are managed as **GitHub Actions Secrets**.
 

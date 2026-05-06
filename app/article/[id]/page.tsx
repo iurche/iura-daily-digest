@@ -4,6 +4,7 @@ import { getStoryById } from '@/lib/digests';
 import { getExtractedContent } from '@/lib/extracted-store';
 import { extractArticle } from '@/lib/extract';
 import ArticleReaderClient from './ArticleReaderClient';
+import ChatPanel from '@/components/ChatPanel';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 
@@ -48,7 +49,7 @@ export default async function ArticlePage({ params }: Props) {
     <div className="min-h-screen bg-[var(--bg)]">
       <Nav />
       
-      <main className="max-w-[800px] mx-auto px-5 md:px-10 py-12 md:py-20">
+      <main className="max-w-[800px] mx-auto px-5 md:px-10 pt-24 pb-12 md:py-20">
         <ArticleReaderClient story={story} />
 
         <header className="mb-12">
@@ -97,6 +98,8 @@ export default async function ArticlePage({ params }: Props) {
           </div>
         )}
       </main>
+      
+      {content && <ChatPanel articleId={story.id} />}
 
       <Footer />
     </div>
