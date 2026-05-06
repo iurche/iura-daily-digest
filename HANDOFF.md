@@ -1,6 +1,6 @@
 # Daily Digest — Handoff Document
 
-**Last updated:** May 6, 2026  
+**Last updated:** May 6, 2026 (Phase 2: Gemini Chat + Reader)  
 **Owner:** Iura Osadchuk  
 **Live site:** https://iura-daily-digest.vercel.app
 
@@ -8,27 +8,40 @@
 
 ## 1. Automation Architecture
 
-The system is fully automated and runs entirely in the cloud via GitHub Actions.
+The system has two complementary runners:
 
+### GitHub Actions (Daily Build)
 ```
-[GitHub Actions — 06:00 UTC / 08:00 Madrid]
+[GitHub Actions — 06:00 UTC daily]
     │
     ├─ pnpm build-digest (scripts/build-digest.ts)
     │    ├─ Filter previously seen URLs (content/seen-urls.json)
     │    ├─ Fetch news (RSS feeds + The Guardian API)
     │    ├─ Fetch cover images (Unsplash/Pexels)
-    │    └─ Extract content (lib/extract.ts → content/extracted/*.json)
+    │    └─ Extract content (@mozilla/readability → content/extracted/*.json)
     │
     ├─ Write digest JSON → content/digests/YYYY-MM-DD.json
     │
-    ├─ git commit + git push origin main
+    ├─ git commit as iuriiosad@gmail.com + git push origin main
     │       └─ Vercel auto-build triggered
     │
-    └─ Telegram notification → @iurasclaude_bot
+    └─ No Telegram notification from this runner
 ```
+
+### Claude Scheduled Task (Telegram Notification)
+```
+[Claude Scheduled Task — 08:12 AM Madrid time daily]
+    │
+    ├─ Runs same build-digest pipeline
+    ├─ git commit as iuriiosad@gmail.com
+    └─ Sends Telegram notification with top 3 headlines
+```
+
+**Why two runners?** The scheduled task ensures Telegram notifications fire reliably. GitHub Actions handles the core digest build.
 
 **Stack:** Next.js 15 App Router · TypeScript · Tailwind CSS · Zustand · GitHub Actions · Vercel  
 **Deduplication:** Persistent 30-day rolling log in `content/seen-urls.json`. Articles are never repeated within a month.
+**Git Identity:** Both runners now use `iuriiosad@gmail.com` to ensure Vercel accepts all deployments.
 
 ---
 
@@ -71,7 +84,21 @@ Every article has a contextual chat assistant aware of both the article content 
 
 ## 5. Infrastructure & Credentials
 
-All secrets are managed as **GitHub Actions Secrets**.
+### GitHub Secrets (for GitHub Actions)
+- `VERCEL_TOKEN`: For deployment status/CLI access.
+- `TELEGRAM_BOT_TOKEN`: For automated daily notifications.
+- `SHELF_GIST_ID` & `SHELF_GITHUB_TOKEN`: For cross-device shelf + chat storage (same Gist).
+- `UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`, `GEMINI_API_KEY`, `GUARDIAN_API_KEY`: Content APIs.
+
+**Note:** The `GH_PAT` (Personal Access Token) was deleted on May 6, 2026, as it had become a security risk and was no longer needed. Both runners now use the default GitHub token or SSH.
+
+### Vercel Environment Variables
+- `GEMINI_API_KEY`: Set in Vercel project settings (copy from GitHub Secrets).
+
+### Claude Scheduled Task
+- Stored at `~/.claude/scheduled-tasks/daily-digest-pipeline/SKILL.md`
+- Uses same Telegram token and API keys as GitHub Actions
+- Enabled and auto-runs at 08:12 AM Madrid time daily
 
 | Resource | Value / Location |
 |---|---|
@@ -79,14 +106,7 @@ All secrets are managed as **GitHub Actions Secrets**.
 | GitHub Actions | /actions (Runs every day at 06:00 UTC) |
 | Vercel Project | `iura-daily-digest` |
 | Telegram Bot | `@iurasclaude_bot` (Chat ID: `382160671`) |
-| Storage (Shelf) | Private GitHub Gist |
-
-### Required Secrets (GitHub)
-- `VERCEL_TOKEN`: For deployment status/CLI access.
-- `TELEGRAM_BOT_TOKEN`: For automated daily notifications.
-- `GH_PAT`: Personal Access Token for the bot to push new digests to the repo.
-- `SHELF_GIST_ID` & `SHELF_GITHUB_TOKEN`: For cross-device shelf storage.
-- `UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`, `GEMINI_API_KEY`, `GUARDIAN_API_KEY`: Content APIs.
+| Storage (Shelf & Chat) | Private GitHub Gist |
 
 ---
 
@@ -117,7 +137,16 @@ If you need to force an update immediately:
 
 ---
 
-## 6. Known Items
+## 6. Known Items & Recent Changes
+
+### May 6, 2026 Updates
+1. **In-Site Reader:** All articles now open at `/article/[id]` with embedded extraction. Content is extracted at build time and persisted in `content/extracted/`.
+2. **Gemini Chat:** Every article has a contextual chat panel powered by `gemini-2.5-flash`. Conversations are per-article and persisted to the Gist (same as Shelf).
+3. **Git Identity Standardization:** Both GitHub Actions and the Claude scheduled task now commit as `iuriiosad@gmail.com`.
+4. **Rogue PAT Deleted:** The old `claude-digest` PAT (digest-agent@iura.ai) was deleted on May 6 to eliminate duplicate runners and deployment blocks.
+5. **Vercel Env Vars:** `GEMINI_API_KEY` must be set in Vercel project settings for the chat to work.
+
+### Older Items
 1. **Stable IDs**: Articles saved before April 27, 2026, should be re-saved to use the new `sourceUrl` identification format.
 2. **First Load Sync**: Cloud sync happens in the background. After saving on a new device, allow 1-2 seconds for the state to merge on other devices.
-3. **Legacy Triggers**: All old Claude Cloud (CCR) triggers have been decommissioned in favor of GitHub Actions.
+3. **Profile Config:** Edit `lib/profile.ts` to update how Gemini understands the user. Changes apply on next deploy.
