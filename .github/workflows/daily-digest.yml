@@ -60,6 +60,7 @@ jobs:
             echo "Nothing new to commit — digest already up to date."
           else
             git commit -m "digest: ${TODAY}"
+            git pull --rebase origin main
             git push origin main
             echo "PUSHED=true" >> $GITHUB_ENV
           fi
