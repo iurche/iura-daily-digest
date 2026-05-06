@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { userProfile } from "@/lib/profile";
-import { crypto } from "node:crypto";
+import crypto from "node:crypto";
 
 // Simplenote / Simperium Configuration (Working Production Keys)
 const SIMPLENOTE_APP_ID = "chalk-bump-f49";
@@ -62,8 +62,8 @@ async function createNote(
   content: string,
   tags: string[]
 ): Promise<any> {
-  const noteId = (globalThis as any).crypto?.randomUUID() || require('node:crypto').randomUUID();
-  const ccid = (globalThis as any).crypto?.randomUUID() || require('node:crypto').randomUUID();
+  const noteId = crypto.randomUUID();
+  const ccid = crypto.randomUUID();
   const nowUnix = Math.floor(Date.now() / 1000);
 
   const noteData = {
