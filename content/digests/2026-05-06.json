@@ -10,7 +10,8 @@
       "source": "Lyssna",
       "sourceUrl": "https://www.lyssna.com/blog/ux-design-trends/",
       "publishedAt": "2026-02-15T08:00:00.000Z",
-      "imageUrl": "/images/heroes/2026-05-06.png"
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMERlc2lnbiUyMFRyZW5kcyUyMDIwMjYlM0ElMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzc4MDU2NzY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-05-06-career-signals-2",
@@ -19,7 +20,9 @@
       "dek": "Glassdoor's Barcelona design job count hits 366 in May 2026, with salaries for senior product designer roles averaging around €76,000 annually — and a cluster of listings at fintech, travel-tech, and digital health companies.",
       "source": "Glassdoor",
       "sourceUrl": "https://www.glassdoor.com/Job/barcelona-designer-jobs-SRCH_IL.0,9_IC2547194_KO10,18.htm",
-      "publishedAt": "2026-05-06T08:00:00.000Z"
+      "publishedAt": "2026-05-06T08:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676285436462-e27f3e96f847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzNjYlMjBEZXNpZ24lMjBKb2JzJTIwaW4lMjBjYXJlZXItc2lnbmFsc3xlbnwwfDB8fHwxNzc4MDU2NzY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-0",
@@ -28,7 +31,9 @@
       "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "publishedAt": "Tue, 05 May 2026 12:10:00 +0000"
+      "publishedAt": "Tue, 05 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGluc2lkZSUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4MDU2NzY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-1",
@@ -37,7 +42,9 @@
       "dek": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be.",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
-      "publishedAt": "Tue, 05 May 2026 11:00:00 +0000"
+      "publishedAt": "Tue, 05 May 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1669892855707-e739696d7142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBpUGhvbmUlMjBUaGF0JTIwTmV2ZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stefan Schwinghammer on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-2",
@@ -46,7 +53,9 @@
       "dek": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made comp",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "publishedAt": "Wed, 06 May 2026 06:47:12 +0000"
+      "publishedAt": "Wed, 06 May 2026 06:47:12 +0000",
+      "imageUrl": "https://images.pexels.com/photos/17175567/pexels-photo-17175567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Anastasiya Badun on Pexels"
     },
     {
       "id": "2026-05-06-in-the-world-3",
@@ -55,7 +64,9 @@
       "dek": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "publishedAt": "2026-05-05T21:46:04.000Z"
+      "publishedAt": "2026-05-05T21:46:04.000Z",
+      "imageUrl": "https://images.pexels.com/photos/30869081/pexels-photo-30869081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
     },
     {
       "id": "2026-05-06-in-the-world-4",
@@ -64,7 +75,9 @@
       "dek": "Generative AI has made it possible for individuals to perform tasks that once required entire teams. Today, a single marketer can produce campaign assets, analyze data, and generate content at scale. A product manager can prototype, test, and iterate without relying on engineering; and developers ca",
       "source": "Fast Company",
       "sourceUrl": "https://www.fastcompany.com/91520066/will-ai-destroy-teamwork",
-      "publishedAt": "2026-05-06T08:00:00"
+      "publishedAt": "2026-05-06T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1598015132635-131afe3ba07f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaWxsJTIwQUklMjBkZXN0cm95JTIwdGVhbXdvcmslM0YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nick Fewings on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-5",
@@ -73,7 +86,9 @@
       "dek": "DHS targeted a man who hadn't entered the US for years for criticism of ICE operations.",
       "source": "Ars Technica",
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
-      "publishedAt": "Tue, 05 May 2026 14:02:19 +0000"
+      "publishedAt": "Tue, 05 May 2026 14:02:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1737388771382-c3bb931d3832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxESFMlMjBhYnVzZXMlMjAxOTMwcyUyMGN1c3RvbXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-6",
@@ -82,7 +97,9 @@
       "dek": "Comments",
       "source": "Hacker News",
       "sourceUrl": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "publishedAt": "Wed, 06 May 2026 03:10:33 +0000"
+      "publishedAt": "Wed, 06 May 2026 03:10:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1623064904480-00bae72b5c41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZ2VudHMlMjBjYW4lMjBub3clMjBjcmVhdGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-7",
@@ -91,7 +108,9 @@
       "dek": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "publishedAt": "Tue, 05 May 2026 09:00:00 +0000"
+      "publishedAt": "Tue, 05 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1742415106160-594d07f6cc23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwYmx1ZXByaW50JTIwZm9yJTIwdXNpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Community Archives of Belleville and Hastings County on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-8",
@@ -100,7 +119,9 @@
       "dek": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "publishedAt": "Tue, 05 May 2026 23:05:50 +0000"
+      "publishedAt": "Tue, 05 May 2026 23:05:50 +0000",
+      "imageUrl": "https://images.pexels.com/photos/29763531/pexels-photo-29763531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Julio Lopez on Pexels"
     },
     {
       "id": "2026-05-06-in-the-world-9",
@@ -109,7 +130,9 @@
       "dek": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "publishedAt": "Tue, 05 May 2026 20:06:40 +0000"
+      "publishedAt": "Tue, 05 May 2026 20:06:40 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8428066/pexels-photo-8428066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kampus Production on Pexels"
     },
     {
       "id": "2026-05-06-in-the-world-10",
@@ -118,7 +141,9 @@
       "dek": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "publishedAt": "2026-05-05T21:18:23.000Z"
+      "publishedAt": "2026-05-05T21:18:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1649734924649-b559375080b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGFncmVlcyUyMHRvJTIwcGF5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzgwNTY3NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
     },
     {
       "id": "2026-05-06-in-the-world-11",
@@ -127,7 +152,9 @@
       "dek": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked ",
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "publishedAt": "2026-05-05T19:54:37.000Z"
+      "publishedAt": "2026-05-05T19:54:37.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1696041757789-de7f8704535b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBnaXZlcyUyMHVwJTIwb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODA1Njc3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hakim Menikh on Unsplash"
     }
   ]
 }
