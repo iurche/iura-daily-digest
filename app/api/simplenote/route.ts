@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { userProfile } from "@/lib/profile";
+import { crypto } from "node:crypto";
 
 // Simplenote / Simperium Configuration (Working Production Keys)
 const SIMPLENOTE_APP_ID = "chalk-bump-f49";
@@ -61,17 +62,24 @@ async function createNote(
   content: string,
   tags: string[]
 ): Promise<any> {
+  const noteId = (globalThis as any).crypto?.randomUUID() || require('node:crypto').randomUUID();
+  const ccid = (globalThis as any).crypto?.randomUUID() || require('node:crypto').randomUUID();
+  const nowUnix = Math.floor(Date.now() / 1000);
+
   const noteData = {
     content: content,
     tags: tags,
-    systemTags: [],
-    modificationDate: Date.now() / 1000,
-    creationDate: Date.now() / 1000
+    systemTags: ["markdown"],
+    creationDate: nowUnix,
+    modificationDate: nowUnix,
+    deleted: false,
+    shareURL: "",
+    publishURL: ""
   };
 
-  console.log('[Simperium Create] Creating note...');
+  console.log('[Simperium Create] Creating note with ID:', noteId);
   
-  const response = await fetch(`https://api.simperium.com/1/${SIMPLENOTE_APP_ID}/note/i/`, {
+  const response = await fetch(`https://api.simperium.com/1/${SIMPLENOTE_APP_ID}/note/i/${noteId}?ccid=${ccid}`, {
     method: 'POST',
     headers: {
       'X-Simperium-Token': token,
@@ -86,7 +94,8 @@ async function createNote(
     throw new Error(`Failed to create note: ${response.status}`);
   }
 
-  return await response.json();
+  const result = await response.json();
+  return { id: noteId, ...result };
 }
 
 export async function POST(req: NextRequest) {
@@ -135,10 +144,10 @@ export async function POST(req: NextRequest) {
     const token = await authenticateSimperium(email, password);
     const result = await createNote(token, noteContent, tags);
 
-    console.log('[Simplenote API] Success!');
+    console.log('[Simplenote API] Success! Note ID:', result.id);
     return NextResponse.json({
       success: true,
-      noteId: result.id || 'success',
+      noteId: result.id,
       tags: tags
     });
 
