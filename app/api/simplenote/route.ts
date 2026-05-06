@@ -94,8 +94,8 @@ async function createNote(
     throw new Error(`Failed to create note: ${response.status}`);
   }
 
-  const result = await response.json();
-  return { id: noteId, ...result };
+  // Simperium returns 200 with empty body on success — don't call .json()
+  return { id: noteId };
 }
 
 export async function POST(req: NextRequest) {
