@@ -54,7 +54,7 @@ export function trimMessages(messages: { role: string; content: string }[], limi
 
 export async function getGeminiResponseStream(systemPrompt: string, history: { role: string; content: string }[]) {
   // Models confirmed available via ListModels for this API key (Tier 1)
-  const models = ["gemini-2.5-flash", "gemini-2.0-flash-lite-001"];
+  const models = ["gemini-2.0-flash-001", "gemini-1.5-flash", "gemini-1.5-flash-8b"];
   let lastError: any;
 
   for (const modelName of models) {

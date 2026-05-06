@@ -1,6 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
 import { userProfile } from "@/lib/profile";
 
+// Simplenote / Simperium Configuration (Working Production Keys)
+const SIMPLENOTE_APP_ID = "chalk-bump-f49";
+const SIMPLENOTE_API_KEY = "c8c2b86337154cdabc989b23e30c6bf4";
+
 // Auto-tagging configuration
 const TOPIC_TAG_MAP: Record<string, string> = {
   "product-design": "design",
@@ -23,112 +27,103 @@ const DOMAIN_KEYWORDS = {
   business: ["pricing", "revenue", "plg", "growth", "metrics", "market"]
 };
 
-// Simplenote API authentication
-async function authenticateSimplenote(email: string, password: string): Promise<string> {
-  const authString = `email=${email}&password=${password}`;
-  const authBase64 = Buffer.from(authString).toString('base64');
+// Simperium Authentication
+async function authenticateSimperium(email: string, password: string): Promise<string> {
+  console.log('[Simperium Auth] Attempting authentication...');
   
-  console.log('[Simplenote Auth] Attempting authentication for:', email.substring(0, 5) + '***');
-  
-  const response = await fetch('https://simple-note.appspot.com/api/login', {
+  const response = await fetch(`https://auth.simperium.com/1/${SIMPLENOTE_APP_ID}/authorize/`, {
     method: 'POST',
-    headers: {
-      'Content-Type': 'text/plain',
-      'User-Agent': 'Daily-Digest/1.0'
+    headers: { 
+      'Content-Type': 'application/json',
+      'X-Simperium-API-Key': SIMPLENOTE_API_KEY
     },
-    body: authBase64
+    body: JSON.stringify({ username: email, password: password })
   });
 
   if (!response.ok) {
-    console.error('[Simplenote Auth] Failed:', response.status, response.statusText);
+    const errorText = await response.text();
+    console.error('[Simperium Auth] Failed:', response.status, errorText);
     throw new Error(`Authentication failed: ${response.status}`);
   }
 
-  const token = await response.text();
-  console.log('[Simplenote Auth] Success, token received');
-  return token.trim();
+  const result = await response.json();
+  if (!result.access_token) {
+    throw new Error('No access token received');
+  }
+  
+  console.log('[Simperium Auth] Success');
+  return result.access_token;
 }
 
-// Create note in Simplenote using API2
-async function createSimplenoteNote(
+// Create note in Simplenote using Simperium API
+async function createNote(
   token: string,
-  email: string,
   content: string,
   tags: string[]
 ): Promise<any> {
-  const note = {
+  const noteData = {
     content: content,
     tags: tags,
     systemTags: [],
-    creationDate: Date.now() / 1000,
-    modificationDate: Date.now() / 1000
+    modificationDate: Date.now() / 1000,
+    creationDate: Date.now() / 1000
   };
 
-  console.log('[Simplenote Create] Creating note with', tags.length, 'tags');
+  console.log('[Simperium Create] Creating note...');
   
-  const url = `https://simple-note.appspot.com/api2/data?auth=${encodeURIComponent(token)}&email=${encodeURIComponent(email)}`;
-  
-  const response = await fetch(url, {
+  const response = await fetch(`https://api.simperium.com/1/${SIMPLENOTE_APP_ID}/note/i/`, {
     method: 'POST',
     headers: {
-      'Content-Type': 'application/json',
-      'User-Agent': 'Daily-Digest/1.0'
+      'X-Simperium-Token': token,
+      'Content-Type': 'application/json'
     },
-    body: JSON.stringify(note)
+    body: JSON.stringify(noteData)
   });
 
   if (!response.ok) {
-    console.error('[Simplenote Create] Failed:', response.status, response.statusText);
     const errorText = await response.text();
-    console.error('[Simplenote Create] Error body:', errorText);
+    console.error('[Simperium Create] Failed:', response.status, errorText);
     throw new Error(`Failed to create note: ${response.status}`);
   }
 
-  const result = await response.json();
-  console.log('[Simplenote Create] Success, note created with key:', result.key);
-  return result;
+  return await response.json();
 }
 
 export async function POST(req: NextRequest) {
+  let body: any;
   try {
-    const { message, userQuestion, story, timestamp } = await req.json();
+    body = await req.json();
+    const { message, userQuestion, story, timestamp } = body;
 
-    console.log('[Simplenote API] Request received');
-    console.log('[Simplenote API] Story topic:', story.topic);
-    console.log('[Simplenote API] User question length:', userQuestion?.length);
+    console.log('[Simplenote API] Request received for topic:', story?.topic);
 
-    // Get credentials from environment variables
+    // Get credentials
     const email = process.env.SIMPLENOTE_EMAIL;
     const password = process.env.SIMPLENOTE_PASSWORD;
 
     if (!email || !password) {
-      console.error('[Simplenote API] Missing credentials');
       throw new Error('Simplenote credentials not configured');
     }
 
-    // Generate note title (Custom format: Q: [topic] - [date])
-    const topicKeyword = extractTopicKeyword(userQuestion, story.topic);
-    const dateStr = new Date(timestamp).toLocaleDateString('en-US', { 
+    // Generate note title
+    const topicKeyword = extractTopicKeyword(userQuestion, story?.topic || "Insight");
+    const dateStr = new Date(timestamp || Date.now()).toLocaleDateString('en-US', { 
       month: 'short', 
       day: 'numeric' 
     });
     const noteTitle = `Q: ${topicKeyword} - ${dateStr}`;
 
-    console.log('[Simplenote API] Note title:', noteTitle);
-
-    // Extract action items from Gemini's response
+    // Extract action items
     const actionItems = extractActionItems(message);
-    console.log('[Simplenote API] Extracted', actionItems.length, 'action items');
 
-    // Generate tags (conservative: 5-7 tags, prioritizing domain tags)
-    const tags = generateTags(message, userQuestion, story, timestamp);
-    console.log('[Simplenote API] Generated tags:', tags);
+    // Generate tags
+    const tags = generateTags(message, userQuestion, story || {}, timestamp || Date.now());
 
-    // Format the note with all context
+    // Format content
     const noteContent = formatNote({
       title: noteTitle,
-      date: new Date(timestamp).toISOString().split('T')[0],
-      story,
+      date: new Date(timestamp || Date.now()).toISOString().split('T')[0],
+      story: story || { source: 'Unknown', sourceUrl: '#' },
       userProfile,
       userQuestion,
       aiResponse: message,
@@ -136,69 +131,50 @@ export async function POST(req: NextRequest) {
       tags
     });
 
-    // Authenticate and create note
-    console.log('[Simplenote API] Starting authentication...');
-    const token = await authenticateSimplenote(email, password);
-    
-    console.log('[Simplenote API] Creating note...');
-    const result = await createSimplenoteNote(token, email, noteContent, tags);
+    // Authenticate and create
+    const token = await authenticateSimperium(email, password);
+    const result = await createNote(token, noteContent, tags);
 
     console.log('[Simplenote API] Success!');
     return NextResponse.json({
       success: true,
-      noteId: result.key,
+      noteId: result.id || 'success',
       tags: tags
     });
 
   } catch (error: any) {
     console.error('[Simplenote API] Error:', error.message);
-    console.error('[Simplenote API] Stack:', error.stack);
     
     // Return formatted note for clipboard fallback
-    try {
-      const { message, userQuestion, story, timestamp } = await req.json();
-      const fallbackContent = formatNote({
-        title: "Q: " + (userQuestion || "AI Insight").slice(0, 50),
-        date: new Date().toISOString().split('T')[0],
-        story: story,
-        userProfile,
-        userQuestion: userQuestion || "Question not available",
-        aiResponse: message,
-        actionItems: [],
-        tags: []
-      });
+    const fallbackContent = formatNote({
+      title: "Q: " + (body?.userQuestion || "AI Insight").slice(0, 50),
+      date: new Date().toISOString().split('T')[0],
+      story: body?.story || { source: 'Unknown', sourceUrl: '#' },
+      userProfile,
+      userQuestion: body?.userQuestion || "Question not available",
+      aiResponse: body?.message || "Response not available",
+      actionItems: [],
+      tags: []
+    });
 
-      return NextResponse.json({
-        success: false,
-        error: error.message || "Failed to save to Simplenote",
-        noteContent: fallbackContent
-      }, { status: 500 });
-    } catch (fallbackError) {
-      return NextResponse.json({
-        success: false,
-        error: error.message || "Failed to save to Simplenote",
-        noteContent: message
-      }, { status: 500 });
-    }
+    return NextResponse.json({
+      success: false,
+      error: error.message || "Failed to save to Simplenote",
+      noteContent: fallbackContent
+    }, { status: 500 });
   }
 }
 
 function extractTopicKeyword(question: string, topic: string): string {
-  // Smart extraction of main topic from question
   const lcQuestion = (question || "").toLowerCase();
-  
-  // Check for project mentions
   if (lcQuestion.includes("tuza")) return "Tuza";
   if (lcQuestion.includes("vistaprint") || lcQuestion.includes("vista")) return "VistaPrint";
   
-  // Check for domain keywords
   for (const [domain, keywords] of Object.entries(DOMAIN_KEYWORDS)) {
     if (keywords.some(kw => lcQuestion.includes(kw))) {
       return domain.charAt(0).toUpperCase() + domain.slice(1);
     }
   }
-  
-  // Fallback to article topic
   return TOPIC_TAG_MAP[topic] || topic;
 }
 
@@ -215,68 +191,47 @@ function extractActionItems(content: string): string[] {
   ];
 
   for (const pattern of actionPhrases) {
-    const matches = content.matchAll(pattern);
+    const matches = (content || "").matchAll(pattern);
     for (const match of matches) {
       if (match[1] && match[1].length < 100) {
         actionItems.push(match[1].trim());
       }
     }
   }
-
-  return actionItems.slice(0, 5); // Max 5 action items
+  return actionItems.slice(0, 5);
 }
 
-function generateTags(
-  content: string, 
-  question: string, 
-  story: any, 
-  timestamp: number
-): string[] {
-  const tags: string[] = [];
+function generateTags(content: string, question: string, story: any, timestamp: number): string[] {
+  const tags: string[] = ["daily-digest", new Date(timestamp).toISOString().split('T')[0]];
   const lcContent = ((content || "") + " " + (question || "")).toLowerCase();
   
-  // Fixed tags (3)
-  tags.push("daily-digest");
-  tags.push(new Date(timestamp).toISOString().split('T')[0]); // YYYY-MM-DD
-  tags.push(TOPIC_TAG_MAP[story.topic] || story.topic);
-  
-  // Domain tags (prioritized, 2-4 additional)
-  const domainTags: string[] = [];
-  
-  // Check for domain keywords
-  if (lcContent.includes("health") || lcContent.includes("clinic") || 
-      lcContent.includes("patient") || lcContent.includes("rheumatology") ||
-      lcContent.includes("tuza")) {
-    domainTags.push("healthtech");
+  if (story?.topic) {
+    tags.push(TOPIC_TAG_MAP[story.topic] || story.topic);
   }
   
-  if (lcContent.includes("agr") || lcContent.includes("farm") || 
-      lcContent.includes("sensor") || lcContent.includes("irrigation") ||
-      lcContent.includes("crop")) {
-    domainTags.push("agtech");
+  if (lcContent.includes("health") || lcContent.includes("clinic") || lcContent.includes("tuza")) {
+    tags.push("healthtech");
   }
+  if (lcContent.includes("agr") || lcContent.includes("farm") || lcContent.includes("sensor")) {
+    tags.push("agtech");
+  }
+  if (lcContent.includes("tuza")) tags.push("tuza");
+  if (lcContent.includes("vistaprint")) tags.push("vistaprint");
   
-  // Check for project mentions
-  if (lcContent.includes("tuza")) domainTags.push("tuza");
-  if (lcContent.includes("vistaprint")) domainTags.push("vistaprint");
-  
-  // Add domain tags (up to 4 to keep total under 7)
-  tags.push(...domainTags.slice(0, 4));
-  
-  return tags.slice(0, 7); // Ensure max 7 tags
+  return Array.from(new Set(tags)).slice(0, 7);
 }
 
 function formatNote(params: any): string {
-  const actionItemsSection = params.actionItems && params.actionItems.length > 0 
+  const actionItemsSection = params.actionItems?.length > 0 
     ? `\n## 🎯 Action Items\n${params.actionItems.map((item: string) => `- ${item}`).join('\n')}\n`
     : '';
 
-  return `# ${params.title}
+  return `${params.title}
 
 📅 Date: ${params.date}
-📰 Source: ${params.story.source}
-🔗 Article: ${params.story.sourceUrl}
-🏷️ Topic: ${params.story.topic}
+📰 Source: ${params.story?.source || 'Daily Digest'}
+🔗 Article: ${params.story?.sourceUrl || '#'}
+🏷️ Topic: ${params.story?.topic || 'General'}
 
 ## Professional Context
 Role: ${params.userProfile.role}
@@ -286,7 +241,7 @@ Career Focus: ${params.userProfile.pivot}
 Work Context: ${params.userProfile.workContext}
 
 ## My Question
-${params.userQuestion}
+${params.userQuestion || 'N/A'}
 
 ## AI Insight
 ${params.aiResponse}
