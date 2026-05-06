@@ -12,6 +12,8 @@ jobs:
     name: Build & Publish Daily Digest
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write
 
     steps:
       # ── 1. Checkout ─────────────────────────────────────────────────────────
@@ -20,7 +22,7 @@ jobs:
         with:
           # Fetch full history so git log works; token lets us push back
           fetch-depth: 0
-          token: ${{ secrets.SHELF_GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # ── 2. Setup Node ────────────────────────────────────────────────────────
       - name: Setup Node.js
