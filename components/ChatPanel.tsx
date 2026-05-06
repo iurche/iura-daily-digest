@@ -21,6 +21,8 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [streamingContent, setStreamingContent] = useState("");
+  const [width, setWidth] = useState(450);
+  const [isResizing, setIsResizing] = useState(false);
   
   const { chats, addMessage, hydrate, getThread } = useChats();
   const thread = getThread(articleId);
@@ -46,6 +48,29 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
     window.addEventListener("keydown", handleEsc);
     return () => window.removeEventListener("keydown", handleEsc);
   }, []);
+
+  useEffect(() => {
+    if (isResizing) {
+      const onMouseMove = (e: MouseEvent) => {
+        const newWidth = window.innerWidth - e.clientX;
+        if (newWidth > 320 && newWidth < window.innerWidth * 0.9) {
+          setWidth(newWidth);
+        }
+      };
+      const onMouseUp = () => {
+        setIsResizing(false);
+        document.body.style.cursor = 'default';
+      };
+      document.body.style.cursor = 'ew-resize';
+      document.addEventListener("mousemove", onMouseMove);
+      document.addEventListener("mouseup", onMouseUp);
+      return () => {
+        document.removeEventListener("mousemove", onMouseMove);
+        document.removeEventListener("mouseup", onMouseUp);
+        document.body.style.cursor = 'default';
+      };
+    }
+  }, [isResizing]);
 
   const sendMessage = async (content: string) => {
     if (!content.trim() || isLoading) return;
@@ -120,7 +145,7 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
         </svg>
       </button>
 
-      {/* Slide-in Panel — non-blocking so the article stays readable/interactive */}
+      {/* Slide-in Panel */}
       <div
         className={`fixed inset-0 z-50 pointer-events-none transition-opacity duration-300 ${
           isOpen ? "opacity-100" : "opacity-0"
@@ -128,10 +153,17 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
       >
         {/* Panel Content */}
         <div
-          className={`pointer-events-auto absolute right-0 bottom-0 md:top-0 w-full md:w-[450px] bg-[var(--surface)] shadow-2xl flex flex-col transition-transform duration-300 transform ${
+          style={{ width: typeof window !== 'undefined' && window.innerWidth < 768 ? '100%' : `${width}px` }}
+          className={`pointer-events-auto absolute right-0 bottom-0 md:top-0 bg-[var(--surface)] shadow-2xl flex flex-col transition-transform duration-300 transform ${
             isOpen ? "translate-x-0 translate-y-0" : "md:translate-x-full translate-y-full md:translate-y-0"
           } h-[85vh] md:h-full rounded-t-3xl md:rounded-l-3xl md:rounded-tr-none border-l border-t md:border-t-0 border-[var(--border)]`}
         >
+          {/* Resize Handle (Desktop Only) */}
+          <div
+            onMouseDown={() => setIsResizing(true)}
+            className="hidden md:block absolute left-0 top-0 bottom-0 w-1.5 cursor-ew-resize hover:bg-[var(--brand)] hover:opacity-50 transition-colors z-50"
+          />
+
           {/* Header */}
           <div className="flex items-center justify-between px-6 py-4 border-b border-[var(--border)]">
             <h3 className="font-bold text-[var(--text-strong)] flex items-center gap-2">
@@ -231,7 +263,7 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
               </button>
             </div>
             <p className="text-[10px] text-[var(--text-muted)] mt-3 text-center uppercase tracking-widest font-bold opacity-50">
-              Powered by Gemini 2.5 Flash
+              Powered by Gemini Flash
             </p>
           </div>
         </div>

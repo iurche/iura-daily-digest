@@ -53,20 +53,37 @@ export function trimMessages(messages: { role: string; content: string }[], limi
 }
 
 export async function getGeminiResponseStream(systemPrompt: string, history: { role: string; content: string }[]) {
-  const model = genAI.getGenerativeModel({ 
-    model: "gemini-2.5-flash",
-    systemInstruction: systemPrompt
-  });
+  const models = ["gemini-2.0-flash", "gemini-1.5-flash"];
+  let lastError: any;
 
-  const lastMessage = history[history.length - 1];
-  const pastHistory = history.slice(0, -1).map(m => ({
-    role: m.role === "user" ? "user" : "model",
-    parts: [{ text: m.content }]
-  }));
+  for (const modelName of models) {
+    try {
+      const model = genAI.getGenerativeModel({ 
+        model: modelName,
+        systemInstruction: systemPrompt
+      });
 
-  const chatSession = model.startChat({
-    history: pastHistory
-  });
+      const lastMessage = history[history.length - 1];
+      const pastHistory = history.slice(0, -1).map(m => ({
+        role: m.role === "user" ? "user" : "model",
+        parts: [{ text: m.content }]
+      }));
 
-  return chatSession.sendMessageStream(lastMessage.content);
+      const chatSession = model.startChat({
+        history: pastHistory
+      });
+
+      return await chatSession.sendMessageStream(lastMessage.content);
+    } catch (err: any) {
+      console.warn(`[Gemini] ${modelName} failed, trying next...`, err.message);
+      lastError = err;
+      // If it's a 503, continue to next model
+      if (err.message?.includes("503") || err.message?.includes("high demand")) {
+        continue;
+      }
+      throw err; // Re-throw if it's not a temporary capacity issue
+    }
+  }
+
+  throw lastError;
 }
