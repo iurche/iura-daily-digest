@@ -2,8 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { getStoryById } from "@/lib/digests";
 import { getExtractedContent } from "@/lib/extracted-store";
 import { buildSystemPrompt, trimMessages, getGeminiResponseStream } from "@/lib/gemini";
-
-
+import { extractArticle } from "@/lib/extract";
 
 export async function POST(req: NextRequest) {
   try {
@@ -13,14 +12,21 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Invalid request body" }, { status: 400 });
     }
 
-    const story = await getStoryById(articleId);
+    const story = getStoryById(articleId);
     if (!story) {
       return NextResponse.json({ error: "Article not found" }, { status: 404 });
     }
 
-    const extractedContent = await getExtractedContent(story.sourceUrl);
+    let extractedContent = getExtractedContent(story.sourceUrl);
+    
+    // Fallback to runtime extraction if missing
     if (!extractedContent) {
-      return NextResponse.json({ error: "Article has no extracted content" }, { status: 400 });
+      console.log(`[Chat API] Content missing for ${story.id}, triggering extraction...`);
+      extractedContent = await extractArticle(story.sourceUrl);
+    }
+
+    if (!extractedContent) {
+      return NextResponse.json({ error: "Failed to extract article content for analysis." }, { status: 400 });
     }
 
     const systemPrompt = buildSystemPrompt(story, extractedContent.content);
