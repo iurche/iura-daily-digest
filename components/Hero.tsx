@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import Image from "next/image";
 import SaveButton from "./SaveButton";
 import { TOPIC_LABELS } from "@/lib/topics";
@@ -21,6 +22,7 @@ type HeroProps = {
 };
 
 export default function Hero({ story }: HeroProps) {
+  const pathname = usePathname();
   const pexelsSrc = `/api/pexels-image?q=${encodeURIComponent(story.headline.split(" ").slice(0, 4).join(" ") + " " + story.topic)}`;
   const [imgSrc, setImgSrc] = useState(story.imageUrl || pexelsSrc);
 
@@ -55,9 +57,7 @@ export default function Hero({ story }: HeroProps) {
           </div>
 
           <Link
-            href={story.sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
+            href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}
             className="block"
           >
             <h1
@@ -84,9 +84,7 @@ export default function Hero({ story }: HeroProps) {
 
           <div className="fade-up-3 flex items-center gap-4">
             <Link
-              href={story.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
+              href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}
               className="flex items-center gap-2 bg-[var(--brand)] text-white rounded-lg px-5 py-2.5 text-sm font-bold transition-opacity duration-150 hover:opacity-85"
             >
               Read story

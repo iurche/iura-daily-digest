@@ -2,6 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { fetchInTheWorld } from '../lib/ingestion/in-the-world';
 import { loadSeenUrls, saveSeenUrls, markUrlsAsSeen } from '../lib/seen-urls';
+import { extractArticle } from '../lib/extract';
+import { saveExtractedContent, existsExtractedContent } from '../lib/extracted-store';
 import type { Digest, Story, Topic } from '../lib/types';
 
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY || '';
@@ -254,6 +256,33 @@ async function main() {
     }
   }
 
+  // 7.5. Extract content for all stories (if not already extracted)
+  console.log(`\n[Step 4] Extracting content for ${allStories.length} stories...`);
+  let extractedCount = 0;
+  let extractionSkipped = 0;
+  let extractionFailed = 0;
+
+  for (const story of allStories) {
+    if (!story.sourceUrl) continue;
+    if (existsExtractedContent(story.sourceUrl)) {
+      extractionSkipped++;
+      continue;
+    }
+
+    console.log(`[Extract] Processing: ${story.headline.slice(0, 40)}...`);
+    const content = await extractArticle(story.sourceUrl);
+    if (content) {
+      saveExtractedContent(content);
+      extractedCount++;
+    } else {
+      console.warn(`[Extract] Failed to extract: ${story.sourceUrl}`);
+      extractionFailed++;
+    }
+    // Small delay to be nice to servers
+    await new Promise((r) => setTimeout(r, 100));
+  }
+  console.log(`[Extract] Done: ${extractedCount} new, ${extractionSkipped} skipped, ${extractionFailed} failed`);
+
   // 8. Assemble final digest
   const digest: Digest = {
     date: TODAY,
@@ -279,6 +308,7 @@ async function main() {
   console.log(`Hero image: ${heroImageUrl || 'not generated'}`);
   console.log(`InTheWorld — fetched: ${inWorldStats.fetched}, paywall drops: ${inWorldStats.dropped_paywall}, dupes: ${inWorldStats.dropped_duplicate}, selected: ${inWorldStats.selected}`);
   console.log(`Images — Unsplash: ${unsplashFetched}, Pexels: ${pexelsFetched}, Skipped: ${skipped}`);
+  console.log(`Extraction — New: ${extractedCount}, Skipped: ${extractionSkipped}, Failed: ${extractionFailed}`);
   console.log('===================\n');
 }
 

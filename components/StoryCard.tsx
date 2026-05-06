@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import Image from "next/image";
 import SaveButton from "./SaveButton";
 import { TOPIC_LABELS, TOPIC_COLORS } from "@/lib/topics";
@@ -28,6 +29,7 @@ function pexelsFallback(story: Story) {
 }
 
 export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardProps) {
+  const pathname = usePathname();
   const [imgSrc, setImgSrc] = useState(story.imageUrl || pexelsFallback(story));
   const topicColor = TOPIC_COLORS[story.topic] || "var(--text-muted)";
 
@@ -41,9 +43,7 @@ export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardPr
       }}
     >
       <Link
-        href={story.sourceUrl}
-        target="_blank"
-        rel="noopener noreferrer"
+        href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}
         className="block relative aspect-video overflow-hidden flex-shrink-0"
       >
         <Image
@@ -71,9 +71,7 @@ export default function StoryCard({ story, size = "md", delay = 0 }: StoryCardPr
 
       <div className="p-4 flex-1 flex flex-col gap-2">
         <Link
-          href={story.sourceUrl}
-          target="_blank"
-          rel="noopener noreferrer"
+          href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}
           className="block"
         >
           <h3

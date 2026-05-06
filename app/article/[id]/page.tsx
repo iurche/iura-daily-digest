@@ -1,0 +1,104 @@
+import { Metadata } from 'next';
+import { notFound } from 'next/navigation';
+import { getStoryById } from '@/lib/digests';
+import { getExtractedContent } from '@/lib/extracted-store';
+import { extractArticle } from '@/lib/extract';
+import ArticleReaderClient from './ArticleReaderClient';
+import Nav from '@/components/Nav';
+import Footer from '@/components/Footer';
+
+type Props = {
+  params: Promise<{ id: string }>;
+};
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { id } = await params;
+  const story = getStoryById(id);
+  if (!story) return { title: 'Article Not Found' };
+  return {
+    title: `${story.headline} | Daily Digest`,
+    description: story.dek,
+  };
+}
+
+export default async function ArticlePage({ params }: Props) {
+  const { id } = await params;
+  const story = getStoryById(id);
+
+  if (!story) {
+    notFound();
+  }
+
+  // 1. Try to get pre-extracted content from disk
+  let content = getExtractedContent(story.sourceUrl);
+
+  // 2. Fallback to runtime extraction if missing
+  if (!content) {
+    console.log(`[Reader] Content missing for ${story.id}, triggering runtime extraction...`);
+    content = await extractArticle(story.sourceUrl);
+  }
+
+  const publishedDate = new Date(story.publishedAt).toLocaleDateString('en-US', {
+    month: 'long',
+    day: 'numeric',
+    year: 'numeric',
+  });
+
+  return (
+    <div className="min-h-screen bg-[var(--bg)]">
+      <Nav />
+      
+      <main className="max-w-[800px] mx-auto px-5 md:px-10 py-12 md:py-20">
+        <ArticleReaderClient story={story} />
+
+        <header className="mb-12">
+          <div className="flex items-center gap-3 mb-6">
+            <span className="text-[11px] font-bold uppercase tracking-widest text-[var(--brand)]">
+              {story.source}
+            </span>
+            <span className="w-1 h-1 rounded-full bg-[var(--border-med)]" />
+            <span className="text-[11px] font-semibold uppercase tracking-wider text-[var(--text-muted)]">
+              {publishedDate}
+            </span>
+          </div>
+
+          <h1 className="text-4xl md:text-5xl font-extrabold leading-[1.1] text-[var(--text-strong)] mb-6 tracking-tight">
+            {story.headline}
+          </h1>
+
+          {content?.byline && (
+            <p className="text-sm font-medium text-[var(--text-muted)] italic">
+              By {content.byline}
+            </p>
+          )}
+        </header>
+
+        {content ? (
+          <article 
+            className="prose prose-dd max-w-none"
+            dangerouslySetInnerHTML={{ __html: content.content }}
+          />
+        ) : (
+          <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-10 text-center">
+            <p className="text-[var(--text-muted)] mb-6">
+              We couldn't extract the full content of this article.
+            </p>
+            <a
+              href={story.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-[var(--brand)] text-white rounded-lg px-6 py-3 font-bold transition-opacity hover:opacity-90"
+            >
+              Read on {story.source}
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3" />
+              </svg>
+            </a>
+          </div>
+        )}
+      </main>
+
+      <Footer />
+    </div>
+  );
+}

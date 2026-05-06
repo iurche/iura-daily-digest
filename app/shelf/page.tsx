@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useEffect, useRef, useCallback } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import Toast from "@/components/Toast";
 import { TOPIC_LABELS } from "@/lib/topics";
 
@@ -18,6 +19,7 @@ type Story = {
 const STORAGE_KEY = "dd-shelf";
 
 export default function ShelfPage() {
+  const pathname = usePathname();
   const [stories, setStories] = useState<Story[]>([]);
   const [loading, setLoading] = useState(true);
   const [savedStories, setSavedStories] = useState<Story[]>([]);
@@ -219,9 +221,7 @@ export default function ShelfPage() {
               }}
             >
               <Link
-                href={story.sourceUrl}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}
                 className="block relative aspect-video overflow-hidden flex-shrink-0"
               >
                 {story.imageUrl && (
@@ -234,7 +234,7 @@ export default function ShelfPage() {
               </Link>
 
               <div className="p-4 flex-1 flex flex-col gap-2">
-                <Link href={story.sourceUrl} target="_blank" rel="noopener noreferrer">
+                <Link href={`/article/${story.id}?from=${encodeURIComponent(pathname)}`}>
                   <h3 className="font-semibold leading-snug text-[var(--text-strong)] line-clamp-3 transition-colors duration-150 hover:text-[var(--brand)]">
                     {story.headline}
                   </h3>

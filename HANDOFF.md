@@ -1,6 +1,6 @@
 # Daily Digest — Handoff Document
 
-**Last updated:** April 27, 2026  
+**Last updated:** May 6, 2026  
 **Owner:** Iura Osadchuk  
 **Live site:** https://iura-daily-digest.vercel.app
 
@@ -16,7 +16,8 @@ The system is fully automated and runs entirely in the cloud via GitHub Actions.
     ├─ pnpm build-digest (scripts/build-digest.ts)
     │    ├─ Filter previously seen URLs (content/seen-urls.json)
     │    ├─ Fetch news (RSS feeds + The Guardian API)
-    │    └─ Fetch cover images (Unsplash/Pexels)
+    │    ├─ Fetch cover images (Unsplash/Pexels)
+    │    └─ Extract content (lib/extract.ts → content/extracted/*.json)
     │
     ├─ Write digest JSON → content/digests/YYYY-MM-DD.json
     │
@@ -39,6 +40,18 @@ The "Shelf" allows saving articles across devices and browser sessions.
 - **Cloud Sync:** Syncs to a private **GitHub Gist** in the background via a server-side proxy route (`/api/shelf`).
 - **Stable Identity:** Articles are identified by their `sourceUrl`. This ensures bookmarks remain valid even if the daily digest is rebuilt or stories are reordered.
 - **Hydration:** The app automatically merges local and remote saves on every page load.
+
+---
+
+## 3. In-Site Reader Experience
+
+Articles are now read directly on the site via the reader view at `/article/[id]`.
+
+- **Build-Time Extraction:** Content is extracted during the daily build using `@mozilla/readability`.
+- **Persistence:** Extracted JSON is stored in `content/extracted/` and committed to the repo, ensuring archived articles remain readable forever.
+- **Runtime Fallback:** If a pre-extracted file is missing, the site falls back to a runtime extractor (`/api/extract`).
+- **Shelf Integration:** The reader page includes a full-featured Save button that syncs with the user's Shelf.
+- **Styling:** Custom `prose-dd` CSS classes provide a clean, distraction-free reading experience matched to the Daily Digest design system.
 
 ---
 

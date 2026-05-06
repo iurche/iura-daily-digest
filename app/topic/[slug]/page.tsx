@@ -81,9 +81,7 @@ export default async function TopicPage({ params }: Props) {
               style={{ boxShadow: "var(--card-shadow)" }}
             >
               <Link
-                href={story.sourceUrl}
-                target="_blank"
-                rel="noopener noreferrer"
+                href={`/article/${story.id}?from=${encodeURIComponent(`/topic/${slug}`)}`}
                 className="block relative aspect-video overflow-hidden flex-shrink-0"
               >
                 <Image
@@ -101,9 +99,7 @@ export default async function TopicPage({ params }: Props) {
                 </span>
 
                 <Link
-                  href={story.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href={`/article/${story.id}?from=${encodeURIComponent(`/topic/${slug}`)}`}
                 >
                   <h3 className="font-semibold leading-snug text-[var(--text-strong)] line-clamp-3 transition-colors duration-150 hover:text-[var(--brand)]">
                     {story.headline}

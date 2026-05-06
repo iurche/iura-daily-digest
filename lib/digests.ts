@@ -47,3 +47,13 @@ export function getStoriesForTopic(
   }
   return results;
 }
+export function getStoryById(id: string): Story | null {
+  const dates = getAllDates();
+  for (const date of dates) {
+    const digest = getDigest(date);
+    if (!digest) continue;
+    const story = digest.stories.find((s) => s.id === id);
+    if (story) return story;
+  }
+  return null;
+}
