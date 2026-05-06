@@ -1,6 +1,6 @@
 # Daily Digest — Handoff Document
 
-**Last updated:** May 6, 2026 (Phase 2: Gemini Chat + Reader)  
+**Last updated:** May 6, 2026 (Phase 3: Simplenote Integration)  
 **Owner:** Iura Osadchuk  
 **Live site:** https://iura-daily-digest.vercel.app
 
@@ -94,6 +94,8 @@ Every article has a contextual chat assistant aware of both the article content 
 
 ### Vercel Environment Variables
 - `GEMINI_API_KEY`: Set in Vercel project settings (copy from GitHub Secrets).
+- `SIMPLENOTE_EMAIL`: your Simplenote email (for saving AI insights)
+- `SIMPLENOTE_PASSWORD`: your Simplenote password
 
 ### Claude Scheduled Task
 - Stored at `~/.claude/scheduled-tasks/daily-digest-pipeline/SKILL.md`
@@ -110,7 +112,46 @@ Every article has a contextual chat assistant aware of both the article content 
 
 ---
 
-## 4. Topics & Content
+## 6. Simplenote Integration (Save AI Insights)
+
+Every Gemini chat response can be saved directly to your Simplenote account for career development.
+
+### How It Works
+- **Save Button:** Each AI response in the chat has a "📝 Simplenote" button
+- **Authentication:** Uses Simplenote's legacy API with email/password credentials
+- **Auto-Tagging:** Generates 5-7 smart tags (domain-focused: healthtech, agtech, etc.)
+- **Note Format:** Rich formatting with professional context, article link, and action items
+- **Error Handling:** If save fails, copies formatted note to clipboard
+
+### Note Structure
+Each saved note includes:
+- **Title:** Custom format "Q: [Topic] - [Date]" for easy scanning
+- **Professional Context:** Full profile (role, education, projects, career focus)
+- **Article Link:** Direct URL to the source article
+- **My Question:** Your original question to Gemini
+- **AI Insight:** Gemini's complete response
+- **Action Items:** Auto-extracted recommendations (e.g., "you should consider...")
+- **Tags:** Auto-generated (5-7 tags)
+
+### Tagging System
+- **Fixed:** `#daily-digest`, `#YYYY-MM-DD`, article topic
+- **Domain:** `#healthtech`, `#agtech` (based on content)
+- **Projects:** `#tuza`, `#vistaprint` (mentioned in response)
+
+### Files Modified
+- `app/api/simplenote/route.ts` - API endpoint
+- `components/ChatMessage.tsx` - Save button UI
+- `components/ChatPanel.tsx` - Pass previous message for context
+
+### Environment Variables (Vercel)
+- `SIMPLENOTE_EMAIL`: your Simplenote email
+- `SIMPLENOTE_PASSWORD`: your Simplenote password
+
+**Note:** Credentials are stored server-side only, never exposed to the browser.
+
+---
+
+## 7. Topics & Content
 
 The digest covers 8-10 core topics including Product Design, UX Research, AI Innovation, IoT, and Career Signals.
 
@@ -122,7 +163,7 @@ The digest covers 8-10 core topics including Product Design, UX Research, AI Inn
 
 ---
 
-## 5. Development & Deployment
+## 8. Development & Deployment
 
 ### Local Development
 ```bash
@@ -137,7 +178,14 @@ If you need to force an update immediately:
 
 ---
 
-## 6. Known Items & Recent Changes
+## 9. Known Items & Recent Changes
+
+### May 7, 2026 Updates
+1. **Simplenote Integration:** Added ability to save Gemini chat responses directly to Simplenote. Each AI response has a "📝 Simplenote" button that saves the response with full professional context, article link, and auto-generated tags (5-7 tags focused on domain keywords like healthtech, agtech).
+2. **Save Insight Button Removed:** The old "Save to Shelf" button was removed from chat messages. Only Simplenote save remains.
+3. **Note Format Updates:** Notes now use "Q: [Topic] - [Date]" format for easy scanning in Simplenote.
+4. **Error Handling:** If Simplenote save fails, the formatted note is automatically copied to clipboard.
+5. **Vercel Env Vars Added:** `SIMPLENOTE_EMAIL` and `SIMPLENOTE_PASSWORD` must be set in Vercel project settings.
 
 ### May 6, 2026 Updates
 1. **In-Site Reader:** All articles now open at `/article/[id]` with embedded extraction. Content is extracted at build time and persisted in `content/extracted/`.
