@@ -20,9 +20,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Fetch full history so git log works; token lets us push back
           fetch-depth: 0
-          persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # ── 2. Setup Node ────────────────────────────────────────────────────────
       - name: Setup Node.js
