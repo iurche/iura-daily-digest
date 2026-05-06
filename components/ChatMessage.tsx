@@ -1,7 +1,6 @@
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { ChatMessage as ChatMessageType, Story } from "@/lib/types";
-import { useShelf } from "@/lib/store";
 import { useState } from "react";
 
 interface ChatMessageProps {
@@ -12,8 +11,6 @@ interface ChatMessageProps {
 
 export default function ChatMessage({ message, story, previousUserMessage }: ChatMessageProps) {
   const isAssistant = message.role === "assistant";
-  const { toggle, isSavedUrl } = useShelf();
-  const [justSaved, setJustSaved] = useState(false);
   const [simplenoteState, setSimplenoteState] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
@@ -23,24 +20,7 @@ export default function ChatMessage({ message, story, previousUserMessage }: Cha
     setTimeout(() => setToastMessage(null), type === 'success' ? 3000 : 5000);
   };
 
-  const handleSave = () => {
-    if (!story) return;
-    
-    const insightStory = {
-      id: `ai-${Date.now()}`,
-      topic: "ai-insight" as any,
-      headline: `AI Insight: ${story.headline}`,
-      dek: message.content,
-      source: "Daily AI",
-      sourceUrl: `${story.sourceUrl}#insight-${message.ts || Date.now()}`,
-      imageUrl: story.imageUrl,
-      publishedAt: new Date().toISOString()
-    };
-    
-    toggle(insightStory);
-    setJustSaved(true);
-    setTimeout(() => setJustSaved(false), 2000);
-  };
+
 
   const handleSimplenote = async () => {
     if (!story) return;
@@ -86,7 +66,7 @@ export default function ChatMessage({ message, story, previousUserMessage }: Cha
     }
   };
 
-  const isSaved = story ? isSavedUrl(`${story.sourceUrl}#insight-${message.ts || Date.now()}`) : false;
+
 
   return (
     <>
@@ -135,25 +115,7 @@ export default function ChatMessage({ message, story, previousUserMessage }: Cha
           </div>
           
           {story && (
-            <div className="mt-4 pt-3 border-t border-[var(--border)] flex justify-end gap-2">
-              <button
-                onClick={handleSave}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-[10px] font-bold uppercase tracking-wider transition-all ${
-                  isSaved || justSaved
-                    ? "bg-[var(--brand)] text-white"
-                    : "bg-[var(--surface-3)] text-[var(--text-muted)] hover:text-[var(--text-strong)] hover:bg-[var(--surface-hover)]"
-                }`}
-              >
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
-                  {isSaved || justSaved ? (
-                    <path d="M20 6L9 17l-5-5" />
-                  ) : (
-                    <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2zM17 21v-8H7v8M7 3v5h8" />
-                  )}
-                </svg>
-                {justSaved ? "Saved to Shelf" : isSaved ? "Saved" : "Save Insight"}
-              </button>
-              
+            <div className="mt-4 pt-3 border-t border-[var(--border)] flex justify-end">
               <button
                 onClick={handleSimplenote}
                 disabled={simplenoteState === 'loading'}

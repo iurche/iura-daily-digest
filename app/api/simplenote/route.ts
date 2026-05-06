@@ -1,9 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { userProfile } from "@/lib/profile";
 
-// Note: The simplenote package we installed seems to be very old and doesn't match the expected API
-// We'll use the HTTP API directly instead
-
 // Auto-tagging configuration
 const TOPIC_TAG_MAP: Record<string, string> = {
   "product-design": "design",
@@ -28,25 +25,31 @@ const DOMAIN_KEYWORDS = {
 
 // Simplenote API authentication
 async function authenticateSimplenote(email: string, password: string): Promise<string> {
-  const authString = `email=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}`;
+  const authString = `email=${email}&password=${password}`;
   const authBase64 = Buffer.from(authString).toString('base64');
+  
+  console.log('[Simplenote Auth] Attempting authentication for:', email.substring(0, 5) + '***');
   
   const response = await fetch('https://simple-note.appspot.com/api/login', {
     method: 'POST',
     headers: {
-      'Content-Type': 'text/plain'
+      'Content-Type': 'text/plain',
+      'User-Agent': 'Daily-Digest/1.0'
     },
     body: authBase64
   });
 
   if (!response.ok) {
-    throw new Error('Failed to authenticate with Simplenote');
+    console.error('[Simplenote Auth] Failed:', response.status, response.statusText);
+    throw new Error(`Authentication failed: ${response.status}`);
   }
 
-  return await response.text();
+  const token = await response.text();
+  console.log('[Simplenote Auth] Success, token received');
+  return token.trim();
 }
 
-// Create note in Simplenote
+// Create note in Simplenote using API2
 async function createSimplenoteNote(
   token: string,
   email: string,
@@ -57,37 +60,49 @@ async function createSimplenoteNote(
     content: content,
     tags: tags,
     systemTags: [],
-    creationDate: Math.floor(Date.now() / 1000),
-    modificationDate: Math.floor(Date.now() / 1000)
+    creationDate: Date.now() / 1000,
+    modificationDate: Date.now() / 1000
   };
 
-  const response = await fetch(
-    `https://simple-note.appspot.com/api2/data?auth=${encodeURIComponent(token)}&email=${encodeURIComponent(email)}`,
-    {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(note)
-    }
-  );
+  console.log('[Simplenote Create] Creating note with', tags.length, 'tags');
+  
+  const url = `https://simple-note.appspot.com/api2/data?auth=${encodeURIComponent(token)}&email=${encodeURIComponent(email)}`;
+  
+  const response = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'Daily-Digest/1.0'
+    },
+    body: JSON.stringify(note)
+  });
 
   if (!response.ok) {
-    throw new Error('Failed to create note in Simplenote');
+    console.error('[Simplenote Create] Failed:', response.status, response.statusText);
+    const errorText = await response.text();
+    console.error('[Simplenote Create] Error body:', errorText);
+    throw new Error(`Failed to create note: ${response.status}`);
   }
 
-  return await response.json();
+  const result = await response.json();
+  console.log('[Simplenote Create] Success, note created with key:', result.key);
+  return result;
 }
 
 export async function POST(req: NextRequest) {
   try {
     const { message, userQuestion, story, timestamp } = await req.json();
 
+    console.log('[Simplenote API] Request received');
+    console.log('[Simplenote API] Story topic:', story.topic);
+    console.log('[Simplenote API] User question length:', userQuestion?.length);
+
     // Get credentials from environment variables
     const email = process.env.SIMPLENOTE_EMAIL;
     const password = process.env.SIMPLENOTE_PASSWORD;
 
     if (!email || !password) {
+      console.error('[Simplenote API] Missing credentials');
       throw new Error('Simplenote credentials not configured');
     }
 
@@ -99,11 +114,15 @@ export async function POST(req: NextRequest) {
     });
     const noteTitle = `Q: ${topicKeyword} - ${dateStr}`;
 
+    console.log('[Simplenote API] Note title:', noteTitle);
+
     // Extract action items from Gemini's response
     const actionItems = extractActionItems(message);
+    console.log('[Simplenote API] Extracted', actionItems.length, 'action items');
 
     // Generate tags (conservative: 5-7 tags, prioritizing domain tags)
     const tags = generateTags(message, userQuestion, story, timestamp);
+    console.log('[Simplenote API] Generated tags:', tags);
 
     // Format the note with all context
     const noteContent = formatNote({
@@ -118,9 +137,13 @@ export async function POST(req: NextRequest) {
     });
 
     // Authenticate and create note
+    console.log('[Simplenote API] Starting authentication...');
     const token = await authenticateSimplenote(email, password);
+    
+    console.log('[Simplenote API] Creating note...');
     const result = await createSimplenoteNote(token, email, noteContent, tags);
 
+    console.log('[Simplenote API] Success!');
     return NextResponse.json({
       success: true,
       noteId: result.key,
@@ -128,32 +151,41 @@ export async function POST(req: NextRequest) {
     });
 
   } catch (error: any) {
-    console.error('Simplenote API error:', error);
+    console.error('[Simplenote API] Error:', error.message);
+    console.error('[Simplenote API] Stack:', error.stack);
     
     // Return formatted note for clipboard fallback
-    const { message, userQuestion, story, timestamp } = await req.json();
-    const fallbackContent = formatNote({
-      title: "Q: " + userQuestion.slice(0, 50),
-      date: new Date().toISOString().split('T')[0],
-      story: story,
-      userProfile,
-      userQuestion: userQuestion,
-      aiResponse: message,
-      actionItems: [],
-      tags: []
-    });
+    try {
+      const { message, userQuestion, story, timestamp } = await req.json();
+      const fallbackContent = formatNote({
+        title: "Q: " + (userQuestion || "AI Insight").slice(0, 50),
+        date: new Date().toISOString().split('T')[0],
+        story: story,
+        userProfile,
+        userQuestion: userQuestion || "Question not available",
+        aiResponse: message,
+        actionItems: [],
+        tags: []
+      });
 
-    return NextResponse.json({
-      success: false,
-      error: error.message || "Failed to save to Simplenote",
-      noteContent: fallbackContent
-    }, { status: 500 });
+      return NextResponse.json({
+        success: false,
+        error: error.message || "Failed to save to Simplenote",
+        noteContent: fallbackContent
+      }, { status: 500 });
+    } catch (fallbackError) {
+      return NextResponse.json({
+        success: false,
+        error: error.message || "Failed to save to Simplenote",
+        noteContent: message
+      }, { status: 500 });
+    }
   }
 }
 
 function extractTopicKeyword(question: string, topic: string): string {
   // Smart extraction of main topic from question
-  const lcQuestion = question.toLowerCase();
+  const lcQuestion = (question || "").toLowerCase();
   
   // Check for project mentions
   if (lcQuestion.includes("tuza")) return "Tuza";
@@ -201,7 +233,7 @@ function generateTags(
   timestamp: number
 ): string[] {
   const tags: string[] = [];
-  const lcContent = (content + " " + question).toLowerCase();
+  const lcContent = ((content || "") + " " + (question || "")).toLowerCase();
   
   // Fixed tags (3)
   tags.push("daily-digest");
