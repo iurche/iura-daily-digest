@@ -242,23 +242,12 @@ function formatNote(params: any): string {
 🔗 Article: ${params.story?.sourceUrl || '#'}
 🏷️ Topic: ${params.story?.topic || 'General'}
 
-## Professional Context
-Role: ${params.userProfile.role}
-Education: ${params.userProfile.education}
-Project: ${params.userProfile.primaryProject}
-Career Focus: ${params.userProfile.pivot}
-Work Context: ${params.userProfile.workContext}
-
 ## My Question
 ${params.userQuestion || 'N/A'}
 
 ## AI Insight
 ${params.aiResponse}
 ${actionItemsSection}
-## Career Relevance
-Goals: ${params.userProfile.jobSearch}
-Building: Agrotech hardware-software venture
-
 ---
 Tags: ${params.tags ? params.tags.join(', ') : 'daily-digest'}`;
 }
