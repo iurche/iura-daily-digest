@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { useChats } from "@/lib/chats-store";
+import { getStoryById } from "@/lib/digests";
 import ChatMessage from "./ChatMessage";
 import { ChatMessage as ChatMessageType } from "@/lib/types";
 
@@ -24,9 +25,10 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
   const [width, setWidth] = useState(450);
   const [isResizing, setIsResizing] = useState(false);
   
-  const { chats, addMessage, hydrate, getThread } = useChats();
+  const { addMessage, hydrate, getThread } = useChats();
   const thread = getThread(articleId);
   const messages = thread?.messages || [];
+  const story = getStoryById(articleId);
 
   const scrollRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
@@ -203,12 +205,13 @@ export default function ChatPanel({ articleId }: ChatPanelProps) {
             )}
 
             {messages.map((m, i) => (
-              <ChatMessage key={i} message={m} />
+              <ChatMessage key={i} message={m} story={story || undefined} />
             ))}
 
             {streamingContent && (
               <ChatMessage
                 message={{ role: "assistant", content: streamingContent, ts: Date.now() }}
+                story={story || undefined}
               />
             )}
 
