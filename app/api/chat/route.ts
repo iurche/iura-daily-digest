@@ -6,6 +6,7 @@ import { extractArticle } from "@/lib/extract";
 
 export async function POST(req: NextRequest) {
   try {
+    console.log("[Chat API] Request received - Version: v1.2-STABLE");
     const { articleId, messages } = await req.json();
 
     if (!articleId || !messages || !Array.isArray(messages)) {
