@@ -53,46 +53,33 @@ export function trimMessages(messages: { role: string; content: string }[], limi
 }
 
 export async function getGeminiResponseStream(systemPrompt: string, history: { role: string; content: string }[]) {
-  // Use exact versioned model names — unversioned aliases may not be available for all API keys
-  const models = ["gemini-2.0-flash-001", "gemini-2.0-flash-lite-001"];
+  // Models confirmed available via ListModels for this API key (Tier 1)
+  const models = ["gemini-2.5-flash", "gemini-2.0-flash-lite-001"];
   let lastError: any;
 
   for (const modelName of models) {
     try {
-      console.log(`[Gemini] Attempting ${modelName}...`);
-      const model = genAI.getGenerativeModel({ 
+      console.log(`[Gemini] Attempting model: ${modelName}`);
+      const model = genAI.getGenerativeModel({
         model: modelName,
-        systemInstruction: systemPrompt
+        systemInstruction: systemPrompt,
       });
 
       const lastMessage = history[history.length - 1];
-      const pastHistory = history.slice(0, -1).map(m => ({
+      const pastHistory = history.slice(0, -1).map((m) => ({
         role: m.role === "user" ? "user" : "model",
-        parts: [{ text: m.content }]
+        parts: [{ text: m.content }],
       }));
 
-      const chatSession = model.startChat({
-        history: pastHistory
-      });
-
+      const chatSession = model.startChat({ history: pastHistory });
       const result = await chatSession.sendMessageStream(lastMessage.content);
-      console.log(`[Gemini] ${modelName} stream started successfully.`);
+      console.log(`[Gemini] ${modelName} streaming successfully.`);
       return result;
     } catch (err: any) {
       console.error(`[Gemini] ${modelName} failed:`, err.message);
       lastError = err;
-      
-      const isTemporary = 
-        err.message?.includes("503") || 
-        err.message?.includes("429") || 
-        err.message?.includes("high demand") || 
-        err.message?.includes("quota");
-
-      if (isTemporary && modelName !== models[models.length - 1]) {
-        console.warn(`[Gemini] ${modelName} temporary failure, falling back...`);
-        continue;
-      }
-      throw err; 
+      // Always fall through to the next model
+      continue;
     }
   }
 
