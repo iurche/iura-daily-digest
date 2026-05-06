@@ -1,35 +1,7 @@
 {
   "date": "2026-05-06",
-  "heroStoryId": "2026-05-06-product-design-0",
+  "heroStoryId": "2026-05-06-product-design-3",
   "stories": [
-    {
-      "id": "2026-05-06-product-design-0",
-      "topic": "product-design",
-      "headline": "State of UX 2026: Design Deeper to Differentiate",
-      "dek": "Nielsen Norman Group's annual review finds that AI-augmented workflows are forcing design teams to invest in strategic depth, while accessibility and privacy-first thinking become genuine competitive differentiators.",
-      "source": "Nielsen Norman Group",
-      "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
-      "isHero": true,
-      "publishedAt": "2026-05-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-product-design-1",
-      "topic": "product-design",
-      "headline": "Product Design in 2026: The Beginning of a Fantastic Voyage",
-      "dek": "A deep look at how the shift toward agentic AI tools and spatial interfaces is reshaping the product designer's role from pixel-pusher to system architect — and what skills teams need to stay ahead.",
-      "source": "UX Collective",
-      "sourceUrl": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-product-design-2",
-      "topic": "product-design",
-      "headline": "12 Product Design Trends for 2026",
-      "dek": "UXPilot compiles data-backed evidence for the top shifts in product design: AI-first workflows, sound design systems, evolved glassmorphism, and inclusive design as a legal and commercial imperative.",
-      "source": "UXPilot",
-      "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
-      "publishedAt": "2026-01-10T08:00:00.000Z"
-    },
     {
       "id": "2026-05-06-product-design-3",
       "topic": "product-design",
@@ -37,241 +9,8 @@
       "dek": "Lyssna breaks down the trends separating hype from reality: design systems evolving into governance platforms, spatial UI moving from novelty to production, and privacy becoming a perceivable product feature.",
       "source": "Lyssna",
       "sourceUrl": "https://www.lyssna.com/blog/ux-design-trends/",
-      "publishedAt": "2026-02-15T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ux-research-0",
-      "topic": "ux-research",
-      "headline": "UX Research Methods: The Complete 2026 Guide",
-      "dek": "Userlytics maps 12 core research methods — from moderated usability sessions to AI-assisted data synthesis — against product stage and team capacity to help researchers pick the right tool at the right moment.",
-      "source": "Userlytics",
-      "sourceUrl": "https://www.userlytics.com/resources/blog/ux-research-methods/",
-      "publishedAt": "2026-01-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ux-research-1",
-      "topic": "ux-research",
-      "headline": "8 Usability Testing Methods That Work in 2026: Types and Examples",
-      "dek": "ContentSquare's updated guide covers the full spectrum of usability testing approaches, with new emphasis on how AI is accelerating pattern detection across larger participant pools without sacrificing qualitative depth.",
-      "source": "ContentSquare",
-      "sourceUrl": "https://contentsquare.com/guides/usability-testing/methods/",
-      "publishedAt": "2026-03-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ux-research-2",
-      "topic": "ux-research",
-      "headline": "10 Essential UX Research Tools for 2026",
-      "dek": "Qualtrics reviews the tooling landscape for experience researchers, highlighting platforms that combine participant recruitment, session recording, and AI-powered analysis in a single workflow.",
-      "source": "Qualtrics",
-      "sourceUrl": "https://www.qualtrics.com/articles/strategy-research/ux-research-tools/",
-      "publishedAt": "2026-02-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ux-research-3",
-      "topic": "ux-research",
-      "headline": "From Interviews to Usability Tests: Qualitative UX Methods Explained",
-      "dek": "Greenbook demystifies qualitative UX research for teams new to the practice, walking through user interviews, diary studies, and think-aloud sessions with concrete examples and when to deploy each.",
-      "source": "Greenbook",
-      "sourceUrl": "https://www.greenbook.org/insights/qualitative-market-research/from-interviews-to-usability-tests-qualitative-ux-methods-explained",
-      "publishedAt": "2026-04-05T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-tools-0",
-      "topic": "ai-tools",
-      "headline": "New AI Tools — May 2026: Daily Tracker",
-      "dek": "AllInOneAICenter's running log of AI tool launches in May 2026 captures the surge of agent-native and multimodal products shipping as the market accelerates past GPT-5 and Gemini 3.1.",
-      "source": "AllInOneAICenter",
-      "sourceUrl": "https://allinoneaicenter.com/blog/new-ai-tools-may-2026",
-      "publishedAt": "2026-05-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-tools-1",
-      "topic": "ai-tools",
-      "headline": "AI Product Launches News — May 2026 Startup Edition",
-      "dek": "A curated roundup of startup-driven AI model and product announcements this month, including agentic coding tools, multimodal platforms, and enterprise governance layers entering the market.",
-      "source": "Mean CEO",
-      "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-may-2026/",
-      "publishedAt": "2026-05-03T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-tools-2",
-      "topic": "ai-tools",
-      "headline": "The Latest AI News Google Announced in March 2026",
-      "dek": "Google's March recap covers Gemini 3.1 Ultra's 2M-token context window, Lyria 3 Pro music generation, and Gemini Flash Live's rollout across Search and Gemini in 200+ countries.",
-      "source": "Google Blog",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "publishedAt": "2026-03-31T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-tools-3",
-      "topic": "ai-tools",
-      "headline": "Top 10 Best AI Tools for 2026 (Q2 Update)",
-      "dek": "DataNorth AI's quarterly update benchmarks the leading AI productivity tools across writing, coding, research, and design — factoring in recent model upgrades and the shift toward agentic workflows.",
-      "source": "DataNorth AI",
-      "sourceUrl": "https://datanorth.ai/blog/top-10-ai-tools-for-2026",
-      "publishedAt": "2026-04-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-research-0",
-      "topic": "ai-research",
-      "headline": "6 AI Breakthroughs That Will Define 2026",
-      "dek": "InfoWorld identifies the research advances with the most real-world traction: agentic coordination, energy-efficient neuro-symbolic AI, scientific discovery models, and open-source democratization unlocking niche domain applications.",
-      "source": "InfoWorld",
-      "sourceUrl": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "publishedAt": "2026-01-15T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-research-1",
-      "topic": "ai-research",
-      "headline": "AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
-      "dek": "Researchers unveil a neuro-symbolic architecture combining neural networks with symbolic reasoning to slash AI compute energy by up to 100× — with accuracy improvements that could reshape the economics of AI deployment.",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-      "publishedAt": "2026-04-05T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-research-2",
-      "topic": "ai-research",
-      "headline": "Inside the AI Index: 12 Takeaways from the 2026 Stanford HAI Report",
-      "dek": "Stanford's HAI annual report reveals AI now outperforms humans on core reasoning and coding benchmarks, while flagging growing concerns around misinformation, energy use, and geopolitical concentration of frontier model development.",
-      "source": "Stanford HAI",
-      "sourceUrl": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
-      "publishedAt": "2026-04-10T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-ai-research-3",
-      "topic": "ai-research",
-      "headline": "Mechanistic Interpretability Named a 2026 Breakthrough Technology by MIT Tech Review",
-      "dek": "MIT Technology Review lists mechanistic interpretability — reverse-engineering what AI models actually compute — among its top 10 breakthrough technologies, signaling growing industry and regulatory pressure to understand model internals.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/",
-      "publishedAt": "2026-01-12T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-iot-hardware-0",
-      "topic": "iot-hardware",
-      "headline": "MultiTech Showcases Intelligent Sensor Innovation and Sustainable IoT at CES 2026",
-      "dek": "MultiTech unveiled its latest low-power sensor platform at CES 2026, emphasizing energy-harvesting designs and AI-at-the-edge capabilities for industrial and environmental monitoring applications.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/multitech-showcases-intelligent-sensor-innovation-and-sustainable-iot-solutions-at-ces-2026-302651887.html",
-      "publishedAt": "2026-01-08T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-iot-hardware-1",
-      "topic": "iot-hardware",
-      "headline": "6 IoT Semiconductor Predictions for 2026",
-      "dek": "IoT Analytics forecasts the chip trends shaping connected hardware: shrinking node sizes enabling on-device AI, integrated 5G/Wi-Fi 7 silicon, and the rise of purpose-built security processors for industrial deployments.",
-      "source": "IoT Analytics",
-      "sourceUrl": "https://iot-analytics.com/iot-semiconductor-predictions/",
-      "publishedAt": "2026-01-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-iot-hardware-2",
-      "topic": "iot-hardware",
-      "headline": "IoT in 2026: The Technologies Driving the Next Wave of Growth",
-      "dek": "IoT Insider surveys the technical stack powering IoT's expansion — 5G and satellite backhaul, LPWAN for agricultural scale, AI inference at the edge, and security frameworks struggling to keep pace with 16 billion connected endpoints.",
-      "source": "IoT Insider",
-      "sourceUrl": "https://www.iotinsider.com/iot-insights/iot-in-2026-the-technologies-driving-the-next-wave-of-iot-growth/",
-      "publishedAt": "2026-03-10T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-iot-hardware-3",
-      "topic": "iot-hardware",
-      "headline": "IoT Trends in 2026: Technologies Shaping the Future of Connected Systems",
-      "dek": "A comprehensive overview of forces reshaping IoT hardware in 2026, including miniaturized sensors, ultra-low-power designs, and the maturation of digital twin platforms binding physical sensor data to real-time simulation.",
-      "source": "MetaDesk Global",
-      "sourceUrl": "https://metadeskglobal.com/iot-trends-2026/",
-      "publishedAt": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-aiot-0",
-      "topic": "aiot",
-      "headline": "The Future of AIoT in 2026: How Smart Systems Are Redefining Business",
-      "dek": "The global AIoT market is on track to reach $102 billion in 2026, as edge-computing hardware enables millisecond-level inference without cloud round-trips — transforming manufacturing, logistics, and smart city management.",
-      "source": "Speed4Trading",
-      "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
-      "publishedAt": "2026-03-15T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-aiot-1",
-      "topic": "aiot",
-      "headline": "Top 5 AIoT Trends in 2026",
-      "dek": "Hikvision's analysis highlights agentic AI bridging perception and human intent via LLMs, expanded conservation and wildlife-monitoring applications, and software's 68% share of AIoT revenue signaling where value is concentrating.",
-      "source": "Hikvision",
-      "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
-      "publishedAt": "2026-02-10T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-aiot-2",
-      "topic": "aiot",
-      "headline": "AIoT in 2026: From Edge Intelligence to Agentic Systems",
-      "dek": "IoT Evolution World traces the maturation of AIoT from early edge-inference experiments to production-grade agentic systems that observe, reason, and act autonomously across industrial environments.",
-      "source": "IoT Evolution World",
-      "sourceUrl": "https://www.iotevolutionworld.com/iot/articles/463180-aiot-2026-from-edge-intelligence-agentic-systems.htm",
-      "publishedAt": "2026-04-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-aiot-3",
-      "topic": "aiot",
-      "headline": "IoT and AI in 2026: Market Scale, Architecture, and Industry Impact",
-      "dek": "KaaIoT examines how the converging IoT-AI stack is structured across edge, fog, and cloud layers — and which industry sectors (energy, healthcare, smart cities) are leading adoption with measurable ROI.",
-      "source": "KaaIoT",
-      "sourceUrl": "https://www.kaaiot.com/iot-knowledge-base/iot-and-ai-in-2026-market-scale-architecture-and-industry-impact",
-      "publishedAt": "2026-03-01T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-smart-agriculture-0",
-      "topic": "smart-agriculture",
-      "headline": "IoT in Agriculture: The 2026 Smart Farming Guide",
-      "dek": "Folio3 Agtech surveys the full stack of precision farming technology — from satellite-connected soil sensors and AI-driven irrigation to livestock biometric monitoring and carbon-credit programs built on IoT data.",
-      "source": "Folio3 Agtech",
-      "sourceUrl": "https://agtech.folio3.com/blogs/iot-in-agriculture/",
-      "publishedAt": "2026-02-15T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-smart-agriculture-1",
-      "topic": "smart-agriculture",
-      "headline": "Smart Farming IoT Data: Top 7 Innovations for 2026",
-      "dek": "Farmonaut highlights solar-powered, edge-computing sensor networks that cut water use by 30% through real-time soil moisture analysis — and the carbon-credit revenue streams emerging as a new financial model for IoT-equipped farms.",
-      "source": "Farmonaut",
-      "sourceUrl": "https://farmonaut.com/precision-farming/smart-farming-iot-data-top-7-innovations-for-2026",
-      "publishedAt": "2026-01-25T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-smart-agriculture-2",
-      "topic": "smart-agriculture",
-      "headline": "How IoT and 5G Technologies Enhance Precision Farming and Sustainability",
-      "dek": "A peer-reviewed study in the International Journal of Communication Systems demonstrates how 5G-connected IoT networks enable real-time crop monitoring at scale, reducing fertilizer overuse while improving yield predictability.",
-      "source": "Wiley / International Journal of Communication Systems",
-      "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/dac.70310",
-      "publishedAt": "2026-04-15T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-smart-agriculture-3",
-      "topic": "smart-agriculture",
-      "headline": "Advancing Agriculture Through IoT, Big Data, and AI: Smart Technologies for Sustainability",
-      "dek": "ScienceDirect's systematic review synthesizes evidence across IoT, big data, and AI applications in farming — mapping technologies with the strongest sustainability outcomes and identifying regulatory gaps slowing adoption.",
-      "source": "ScienceDirect",
-      "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S2772375525000814",
-      "publishedAt": "2026-03-20T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-career-signals-0",
-      "topic": "career-signals",
-      "headline": "Product Designer Jobs in Spain — May 2026: New Openings Roundup",
-      "dek": "Seven fresh product designer roles posted across Spain this week, with senior positions at Proton, Elastic, and FeverUp among the highlights — reflecting sustained demand for designers with systems thinking and AI fluency.",
-      "source": "UI/UX Designer Jobs",
-      "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
-      "publishedAt": "2026-05-05T08:00:00.000Z"
-    },
-    {
-      "id": "2026-05-06-career-signals-1",
-      "topic": "career-signals",
-      "headline": "Director of Product Design Jobs in Spain — 2026 Listings on Wellfound",
-      "dek": "Wellfound's Spain-filtered director-level design job board shows growing demand for senior design leaders at tech scaleups, with roles spanning fintech, health, and SaaS — many offering remote-first or Barcelona-hybrid arrangements.",
-      "source": "Wellfound",
-      "sourceUrl": "https://wellfound.com/role/l/director-of-product-design/spain",
-      "publishedAt": "2026-05-05T08:00:00.000Z"
+      "publishedAt": "2026-02-15T08:00:00.000Z",
+      "imageUrl": "/images/heroes/2026-05-06.png"
     },
     {
       "id": "2026-05-06-career-signals-2",
@@ -283,49 +22,112 @@
       "publishedAt": "2026-05-06T08:00:00.000Z"
     },
     {
-      "id": "2026-05-06-career-signals-3",
-      "topic": "career-signals",
-      "headline": "Product and Design Jobs in Barcelona: Current Openings at WoodyJobs",
-      "dek": "WoodyJobs' curated Barcelona design board aggregates product design, UX research, and creative direction roles — with an emphasis on design-system and AI-augmented workflow experience across the city's startup ecosystem.",
-      "source": "WoodyJobs",
-      "sourceUrl": "https://www.woodyjobs.com/barcelona",
-      "publishedAt": "2026-05-06T08:00:00.000Z"
-    },
-    {
       "id": "2026-05-06-in-the-world-0",
       "topic": "in-the-world",
-      "headline": "This Month in AI: How Organizations Can Scale Convergent Technology",
-      "dek": "The World Economic Forum's May 2026 AI roundup examines how enterprises are combining AI with robotics, IoT, and biotech — and what governance frameworks are emerging to manage the risks of stacking powerful technologies.",
-      "source": "World Economic Forum",
-      "sourceUrl": "https://www.weforum.org/stories/2026/05/this-month-in-ai-how-organizations-can-scale-convergent-technology/",
-      "publishedAt": "2026-05-01T08:00:00.000Z"
+      "headline": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "publishedAt": "Tue, 05 May 2026 12:10:00 +0000"
     },
     {
       "id": "2026-05-06-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "From Quantum Computing to mRNA Therapeutics: Seven Technologies to Watch in 2026",
-      "dek": "Nature's editors identify the seven scientific and engineering advances most likely to define the year — including room-temperature superconductors, programmable mRNA drugs, and AI models that actively participate in discovery.",
-      "source": "Nature",
-      "sourceUrl": "https://www.nature.com/articles/d41586-026-00188-6",
-      "publishedAt": "2026-01-20T08:00:00.000Z"
+      "headline": "The iPhone That Never Was",
+      "dek": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
+      "publishedAt": "Tue, 05 May 2026 11:00:00 +0000"
     },
     {
       "id": "2026-05-06-in-the-world-2",
       "topic": "in-the-world",
-      "headline": "12 Technology Trends That Will Shape the Agenda in 2026",
-      "dek": "ESADE's tech policy analysts map the forces demanding boardroom and government attention: agentic AI, energy infrastructure strain from data centers, quantum computing policy, and the EU AI Act moving from deadline to enforcement.",
-      "source": "ESADE Do Better",
-      "sourceUrl": "https://dobetter.esade.edu/en/technology-trends-2026",
-      "publishedAt": "2026-01-10T08:00:00.000Z"
+      "headline": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "dek": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made comp",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "publishedAt": "Wed, 06 May 2026 06:47:12 +0000"
     },
     {
       "id": "2026-05-06-in-the-world-3",
       "topic": "in-the-world",
-      "headline": "4 Tech Trends That Will Shape 2026 and the Breakthroughs Powering Them",
-      "dek": "Bernard Marr pinpoints the four macro forces redefining business and society: the normalization of agentic AI, physical AI in humanoid robotics, the energy crisis triggered by data center growth, and biological AI entering clinical trials.",
-      "source": "Bernard Marr",
-      "sourceUrl": "https://bernardmarr.com/4-tech-trends-that-will-shape-2026-and-the-breakthroughs-powering-them/",
-      "publishedAt": "2026-01-05T08:00:00.000Z"
+      "headline": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+      "dek": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "publishedAt": "2026-05-05T21:46:04.000Z"
+    },
+    {
+      "id": "2026-05-06-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Will AI destroy teamwork?",
+      "dek": "Generative AI has made it possible for individuals to perform tasks that once required entire teams. Today, a single marketer can produce campaign assets, analyze data, and generate content at scale. A product manager can prototype, test, and iterate without relying on engineering; and developers ca",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91520066/will-ai-destroy-teamwork",
+      "publishedAt": "2026-05-06T08:00:00"
+    },
+    {
+      "id": "2026-05-06-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "DHS abuses 1930s customs law in attempt to get data on Canadian from Google",
+      "dek": "DHS targeted a man who hadn't entered the US for years for criticism of ICE operations.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
+      "publishedAt": "Tue, 05 May 2026 14:02:19 +0000"
+    },
+    {
+      "id": "2026-05-06-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "publishedAt": "Wed, 06 May 2026 03:10:33 +0000"
+    },
+    {
+      "id": "2026-05-06-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "A blueprint for using AI to strengthen democracy",
+      "dek": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "publishedAt": "Tue, 05 May 2026 09:00:00 +0000"
+    },
+    {
+      "id": "2026-05-06-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "dek": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "publishedAt": "Tue, 05 May 2026 23:05:50 +0000"
+    },
+    {
+      "id": "2026-05-06-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+      "dek": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "publishedAt": "Tue, 05 May 2026 20:06:40 +0000"
+    },
+    {
+      "id": "2026-05-06-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "dek": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "publishedAt": "2026-05-05T21:18:23.000Z"
+    },
+    {
+      "id": "2026-05-06-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Microsoft gives up on Xbox Copilot AI",
+      "dek": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+      "publishedAt": "2026-05-05T19:54:37.000Z"
     }
   ]
 }
