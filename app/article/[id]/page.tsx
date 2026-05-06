@@ -14,13 +14,17 @@ type Props = {
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { id } = await params;
-  const story = getStoryById(id);
-  if (!story) return { title: 'Article Not Found' };
-  return {
-    title: `${story.headline} | Daily Digest`,
-    description: story.dek,
-  };
+  try {
+    const { id } = await params;
+    const story = getStoryById(id);
+    if (!story) return { title: 'Article Not Found' };
+    return {
+      title: `${story.headline} | Daily Digest`,
+      description: story.dek,
+    };
+  } catch (err) {
+    return { title: 'Article | Daily Digest' };
+  }
 }
 
 export default async function ArticlePage({ params }: Props) {
@@ -50,9 +54,7 @@ export default async function ArticlePage({ params }: Props) {
     const showChat = !!(content && process.env.GEMINI_API_KEY);
 
     return (
-      <div className="min-h-screen bg-[var(--bg)]">
-        <Nav />
-        
+      <>
         <main className="max-w-[800px] mx-auto px-5 md:px-10 pt-24 pb-12 md:py-20">
           <Suspense fallback={<div>Loading interaction controls...</div>}>
             <ArticleReaderClient story={story} />
@@ -108,7 +110,7 @@ export default async function ArticlePage({ params }: Props) {
         <Footer />
         
         {showChat && <ChatPanel articleId={story.id} />}
-      </div>
+      </>
     );
   } catch (error: any) {
     console.error("[Reader] Server crash:", error);
