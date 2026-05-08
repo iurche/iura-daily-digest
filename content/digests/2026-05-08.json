@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-08",
+  "heroStoryId": "2026-05-08-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-08-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: the tech reshaping IVF and the rise of balcony solar",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and fa",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+      "publishedAt": "Thu, 07 May 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-08.png",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Canvas Hack Is a New Kind of Ransomware Debacle",
+      "dek": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+      "publishedAt": "Fri, 08 May 2026 05:02:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1644458728399-fdc536bd521e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBDYW52YXMlMjBIYWNrJTIwSXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODIyNDQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by gaspar zaldo on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Why you can never get your doctor to call you back",
+      "dek": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "publishedAt": "Fri, 08 May 2026 04:42:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1604661808622-639387f6f698?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjB5b3UlMjBjYW4lMjBuZXZlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4MjI0NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "dek": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which cl",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "publishedAt": "2026-05-07T21:29:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1679226953073-24d2518ba1c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDYW52YXMlMjBpcyUyMGRvd24lMjBhcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4MjI0NDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stephan HK on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "‘You are my business coach’: More workers use AI for career advice",
+      "dek": "When communications worker Suzanne Selkow decided to open her own consulting practice, she realized that going solo meant fewer opportunities to “turn to a colleague for a gut check,” she says. \nKnowing herself to get bogged down in “decision paralysis,” she figured she needed some kind of outside p",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91538593/you-are-my-business-coach-more-workers-use-ai-for-career-advice",
+      "publishedAt": "2026-05-08T06:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1765445666407-c8535808a4a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwlRTIlODAlOThZb3UlMjBhcmUlMjBteSUyMGJ1c2luZXNzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzgyMjQ0OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Egor Komarov on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "RIP social media. What comes next is messy.",
+      "dek": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
+      "publishedAt": "Thu, 07 May 2026 13:51:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1696041752094-1be601b7053f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSSVAlMjBzb2NpYWwlMjBtZWRpYS4lMjBXaGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzgyMjQ0OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hakim Menikh on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Maybe you shouldn't install new software for a bit",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "publishedAt": "Thu, 07 May 2026 23:02:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1577009502897-dea445cea213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYXliZSUyMHlvdSUyMHNob3VsZG4lMjd0JTIwaW5zdGFsbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4MjI0NDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bertrand Colombo on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The balcony solar boom is coming to the US",
+      "dek": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems co",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "publishedAt": "Thu, 07 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762958266615-949dc88dcb37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBiYWxjb255JTIwc29sYXIlMjBib29tJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzgyMjQ0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yuma Solar on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "What’s next for IVF",
+      "dek": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Mil",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "publishedAt": "Thu, 07 May 2026 09:04:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1744990437158-6af0a8a04c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JUUyJTgwJTk5cyUyMG5leHQlMjBmb3IlMjBJVkYlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODIyNDQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "How to Disable Google's Gemini in Chrome",
+      "dek": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "publishedAt": "Thu, 07 May 2026 20:31:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1586125674857-4eb86880905d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMERpc2FibGUlMjBHb29nbGUlMjdzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzgyMjQ0OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nathana Rebouças on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "11 Best Sunscreens, WIRED Tested and Reviewed",
+      "dek": "We put 36 sunscreens to the test during summer hikes, spring ski days, and beachside hangs. Out of all the mineral, chemical, and spray varieties we tried, these are our top picks.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/gallery/best-sunscreens/",
+      "publishedAt": "Thu, 07 May 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1593695284981-7e4beef78ab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxMSUyMEJlc3QlMjBTdW5zY3JlZW5zJTJDJTIwV0lSRUQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODIyNDQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dstudio Bcn on Unsplash"
+    },
+    {
+      "id": "2026-05-08-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "dek": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "publishedAt": "Thu, 07 May 2026 19:21:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1663008519747-9da38bbfd132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbG9uJTIwTXVzayVFMiU4MCU5OXMlMjBsYXdzdWl0JTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODIyNDQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Prometheus 🔥 on Unsplash"
+    }
+  ]
+}
