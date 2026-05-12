@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-12",
+  "heroStoryId": "2026-05-12-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-12-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Three things in AI to watch, according to a Nobel-winning economist",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "publishedAt": "Mon, 11 May 2026 17:35:12 +0000",
+      "imageUrl": "/images/heroes/2026-05-12.png",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "A New Hantavirus Vaccine Is in the Works",
+      "dek": "Since 2023, Moderna and Korea University have been developing a new mRNA vaccine for hantavirus. The work has been promising so far, but a finished product isn't likely coming any time soon.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/",
+      "publishedAt": "Mon, 11 May 2026 17:16:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1613758947307-f3b8f5d80711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwTmV3JTIwSGFudGF2aXJ1cyUyMFZhY2NpbmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODU3NDI1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Iván Díaz on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "dek": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "publishedAt": "Tue, 12 May 2026 04:52:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588214321417-4db0632c764a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlua2luZyUyME1hY2hpbmVzJTIwd2FudHMlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4NTc0MjU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Guido Coppa on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+      "dek": "The Reon Pocket Pro Plus delivers a 20 percent improvement in cooling performance over last year’s model. | Image: Sony\t\n\nSony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "publishedAt": "2026-05-12T06:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662948261149-3f0a0ab0181b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb255JTIwdXBncmFkZWQlMjBpdHMlMjB3ZWFyYWJsZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4NTc0MjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "‘Persist nonetheless’: The best way to handle uncertainty",
+      "dek": "Simone Stolzoff has a gift for asking questions that slice the soul. In his first book, The Good Enough Job, he asks how work came to be so central to our identities, and what we can do to rebalance our lives. He’s a journalist whose writing on the intersection of work, identity, and relationships h",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91535541/persist-nonetheless-the-best-way-to-handle-uncertainty",
+      "publishedAt": "2026-05-12T05:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1599182045693-f07ce51e553a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwlRTIlODAlOThQZXJzaXN0JTIwbm9uZXRoZWxlc3MlRTIlODAlOTklM0ElMjBUaGUlMjBiZXN0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg1NzQyNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+      "dek": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+      "publishedAt": "Mon, 11 May 2026 20:37:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1506399309177-3b43e99fead2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwY2VudGVyJTIwZ3V6emxlZCUyMDMwJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg1NzQyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by imgix on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Postmortem: TanStack NPM supply-chain compromise",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "publishedAt": "Mon, 11 May 2026 21:08:25 +0000",
+      "imageUrl": "https://images.pexels.com/photos/33537946/pexels-photo-33537946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Jan van der Wolf on Pexels"
+    },
+    {
+      "id": "2026-05-12-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Fostering breakthrough AI innovation through customer-back engineering",
+      "dek": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "publishedAt": "Mon, 11 May 2026 13:33:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGb3N0ZXJpbmclMjBicmVha3Rocm91Z2glMjBBSSUyMGlubm92YXRpb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODU3NDI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Innovation abounds in device charging",
+      "dek": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589829068065-20154e8f9642?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbm5vdmF0aW9uJTIwYWJvdW5kcyUyMGluJTIwZGV2aWNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg1NzQyNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matt Ridley on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Implementing advanced AI technologies in finance",
+      "dek": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbXBsZW1lbnRpbmclMjBhZHZhbmNlZCUyMEFJJTIwdGVjaG5vbG9naWVzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg1NzQyNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-05-12-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "publishedAt": "Mon, 11 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4594997/pexels-photo-4594997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-05-12-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "dek": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "publishedAt": "Mon, 11 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1697510362388-9df6cd3e9d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwV29yayUyMGluJTIwSG9sbHl3b29kLiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4NTc0MjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nikhil Mistry on Unsplash"
+    }
+  ]
+}
