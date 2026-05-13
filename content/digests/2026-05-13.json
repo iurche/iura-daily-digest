@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-13",
+  "heroStoryId": "2026-05-13-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-13-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a pa",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "publishedAt": "Tue, 12 May 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-13.png",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Valvoline Coupons & Promo Codes for May 2026",
+      "dek": "Unlock significant savings on Valvoline oil changes and auto services. We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/valvoline-coupons/",
+      "publishedAt": "Wed, 13 May 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30829556/pexels-photo-30829556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Joaquin  Delgado on Pexels"
+    },
+    {
+      "id": "2026-05-13-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "dek": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "publishedAt": "Wed, 13 May 2026 00:26:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1708676293001-d02f8515624c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZWRpY2FyZSVFMiU4MCU5OXMlMjBuZXclMjBwYXltZW50JTIwbW9kZWwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODY2MTE2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marek Studzinski on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Sony’s new Xperia phone gets an overdue redesign",
+      "dek": "Sony’s new flagship doesn’t look much like its predecessors. | Image: Sony / The Verge\t\n\nSony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a su",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "publishedAt": "2026-05-13T02:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695435478239-0828b8bfc8c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb255JUUyJTgwJTk5cyUyMG5ldyUyMFhwZXJpYSUyMHBob25lJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg2NjExNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by He Junhui on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "3 ways to appear smarter than you are",
+      "dek": "Intelligence is one of the most consequential human traits. It is also one of the most socially awkward to discuss. Few topics trigger as much discomfort, denial, or moral posturing. Suggest that IQ matters and you risk being accused of elitism, determinism, or worse.\nYet the evidence is remarkably ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91523961/3-ways-to-appear-smarter-than-you-are",
+      "publishedAt": "2026-05-13T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1750173760885-2fc27322d5dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzJTIwd2F5cyUyMHRvJTIwYXBwZWFyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzg2NjExNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+      "dek": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+      "publishedAt": "Tue, 12 May 2026 11:00:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1634175735590-b2ed7b02d143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPbmNlJTIwYWdhaW4lMkMlMjBTcGFjZVglMjBoYXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODY2MTE2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anirudh on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "publishedAt": "Wed, 13 May 2026 07:11:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1711097658585-73d97ef42bf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdXJvcGVhbiUyMGdvdmVybm1lbnRzJTNBJTIwMy4wMDAlMjB0cmFja2luZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4NjYxMTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marek Studzinski on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "What Happens When You Try to Treat OCD With Psilocybin",
+      "dek": "Colloquially, OCD is known as the doubting disorder. In his new book How to Not Know, Simone Stolzoff explores whether treating that uncertainty with magic mushrooms can help people through it.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/",
+      "publishedAt": "Tue, 12 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646612968068-6d35e36086e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwSGFwcGVucyUyMFdoZW4lMjBZb3UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3ODY2MTE2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by George Pagan III on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Kevin Hartz’s A* just closed its third fund with $450M",
+      "dek": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "publishedAt": "Tue, 12 May 2026 18:45:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1608893569593-49ef62e851de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxLZXZpbiUyMEhhcnR6JUUyJTgwJTk5cyUyMEEqJTIwanVzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc4NjYxMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-05-13-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "dek": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "publishedAt": "Tue, 12 May 2026 18:05:15 +0000",
+      "imageUrl": "https://images.pexels.com/photos/29706833/pexels-photo-29706833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Christina & Peter on Pexels"
+    },
+    {
+      "id": "2026-05-13-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "dek": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "publishedAt": "Tue, 12 May 2026 17:36:34 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6289066/pexels-photo-6289066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Monstera Production on Pexels"
+    },
+    {
+      "id": "2026-05-13-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "dek": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "publishedAt": "Tue, 12 May 2026 17:30:57 +0000",
+      "imageUrl": "https://images.pexels.com/photos/20716652/pexels-photo-20716652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by BM Amaro on Pexels"
+    }
+  ]
+}
