@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-17",
+  "heroStoryId": "2026-05-17-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-17-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Snap, YouTube, and TikTok settle suit over harm to students",
+      "dek": "Schools say social media is hurting grades and creating a mental health crisis. | Image: Cath Virginia / The Verge\t\n\nSnap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. Th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+      "publishedAt": "2026-05-16T18:34:23.000Z",
+      "imageUrl": "/images/heroes/2026-05-17.png",
+      "imageCredit": "Photo by indra projects on Pexels"
+    },
+    {
+      "id": "2026-05-17-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "5 reasons why teams fail",
+      "dek": "High-performing leaders don’t automatically create high-performing teams. Even the most impressive executive teams on paper can struggle with alignment, trust, and collective execution. When a team isn’t functioning, a leader’s instinct is to blame individual performance, skill gaps, or the strategy",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91543160/5-reasons-why-teams-fail",
+      "publishedAt": "2026-05-17T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1590482930637-c8d907ce02bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw1JTIwcmVhc29ucyUyMHdoeSUyMHRlYW1zJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkwMDUzNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
+      "dek": "States across the US are looking to take major sources of pollution and use them to generate much-needed power.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
+      "publishedAt": "Sat, 16 May 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589484771154-d663e839d0be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPbGQlMjBPaWwlMjBhbmQlMjBHYXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTAwNTM0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by hidde schalm on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "dek": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "publishedAt": "Sat, 16 May 2026 19:26:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1562577308-9e66f0c65ce5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYXJrZXRpbmclMjBvcGVyYXRpbmclMjBzeXN0ZW0lMjBOZWN0YXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTAwNTM0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Merakist on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The US is betting on AI to catch insider trading in prediction markets",
+      "dek": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "publishedAt": "Sat, 16 May 2026 11:00:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556885793-98766b0a5db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBVUyUyMGlzJTIwYmV0dGluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDA1MzQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Patrick Robert Doyle on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://crates.io/crates/zerostack/1.0.0",
+      "publishedAt": "Sat, 16 May 2026 22:23:50 +0000",
+      "imageUrl": "https://images.pexels.com/photos/2928258/pexels-photo-2928258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by K on Pexels"
+    },
+    {
+      "id": "2026-05-17-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "dek": "The variety of terrible is impressive.\t\n\nAfter Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "publishedAt": "2026-05-16T15:37:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662948261149-3f0a0ab0181b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb255JTIwdHJpZXMlMjB0byUyMGV4cGxhaW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTAwNTM1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "dek": "Manoush Zomorodi tackled tech’s effect on our brains, now she’s looking at our bodies. | Image: Tory WIlliams\t\n\nManoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7598560/pexels-photo-7598560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-05-17-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "dek": "Both of these headsets are stellar in different ways.\t\n\nI really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "publishedAt": "2026-05-16T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1607896477672-21ffa8e2b36e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUdXJ0bGUlMjBCZWFjaCUyMG1hZGUlMjBhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkwMDUzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amanda Phung on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+      "dek": "The last-gen InReach Mini 2 might require a subscription to use, but we guarantee it’s far more durable than your phone. | Image: Garmin\t\n\nREI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "publishedAt": "2026-05-16T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1774023092610-acd110d189a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXJlJTIwYXJlJTIwNDAlMjBvZiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDA1MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Mixtape is a musical portrait of teenage life",
+      "dek": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big party. They're obsessed with finding booze. But under all of those tropes is a ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+      "publishedAt": "2026-05-16T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1605731414532-6b26976cc153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaXh0YXBlJTIwaXMlMjBhJTIwbXVzaWNhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDA1MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by hosein zanbori on Unsplash"
+    },
+    {
+      "id": "2026-05-17-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The app you need to clean up your computer",
+      "dek": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about David Attenborough and screenwr",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+      "publishedAt": "2026-05-16T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1644771571024-fa2bb17bdd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBhcHAlMjB5b3UlMjBuZWVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkwMDUzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zhivko Minkov on Unsplash"
+    }
+  ]
+}
