@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-18",
+  "heroStoryId": "2026-05-18-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-18-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
+      "dek": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can’t.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
+      "publishedAt": "Mon, 18 May 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-18.png",
+      "imageCredit": "Photo by Valentina Kondrasyuk on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Microsoft is retiring Teams’ Together Mode",
+      "dek": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. T",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "publishedAt": "2026-05-17T21:15:28.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBpcyUyMHJldGlyaW5nJTIwVGVhbXMlRTIlODAlOTklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTA5NzA4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Stop selling what you think your customers need and start doing this instead",
+      "dek": "I used to think I was a great salesperson because I had all the right answers. I knew my product inside and out. I could explain every feature, every benefit, every reason someone should say yes. And I did what most people do—I led with that. Confident. Certain. Ready to convince. And I lost deals I",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91520040/stop-selling-what-you-think-customers-need-sales-strategies",
+      "publishedAt": "2026-05-18T09:18:00",
+      "imageUrl": "https://images.unsplash.com/photo-1572670014853-1d3a3f22b40f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdG9wJTIwc2VsbGluZyUyMHdoYXQlMjB5b3UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTA5NzA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Joshua Hoehne on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "dek": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1632961974688-fae53de3cabc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjB0cnVzdCUyMGlzJTIwYSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDk3MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alex Shute on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "A revolutionary cancer treatment could transform autoimmune disease",
+      "dek": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+      "publishedAt": "Sun, 17 May 2026 11:00:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1587010580103-fd86b8ea14ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwcmV2b2x1dGlvbmFyeSUyMGNhbmNlciUyMHRyZWF0bWVudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDk3MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Craig Cameron on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "GenCAD",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://gencad.github.io/",
+      "publishedAt": "Sun, 17 May 2026 21:40:35 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7532231/pexels-photo-7532231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Ann H on Pexels"
+    },
+    {
+      "id": "2026-05-18-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
+      "dek": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/bowling-lane-oil/",
+      "publishedAt": "Sun, 17 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1745123191990-1e3e25bebddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJZiUyMFlvdSVFMiU4MCU5OXJlJTIwYSUyMFNlcmlvdXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTA5NzA5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Romero on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Revamped Siri will reportedly offer autodeleting chats",
+      "dek": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "publishedAt": "2026-05-17T18:40:28.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1726935018912-134f3c26313a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXZhbXBlZCUyMFNpcmklMjB3aWxsJTIwcmVwb3J0ZWRseSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5MDk3MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by appshunter.io on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "dek": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "publishedAt": "2026-05-17T17:22:23.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1681782421891-5088f13466ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXR5JTIwb2YlMjBBcml6b25hJTIwc3R1ZGVudHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTA5NzA5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Robert Gareth on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Oddity is masterfully tense horror from the director of Hokum",
+      "dek": "Kudos to the designer of that horrifying golem. | Image: Shudder\t\n\nHokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go wa",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "publishedAt": "2026-05-17T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1743785416211-1eaa5a6232b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPZGRpdHklMjBpcyUyMG1hc3RlcmZ1bGx5JTIwdGVuc2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTA5NzA5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+      "dek": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+      "publishedAt": "2026-05-17T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1685092032031-4b2ce61f9254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGdWppZmlsbSVFMiU4MCU5OXMlMjBYJTIwSGFsZiUyMGlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkwOTcwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Claudio Schwarz on Unsplash"
+    },
+    {
+      "id": "2026-05-18-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "ElliQ is a surprisingly helpful companion robot for older adults",
+      "dek": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "publishedAt": "2026-05-17T13:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7635010/pexels-photo-7635010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Marina Leonova on Pexels"
+    }
+  ]
+}
