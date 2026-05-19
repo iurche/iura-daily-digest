@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-19",
+  "heroStoryId": "2026-05-19-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-19-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Here’s why Elon Musk lost his suit against OpenAI",
+      "dek": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "publishedAt": "Tue, 19 May 2026 00:53:10 +0000",
+      "imageUrl": "/images/heroes/2026-05-19.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "How to Watch Google I/O 2026",
+      "dek": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-watch-google-io/",
+      "publishedAt": "Mon, 18 May 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMFdhdGNoJTIwR29vZ2xlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "dek": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
+      "imageUrl": "https://images.pexels.com/photos/12960383/pexels-photo-12960383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Atlantic Ambience on Pexels"
+    },
+    {
+      "id": "2026-05-19-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+      "dek": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "publishedAt": "2026-05-19T01:10:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMRyUyMHdpbGwlMjByZWxlYXNlJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ilan Dov on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The world is not digital—and that’s why software won’t eat it",
+      "dek": "Fifteen years ago, tech investor Marc Andreessen published his famous essay, “Why Software Is Eating the World.” He predicted at the time that technology companies were tremendously undervalued, and that low startup costs and almost infinite scalability would lead software-based companies to dominat",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91541842/the-world-is-not-digital-and-thats-why-software-wont-eat-it",
+      "publishedAt": "2026-05-19T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1709124547933-4d9dafe6c6d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjB3b3JsZCUyMGlzJTIwbm90JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stephen Harlan on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Guy Gardner makes a cameo in new Lanterns teaser",
+      "dek": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
+      "publishedAt": "Mon, 18 May 2026 17:36:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1755012876853-468faa9f59f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHdXklMjBHYXJkbmVyJTIwbWFrZXMlMjBhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The last six months in LLMs in five minutes",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "publishedAt": "Tue, 19 May 2026 01:30:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1771436026683-5f784f8b6be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBsYXN0JTIwc2l4JTIwbW9udGhzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "What to expect from Google this week",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "publishedAt": "Mon, 18 May 2026 17:35:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1467746474745-41dd2c7524ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwdG8lMjBleHBlY3QlMjBmcm9tJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkxODEwMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rita Morais on Unsplash"
+    },
+    {
+      "id": "2026-05-19-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "dek": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "publishedAt": "Mon, 18 May 2026 16:01:39 +0000",
+      "imageUrl": "https://images.pexels.com/photos/3043456/pexels-photo-3043456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Xi Qiao on Pexels"
+    },
+    {
+      "id": "2026-05-19-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+      "publishedAt": "Mon, 18 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30945293/pexels-photo-30945293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-05-19-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Kin Health raises $9M to build an AI notetaker for patients",
+      "dek": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "publishedAt": "Mon, 18 May 2026 15:26:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6823564/pexels-photo-6823564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Artem Podrez on Pexels"
+    }
+  ]
+}
