@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-20",
+  "heroStoryId": "2026-05-20-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-20-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Understanding the modern cybercrime landscape",
+      "dek": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+      "publishedAt": "Tue, 19 May 2026 13:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-20.png",
+      "imageCredit": "Photo by FlyD on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
+      "dek": "The Coyl uses a coil design for the power cable, keeping it neat and taut between the desk and the wall. And instead of relying on boring levers to adjust the height, it has a nifty rotary dial.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
+      "publishedAt": "Tue, 19 May 2026 11:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/3968051/pexels-photo-3968051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Haley Black on Pexels"
+    },
+    {
+      "id": "2026-05-20-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "dek": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "publishedAt": "Tue, 19 May 2026 20:11:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30875540/pexels-photo-30875540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by UMA media on Pexels"
+    },
+    {
+      "id": "2026-05-20-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Samsung workers set to strike at worst possible time",
+      "dek": "Samsung Electronics workers attended a rally outside the company's semiconductor plant in Pyeongtaek on April 23rd, ahead of the planned strike. | Photo by SeongJoon Cho/Bloomberg via Getty Images\t\n\nMore than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "publishedAt": "2026-05-20T08:49:01.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1661347998423-b15d37d6f61e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTYW1zdW5nJTIwd29ya2VycyUyMHNldCUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkyNjcxMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "4 signs it’s time to change your boss",
+      "dek": "Work is the closest thing most adults have to a full-time identity. Strip away sleep, and roughly half of our waking lives are spent working. If you take a conservative estimate—40 to 50 hours a week, across four to five decades—you end up with well over 80,000 hours on the job.\nAnd yet, the most sa",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91530159/4-signs-its-time-to-change-your-boss",
+      "publishedAt": "2026-05-20T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1572012066333-effdcae01372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw0JTIwc2lnbnMlMjBpdCVFMiU4MCU5OXMlMjB0aW1lJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkyNjcxMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rémi Bertogliati on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+      "dek": "AI content is getting good, but SynthID might be able to help tell truth from fiction.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+      "publishedAt": "Tue, 19 May 2026 18:37:02 +0000",
+      "imageUrl": "https://images.pexels.com/photos/218717/pexels-photo-218717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by AS Photography on Pexels"
+    },
+    {
+      "id": "2026-05-20-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "There's no earthly way of knowing which direction we are going",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
+      "publishedAt": "Wed, 20 May 2026 05:33:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1614424255398-1bbb47a2dc66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVyZSUyN3MlMjBubyUyMGVhcnRobHklMjB3YXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTI2NzExN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contr",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "publishedAt": "Tue, 19 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30945293/pexels-photo-30945293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-05-20-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+      "dek": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.  Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+      "publishedAt": "Tue, 19 May 2026 12:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8539940/pexels-photo-8539940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by www.kaboompics.com on Pexels"
+    },
+    {
+      "id": "2026-05-20-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
+      "dek": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
+      "publishedAt": "Tue, 19 May 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1730818876613-f05d86886e93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZXQlMjBVcCUyMFlvdXIlMjBQaG9uZSVFMiU4MCU5OXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTI2NzExOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by appshunter.io on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "You Can Get Some of Your Nudes Removed From the Internet Under a New Law",
+      "dek": "Starting May 19, tech platforms in the US will have to comply with the Take It Down Act. Here’s how more than a dozen major platforms are handling takedown demands for your nonconsensual nudes.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
+      "publishedAt": "Tue, 19 May 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1571149828488-1cc5695847a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3UlMjBDYW4lMjBHZXQlMjBTb21lJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkyNjcxMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sincerely Media on Unsplash"
+    },
+    {
+      "id": "2026-05-20-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+      "dek": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+      "publishedAt": "Tue, 19 May 2026 19:15:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1586125674857-4eb86880905d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjB0YWtlcyUyMGElMjBwYWdlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3NzkyNjcxMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nathana Rebouças on Unsplash"
+    }
+  ]
+}
