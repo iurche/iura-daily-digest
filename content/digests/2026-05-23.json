@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-23",
+  "heroStoryId": "2026-05-23-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-23-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-23.png",
+      "imageCredit": "Photo by ANOOF C on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "SpaceX files to go public, and the math requires a little faith",
+      "dek": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that w",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "publishedAt": "Fri, 22 May 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBmaWxlcyUyMHRvJTIwZ28lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTUyMzQ4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "dek": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "publishedAt": "2026-05-22T20:39:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1663090859310-97a1af639a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjYlMjM4MjE3JTNCcyUyMEFJJTIwc2VhcmNoJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTUyMzQ5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by sarah b on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The secret to getting assigned high-value projects",
+      "dek": "If you want to succeed at work, you not only need to get work done, you need to do the right kind of work. That work involves helping to complete projects that really matter to your organization—ones that are central to the mission.\nYou don’t get assigned to those key projects right away. They tend ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91543971/the-secret-to-getting-assigned-high-value-projects",
+      "publishedAt": "2026-05-23T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1571333452531-727c64f60e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBzZWNyZXQlMjB0byUyMGdldHRpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTUyMzQ5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Paolo Chiabrando on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
+      "dek": "The measure is part of a European Union–led strategy to eliminate all drunk-driving-related deaths and injuries by 2050.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
+      "publishedAt": "Sat, 23 May 2026 07:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1699862324850-2c5480f4f6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbGwlMjBWZWhpY2xlcyUyMFNvbGQlMjBpbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5NTIzNDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Angelo Moleele on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Review: The Mandalorian and Grogu is ... fine",
+      "dek": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+      "publishedAt": "Fri, 22 May 2026 18:30:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1608346128025-1896b97a6fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXZpZXclM0ElMjBUaGUlMjBNYW5kYWxvcmlhbiUyMGFuZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5NTIzNDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Michael Marais on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Shipping a laptop to a refugee camp in Uganda",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "publishedAt": "Fri, 22 May 2026 21:36:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1648747067192-790595bc6d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTaGlwcGluZyUyMGElMjBsYXB0b3AlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5NTIzNDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by M. Cooper on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Google I/O showed how the path for AI-driven science is shifting",
+      "dek": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Brett Jordan on Pexels"
+    },
+    {
+      "id": "2026-05-23-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "dek": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+      "publishedAt": "Fri, 22 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBFbmhhbmNlZCUyMEdhbWVzJTIwZml0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk1MjM0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stem List on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
+      "dek": "Twelve South’s AirFly Pro 2 let you connect wireless headphones to in-flight entertainment systems as well as the Nintendo Switch. | Image: Twelve South\t\n\nWith Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
+      "publishedAt": "2026-05-22T18:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/35924017/pexels-photo-35924017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Mimi on Pexels"
+    },
+    {
+      "id": "2026-05-23-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
+      "dek": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. \nRather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum users",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+      "publishedAt": "2026-05-22T17:27:08.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1696041758578-db4b9b94a4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJUUyJTgwJTk5cyUyMEZvcnVtJTIwaXMlMjBwYXJ0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk1MjM0OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hakim Menikh on Unsplash"
+    },
+    {
+      "id": "2026-05-23-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Elon, stop trying to make Grok happen",
+      "dek": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI'",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "publishedAt": "2026-05-22T17:17:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1564501676129-2d9b8786b00f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbG9uJTJDJTIwc3RvcCUyMHRyeWluZyUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk1MjM0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sincerely Media on Unsplash"
+    }
+  ]
+}
