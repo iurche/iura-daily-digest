@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-26",
+  "heroStoryId": "2026-05-26-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-26-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "A reality check on the AI jobs hysteria",
+      "dek": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "publishedAt": "Tue, 26 May 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-05-26.png",
+      "imageCredit": "Photo by Egor Komarov on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
+      "dek": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "publishedAt": "Tue, 26 May 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1597701218190-ace198957ff6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVUyUyMExhdyUyMEVuZm9yY2VtZW50JTIwV2FybnMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTc4ODA0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Unseen Histories on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "A battery-powered Starlink Mini is likely on the way",
+      "dek": "This, but no cable. | Photo by Thomas Ricker / The Verge\t\n\nCode in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responde",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "publishedAt": "2026-05-26T08:55:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1633169747451-24ebe52e39b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwYmF0dGVyeS1wb3dlcmVkJTIwU3RhcmxpbmslMjBNaW5pJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk3ODgwNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anirudh on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Real enterprise transformation with AI requires six foundations, not one. Here’s how to build them all",
+      "dek": "In 2024, Boston Consulting Group surveyed more than 1,000 C-suite executives and found that just 4% of companies were generating substantial value from artificial intelligence. A year later, that figure had risen to 5%. It is tempting to read this 25% year-on-year increase as the beginning of liftof",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91545009/ai-enterprise-transformation-six-foundations",
+      "publishedAt": "2026-05-26T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1615827690357-1f4db574486b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZWFsJTIwZW50ZXJwcmlzZSUyMHRyYW5zZm9ybWF0aW9uJTIwd2l0aCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5Nzg4MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The pope’s AI encyclical isn’t really about AI",
+      "dek": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "publishedAt": "Mon, 25 May 2026 15:09:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBwb3BlJUUyJTgwJTk5cyUyMEFJJTIwZW5jeWNsaWNhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5Nzg4MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ashwin Vaswani on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+      "dek": "In an age of AI, Pope looks for \"artisans of hope.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+      "publishedAt": "Mon, 25 May 2026 21:07:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646009760881-fc1173d9d17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaXRpbmclMjBHYW5kYWxmJTJDJTIwUG9wZSUyMExlbyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5Nzg4MDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matthew Ball on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://dynip.dev/",
+      "publishedAt": "Tue, 26 May 2026 07:35:20 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4160092/pexels-photo-4160092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-05-26-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "It’s time to address the looming crisis in entry-level work.",
+      "dek": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "publishedAt": "Tue, 26 May 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1585543253202-04d3d9f11961?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJdCVFMiU4MCU5OXMlMjB0aW1lJTIwdG8lMjBhZGRyZXNzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk3ODgwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Justin Veenema on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+      "dek": "Sennheiser is sticking with the redesign it introduced with the Momentum 4 Wireless. | Image: Sennheiser\t\n\nNearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company ha",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "publishedAt": "2026-05-25T22:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1754142654796-cafbcb9f633b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZW5uaGVpc2VyJUUyJTgwJTk5cyUyMG5ldyUyME1vbWVudHVtJTIwNSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5Nzg4MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrey Matveev on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Ferrari reveals its first EV, with design help from Jony Ive",
+      "dek": "The Ferrari Luce will start at €550,000 in Italy, but US pricing hasn’t been announced. | Image: Ferrari\t\n\nAfter months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+      "publishedAt": "2026-05-25T21:33:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGZXJyYXJpJTIwcmV2ZWFscyUyMGl0cyUyMGZpcnN0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk3ODgwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Lance Asper on Unsplash"
+    },
+    {
+      "id": "2026-05-26-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Cox Media fined after bragging it spied on users through their phones",
+      "dek": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, an",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "publishedAt": "2026-05-25T18:28:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1657647269823-57bf27ba1c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDb3glMjBNZWRpYSUyMGZpbmVkJTIwYWZ0ZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTc4ODA1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    }
+  ]
+}
