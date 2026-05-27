@@ -1,0 +1,105 @@
+{
+  "date": "2026-05-27",
+  "heroStoryId": "2026-05-27-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-05-27-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Rethinking organizational design in the age of agentic AI",
+      "dek": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "publishedAt": "Tue, 26 May 2026 14:54:10 +0000",
+      "imageUrl": "/images/heroes/2026-05-27.png",
+      "imageCredit": "Photo by Yen Vu on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The US Can Put People on the Moon. Why Can’t It Get Iranians Online?",
+      "dek": "Jason Rezaian spent years reporting from Iran before being imprisoned by the regime. He says internet access is key to transforming the country—if only the US government would do something about it.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+      "publishedAt": "Tue, 26 May 2026 14:41:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1627821084068-c45a43e200e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBVUyUyMENhbiUyMFB1dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5ODcyMzg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Samuel Regan-Asante on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+      "dek": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+      "publishedAt": "Wed, 27 May 2026 08:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4880989/pexels-photo-4880989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Ketut Subiyanto on Pexels"
+    },
+    {
+      "id": "2026-05-27-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Did the Pope use AI to write about the dangers of AI?",
+      "dek": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "publishedAt": "2026-05-27T00:38:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEaWQlMjB0aGUlMjBQb3BlJTIwdXNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk4NzIzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ashwin Vaswani on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How AI inhibits our curiosity, and what to do to regain it, according to science",
+      "dek": "Curiosity is one of the most consequential forces in human history. Every scientific breakthrough, technological leap, and cultural advance begins not with knowledge, but the desire to know. At its core, curiosity drives us to close the gap between what we know and what we want to know, a cognitive ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91536344/how-ai-inhibits-our-curiosity-and-what-to-do-to-regain-it-according-to-science",
+      "publishedAt": "2026-05-27T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBBSSUyMGluaGliaXRzJTIwb3VyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk4NzIzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+      "dek": "Parsing a papal proclamation.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+      "publishedAt": "Tue, 26 May 2026 22:27:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJcyUyMFBldGVyJTIwVGhpZWwlMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTg3MjM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The Melancholy of Slaying Monsters",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "publishedAt": "Tue, 26 May 2026 19:25:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1750089623033-f27307130514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBNZWxhbmNob2x5JTIwb2YlMjBTbGF5aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3Nzk4NzIzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: puncturing the AI jobs panic",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has h",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "publishedAt": "Tue, 26 May 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729240100637-121dff881553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHB1bmN0dXJpbmclMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc3OTg3MjM4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-05-27-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "dek": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+      "publishedAt": "Tue, 26 May 2026 21:03:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1687985826611-80b714011d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGFyc2hpcCVFMiU4MCU5OXMlMjBwYXRoJTIwdG8lMjByZXVzYWJpbGl0eSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzc5ODcyMzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrej Sachov on Unsplash"
+    }
+  ]
+}

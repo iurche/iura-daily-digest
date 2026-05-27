@@ -1,189 +1,5 @@
 [
   {
-    "url": "https://uxdesign.cc/the-end-of-the-app-why-conversational-interfaces-are-replacing-screens",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.mindtheproduct.com/designing-for-uncertainty-ai-product-change/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.nngroup.com/articles/micro-feedback-ai-products/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.fastcompany.com/design/skeuomorphism-ai-interfaces-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://hbr.org/2026/04/shadow-ai-enterprise-ux-research",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://boxesandarrows.com/diary-studies-longitudinal-ux-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.uxmatters.com/mt/archives/2026/04/ai-assisted-thematic-analysis.php",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://uxplanet.org/curse-expert-researcher-insight-cycles-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.anthropic.com/news/claude-for-work-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.figma.com/blog/design-from-brief-ai-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/2026/04/25/perplexity-comet-ai-browser",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://blog.google/products/notebooklm/live-collaboration-april-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://openai.com/research/o4-reasoning-model-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://deepmind.google/discover/blog/alphafold4-protein-drug-binding-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://hai.stanford.edu/research/alignment-tax-analysis-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/24/mixture-of-experts-consumer-devices/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://spectrum.ieee.org/risc-v-iot-majority-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/04/ambient-backscatter-iot-wifi-battery-free/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/2026/04/matter-2-ratified-thread-energy-camera",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.wired.com/story/industrial-iot-ot-security-weakest-link-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/jetson-thor-edge-ai-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://iot-analytics.com/federated-learning-manufacturing-aiot-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.embedded-computing.com/tinyml-benchmark-2026-edge-ai-frameworks/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://spectrum.ieee.org/smart-grid-aiot-blackout-prevention-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://agfundernews.com/john-deere-autonomous-tractor-1-million-hours-data-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/vertical-farming-ai-profitability/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.euractiv.com/eu-digital-farm-twin-subsidy-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.linkedin.com/business/talent/blog/talent-strategy/barcelona-tech-hiring-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.levels.fyi/blog/barcelona-designer-salaries-2026/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://startup.jobs/locations/barcelona/design?week=2026-04-27",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theguardian.com/world/2026/apr/27/pope-leo-xiv-elected-first-american-pope",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.reuters.com/world/us/trump-signs-order-sovereign-wealth-fund-2026-04-27/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.bbc.com/news/world-asia/record-heat-india-pakistan-2026",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.fastcompany.com/91515952/9-tips-for-managing-with-empathy-from-a-neuroscientist",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.fastcompany.com/91530693/why-you-should-stop-asking-why-at-work",
-    "date": "2026-04-27"
-  },
-  {
     "url": "https://www.index.dev/blog/ui-ux-design-trends",
     "date": "2026-04-28"
   },
@@ -1710,5 +1526,41 @@
   {
     "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
     "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.fastcompany.com/91536344/how-ai-inhibits-our-curiosity-and-what-to-do-to-regain-it-according-to-science",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "date": "2026-05-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+    "date": "2026-05-27"
   }
 ]
