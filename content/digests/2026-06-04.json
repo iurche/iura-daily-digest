@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-04",
+  "heroStoryId": "2026-06-04-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-04-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "How virtual power plants could provide energy for data centers",
+      "dek": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "publishedAt": "Wed, 03 Jun 2026 16:51:38 +0000",
+      "imageUrl": "/images/heroes/2026-06-04.png",
+      "imageCredit": "Photo by Viktor Kiryanov on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Defense tech is flooded with money, but who’s built to last?",
+      "dek": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those government contracts, but according to Ross Fubini, the venture in",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "publishedAt": "Wed, 03 Jun 2026 20:51:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1768472085854-5cb0a4e140ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEZWZlbnNlJTIwdGVjaCUyMGlzJTIwZmxvb2RlZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNTY2MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Samithu Siriwardana on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Shokz upgraded its open earbuds with better sound and a lighter design",
+      "dek": "The OpenDots 2 are designed to be more comfortable than traditional wireless earbuds that sit inside the ear. | Image: Shokz\t\n\nShokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both design",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/29123286/pexels-photo-29123286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Enil yugto on Pexels"
+    },
+    {
+      "id": "2026-06-04-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "This startup is trying to make peace between AI companies and creatives",
+      "dek": "“It was a dark and stormy night.\nIn her attic bedroom Margaret Murry, wrapped in an old patchwork quilt, sat on the foot of her bed and watched the trees tossing in the frenzied lashing of the wind…”\nThe words at the beginning of this article are, of course, from A Wrinkle in Time by Medeleine L’Eng",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91553134/this-startup-is-trying-to-make-peace-between-ai-companies-and-creatives",
+      "publishedAt": "2026-06-04T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1591522810896-cb5f45acb9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwc3RhcnR1cCUyMGlzJTIwdHJ5aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA1NjYxMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "dek": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "publishedAt": "Wed, 03 Jun 2026 19:10:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1654277041042-8927699fcfd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjdzJTIwbmV3JTIwR2VtbWElMjA0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA1NjYxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "publishedAt": "Thu, 04 Jun 2026 08:45:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1663009752542-f7cfc12ee048?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVSyUyMG1lZGlhJTIwZmFpbHMlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNTY2MTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nick Fewings on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising t",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "publishedAt": "Wed, 03 Jun 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1585249988465-b9f684e8162b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMFRydW1wJUUyJTgwJTk5cyUyMG5ldyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNTY2MTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by visuals on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The worst hacks and breaches of 2026 (so far)",
+      "dek": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "publishedAt": "Wed, 03 Jun 2026 14:02:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1730453040313-e1c27d72b099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjB3b3JzdCUyMGhhY2tzJTIwYW5kJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA1NjYxMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "dek": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "publishedAt": "2026-06-04T00:04:04.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612036781124-847f8939b154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOaW50ZW5kbyUyMGNvbmZpcm1zJTIwaXQlMjB3aWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA1NjYxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Erik Mclean on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Apple is bringing age verification to Texas this week",
+      "dek": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds.\nPeople in Texa",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "publishedAt": "2026-06-03T21:49:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGlzJTIwYnJpbmdpbmclMjBhZ2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MDU2NjEyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-06-04-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "dek": "The $479 WiiM Bar includes a 2.1-inch touchscreen on its front. | Image: WiiM\t\n\nWiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers an",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "publishedAt": "2026-06-03T21:12:51.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7937281/pexels-photo-7937281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pavel Danilyuk on Pexels"
+    }
+  ]
+}
