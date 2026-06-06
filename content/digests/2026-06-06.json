@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-06",
+  "heroStoryId": "2026-06-06-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-06-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "publishedAt": "Fri, 05 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-06.png",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Logitech G512 X 98 Review: A Hybrid Mish-Mash",
+      "dek": "The Logitech G512 X 98 lets you swap between mechanical and analog switches in an attempt to achieve the best of both worlds. Unfortunately, its solution isn't as well thought out as I’d hoped.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/logitech-g512-x-98/",
+      "publishedAt": "Fri, 05 Jun 2026 16:10:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1580577855719-a3e7c1a8d212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMb2dpdGVjaCUyMEc1MTIlMjBYJTIwOTglMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MDczNDE3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hadi Yazdi Aznaveh on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "dek": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "publishedAt": "Fri, 05 Jun 2026 20:31:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1618060932014-4deda4932554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGb3JtZXIlMjBjeWJlciUyMGV4ZWN1dGl2ZSUyMHR1cm5lZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNzM0MTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by FlyD on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+      "dek": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 years ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+      "publishedAt": "2026-06-05T23:25:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1634717418078-31101eced043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3JlJTIwdGhhbiUyMGElMjBkZWNhZGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MDczNDE3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "AI is rewriting the logic of management",
+      "dek": "What’s the point of a manager, really?\nAsk an executive, and they may say managers are essential for ensuring accountability and team performance. Ask an employee, and they’ll probably tell you that becoming a manager is their main path to advancement. Both perspectives hold truth, and both undersco",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91551744/ai-is-rewriting-the-logic-of-management",
+      "publishedAt": "2026-06-06T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1580679137870-86ef9f9a03d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGlzJTIwcmV3cml0aW5nJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA3MzQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Randy Tarampi on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Review: Spider-Noir recaptures the magic of a bygone era",
+      "dek": "Nicolas Cage was born to play 1930s PI Ben Reilly/The Spider: part Bogart, part Bugs Bunny, 100% Cage-y.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
+      "publishedAt": "Fri, 05 Jun 2026 17:05:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1622810543540-f25cf85c534a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXZpZXclM0ElMjBTcGlkZXItTm9pciUyMHJlY2FwdHVyZXMlMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MDczNDE3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Francois Linde on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The intracies of modern camera lens repair (2024)",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "publishedAt": "Sat, 06 Jun 2026 00:33:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776952199880-b9619672c86a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBpbnRyYWNpZXMlMjBvZiUyMG1vZGVybiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNzM0MTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Meta hack shows there’s more to AI security than Mythos",
+      "dek": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "publishedAt": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBNZXRhJTIwaGFjayUyMHNob3dzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA3MzQxNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Startup Battlefield 200 applications officially close in 3 days",
+      "dek": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "publishedAt": "Fri, 05 Jun 2026 20:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1656639969809-31bd8f5cc62c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGFydHVwJTIwQmF0dGxlZmllbGQlMjAyMDAlMjBhcHBsaWNhdGlvbnMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MDczNDE3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Oberon Copeland @veryinformed.com on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The most interesting startups right now want to get you off your phone",
+      "dek": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going vir",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBtb3N0JTIwaW50ZXJlc3RpbmclMjBzdGFydHVwcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwNzM0MTc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daria Nepriakhina 🇺🇦 on Unsplash"
+    },
+    {
+      "id": "2026-06-06-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "dek": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "publishedAt": "Fri, 05 Jun 2026 16:07:46 +0000",
+      "imageUrl": "https://images.pexels.com/photos/218717/pexels-photo-218717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by AS Photography on Pexels"
+    }
+  ]
+}
