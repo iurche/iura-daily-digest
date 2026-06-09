@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-09",
+  "heroStoryId": "2026-06-09-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-09-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "publishedAt": "Mon, 08 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-09.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "dek": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "publishedAt": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1615725802642-936d9aade2ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSVFMiU4MCU5OXMlMjBXV0RDJTIwQUklMjBkZW1vcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwOTk1NDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jimmy Jin on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+      "dek": "The devil’s in the details. | Image: Cath Virginia / The Verge, Donut Labs\t\n\nDonut Lab's solid-state battery claims have been thoroughly debunked by Ryan Inis Hughes on his popular Ziroth YouTube channel. According to Hughes, Donut Lab has engaged in deliberate, calculated deception by claiming to h",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+      "publishedAt": "2026-06-09T08:40:51.000Z",
+      "imageUrl": "https://images.pexels.com/photos/27569386/pexels-photo-27569386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Snappr on Pexels"
+    },
+    {
+      "id": "2026-06-09-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Burnout isn’t about working too much",
+      "dek": "If you haven’t experienced burnout, you’ve surely witnessed it. I have certainly taken part in conversations about someone who hit that wall of physical and emotional exhaustion at work. The sentiments are almost always the same: They were working too hard; they just didn’t know how to create a work",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91552466/burnout-isnt-about-working-too-much",
+      "publishedAt": "2026-06-09T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1771949820714-00513efcecba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCdXJub3V0JTIwaXNuJUUyJTgwJTk5dCUyMGFib3V0JTIwd29ya2luZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwOTk1NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "dek": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "publishedAt": "Mon, 08 Jun 2026 19:00:30 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30869081/pexels-photo-30869081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-06-09-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "publishedAt": "Tue, 09 Jun 2026 07:33:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjdzJTIwb3BlbiUyMHNvdXJjZSUyMHRvb2xzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA5OTU0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000",
+      "dek": "Lenovo's IdeaPad Slim 5x just might be the best laptop you can buy for $850. It's hard to find any major flaws, which is basically unheard of in a laptop at this price.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/lenovo-ideapad-slim-5x/",
+      "publishedAt": "Mon, 08 Jun 2026 12:02:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1763162410742-1d0097cea556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZW5vdm8lMjBJZGVhUGFkJTIwU2xpbSUyMDV4JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODA5OTU0OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gavin Phillips on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Apple plays catch-up at WWDC",
+      "dek": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "publishedAt": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMHBsYXlzJTIwY2F0Y2gtdXAlMjBhdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgwOTk1NDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-06-09-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "dek": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "publishedAt": "Mon, 08 Jun 2026 20:50:55 +0000",
+      "imageUrl": "https://images.pexels.com/photos/32461216/pexels-photo-32461216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Abhishek  Navlakha on Pexels"
+    }
+  ]
+}
