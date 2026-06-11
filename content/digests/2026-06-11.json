@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-11",
+  "heroStoryId": "2026-06-11-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-11-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: the “steroid olympics” and a safer Mythos",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in La",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "publishedAt": "Wed, 10 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-11.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "I Was Scammed Buying GLP-1s Online. I’m Not Alone",
+      "dek": "Customers have complained that a telehealth network selling compounded GLP-1s has been ripping them off—even after it had to pay $5 million to clients as part of a settlement with the US government.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
+      "publishedAt": "Thu, 11 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1740479049014-274a2c756317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwV2FzJTIwU2NhbW1lZCUyMEJ1eWluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMTcyMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Why Andrew Yang is building instead of waiting for Washington",
+      "dek": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all saying versions ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "publishedAt": "Wed, 10 Jun 2026 22:24:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1537107041341-713aaa2a234c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBBbmRyZXclMjBZYW5nJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTE3MjIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Road Trip with Raj on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Bluesky is getting ‘communities’",
+      "dek": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that underpins Bluesky, with",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
+      "publishedAt": "2026-06-11T00:05:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1700975647766-29b1a71370ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCbHVlc2t5JTIwaXMlMjBnZXR0aW5nJTIwJUUyJTgwJTk4Y29tbXVuaXRpZXMlRTIlODAlOTklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTE3MjIxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Lhar Capili on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Anthropic’s new AI model is powerful, dazzling—and about to get really expensive",
+      "dek": "Anthropic’s eye-poppingly powerful new model, Fable, is worth testing while you still can. Built by the company behind the Claude chatbot, Fable is the publicly safe version of Mythos, the model Anthropic deemed too dangerous to release just two months ago. To make it available to the average user, ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91557467/anthropics-new-ai-model-is-powerful-dazzling-and-about-to-get-expensive",
+      "publishedAt": "2026-06-11T09:15:00",
+      "imageUrl": "https://images.pexels.com/photos/18069697/pexels-photo-18069697.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Google DeepMind on Pexels"
+    },
+    {
+      "id": "2026-06-11-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "dek": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "publishedAt": "Wed, 10 Jun 2026 19:29:21 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30839685/pexels-photo-30839685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-06-11-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "publishedAt": "Thu, 11 Jun 2026 06:42:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1639656333010-b6a054423b63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQb2slQzMlQTltb24lMjBHbyUyMFNjYW5zJTIwVHJhaW5lZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMTcyMjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Pandhuya Niking on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+      "dek": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
+      "publishedAt": "Wed, 10 Jun 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1506702315536-dd8b83e2dcf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXcm9uZ2Z1bCUyMEFycmVzdCUyMEV4cG9zZXMlMjBGYWlsdXJlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMTcyMjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quilia on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "dek": "North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "publishedAt": "Wed, 10 Jun 2026 19:57:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1584890309466-272e6fffb487?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMEtvcmVhbnMlMjBiZWhpbmQlMjBuZWFybHklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTE3MjIyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve Barker on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Framework delays its first Laptop 13 Pro shipments by a month",
+      "dek": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+      "publishedAt": "2026-06-10T23:12:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1759159482847-78aadfcbeb85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGcmFtZXdvcmslMjBkZWxheXMlMjBpdHMlMjBmaXJzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMTcyMjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anders Bengs on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Apple’s new Siri AI knows when to shut up",
+      "dek": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment.\nMany AI chatbots are cheery and wordy. While a more verbose and casual personali",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "publishedAt": "2026-06-10T22:52:17.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1579693409321-1be2df1ab130?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSVFMiU4MCU5OXMlMjBuZXclMjBTaXJpJTIwQUklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTE3MjIyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zhiyue on Unsplash"
+    },
+    {
+      "id": "2026-06-11-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Xbox warns of a &#8216;reset&#8217; as it prepares for layoffs",
+      "dek": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans.\nThe company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources suggest the cuts coul",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "publishedAt": "2026-06-10T21:28:53.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612801799890-4ba4760b6590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYYm94JTIwd2FybnMlMjBvZiUyMGElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTE3MjIyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mika Baumeister on Unsplash"
+    }
+  ]
+}
