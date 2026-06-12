@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-12",
+  "heroStoryId": "2026-06-12-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-12-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "dek": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "publishedAt": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-12.png",
+      "imageCredit": "Photo by Patrick Martin on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "dek": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "publishedAt": "Thu, 11 Jun 2026 20:27:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1639503547276-90230c4a4198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcmFjbGUlMjB3YXJucyUyMG9mJTIwc2VjdXJpdHklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTI1ODExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Peter Conrad on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Siri won’t be your AI girlfriend",
+      "dek": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "publishedAt": "2026-06-12T07:00:31.000Z",
+      "imageUrl": "https://images.pexels.com/photos/16229746/pexels-photo-16229746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Sanket  Mishra on Pexels"
+    },
+    {
+      "id": "2026-06-12-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The rise of ‘doomjobbing’ reveals a hiring system nobody trusts",
+      "dek": "There’s a word for aimlessly scrolling job ads without mustering the energy to apply to any of them. That word is “doomjobbing,” and it’s often fueled by the anxiety and uncertainty many workers are experiencing from navigating a turbulent and frustrating job market.\nThe term was seemingly coined by",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91557282/the-rise-of-doomjobbing-reveals-a-hiring-system-nobody-trusts",
+      "publishedAt": "2026-06-12T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1713423280085-411d55c3ba3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjByaXNlJTIwb2YlMjAlRTIlODAlOThkb29tam9iYmluZyVFMiU4MCU5OSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMjU4MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Did Iron Age Britons remove brains of the dead?",
+      "dek": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
+      "publishedAt": "Thu, 11 Jun 2026 17:21:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1725000764468-67b89de02b7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEaWQlMjBJcm9uJTIwQWdlJTIwQnJpdG9ucyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMjU4MTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "AI agent bankrupted their operator while trying to scan DN42",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "publishedAt": "Fri, 12 Jun 2026 04:42:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1527874594978-ee4f8a05b4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGFnZW50JTIwYmFua3J1cHRlZCUyMHRoZWlyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODEyNTgxMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Melinda Gimpel on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Inside Interoception: The hidden sense of how you feel inside",
+      "dek": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, wh",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "publishedAt": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/9941106/pexels-photo-9941106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-06-12-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "dek": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "publishedAt": "Thu, 11 Jun 2026 11:00:45 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30839685/pexels-photo-30839685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-06-12-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Job titles of the future: Nature’s drug designer",
+      "dek": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.  For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "publishedAt": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKb2IlMjB0aXRsZXMlMjBvZiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMjU4MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Why China is betting on big nuclear reactors",
+      "dek": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "publishedAt": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1578088573715-67c1cd01b441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBDaGluYSUyMGlzJTIwYmV0dGluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMjU4MTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Timon Studler on Unsplash"
+    },
+    {
+      "id": "2026-06-12-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+      "dek": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+      "publishedAt": "Fri, 12 Jun 2026 01:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSVFMiU4MCU5OXMlMjBDYW1lcmElMjBDaGllZiUyMFRoaW5rcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMjU4MTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    }
+  ]
+}
