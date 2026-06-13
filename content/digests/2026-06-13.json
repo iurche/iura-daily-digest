@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-13",
+  "heroStoryId": "2026-06-13-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-13-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "publishedAt": "Fri, 12 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-13.png",
+      "imageCredit": "Photo by Fabián Vega on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+      "dek": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
+      "publishedAt": "Fri, 12 Jun 2026 18:03:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1485394595691-5411947d63a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBUcnVtcCVFMiU4MCU5OXMlMjBXaGl0ZSUyMEhvdXNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODEzNDAzNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Everett Strickler on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "dek": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "imageUrl": "https://images.pexels.com/photos/1188803/pexels-photo-1188803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Magda Ehlers on Pexels"
+    },
+    {
+      "id": "2026-06-13-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Valve just imported 13 tons of VR headsets in one day",
+      "dek": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. \nImport records show that Valve's distrib",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
+      "publishedAt": "2026-06-13T01:32:18.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1674764789660-00bab3d596d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWYWx2ZSUyMGp1c3QlMjBpbXBvcnRlZCUyMDEzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODEzNDAzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Giorgio Trovato on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "5 tips to redesign your surroundings and live better",
+      "dek": "Below, Leidy Klotz shares five key insights from his new book, In a Good Place: How the Spaces Where We Live, Work, and Play Can Help Us Thrive.\nLeidy is a behavioral scientist and engineering professor at the University of Virginia. He has written for The Washington Post, Fast Company, Scientific A",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91557442/redesign-your-surroundings-live-better-tips",
+      "publishedAt": "2026-06-13T08:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1676285436450-aa2bf1223e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw1JTIwdGlwcyUyMHRvJTIwcmVkZXNpZ24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTM0MDM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walls.io on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "dek": "As of today, SpaceX is owned by investors who will want to see it make money.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "publishedAt": "Fri, 12 Jun 2026 22:20:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBpcyUyMG5vdyUyMGElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTM0MDM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Leaving Mozilla",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.unitedheroes.net/5751",
+      "publishedAt": "Sat, 13 Jun 2026 05:57:14 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4715450/pexels-photo-4715450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Nothing Ahead on Pexels"
+    },
+    {
+      "id": "2026-06-13-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "You do your own time",
+      "dek": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect sanctuary. Little Jo had a stack of books under one arm. Eustace was holding the ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+      "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774023092610-acd110d189a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3UlMjBkbyUyMHlvdXIlMjBvd24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTM0MDM1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "SpaceX IPO: Live updates on everything you need to know",
+      "dek": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "publishedAt": "Fri, 12 Jun 2026 23:15:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBJUE8lM0ElMjBMaXZlJTIwdXBkYXRlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxMzQwMzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sven Piper on Unsplash"
+    },
+    {
+      "id": "2026-06-13-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "dek": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same windo",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "publishedAt": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "imageUrl": "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Sanket  Mishra on Pexels"
+    }
+  ]
+}
