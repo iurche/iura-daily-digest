@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-14",
+  "heroStoryId": "2026-06-14-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-14-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "dek": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "publishedAt": "Sat, 13 Jun 2026 16:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-14.png",
+      "imageCredit": "Photo by Scott Major on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "dek": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "publishedAt": "2026-06-13T21:39:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1649734926695-1b1664e98842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbWF6b24lMjBzZWN1cml0eSUyMHJlc2VhcmNoJTIwcmVwb3J0ZWRseSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNDI3NjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Drone use could skyrocket after the FAA changes this rule",
+      "dek": "Today, almost anyone who flies a drone must maintain visual contact with it at all times, a practice known as visual line of sight. This requirement severely restricts how far craft can fly. When the Federal Aviation Administration rule changes allowing people to fly their drones beyond visual line ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91558061/drone-use-could-skyrocket-after-faa-rule-change",
+      "publishedAt": "2026-06-14T08:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1521405924368-64c5b84bec60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEcm9uZSUyMHVzZSUyMGNvdWxkJTIwc2t5cm9ja2V0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE0Mjc2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jared Brashier on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
+      "dek": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
+      "publishedAt": "Sat, 13 Jun 2026 11:33:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8055189/pexels-photo-8055189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Annushka  Ahuja on Pexels"
+    },
+    {
+      "id": "2026-06-14-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Review: Disclosure Day is big on action, light on ideas",
+      "dek": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "publishedAt": "Sat, 13 Jun 2026 17:17:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXZpZXclM0ElMjBEaXNjbG9zdXJlJTIwRGF5JTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTQyNzYzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Claudio Schwarz on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Phoenix LiveView 1.2 Released",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "publishedAt": "Sun, 14 Jun 2026 04:53:51 +0000",
+      "imageUrl": "https://images.pexels.com/photos/33916846/pexels-photo-33916846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Jakub Zerdzicki on Pexels"
+    },
+    {
+      "id": "2026-06-14-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "X-Men ’97 has what Master of the Universe is missing",
+      "dek": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutan",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "publishedAt": "2026-06-13T20:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/20818090/pexels-photo-20818090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Toàn Văn on Pexels"
+    },
+    {
+      "id": "2026-06-14-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Sealed Super Mario Bros. sells for a record $3 million",
+      "dek": "You know this came for free bundle with the console for $150, right? | Image: Heritage Auctions\t\n\nA copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "publishedAt": "2026-06-13T18:37:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1602620502036-e52519d58d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZWFsZWQlMjBTdXBlciUyME1hcmlvJTIwQnJvcy4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTQyNzYzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by EESOFUFFZICH on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Microsoft hasn’t ruled out spinning off Xbox",
+      "dek": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nMicrosoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't rule",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "publishedAt": "2026-06-13T16:29:47.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBoYXNuJUUyJTgwJTk5dCUyMHJ1bGVkJTIwb3V0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE0Mjc2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price ",
+      "dek": "Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose\t\n\nIf you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, bu",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "publishedAt": "2026-06-13T16:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1623318993015-4bb0490764bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCb3NlJUUyJTgwJTk5cyUyMGxhdGVzdCUyMFF1aWV0Q29tZm9ydCUyMFVsdHJhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE0Mjc2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Đức Trịnh on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "My first 24 hours with Siri AI on the Mac",
+      "dek": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things.\nI'm still early in testing Siri AI, as I've only had access to i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "publishedAt": "2026-06-13T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1600066976008-861b400976ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNeSUyMGZpcnN0JTIwMjQlMjBob3VycyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNDI3NjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by the blowup on Unsplash"
+    },
+    {
+      "id": "2026-06-14-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+      "dek": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG po",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+      "publishedAt": "2026-06-13T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1681584934306-de2b66080ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXZlciUyMFBvc3QlRTIlODAlOTlzJTIwTWlrZSUyMFJ1Z25ldHRhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE0Mjc2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nick Fewings on Unsplash"
+    }
+  ]
+}
