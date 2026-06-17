@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-17",
+  "heroStoryId": "2026-06-17-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-17-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Entrepreneurs in Nairobi make the case for going solar",
+      "dek": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "publishedAt": "Wed, 17 Jun 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-17.png",
+      "imageCredit": "Photo by Dwayne joe on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
+      "dek": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers matchmaking.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
+      "publishedAt": "Tue, 16 Jun 2026 20:21:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774460798202-eded0cfe27c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZWFrJTIwRXhwb3NlcyUyME1lbWJlcnMlMjBvZiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNjkxODYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+      "dek": "Qualcomm CEO Cristiano Amon said Tuesday that the company is working on over 40 different AI wearable devices — including jewelry, earbuds with cameras, pins, and watches — a sign of how aggressively the chipmaker is betting that the next major computing platform won't be a phone.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+      "publishedAt": "Tue, 16 Jun 2026 18:22:24 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5554949/pexels-photo-5554949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrey Matveev on Pexels"
+    },
+    {
+      "id": "2026-06-17-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The next humanoid robot might not look human at all",
+      "dek": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" \nThat explains the look of Eno, the new robot from the French startup backed by former G",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "publishedAt": "2026-06-17T09:46:56.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1737644467636-6b0053476bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBuZXh0JTIwaHVtYW5vaWQlMjByb2JvdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNjkxODYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gabriele Malaspina on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How we learned to stop worrying* and love the autonomous future",
+      "dek": "If one thing’s true about this moment in tech history, it’s that as soon as you think you’re keeping pace with the leading edge of AI—poof!—the edge moves.\nThis is a perennial anxiety, but I’ve never heard tech insiders so vocal about it. It came up constantly as we spoke to CEOs, founders, investor",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91549035/how-we-learned-to-stop-worrying-and-love-the-autonomous-future-agentic-ai-world-labs-fei-fei-li-uber-robotaxi-drone-defense",
+      "publishedAt": "2026-06-17T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB3ZSUyMGxlYXJuZWQlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNjkxODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tim Mossholder on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Mobileye is entering the US robotaxi market with standalone service",
+      "dek": "The service will leverage its Moovit platform to launch in an a US city in 2027.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+      "publishedAt": "Tue, 16 Jun 2026 14:20:51 +0000",
+      "imageUrl": "https://images.pexels.com/photos/373072/pexels-photo-373072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pixabay on Pexels"
+    },
+    {
+      "id": "2026-06-17-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "GrapheneOS has been ported to Android 17",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "publishedAt": "Tue, 16 Jun 2026 20:34:35 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5554948/pexels-photo-5554948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrey Matveev on Pexels"
+    },
+    {
+      "id": "2026-06-17-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "dek": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "publishedAt": "Wed, 17 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1731166224105-ceb18e064107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIYWNraW5nJTIwdGhlJTIwYXRtb3NwaGVyZSUzQSUyMEdlb2VuZ2luZWVyaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE2OTE4NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "publishedAt": "Tue, 16 Jun 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1734444409260-143ab2cad64c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHRoZSUyMGZpcnN0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE2OTE4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Paramount Refused to Air an Ad Criticizing Its Merger With Warner Bros.",
+      "dek": "The commercial was submitted by the Freedom of the Press Foundation to run during Donald Trump’s UFC event. It criticized the $111 billion merger as a threat to the First Amendment.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/paramount-refused-to-air-an-ad-criticizing-its-merger-with-warner-bros/",
+      "publishedAt": "Tue, 16 Jun 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1741723172193-2985149c1b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQYXJhbW91bnQlMjBSZWZ1c2VkJTIwdG8lMjBBaXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTY5MTg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Romain Malaunay on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "TikTok Shoppers Thought They Were Bidding on iPhones. Instead, They Won Teddy Bears",
+      "dek": "Sellers on TikTok used pricey items to lure bidders to “Surprise Sets” livestreams, but most of the auctions yielded only cheap prizes. Gambling experts are concerned about the potential for harm.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tiktok-surprise-sets-iphones-teddy-bears/",
+      "publishedAt": "Tue, 16 Jun 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646446855655-451a3a8f19b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaWtUb2slMjBTaG9wcGVycyUyMFRob3VnaHQlMjBUaGV5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE2OTE4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Collabstr on Unsplash"
+    },
+    {
+      "id": "2026-06-17-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Bug in FIFA World Cup internal system gave anyone ability to modify TV stream",
+      "dek": "A security researcher said a flaw in FIFA’s online platforms allowed her to access several internal systems, including one that could have allowed her to take control of the TV stream of every World Cup match.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/bug-in-fifa-world-cup-internal-system-gave-anyone-ability-to-modify-tv-stream/",
+      "publishedAt": "Tue, 16 Jun 2026 18:13:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1780939346833-83f0bd933c51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCdWclMjBpbiUyMEZJRkElMjBXb3JsZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgxNjkxODY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anthony Maw on Unsplash"
+    }
+  ]
+}
