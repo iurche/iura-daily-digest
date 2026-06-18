@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-18",
+  "heroStoryId": "2026-06-18-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-18-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The search for dark matter has been blown wide open",
+      "dek": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+      "publishedAt": "Thu, 18 Jun 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-18.png",
+      "imageCredit": "Photo by Elti Meshau on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "dek": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "publishedAt": "Wed, 17 Jun 2026 22:52:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1597552571860-136a103d5eb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBLb3JlYW4lMjBUZWxlY29tJTIwR2lhbnQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yu Kato on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "dek": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Me",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "publishedAt": "Wed, 17 Jun 2026 20:17:38 +0000",
+      "imageUrl": "https://images.pexels.com/photos/36290891/pexels-photo-36290891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Anthony Dalesandro on Pexels"
+    },
+    {
+      "id": "2026-06-18-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "dek": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\t\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "publishedAt": "2026-06-18T03:12:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1544954918-9a6026dfa5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWRqb3VybmV5JTIwZ29lcyUyMGZyb20lMjBnZW5lcmF0aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE3NzcwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tinmay Yu on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "AI took over my life for a year. Here’s what happened",
+      "dek": "Below, Joanna Stern shares five key insights from her new book, I Am Not a Robot: My Year Using AI to Do (Almost) Everything.\nJoanna is an Emmy-winning tech journalist. She is the founder of New Things and NBC News’ chief tech analyst. She spent 12 years at The Wall Street Journal, has been a finali",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91560804/ai-took-over-my-life-for-a-year-heres-what-happened",
+      "publishedAt": "2026-06-18T09:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1729062172760-2360e4ebadf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMHRvb2slMjBvdmVyJTIwbXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
+      "dek": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
+      "publishedAt": "Thu, 18 Jun 2026 06:37:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1542623024-a797a755b8d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdWxrJTJDJTIwUHVuaXNoZXIlMjBqb2luJTIwUGV0ZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Limor Zellermayer on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Midjourney Medical",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.midjourney.com/medical/blogpost",
+      "publishedAt": "Thu, 18 Jun 2026 01:59:51 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8657359/pexels-photo-8657359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-06-18-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a reality check for geoengineering and the science of interoception",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate syste",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "publishedAt": "Wed, 17 Jun 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1714123113510-8f3954b277e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjByZWFsaXR5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE3NzcwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Silva on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "dek": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "publishedAt": "Wed, 17 Jun 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1577942948749-a3dbb5c6db0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBXaGl0ZSUyMEhvdXNlJTIwV2FudHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by René DeAnda on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Best Robot Lawn Mowers (2026): TerraMow, Mammotion",
+      "dek": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+      "publishedAt": "Wed, 17 Jun 2026 12:03:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1741326757602-186060c5d5b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBCZXN0JTIwUm9ib3QlMjBMYXduJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE3NzcwMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yarbo Global on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "dek": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "publishedAt": "Wed, 17 Jun 2026 19:01:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXb3JsZCUyMGxlYWRlcnMlMjB3YW50JTIwQW1lcmljYW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-06-18-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+      "dek": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+      "publishedAt": "Wed, 17 Jun 2026 16:54:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1691280001563-37a0075cacd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUd28lMjBTdGFuZm9yZCUyMGdyYWRzJTIwcmFpc2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTc3NzAxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yash Banka on Unsplash"
+    }
+  ]
+}
