@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-20",
+  "heroStoryId": "2026-06-20-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-20-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: AI bottleneck debates, and BCI trials take off",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-20.png",
+      "imageCredit": "Photo by Nebular on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
+      "dek": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
+      "publishedAt": "Fri, 19 Jun 2026 10:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7662060/pexels-photo-7662060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Szabó Viktor on Pexels"
+    },
+    {
+      "id": "2026-06-20-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "dek": "Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan’s shortage of drivers. Go, which went public Tuesday, p",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "publishedAt": "Fri, 19 Jun 2026 21:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1717538855595-c2025a0755bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHbyUyMGV5ZXMlMjByb2JvdGF4aXMlMjBhbmQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTk0NDc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Leiada Krözjhen on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "dek": "I’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot.\nAs the name indicates, the SwitchBot fan is a 3D circulator - a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "publishedAt": "2026-06-20T07:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/33075262/pexels-photo-33075262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Wolrider YURTSEVEN on Pexels"
+    },
+    {
+      "id": "2026-06-20-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Your youngest employees may be your most valuable AI teachers",
+      "dek": "I’ve built leadership programs at Amazon, Microsoft, and other companies. One mistake I often see is thinking that knowledge flows only from the top down. Senior leaders teach, junior employees learn, and expertise moves in just one direction.\nTraditionally, knowledge moved from senior leaders to ne",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91557976/your-youngest-employees-may-be-your-most-valuable-ai-teachers",
+      "publishedAt": "2026-06-20T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1656291716879-295102bc71e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIweW91bmdlc3QlMjBlbXBsb3llZXMlMjBtYXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTk0NDc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Bruce on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+      "dek": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+      "publishedAt": "Fri, 19 Jun 2026 13:36:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSb2NrZXQlMjBSZXBvcnQlM0ElMjBSZWJ1aWxkJTIwYmVnaW5zJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE5NDQ3NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "I Stored a Website in a Favicon",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "publishedAt": "Sat, 20 Jun 2026 05:33:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1560472355-109703aa3edc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwU3RvcmVkJTIwYSUyMFdlYnNpdGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTk0NDc0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stephen Phillips - Hostreviews.co.uk on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "dek": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591522810896-cb5f45acb9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwc3RhcnR1cCUyMGNsYWltcyUyMGl0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE5NDQ3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "dek": "What’s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn’t even look digital. Digital f",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "publishedAt": "Fri, 19 Jun 2026 21:00:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1744730850457-8795330490df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBdXJhJUUyJTgwJTk5cyUyMGltcHJlc3NpdmUlMjBlLWluayUyMHBob3RvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODE5NDQ3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nikola Perekovic on Unsplash"
+    },
+    {
+      "id": "2026-06-20-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "dek": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling t",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1557160854-e1e89fdd3286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJcyUyMHRoZSUyMFVTJTIwZ292ZXJubWVudCVFMiU4MCU5OXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MTk0NDc0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Caleb Perez on Unsplash"
+    }
+  ]
+}
