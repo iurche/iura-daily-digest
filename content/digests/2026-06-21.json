@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-21",
+  "heroStoryId": "2026-06-21-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-21-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Atlantic created a searchable database of the music used to train AI",
+      "dek": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "publishedAt": "2026-06-20T18:46:48.000Z",
+      "imageUrl": "/images/heroes/2026-06-21.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Why most U.S. workers are checked out and bosses are the last to know",
+      "dek": "Michael Scott, the hapless regional manager at the center of the American version of “The Office” played by Steve Carell, believed he was the world’s best boss. He even had the mug to prove it.\nMeanwhile, for most of the show’s 2005-2013 run, his employees endured pointless meetings, cringed through",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91561332/us-workers-checked-out-bosses-psychological-safety",
+      "publishedAt": "2026-06-21T08:00:00",
+      "imageUrl": "https://images.pexels.com/photos/37556462/pexels-photo-37556462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Galib Rahman Nadim on Pexels"
+    },
+    {
+      "id": "2026-06-21-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "A Critical Deadline Is Approaching for Windows and Linux Security",
+      "dek": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+      "publishedAt": "Sun, 21 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1586943759207-dc5640be1bb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwQ3JpdGljYWwlMjBEZWFkbGluZSUyMElzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODIwMzQ0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Every new iOS 27 feature that’s worth knowing about",
+      "dek": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "publishedAt": "Sat, 20 Jun 2026 15:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6438/apple-iphone-technology-white.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Karolina Grabowska www.kaboompics.com on Pexels"
+    },
+    {
+      "id": "2026-06-21-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "dek": "Tests of age-verification technology show the risks of life-altering errors.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "publishedAt": "Sat, 20 Jun 2026 11:15:09 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8372628/pexels-photo-8372628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Leeloo The First on Pexels"
+    },
+    {
+      "id": "2026-06-21-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Google Hits 50% IPv6",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "publishedAt": "Sun, 21 Jun 2026 08:21:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBIaXRzJTIwNTAlMjUlMjBJUHY2JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODIwMzQ0NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Shutter Speed on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "dek": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "publishedAt": "2026-06-20T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1664044020180-b75bfddf9776?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3ZlcyUyMG9mJTIwdGhlJTIwRGlhbW9uZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyMDM0NDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Viktor Mindt on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Toy Story has the right take on tech",
+      "dek": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Sam Bankman-Fried and PE Guy and adm",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "publishedAt": "2026-06-20T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1599623560574-39d485900c95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUb3klMjBTdG9yeSUyMGhhcyUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyMDM0NDUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chris Hardy on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "3 lies we’re telling ourselves about work",
+      "dek": "There’s a lot of confusion shaping the modern workplace. Recently, we spoke with a senior leader at a global company who told us, “Everything looks right on paper—our strategy is solid, we have good talent, our growth is scaling, but something still feels off.” That “off” feeling is becoming more co",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91559613/3-lies-were-telling-ourselves-about-work",
+      "publishedAt": "2026-06-21T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1729062172755-58382d8323d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzJTIwbGllcyUyMHdlJUUyJTgwJTk5cmUlMjB0ZWxsaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODIwMzQ0NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "More fathers are becoming the primary caregiver",
+      "dek": "Al said goodbye to his daughters every night before he drove to work. He’d hand off childcare to his wife when she returned home from work and start his commute during dinnertime. \nAl, a Connecticut-based media professional who spoke to Fast Company under a pseudonym, worked from 6:00 p.m. until 2:0",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91561919/more-fathers-are-becoming-the-primary-caregiver",
+      "publishedAt": "2026-06-21T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3JlJTIwZmF0aGVycyUyMGFyZSUyMGJlY29taW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODIwMzQ0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Derek Thomson on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Should we just get rid of corporate net-zero goals?",
+      "dek": "In order to stave off the worst effects of climate change, experts say that we, as a planet, need to reach net-zero emissions by 2050. \nThat has led countless companies to set their own corporate net-zero goals—and use carbon credits and renewable energy certificates to balance out their emissions—a",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91562172/corporate-net-zero-goals-dont-work-dont-help-the-planet-report",
+      "publishedAt": "2026-06-20T23:01:00",
+      "imageUrl": "https://images.unsplash.com/photo-1703449672961-4b4b19956ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTaG91bGQlMjB3ZSUyMGp1c3QlMjBnZXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjAzNDQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-06-21-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "What Fox and Roku aren’t telling us yet",
+      "dek": "Fox and Roku are about to enter uncharted territory together.\nOn Monday, Fox announced that it will spend $22 billion to acquire Roku, whose smart TVs and streaming players are in 100 million homes worldwide. If the deal goes through in 2027 as expected, it’ll be the first instance of a major media ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91560896/what-fox-and-roku-arent-telling-us-yet",
+      "publishedAt": "2026-06-20T12:03:00",
+      "imageUrl": "https://images.pexels.com/photos/31046955/pexels-photo-31046955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by 家豪 陳 on Pexels"
+    }
+  ]
+}
