@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-22",
+  "heroStoryId": "2026-06-22-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-22-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Inside the world’s deepest and longest subsea road tunnel",
+      "dek": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "publishedAt": "Mon, 22 Jun 2026 08:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-22.png",
+      "imageCredit": "Photo by Han-Chieh Lee on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Read this before you vibe-code another app",
+      "dek": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "publishedAt": "2026-06-22T11:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/35467808/pexels-photo-35467808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kanja  Fofana on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Why every city could benefit from billionaire urbanism",
+      "dek": "Hello and welcome to Modern CEO! I’m Stephanie Mehta, CEO and chief content officer of Mansueto Ventures. Each week this newsletter explores inclusive approaches to leadership drawn from conversations with executives and entrepreneurs, and from the pages of Inc. and Fast Company. If you received thi",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91561078/why-every-city-could-benefit-from-billionaire-urbanism",
+      "publishedAt": "2026-06-22T11:00:00",
+      "imageUrl": "https://images.pexels.com/photos/14242025/pexels-photo-14242025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Shane Richards on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "dek": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "publishedAt": "Sun, 21 Jun 2026 18:34:31 +0000",
+      "imageUrl": "https://images.pexels.com/photos/18156092/pexels-photo-18156092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Eugenia Remark on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Trump admin’s coal investments assist plants with repeated violations",
+      "dek": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+      "publishedAt": "Sun, 21 Jun 2026 17:49:35 +0000",
+      "imageUrl": "https://images.pexels.com/photos/9877234/pexels-photo-9877234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Alexey Demidov on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Deno Desktop",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://docs.deno.com/runtime/desktop/",
+      "publishedAt": "Mon, 22 Jun 2026 05:38:40 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7411982/pexels-photo-7411982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Monstera Production on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Bose thinks it can be a media company for some reason",
+      "dek": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the media world th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+      "publishedAt": "2026-06-21T18:53:50.000Z",
+      "imageUrl": "https://images.pexels.com/photos/29617989/pexels-photo-29617989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Joshua Wall on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+      "dek": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at po",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+      "publishedAt": "2026-06-21T17:00:33.000Z",
+      "imageUrl": "https://images.pexels.com/photos/29594095/pexels-photo-29594095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Tuğba Özsoy on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+      "dek": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "publishedAt": "2026-06-21T14:19:46.000Z",
+      "imageUrl": "https://images.pexels.com/photos/33348671/pexels-photo-33348671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Finalchoice on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "How Roomba started a robot revolution",
+      "dek": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probabl",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "publishedAt": "2026-06-21T12:29:01.000Z",
+      "imageUrl": "https://images.pexels.com/photos/8566426/pexels-photo-8566426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    },
+    {
+      "id": "2026-06-22-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Electric air taxis are stuck in the courtroom",
+      "dek": "Joby flight at JFK airport. | Image: The Verge\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+      "publishedAt": "2026-06-21T12:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/20262953/pexels-photo-20262953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Hyundai Motor Group on Pexels"
+    }
+  ]
+}
