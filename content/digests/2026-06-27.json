@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-27",
+  "heroStoryId": "2026-06-27-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-27-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave h",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "publishedAt": "Fri, 26 Jun 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-27.png",
+      "imageCredit": "Photo by Shubham Dhage on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
+      "dek": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
+      "publishedAt": "Fri, 26 Jun 2026 10:54:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1695277788804-0ba4e47fee7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyN3JlJTIwVHJhY2tpbmclMjB0aGUlMjBGaW5hbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNTQ4NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Garv Chaplot on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "dek": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1676272682018-b1435bad1cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBsaW1pdHMlMjBHUFQtNS42JTIwcm9sbG91dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNTQ4NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rolf van Root on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "dek": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. With Apple",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "publishedAt": "2026-06-27T02:56:52.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1773252111603-46c351bd9a15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcmltZSUyMERheSUyMGlzJTIwYWxtb3N0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI1NDg3MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Why mid-career women are leaving corporate America for entrepreneurship",
+      "dek": "You landed your dream job, or so you thought. But quiet doubts grow harder to ignore: “Did I choose right?” “Can I do this for the rest of my life?” “I want something more.”\nThese questions seem to collide with major life transitions that often hit in your 30s or 40s: raising children, paying mortga",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91563991/why-mid-career-women-are-leaving-corporate-america-for-entrepreneurship",
+      "publishedAt": "2026-06-27T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1583971663176-dd7180de1b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBtaWQtY2FyZWVyJTIwd29tZW4lMjBhcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjU0ODcwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Natalie Hua on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "dek": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "publishedAt": "Fri, 26 Jun 2026 16:24:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1627973226613-a73b87b13fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcnMlMjBMaXZlJTNBJTIwV2hhdCUyN3MlMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjU0ODcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "OpenTTD 16.0-Beta1",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "publishedAt": "Sat, 27 Jun 2026 04:31:06 +0000",
+      "imageUrl": "https://images.pexels.com/photos/20068517/pexels-photo-20068517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by gu evary on Pexels"
+    },
+    {
+      "id": "2026-06-27-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "dek": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1769633816360-b076ad063acc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZWF0JTIwd2F2ZXMlMjBtZXNzJTIwd2l0aCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNTQ4NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alex Pudov on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "dek": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762330470070-249e7c23c8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBldmVyeW9uZSUyMGZyb20lMjBPcGVuQUklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjU0ODcwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "dek": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "publishedAt": "2026-06-27T02:54:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1734202556195-106b84cfb025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJdCVFMiU4MCU5OXMlMjB0aGUlMjBsYXN0JTIwZGF5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI1NDg3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mikhail Seleznev on Unsplash"
+    },
+    {
+      "id": "2026-06-27-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+      "dek": "The tiny Xteink X4 reader is proving surprisingly popular.\t\n\nThere are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+      "publishedAt": "2026-06-27T02:33:54.000Z",
+      "imageUrl": "https://images.pexels.com/photos/10602085/pexels-photo-10602085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Jens Mahnke on Pexels"
+    }
+  ]
+}
