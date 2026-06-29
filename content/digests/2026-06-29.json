@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-29",
+  "heroStoryId": "2026-06-29-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-29-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "dek": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium smart home gadget is aimed at those who crave what’s called “the good ice,” the so",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "publishedAt": "Sun, 28 Jun 2026 14:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-29.png",
+      "imageCredit": "Photo by Giorgio Trovato on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "dek": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "publishedAt": "2026-06-28T21:42:51.000Z",
+      "imageUrl": "https://images.pexels.com/photos/6564828/pexels-photo-6564828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Nothing Ahead on Pexels"
+    },
+    {
+      "id": "2026-06-29-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "These human TV and movie picks trounce Netflix’s algorithm",
+      "dek": "For all the energy that Netflix and other streaming services invest in guessing exactly what you’ll want to watch, they can be pretty bad at it.\nAfter all, how many evenings have you spent aimlessly clicking around on your Roku or Fire TV, eyes glazed as yet another algorithmically served autoplay t",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91551216/netflix-algorithm-alternative-what-to-watch",
+      "publishedAt": "2026-06-29T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1634651755674-f1bc7aacc460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVzZSUyMGh1bWFuJTIwVFYlMjBhbmQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjcyODM3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Moreno Matković on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Everyone’s Mad at the World Cup’s New ‘Hydration Breaks’—Except Mr. Moneybags Over Here",
+      "dek": "FIFA says hydration breaks protect players from heat. They also create new annoying commercial breaks—and fans are calling foul.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/world-cup-new-hydration-breaks-are-about-more-than-water/",
+      "publishedAt": "Mon, 29 Jun 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1618102230742-c0c41176e8df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdmVyeW9uZSVFMiU4MCU5OXMlMjBNYWQlMjBhdCUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNzI4Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Velásquez on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Why did this journal retract two 1940s papers by Max Planck?",
+      "dek": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "publishedAt": "Sun, 28 Jun 2026 18:49:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1725865296393-c818ca488910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBkaWQlMjB0aGlzJTIwam91cm5hbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNzI4Mzc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "publishedAt": "Mon, 29 Jun 2026 01:44:40 +0000",
+      "imageUrl": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by RealToughCandy.com on Pexels"
+    },
+    {
+      "id": "2026-06-29-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "dek": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.\nTo apply, artists need to be an unsigned sin",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "publishedAt": "2026-06-28T20:27:36.000Z",
+      "imageUrl": "https://images.pexels.com/photos/34185199/pexels-photo-34185199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Speak Media Uganda on Pexels"
+    },
+    {
+      "id": "2026-06-29-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "China claims the world&#8217;s fastest supercomputer",
+      "dek": "The LineShine supercomputer at the National Supercomputing Center in Shenzhen. | Photo: Liang Xu/Xinhua via Getty Images\t\n\nDespite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one o",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "publishedAt": "2026-06-28T17:20:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1735048002878-da85b65b96b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGluYSUyMGNsYWltcyUyMHRoZSUyMHdvcmxkJTI2JTIzODIxNyUzQnMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjcyODM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zalfa Imani on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+      "dek": "That sure is a man in a cube, alright. | Image: NBC / Jim Henson Company\t\n\nI'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The Cube",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+      "publishedAt": "2026-06-28T16:30:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/6727766/pexels-photo-6727766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by David Yu on Pexels"
+    },
+    {
+      "id": "2026-06-29-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "dek": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "publishedAt": "2026-06-28T14:12:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9zZWN1dG9ycyUyMHVzZWQlMjBDaGF0R1BUJTIwbG9ncyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyNzI4MzgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Levart_Photographer on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Nest&#8217;s quest to fix your thermostat",
+      "dek": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to have an experience that drags him back for",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "publishedAt": "2026-06-28T12:02:44.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1613786786260-2fff29f47c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXN0JTI2JTIzODIxNyUzQnMlMjBxdWVzdCUyMHRvJTIwZml4JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI3MjgzODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nareeta Martin on Unsplash"
+    },
+    {
+      "id": "2026-06-29-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Ad-free streaming is a luxury now",
+      "dek": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nStreaming was once a reprieve from c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/958379/streaming-industry-ads",
+      "publishedAt": "2026-06-28T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1637335088701-d204113650f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZC1mcmVlJTIwc3RyZWFtaW5nJTIwaXMlMjBhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI3MjgzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    }
+  ]
+}
