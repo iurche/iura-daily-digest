@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-30",
+  "heroStoryId": "2026-06-30-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-06-30-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "AI agents are not your “coworkers”",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "publishedAt": "Mon, 29 Jun 2026 18:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-06-30.png",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "dek": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "publishedAt": "Mon, 29 Jun 2026 21:49:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwQ29udHJhY3RvcnMlMjBQb3NlZCUyMGFzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI4MDk2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Gemini’s personalized AI image generation is now free for US users",
+      "dek": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1710993011349-b3001adc9f00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZW1pbmklRTIlODAlOTlzJTIwcGVyc29uYWxpemVkJTIwQUklMjBpbWFnZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODA5NjgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Solen Feyissa on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "T-Mobile is booting customers from its oldest plans",
+      "dek": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "publishedAt": "2026-06-29T21:06:14.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7411941/pexels-photo-7411941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Monstera Production on Pexels"
+    },
+    {
+      "id": "2026-06-30-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How great leaders create a shared identity",
+      "dek": "In October 1956, when Soviet tanks rolled into Budapest to crush the nascent Hungarian Revolution and the national aspirations it represented, the communist empire seemed at its apex. With a strong leader, a command economy, and an iron will, it seemed undeniable that the West, with all its messy de",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91563909/how-great-leaders-create-a-shared-identity",
+      "publishedAt": "2026-06-30T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1705234384669-c6d31c61b789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBncmVhdCUyMGxlYWRlcnMlMjBjcmVhdGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjgwOTY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "dek": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "publishedAt": "Mon, 29 Jun 2026 18:21:31 +0000",
+      "imageUrl": "https://images.pexels.com/photos/218717/pexels-photo-218717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by AS Photography on Pexels"
+    },
+    {
+      "id": "2026-06-30-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Qwen 3.6 27B is the sweet spot for local development",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "publishedAt": "Mon, 29 Jun 2026 17:05:16 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30855412/pexels-photo-30855412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-06-30-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Agent confidence on the technical frontier",
+      "dek": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "publishedAt": "Mon, 29 Jun 2026 14:44:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1730101782750-e4a2ee88e96e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZ2VudCUyMGNvbmZpZGVuY2UlMjBvbiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODA5Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: metric weaknesses and AI elephant warnings",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "publishedAt": "Mon, 29 Jun 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776952199880-b9619672c86a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMG1ldHJpYyUyMHdlYWtuZXNzZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MjgwOTY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
+      "dek": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-robin-byrd-show/",
+      "publishedAt": "Mon, 29 Jun 2026 11:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/37491216/pexels-photo-37491216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Veronika Andrews on Pexels"
+    },
+    {
+      "id": "2026-06-30-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "After a great start, DC’s new cinematic universe is already slowing down",
+      "dek": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "publishedAt": "2026-06-29T21:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1562516155-e0c1ee44059b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZnRlciUyMGElMjBncmVhdCUyMHN0YXJ0JTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI4MDk2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gia Oris on Unsplash"
+    },
+    {
+      "id": "2026-06-30-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "dek": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "publishedAt": "2026-06-29T20:18:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZWFrZWQlMjBpUGhvbmUlMjAxOCUyMFBybyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODA5Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Onur Binay on Unsplash"
+    }
+  ]
+}
