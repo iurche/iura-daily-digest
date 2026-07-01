@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-01",
+  "heroStoryId": "2026-07-01-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-01-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Claude Science is Anthropic’s newest flagship product",
+      "dek": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "publishedAt": "Tue, 30 Jun 2026 21:50:04 +0000",
+      "imageUrl": "/images/heroes/2026-07-01.png",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Acti puts AI agents directly into your smartphone keyboard",
+      "dek": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "publishedAt": "Tue, 30 Jun 2026 17:52:46 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    },
+    {
+      "id": "2026-07-01-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+      "dek": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge\t\n\nGetty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutter",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+      "publishedAt": "2026-07-01T08:41:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1610307513730-d28f8639f1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDbGVhcmVkJTIwYnklMjB0aGUlMjBVUyUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODk4MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Kraus on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Can the new Googlebook succeed where other Google-books failed?",
+      "dek": "Believe it or not, laptops are suddenly interesting again.\nApple kicked things off in March with the MacBook Neo, a $599 laptop that felt like an aggressive attempt to do to the low end of the market what the MacBook Air did to the middle. Even with a $100 price hike this week due to the rising cost",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91565993/can-the-new-googlebook-succeed-where-other-google-books-failed",
+      "publishedAt": "2026-07-01T08:00:00",
+      "imageUrl": "https://images.pexels.com/photos/13035736/pexels-photo-13035736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Obi Onyeador on Pexels"
+    },
+    {
+      "id": "2026-07-01-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust",
+      "dek": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
+      "publishedAt": "Wed, 01 Jul 2026 08:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1610332262984-c4b37b09bf8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZSUyMExhc2VycyUyMFNob3clMjBIb3clMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mjg5ODAzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Artem Bryzgalov on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "June research roundup: 6 cool science stories we almost missed",
+      "dek": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+      "publishedAt": "Tue, 30 Jun 2026 22:11:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589726310360-28327f752337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKdW5lJTIwcmVzZWFyY2glMjByb3VuZHVwJTNBJTIwNiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODk4MDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Claude Code is steganographically marking requests",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "publishedAt": "Tue, 30 Jun 2026 15:44:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1775994121052-7e653711f72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDbGF1ZGUlMjBDb2RlJTIwaXMlMjBzdGVnYW5vZ3JhcGhpY2FsbHklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mjg5ODAzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bernd 📷 Dittrich on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: AI “coworkers” and stratospheric internet",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "publishedAt": "Tue, 30 Jun 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1765445666097-2773e4e3d867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFJJTIwJUUyJTgwJTlDY293b3JrZXJzJUUyJTgwJTlEJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI4OTgwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Egor Komarov on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Agriculture is ready for AI, but its data isn’t",
+      "dek": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1535379453347-1ffd615e2e08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZ3JpY3VsdHVyZSUyMGlzJTIwcmVhZHklMjBmb3IlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mjg5ODAzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by no one cares on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Building tech in the world’s secret R&D hub",
+      "dek": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however,",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "publishedAt": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHRlY2glMjBpbiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgyODk4MDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by C Dustin on Unsplash"
+    },
+    {
+      "id": "2026-07-01-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+      "dek": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscripti",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "publishedAt": "2026-07-01T00:51:03.000Z",
+      "imageUrl": "https://images.pexels.com/photos/4389971/pexels-photo-4389971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Darlene Alderson on Pexels"
+    },
+    {
+      "id": "2026-07-01-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "dek": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "publishedAt": "2026-07-01T00:03:55.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1781643431772-dc4ef4bbb8cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlMjYlMjM4MjE3JTNCcyUyMGxvbmctc2lkZWxpbmVkJTIwRmFibGUlMjA1JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODI4OTgwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    }
+  ]
+}
