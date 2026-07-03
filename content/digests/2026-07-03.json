@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-03",
+  "heroStoryId": "2026-07-03-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-03-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Achieving operational excellence with AI",
+      "dek": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
+      "imageUrl": "/images/heroes/2026-07-03.png",
+      "imageCredit": "Photo by Galih Ass on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "dek": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "publishedAt": "Fri, 03 Jul 2026 05:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1638770749564-97535bf0d552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQb2xpdGljaWFuJTIwd2hvJTIwaW52ZXN0aWdhdGVkJTIwc3B5d2FyZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMDY4NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by DJ Paine on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Sony’s PlayStation disc factory is already being repurposed",
+      "dek": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "publishedAt": "2026-07-03T01:05:13.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb255JUUyJTgwJTk5cyUyMFBsYXlTdGF0aW9uJTIwZGlzYyUyMGZhY3RvcnklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzA2ODQwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nikita Kostrykin on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "How D.C. looks has always been a political battleground. Here’s why",
+      "dek": "Debates over what visitors will see and experience in the nation’s capital city have taken center stage as Americans prepare to mark the 250th anniversary of the Declaration of Independence.\nFor President Donald J. Trump, the event inspired a massive redevelopment project. Since the beginning of his",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91566930/washington-dc-physical-appearance-political-battleground-trump",
+      "publishedAt": "2026-07-03T08:00:00",
+      "imageUrl": "https://images.pexels.com/photos/8147392/pexels-photo-8147392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by www.kaboompics.com on Pexels"
+    },
+    {
+      "id": "2026-07-03-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
+      "dek": "In September, some PlayStation customers will no longer be able to access some purchased movies and shows. It underscores the fact that digital purchases are really more like long-term rentals.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
+      "publishedAt": "Fri, 03 Jul 2026 08:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1617468264204-92588bd6485a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb255JTIwRXJhc2VzJTIwRGlnaXRhbCUyMENvbnRlbnQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzA2ODQwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Feaver on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+      "dek": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
+      "publishedAt": "Thu, 02 Jul 2026 16:46:47 +0000",
+      "imageUrl": "https://images.pexels.com/photos/37748010/pexels-photo-37748010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by MAURO FOSSATI on Pexels"
+    },
+    {
+      "id": "2026-07-03-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Virginia bans sale of geolocation data",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "publishedAt": "Thu, 02 Jul 2026 21:03:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1636997046779-0774f968a9c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWaXJnaW5pYSUyMGJhbnMlMjBzYWxlJTIwb2YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzA2ODQwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Walter Martin on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Teaching AI to run with the turbines",
+      "dek": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1632064460079-dae5e6a25054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZWFjaGluZyUyMEFJJTIwdG8lMjBydW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzA2ODQwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anthony Soberal on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: a startup has a solution for AI’s groupthink problem",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random n",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "publishedAt": "Thu, 02 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1648134859211-4a1b57575f4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBzdGFydHVwJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMwNjg0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Team Nocoloco on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Why California’s carbon manure math doesn’t add up",
+      "dek": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "publishedAt": "Thu, 02 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1522125307274-36420256794e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBDYWxpZm9ybmlhJUUyJTgwJTk5cyUyMGNhcmJvbiUyMG1hbnVyZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMDY4NDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tim Mossholder on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "dek": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBwcm9wb3NlZCUyMGRvbmF0aW5nJTIwNSUyNSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMDY4NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-07-03-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "dek": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "publishedAt": "2026-07-02T22:09:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1499146506023-dd456c2c9aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyMGRyaXZlciUyMGZhY2VzJTIwbWFuc2xhdWdodGVyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMwNjg0MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quilia on Unsplash"
+    }
+  ]
+}
