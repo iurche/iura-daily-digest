@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-04",
+  "heroStoryId": "2026-07-04-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-04-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": " A device that revives eyeballs from dead donors could make eye transplants possible",
+      "dek": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "publishedAt": "Fri, 03 Jul 2026 17:34:37 +0000",
+      "imageUrl": "/images/heroes/2026-07-04.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "When the Law Kills Your Electric Car Dealership",
+      "dek": "Dealers who invested in Polestar won’t be able to sell in the US next year after the federal government denied an authorization that would have allowed the company to avoid a Chinese tech ban.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/",
+      "publishedAt": "Fri, 03 Jul 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1634626702924-5eda2c3b421a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGVuJTIwdGhlJTIwTGF3JTIwS2lsbHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzE1MzM0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "The only AI glossary you’ll need this year",
+      "dek": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1731420645191-53807780616f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBvbmx5JTIwQUklMjBnbG9zc2FyeSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMTUzMzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Qi fan fan",
+      "dek": "The Kuxiu D5 keeps Qi-compatible phones cool while also charging a watch and earbuds.\t\n\nDespite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7307630/pexels-photo-7307630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Tiểu Bảo Trương on Pexels"
+    },
+    {
+      "id": "2026-07-04-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "What chronic illness taught me about running a leaner, smarter business",
+      "dek": "Hustle culture is built on the toxic lie that the human body is an unlimited resource. In the entrepreneurial world, we are conditioned to believe that success is directly proportional to how much sleep we sacrifice, how many fires we personally extinguish, and how hard we can push through physical ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91568158/what-chronic-illness-taught-me-about-running-a-leaner-smarter-business",
+      "publishedAt": "2026-07-04T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwY2hyb25pYyUyMGlsbG5lc3MlMjB0YXVnaHQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzE1MzM0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by National Cancer Institute on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Despite the darkness, I still see signs of hope in America",
+      "dek": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "publishedAt": "Fri, 03 Jul 2026 11:30:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1535569394749-058b9c572d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEZXNwaXRlJTIwdGhlJTIwZGFya25lc3MlMkMlMjBJJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMxNTMzNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zeynep E on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The bottleneck might be the air in the room",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "publishedAt": "Sat, 04 Jul 2026 06:32:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1779976706581-d4557f21489d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBib3R0bGVuZWNrJTIwbWlnaHQlMjBiZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMTUzMzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their chi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "publishedAt": "Fri, 03 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1517590727156-5d3efb6ed24e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBzbW9raW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMxNTMzNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Irina Iriser on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "dek": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "publishedAt": "Fri, 03 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1572215242192-af38e004485f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBVSyVFMiU4MCU5OXMlMjBnZW5lcmF0aW9uYWwlMjB0b2JhY2NvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMxNTMzNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Phil Shaw on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Dune keypad device can be your meeting controller and more",
+      "dek": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "publishedAt": "Fri, 03 Jul 2026 18:28:30 +0000",
+      "imageUrl": "https://images.pexels.com/photos/16294890/pexels-photo-16294890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Кирилл Абрамов on Pexels"
+    },
+    {
+      "id": "2026-07-04-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "dek": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "publishedAt": "2026-07-03T17:33:55.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1704204656144-3dd12c110dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbWF6b24lMjB1cGRhdGVkJTIwMjAyMyVFMiU4MCU5OXMlMjBGaXJlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMxNTMzNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Abid Shah on Unsplash"
+    },
+    {
+      "id": "2026-07-04-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "While you’re watching the World Cup, the feds may be watching you",
+      "dek": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched.\nFrom Kansas ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
+      "publishedAt": "2026-07-03T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1778793793514-1b4c74e9e3f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGlsZSUyMHlvdSVFMiU4MCU5OXJlJTIwd2F0Y2hpbmclMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzE1MzM0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Haberdoedas on Unsplash"
+    }
+  ]
+}
