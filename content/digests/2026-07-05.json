@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-05",
+  "heroStoryId": "2026-07-05-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-05-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "dek": "Engineers from Katalyst Space Technologies testing Link. | Image: NASA/Scott Wiessinger\t\n\nThe Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NAS",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "publishedAt": "2026-07-04T19:06:27.000Z",
+      "imageUrl": "/images/heroes/2026-07-05.png",
+      "imageCredit": "Photo by NASA on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The World Cup added $1 billion in security systems. What happens after the games end?",
+      "dek": "The 2026 FIFA World Cup is the largest sporting event in history. It’s also the most surveilled World Cup ever. If you’re visiting or traveling around host cities, then you and your face, behavior, movement, and devices are being monitored by governments and private companies.\nThe U.S. government fu",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91567578/world-cup-us-surveillance-security-systems",
+      "publishedAt": "2026-07-05T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBXb3JsZCUyMEN1cCUyMGFkZGVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMyNDA3Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Fauzan Saari on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Submit Your Questions: Inside The World of Online Romance Scams",
+      "dek": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+      "publishedAt": "Sat, 04 Jul 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1652795385688-9bafaac3100f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdWJtaXQlMjBZb3VyJTIwUXVlc3Rpb25zJTNBJTIwSW5zaWRlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMyNDA3Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by julien Tromeur on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "dek": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOZXclMjBHb29nbGUlMjBjb21tZXJjaWFsJTIwaW1hZ2luZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzI0MDcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "When the ability to smell goes away",
+      "dek": "Disturbances in this critical sense are often linked to problems with brain health.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "publishedAt": "Sat, 04 Jul 2026 11:04:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGVuJTIwdGhlJTIwYWJpbGl0eSUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMyNDA3Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://ui.shadcn.com/docs/changelog",
+      "publishedAt": "Sun, 05 Jul 2026 04:46:08 +0000",
+      "imageUrl": "https://images.pexels.com/photos/270700/pexels-photo-270700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pixabay on Pexels"
+    },
+    {
+      "id": "2026-07-05-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "dek": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. \nThe deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by settin",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "publishedAt": "2026-07-04T16:19:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1485394595691-5411947d63a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGl0ZSUyMEhvdXNlJTIwZGVsZXRlcyUyMHRob3VzYW5kcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMjQwNzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Everett Strickler on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "dek": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price reflect",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "publishedAt": "2026-07-04T16:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7641488/pexels-photo-7641488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by MART  PRODUCTION on Pexels"
+    },
+    {
+      "id": "2026-07-05-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+      "dek": "That is the face of a man who enjoys what he does. | Image: Reato Morris\t\n\nErick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+      "publishedAt": "2026-07-04T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1723393861204-aba34c9a16e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGbGF0YnVzaCUyMFpvbWJpZXMlRTIlODAlOTklMjBFcmljayUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMjQwNzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Francesco Ungaro on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Hey number pad lovers, this is a keyboard we can finally agree on",
+      "dek": "I’m right-hand dominant but a lefty at heart. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+      "publishedAt": "2026-07-04T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1760360497581-0606569510a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXklMjBudW1iZXIlMjBwYWQlMjBsb3ZlcnMlMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzI0MDczM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Russel Bailo on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The square-ish phone that I wanted to love",
+      "dek": "A great concept that falls flat.\t\n\nThe Ikko MindOne Pro is delightfully small.\nI keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open it partway to use as a s",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+      "publishedAt": "2026-07-04T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1648704059987-4dc119236cdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBzcXVhcmUtaXNoJTIwcGhvbmUlMjB0aGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMyNDA3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Joshua Hoehne on Unsplash"
+    },
+    {
+      "id": "2026-07-05-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The fanfiction community is at war with AI — and itself",
+      "dek": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented ar",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "publishedAt": "2026-07-04T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1586974722938-ffc9efea5a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBmYW5maWN0aW9uJTIwY29tbXVuaXR5JTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzI0MDczNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mélanie THESE on Unsplash"
+    }
+  ]
+}
