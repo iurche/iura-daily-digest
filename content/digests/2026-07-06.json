@@ -9,9 +9,10 @@
       "dek": "Since mid-2025, the generalist PM role has been fracturing into distinct tracks. The split is reshaping how product and design teams collaborate and who owns the roadmap.",
       "source": "Userpilot",
       "sourceUrl": "https://userpilot.com/blog/product-management-trends/",
-      "imageUrl": null,
+      "imageUrl": "/images/heroes/2026-07-06.png",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": true
+      "isHero": true,
+      "imageCredit": "Photo by Kelly Sikkema on Unsplash"
     },
     {
       "id": "2026-07-06-product-design-1",
@@ -20,9 +21,10 @@
       "dek": "In 2026, AI agents browse, interact, and transact on behalf of users. Designing for machines alongside people is now a core product design competency.",
       "source": "UX Pilot",
       "sourceUrl": "https://uxpilot.ai/blogs/product-design-trends",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532186773960-85649e5cb70b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYWNoaW5lJTIwRXhwZXJpZW5jZSUyMCUyOE1YJTI5JTIwSXMlMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzgzMzMxNjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Louis Reed on Unsplash"
     },
     {
       "id": "2026-07-06-product-design-2",
@@ -31,9 +33,10 @@
       "dek": "Product teams are abandoning time-in-app as a success signal. The new benchmark: if a user spends 10 minutes doing a 1-minute task, the product has failed.",
       "source": "Ant Murphy / Medium",
       "sourceUrl": "https://antmurphy.medium.com/how-product-is-changing-in-2026-78a08f150aca",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/29483110/pexels-photo-29483110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by ahmed akeri on Pexels"
     },
     {
       "id": "2026-07-06-product-design-3",
@@ -42,9 +45,10 @@
       "dek": "Product-led growth is no longer just a SMB play. In 2026, enterprise buyers are completing high-value purchases through self-service channels — reshaping what onboarding and trial flows must do.",
       "source": "Product School",
       "sourceUrl": "https://productschool.com/blog/product-fundamentals/product-management-trends",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/19862643/pexels-photo-19862643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Youssouf Carius on Pexels"
     },
     {
       "id": "2026-07-06-ux-research-0",
@@ -53,9 +57,10 @@
       "dek": "NN/g's annual report finds that surface-level UX is now table stakes. Competitive advantage comes from systemic thinking, longitudinal research, and designing for complex behaviours.",
       "source": "Nielsen Norman Group",
       "sourceUrl": "https://www.nngroup.com/articles/state-of-ux-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1590483200421-58b5a8a0be55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGF0ZSUyMG9mJTIwVVglMjAyMDI2JTNBJTIwdXgtcmVzZWFyY2h8ZW58MHwwfHx8MTc4MzMzMTYyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
     },
     {
       "id": "2026-07-06-ux-research-1",
@@ -64,9 +69,10 @@
       "dek": "Maze's Future of User Research 2026 report shows AI adoption in research has crossed the majority threshold, primarily for transcription, synthesis, and generating research questions.",
       "source": "Maze",
       "sourceUrl": "https://maze.co/blog/future-user-research-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw2OSUyNSUyMG9mJTIwVVglMjBSZXNlYXJjaGVycyUyMHV4LXJlc2VhcmNofGVufDB8MHx8fDE3ODMzMzE2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by UX Indonesia on Unsplash"
     },
     {
       "id": "2026-07-06-ux-research-2",
@@ -75,9 +81,10 @@
       "dek": "Democratisation of UX research means PMs, designers, and marketers are running their own studies. LogRocket examines the three trends reshaping research quality and who owns insights.",
       "source": "LogRocket Blog",
       "sourceUrl": "https://blog.logrocket.com/ux-design/ux-research-trends-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1653038417404-1ae1f38c373e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXNlYXJjaCUyMElzJTIwTm8lMjBMb25nZXIlMjB1eC1yZXNlYXJjaHxlbnwwfDB8fHwxNzgzMzMxNjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
     },
     {
       "id": "2026-07-06-ai-tools-0",
@@ -86,9 +93,10 @@
       "dek": "Gemini 3.5 Flash is now the default model for Google's AI Mode worldwide. Information agents for AI Pro & Ultra subscribers launch this summer, with agentic booking for local services rolling out to all US users.",
       "source": "Google Blog",
       "sourceUrl": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBVcGdyYWRlcyUyMEFJJTIwTW9kZSUyMGFpLXRvb2xzfGVufDB8MHx8fDE3ODMzMzE2MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Shutter Speed on Unsplash"
     },
     {
       "id": "2026-07-06-ai-tools-1",
@@ -97,9 +105,10 @@
       "dek": "Unveiled at Inspire 2026, Agent Studio lets analysts convert existing data workflows into autonomous agents directly — no centralized IT dependency. An MCP Server integration ships alongside it.",
       "source": "Tool Chase",
       "sourceUrl": "https://toolchase.com/blog/ai-tools-news-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/8294621/pexels-photo-8294621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Pavel Danilyuk on Pexels"
     },
     {
       "id": "2026-07-06-ai-tools-2",
@@ -108,9 +117,10 @@
       "dek": "July 2026 signals a market maturity point: the tools gaining adoption are those that reduce cost and fit daily workflows, not those with headline-grabbing model releases.",
       "source": "mean.ceo",
       "sourceUrl": "https://blog.mean.ceo/ai-product-launches-news-july-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/34804017/pexels-photo-34804017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Daniil Komov on Pexels"
     },
     {
       "id": "2026-07-06-ai-research-0",
@@ -119,9 +129,10 @@
       "dek": "A vaccine whose key component was designed entirely by AI has successfully completed initial human trials. Researchers say it demonstrates AI's capacity to create fundamentally new vaccine types capable of protecting against diverse viruses.",
       "source": "InfoWorld",
       "sourceUrl": "https://www.infoworld.com/article/4108092/6-ai-breakthroughs-that-will-define-2026.html",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1613758947307-f3b8f5d80711?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGaXJzdCUyMEFJLURlc2lnbmVkJTIwVmFjY2luZSUyMENvbXBsZXRlcyUyMGFpLXJlc2VhcmNofGVufDB8MHx8fDE3ODMzMzE2Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Iván Díaz on Unsplash"
     },
     {
       "id": "2026-07-06-ai-research-1",
@@ -130,9 +141,10 @@
       "dek": "Empirical Research Assistance (ERA) is Google's new AI tool for scientists, accelerating discoveries from neuroscience to cosmology by writing expert-level research code on demand.",
       "source": "Google Research",
       "sourceUrl": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjdzJTIwRVJBJTNBJTIwQSUyMFJlc2VhcmNoJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc4MzMzMTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
     },
     {
       "id": "2026-07-06-ai-research-2",
@@ -141,9 +153,10 @@
       "dek": "Robots trained on physics-aware world models now need dramatically less real-world data to perform in unseen conditions. The gap between simulation training and real-world deployment is closing fast.",
       "source": "Next Big Future",
       "sourceUrl": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1758844899311-8d16093ff165?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyMDI2JTIwSXMlMjBhJTIwQnJlYWt0aHJvdWdoJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc4MzMzMTYzMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
     },
     {
       "id": "2026-07-06-iot-hardware-0",
@@ -152,9 +165,10 @@
       "dek": "The global IoT sensor market is growing at 36.5% CAGR, driven by industrial IoT, smart cities, and healthcare. Accelerometers and IMU sensors lead with a 27.3% market share.",
       "source": "Spenza",
       "sourceUrl": "https://spenza.com/iot/iot-sensors-types-connectivity/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJb1QlMjBTZW5zb3IlMjBNYXJrZXQlMjBIaXRzJTIwaW90LWhhcmR3YXJlfGVufDB8MHx8fDE3ODMzMzE2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Robin Glauser on Unsplash"
     },
     {
       "id": "2026-07-06-iot-hardware-1",
@@ -163,9 +177,10 @@
       "dek": "Multi-modal AI models running on edge cameras are collapsing the sensor stack. In 2026, a single smart camera can perform the work of an entire distributed sensor network.",
       "source": "AJProTech",
       "sourceUrl": "https://ajprotech.com/blog/internet-of-things/key-trends-in-iot-devices-for-2026.html",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1722488359737-7a9b8a8436c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWaXNpb24tYXMtYS1TZXJ2aWNlJTNBJTIwT25lJTIwU21hcnQlMjBDYW1lcmElMjBpb3QtaGFyZHdhcmV8ZW58MHwwfHx8MTc4MzMzMTYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Jakub Żerdzicki on Unsplash"
     },
     {
       "id": "2026-07-06-iot-hardware-2",
@@ -174,9 +189,10 @@
       "dek": "The GSMA's IoT-specific eSIM spec, finalised in late 2025, is now being adopted across manufacturers. It enables seamless connectivity management for large IoT deployments without hardware swaps.",
       "source": "Metadesk Global",
       "sourceUrl": "https://metadeskglobal.com/iot-trends-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1516651986872-1af15f3b7e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTR1AuMzIlMjBlU0lNJTIwU3RhbmRhcmQlMjBJcyUyMGlvdC1oYXJkd2FyZXxlbnwwfDB8fHwxNzgzMzMxNjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Nick Femerling on Unsplash"
     },
     {
       "id": "2026-07-06-aiot-0",
@@ -185,9 +201,10 @@
       "dek": "Software accounts for 67.88% of AIoT revenue — analytics engines and AI orchestration layers dominate investment. Asia-Pacific is expanding fastest at a 23% CAGR.",
       "source": "KaaIoT",
       "sourceUrl": "https://www.kaaiot.com/iot-knowledge-base/iot-and-ai-in-2026-market-scale-architecture-and-industry-impact",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHbG9iYWwlMjBBSS1pbi1Jb1QlMjBNYXJrZXQlMjBSZWFjaGVzJTIwYWlvdHxlbnwwfDB8fHwxNzgzMzMxNjM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
     },
     {
       "id": "2026-07-06-aiot-1",
@@ -196,9 +213,10 @@
       "dek": "Moving AI from cloud to edge enables millisecond response times, offline operation, and on-premises privacy. The shift is accelerating as edge chips become cheaper and more capable.",
       "source": "Hikvision Newsroom",
       "sourceUrl": "https://www.hikvision.com/en/newsroom/blog/top-5-aiot-trends-in-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Alex Knight on Pexels"
     },
     {
       "id": "2026-07-06-aiot-2",
@@ -207,9 +225,10 @@
       "dek": "The critical shift in 2026: AIoT systems don't just collect and transmit data — they interpret it and act autonomously. Manufacturing, logistics, and conservation are the early adopter verticals.",
       "source": "Speed4Trading",
       "sourceUrl": "https://speed4trading.com/blog/the-future-of-aiot-in-2026-how-smart-systems-are-redefining-business/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTIwTW92ZXMlMjBCZXlvbmQlMjBDb25uZWN0aXZpdHklMjBhaW90fGVufDB8MHx8fDE3ODMzMzE2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
     },
     {
       "id": "2026-07-06-smart-agriculture-0",
@@ -218,9 +237,10 @@
       "dek": "AI optimises lighting and heating, while IoT sensors monitor microclimate in real time. The combination is driving yields up and energy costs down in commercial greenhouse operations globally.",
       "source": "Miilkiia Grow",
       "sourceUrl": "https://www.miilkiiagrow.com/news/smart-greenhouse-technology-in-2026-how-ai-and-iot-are-revolutionizing-agricultural-production/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1524486361537-8ad15938e1a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTbWFydCUyMEdyZWVuaG91c2VzJTIwaW4lMjAyMDI2JTNBJTIwc21hcnQtYWdyaWN1bHR1cmV8ZW58MHwwfHx8MTc4MzMzMTYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Erwan Hesry on Unsplash"
     },
     {
       "id": "2026-07-06-smart-agriculture-1",
@@ -229,9 +249,10 @@
       "dek": "IoT sensors measuring soil carbon unlock carbon-credit programs, giving farmers a direct financial incentive to improve soil health — while reducing emissions and water usage.",
       "source": "Farmonaut",
       "sourceUrl": "https://farmonaut.com/precision-farming/smart-farm-iot-smart-agri-7-game-changing-trends-for-2026",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1768602182173-154eeedeed05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb2lsJTIwQ2FyYm9uJTIwTW9uaXRvcmluZyUyMHZpYSUyMHNtYXJ0LWFncmljdWx0dXJlfGVufDB8MHx8fDE3ODMzMzE2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Oscar Solano on Unsplash"
     },
     {
       "id": "2026-07-06-smart-agriculture-2",
@@ -240,9 +261,10 @@
       "dek": "Data from IoT sensors, drones, and satellites feeds into ML models, with generative AI delivering simple action plans to farmers in natural language. The agronomist as interface.",
       "source": "Forbes",
       "sourceUrl": "https://www.forbes.com/sites/shookabidarian/2026/01/09/how-ai-may-reshape-sustainability-efforts-in-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZW5lcmF0aXZlJTIwQUklMjBCZWNvbWVzJTIwdGhlJTIwc21hcnQtYWdyaWN1bHR1cmV8ZW58MHwwfHx8MTc4MzMzMTYzOXww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Steven Weeks on Unsplash"
     },
     {
       "id": "2026-07-06-career-signals-0",
@@ -251,9 +273,10 @@
       "dek": "LinkedIn shows a strong market for senior product designers in Barcelona, with roles at Lodgify (Principal, Remote), Grafana Labs (€99K), and Nivoda among active listings in July 2026.",
       "source": "LinkedIn Jobs",
       "sourceUrl": "https://www.linkedin.com/jobs/product-designer-jobs-barcelona",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1676285437303-744ef82a0263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzMzglMjBQcm9kdWN0JTIwRGVzaWduZXIlMjBSb2xlcyUyMGNhcmVlci1zaWduYWxzfGVufDB8MHx8fDE3ODMzMzE2NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-07-06-career-signals-1",
@@ -262,9 +285,10 @@
       "dek": "Startup-stage companies are the primary employers for product designers in Spain in 2026, with a concentration in Barcelona and remote-first setups. Figma and systems thinking are the most-cited requirements.",
       "source": "Wellfound",
       "sourceUrl": "https://wellfound.com/role/l/product-designer/spain",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/5990048/pexels-photo-5990048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by cottonbro studio on Pexels"
     },
     {
       "id": "2026-07-06-career-signals-2",
@@ -273,42 +297,142 @@
       "dek": "The EU Spain market for senior product designers remains active in mid-2026, with travel, fintech, and B2B SaaS companies leading hiring. Director-level design roles are emerging at scale-ups.",
       "source": "UI/UX Designer Jobs",
       "sourceUrl": "https://uiuxdesignerjobs.com/jobs/product-designer-spain/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1676285436462-e27f3e96f847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTIwJTI2JTIwRGVzaWduJTIwSm9iJTIwY2FyZWVyLXNpZ25hbHN8ZW58MHwwfHx8MTc4MzMzMTY0MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Walls.io on Unsplash"
     },
     {
       "id": "2026-07-06-in-the-world-0",
       "topic": "in-the-world",
-      "headline": "In Solarpunk Cities, Technology Follows Nature's Lead",
-      "dek": "A February 2026 Aeon essay argues that the solarpunk movement offers the most coherent alternative vision of technology: one designed to improve all lives rather than concentrate wealth. What would cities look like if we built that way?",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/essays/in-solarpunk-cities-of-the-future-tech-follows-natures-lead",
-      "imageUrl": null,
-      "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "headline": "South Korea’s hottest new bachelors are chip workers",
+      "dek": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "publishedAt": "Mon, 06 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1700639687072-dd8c8d13b3e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb3V0aCUyMEtvcmVhJUUyJTgwJTk5cyUyMGhvdHRlc3QlMjBuZXclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzMzMTY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nino Steffen on Unsplash"
     },
     {
       "id": "2026-07-06-in-the-world-1",
       "topic": "in-the-world",
-      "headline": "Bernard Stiegler's Big Idea: Our Tools Are Making the World, Not Just Improving It",
-      "dek": "Aeon revisits the French philosopher's concept of 'technics' — the idea that technology doesn't just serve human ends but actively reshapes what humans are. More relevant now than when he wrote it.",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world",
-      "imageUrl": null,
-      "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "headline": "Some of the nation’s rich are letting AI teach their kids",
+      "dek": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "publishedAt": "2026-07-05T22:30:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1730453040291-cd7d0b28226c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb21lJTIwb2YlMjB0aGUlMjBuYXRpb24lRTIlODAlOTlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMzMzE2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
       "id": "2026-07-06-in-the-world-2",
       "topic": "in-the-world",
-      "headline": "Technology Starts with Imagination, Not Analysis",
-      "dek": "An Aeon essay traces the feedback loop between scientific speculation, technological imagination, and science fiction — and asks whether the stories we tell about technology shape what gets built.",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/essays/technology-starts-with-imagination-not-analysis",
-      "imageUrl": null,
-      "publishedAt": "2026-07-06T08:00:00.000Z",
-      "isHero": false
+      "headline": "We built a billion-dollar company with no network, no VC, and no road map. Here’s what actually worked",
+      "dek": "Whatever my brother and I built, we built on a foundation generations of Americans had laid long before we arrived.\nWhen people hear that we built a company that eventually went public on Nasdaq and surpassed a billion dollars in value, they often focus on the outcome. I think about the beginning.\nT",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91559168/we-built-a-billion-dollar-company-with-no-network-no-vc-and-no-roadmap-heres-what-actually-worked-technology-vc-advice",
+      "publishedAt": "2026-07-06T09:11:00",
+      "imageUrl": "https://images.unsplash.com/photo-1646776930319-b16b17781725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyMGJ1aWx0JTIwYSUyMGJpbGxpb24tZG9sbGFyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMzMzE2NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rob on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "What if the Universe Isn’t as Uniform as Scientists Think?",
+      "dek": "A study based on 47 million galaxies found that the cosmic web retains patterns on enormous scales, which could force a reevaluation of a pillar of cosmology.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/what-if-the-universe-wasnt-as-uniform-as-scientists-think/",
+      "publishedAt": "Mon, 06 Jul 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1648061690758-2063263a0183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwaWYlMjB0aGUlMjBVbml2ZXJzZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by George Pagan III on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "dek": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "publishedAt": "Mon, 06 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1562330744-0e81c1e9dd88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTbWFydCUyMGdsYXNzZXMlMjBtYWtlciUyMEV2ZW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzMzMTY0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quang Tri NGUYEN on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "dek": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "publishedAt": "Sun, 05 Jul 2026 11:05:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1708300251110-0f0affccb436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGVtaWNhbCUyMGFjY2lkZW50cyUyMHJpc2UlMjBhcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chris LeBoutillier on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "GPT-5.6 Sol Ultra will be in Codex",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "publishedAt": "Mon, 06 Jul 2026 01:04:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1761223956849-c6912f2179aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHUFQtNS42JTIwU29sJTIwVWx0cmElMjB3aWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODMzMzE2NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
+      "dek": "First, you drop bombs, then you send aid. Totally logical. | Image: Definitive Jux\t\n\nThere was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip-hop. While the label featured plenty of experimental, boundary-pushing, and politically mind",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+      "publishedAt": "2026-07-05T18:30:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1558540140-09900896ca65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNci4lMjBMaWYlRTIlODAlOTlzJTIwRW1lcmdlbmN5JTIwUmF0aW9ucyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Duncan Kidd on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Where to preorder Grand Theft Auto VI",
+      "dek": "A look at in-game cosmetics you’ll get with the Ultimate edition. | Image: Rockstar Games\t\n\nRockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing code",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+      "publishedAt": "2026-07-05T16:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1604367369236-ebe80208f2ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGVyZSUyMHRvJTIwcHJlb3JkZXIlMjBHcmFuZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "dek": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbmZ1cmlhdGluZyUyMEdvb2dsZSUyMGNvbW1lcmNpYWwlMjBpbWFnaW5lcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Sourdough Sidekick automates the boring bit of baking",
+      "dek": "The Sourdough Sidekick was codeveloped with King Arthur Baking Company.\t\n\nBaking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. \nThe trick to t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+      "publishedAt": "2026-07-05T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1564529726702-e1cb05b106b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBTb3VyZG91Z2glMjBTaWRla2ljayUyMGF1dG9tYXRlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzMzMxNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Diane Alkier on Unsplash"
+    },
+    {
+      "id": "2026-07-06-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "How Keurig saved — and ruined — your coffee",
+      "dek": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an e",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+      "publishedAt": "2026-07-05T13:51:56.000Z",
+      "imageUrl": "https://images.pexels.com/photos/37380584/pexels-photo-37380584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Michaela St on Pexels"
     }
   ]
 }
