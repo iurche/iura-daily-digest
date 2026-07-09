@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-09",
+  "heroStoryId": "2026-07-09-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-09-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Four nuclear reactors hit a big milestone in the US",
+      "dek": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "publishedAt": "Thu, 09 Jul 2026 08:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-09.png",
+      "imageCredit": "Photo by Lukáš Lehotský on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet",
+      "dek": "Matthew Danzeisen’s lawyer says the case is a “shakedown about a bag” that brushed someone’s leg. Stefanie Bojar says she was injured aboard the jet—and that the lawsuit is a bullying tactic.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/",
+      "publishedAt": "Wed, 08 Jul 2026 19:49:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1783004839445-cbb77ee09a5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQZXRlciUyMFRoaWVsJUUyJTgwJTk5cyUyMEh1c2JhbmQlMjBTdWVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM1ODkxMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "dek": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "publishedAt": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlRTIlODAlOTlzJTIwZGVlcGZha2UlMjBkZXRlY3RvciUyMHN5c3RlbSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNTg5MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "dek": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the capt",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "publishedAt": "2026-07-08T22:37:25.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwaXMlMjByZXBvcnRlZGx5JTIwd29ya2luZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNTg5MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "This one statistic reveals the AI job takeover has started",
+      "dek": "The ability to use AI isn’t just important when it comes to applying tech roles. Per recent data, the skill appears on job listings across industries. And when it comes to a number of fields, the resume attribute is now a more sought-after one outside of tech than within it.\nAccording to new researc",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91570959/this-one-statistic-reveals-the-ai-job-takeover-has-started",
+      "publishedAt": "2026-07-09T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1620924333549-6ca69f51e5c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwb25lJTIwc3RhdGlzdGljJTIwcmV2ZWFscyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNTg5MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nick Fewings on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "TikTok users don't have as much agency over their FYPs as they think",
+      "dek": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+      "publishedAt": "Wed, 08 Jul 2026 18:00:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1596346599094-4dfa5c61fd0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaWtUb2slMjB1c2VycyUyMGRvbiUyN3QlMjBoYXZlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM1ODkxMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Solen Feyissa on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "publishedAt": "Wed, 08 Jul 2026 23:37:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1685335686020-e0b487f7f426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKb2huJTIwRGVlcmUlMjBvd25lcnMlMjB3aWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM1ODkxMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Heber Davis on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: worms fight pollution, and geoengineering faces reality",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "publishedAt": "Wed, 08 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1668854195238-cb205000a3cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHdvcm1zJTIwZmlnaHQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzU4OTExNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "dek": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "publishedAt": "Wed, 08 Jul 2026 20:29:50 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Mathias Reding on Pexels"
+    },
+    {
+      "id": "2026-07-09-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "dek": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "publishedAt": "Wed, 08 Jul 2026 18:46:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1690138871287-02b2fc3b87c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbG9uJTIwTXVzayUyMHNheXMlMjBYJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM1ODkxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alexander Shatov on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Why this CEO thinks video games make better training data than the internet",
+      "dek": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intell",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "publishedAt": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588214321417-4db0632c764a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjB0aGlzJTIwQ0VPJTIwdGhpbmtzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM1ODkxMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Guido Coppa on Unsplash"
+    },
+    {
+      "id": "2026-07-09-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "dek": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "publishedAt": "Wed, 08 Jul 2026 17:11:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518196-f48a24b49fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwd2FudHMlMjBpdHMlMjBBSSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNTg5MTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    }
+  ]
+}
