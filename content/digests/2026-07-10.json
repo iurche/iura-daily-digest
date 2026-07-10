@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-10",
+  "heroStoryId": "2026-07-10-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-10-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "dek": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "publishedAt": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "imageUrl": "/images/heroes/2026-07-10.png",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "dek": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "publishedAt": "Fri, 10 Jul 2026 06:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/35280285/pexels-photo-35280285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Magda Ehlers on Pexels"
+    },
+    {
+      "id": "2026-07-10-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "dek": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/901971/pexels-photo-901971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Godisable Jacob on Pexels"
+    },
+    {
+      "id": "2026-07-10-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Microsoft’s carbon emissions went up 25 percent last year",
+      "dek": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Micro",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "publishedAt": "2026-07-10T00:04:13.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlRTIlODAlOTlzJTIwY2FyYm9uJTIwZW1pc3Npb25zJTIwd2VudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNjczOTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Why women face an ‘ambition penalty’ at work",
+      "dek": "Below, Stefanie O’Connell shares five key insights from her new book, The Ambition Penalty: How Corporate Culture Tells Women to Step Up―and Then Pushes Them Down.\nStefanie is an award-winning financial journalist whose work has been published in Slate, Bloomberg, Newsweek, USA Today, Glamour UK, Bu",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91567758/women-face-an-ambition-penalty-at-work",
+      "publishedAt": "2026-07-10T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1592431286811-ffe309b1b578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjB3b21lbiUyMGZhY2UlMjBhbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNjczOTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rad Pozniakov on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Free Waymo rides in California? You can thank a regulatory quirk.",
+      "dek": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+      "publishedAt": "Thu, 09 Jul 2026 13:31:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/32461216/pexels-photo-32461216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Abhishek  Navlakha on Pexels"
+    },
+    {
+      "id": "2026-07-10-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "EU Parliament greenlights Chat Control 1.0",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "publishedAt": "Thu, 09 Jul 2026 11:03:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1536181783029-1097aaf179de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFVSUyMFBhcmxpYW1lbnQlMjBncmVlbmxpZ2h0cyUyMENoYXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzY3Mzk2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Frederic Köberl on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "publishedAt": "Thu, 09 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1634680722242-f8f5704ed3ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBudWNsZWFyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM2NzM5NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sergey Omelchenko on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Madison Square Garden Kept a List of Gay Celebrities",
+      "dek": "An MSG database tracked and categorized hundreds of celebs, famous Knicks superfans, and even some of Taylor Swift’s wedding guests. Labels included “LGBTQIA,” “DO NOT HOST,” and low to high “risk.”",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/",
+      "publishedAt": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589340666696-afe495ad7097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYWRpc29uJTIwU3F1YXJlJTIwR2FyZGVuJTIwS2VwdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNjczOTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chris Appano on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "dek": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "publishedAt": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwZW50ZXJzJTIwdGhlJTIwY3Jvd2RlZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNjczOTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+      "dek": "In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+      "publishedAt": "Thu, 09 Jul 2026 19:26:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1630871501726-2123c429bb37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGFybGVzJTIwSHVkc29uJTIwc2hhcmVzJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM2NzM5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Romello Morris on Unsplash"
+    },
+    {
+      "id": "2026-07-10-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Google will now disclose which ads are made with AI",
+      "dek": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "publishedAt": "Thu, 09 Jul 2026 18:40:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjB3aWxsJTIwbm93JTIwZGlzY2xvc2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4MzY3Mzk3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    }
+  ]
+}
