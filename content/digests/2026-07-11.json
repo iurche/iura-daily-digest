@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-11",
+  "heroStoryId": "2026-07-11-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-11-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large la",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "publishedAt": "Fri, 10 Jul 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-11.png",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
+      "dek": "Summer 2026 marks the 30th anniversary of Jay-Z’s debut Reasonable Doubt. To honor it, he put on a massive concert at Yankee Stadium—complete with performances from Beyoncé, Nas, and Alicia Keys.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
+      "publishedAt": "Sat, 11 Jul 2026 04:51:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782831821410-62499b8bce3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFeGNsdXNpdmUlM0ElMjBIb3clMjBKYXktWiUyMFB1bGxlZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNzU1NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "dek": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "publishedAt": "Sat, 11 Jul 2026 01:01:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1644701743457-d2160f05c6c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVUyUyMGN5YmVyc2VjdXJpdHklMjBhZ2VuY3klMjBDSVNBJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM3NTU1MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Aleksey Smagin on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Are you filthy enough for a $700 portable shower? ",
+      "dek": "A luxurious hot shower anywhere you go.\t\n\nHot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vag",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "publishedAt": "2026-07-11T07:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1633812482995-da94e20d9a55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcmUlMjB5b3UlMjBmaWx0aHklMjBlbm91Z2glMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mzc1NTUwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bekky Bekks on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Stop hiring for the résumé. Start hiring for obsession",
+      "dek": "Over the past four years, I’ve interviewed thousands of candidates and extended offers to about 40 people.\nI’m 27 years old and to this day, I have never been on the other side of the job interview. \nInstead, I’ve started two companies and successfully raised venture capital for both. Learning how t",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91570335/stop-hiring-for-the-resume-start-hiring-for-obsession",
+      "publishedAt": "2026-07-11T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1523537444585-432d2bacc10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdG9wJTIwaGlyaW5nJTIwZm9yJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM3NTU1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jose Aragones on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "China recovered its first reusable rocket and showed a new way to do it",
+      "dek": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+      "publishedAt": "Fri, 10 Jul 2026 21:41:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1735048002878-da85b65b96b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGluYSUyMHJlY292ZXJlZCUyMGl0cyUyMGZpcnN0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM3NTU1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zalfa Imani on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "publishedAt": "Fri, 10 Jul 2026 22:30:44 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFaW5zdGVpbiUyN3MlMjByZWxhdGl2aXR5JTIwcnVsZXMlMjBjaGVtaWNhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNzU1NTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Artturi Jalli on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Sperm donors need limits, says a European fertility group",
+      "dek": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "publishedAt": "Fri, 10 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1615852774622-f93373722353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGVybSUyMGRvbm9ycyUyMG5lZWQlMjBsaW1pdHMlMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mzc1NTUwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Stewart Munro on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "dek": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "publishedAt": "Sat, 11 Jul 2026 00:29:25 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6150645/pexels-photo-6150645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-07-11-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Meta removes controversial AI feature on Instagram after backlash",
+      "dek": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518196-f48a24b49fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwcmVtb3ZlcyUyMGNvbnRyb3ZlcnNpYWwlMjBBSSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzNzU1NTA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "dek": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "publishedAt": "Fri, 10 Jul 2026 17:11:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwbmV3JTIwYXBwJTJDJTIwSHlwZXJUZXh0aW5nJTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM3NTU1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-07-11-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "dek": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "publishedAt": "Fri, 10 Jul 2026 14:19:40 +0000",
+      "imageUrl": "https://images.pexels.com/photos/17614479/pexels-photo-17614479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Julio Lopez on Pexels"
+    }
+  ]
+}
