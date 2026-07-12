@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-12",
+  "heroStoryId": "2026-07-12-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-12-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Reed Jobs would rather talk about curing cancer than his last name",
+      "dek": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same wind",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "publishedAt": "Sun, 12 Jul 2026 00:16:06 +0000",
+      "imageUrl": "/images/heroes/2026-07-12.png",
+      "imageCredit": "Photo by Sasun Bughdaryan on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "dek": "More mint green synths please. | Image: Nopia\t\n\nAfter setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth firs",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "publishedAt": "2026-07-11T20:57:42.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1783438016473-860c80829bb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZnRlciUyMHllYXJzJTIwb2YlMjB0ZWFzaW5nJTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM4NDMwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "The new rules of leadership start with emotional intelligence",
+      "dek": "Leadership has never been easy. Today there are additional challenges that make it increasingly difficult. Rapidly changing workplaces, employee stress, generational conflict, hybrid work arrangements, and growing calls for transparency all add extra layers that leaders have to contend with. In the ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91570887/the-new-rules-of-leadership-start-with-emotional-intelligence",
+      "publishedAt": "2026-07-12T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1778082628826-ee95ac156660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBuZXclMjBydWxlcyUyMG9mJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM4NDMwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+      "dek": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/beatbot-aquasense-x/",
+      "publishedAt": "Sat, 11 Jul 2026 11:02:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6502023/pexels-photo-6502023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-07-12-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "dek": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "publishedAt": "Sat, 11 Jul 2026 11:11:26 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1606500307322-61cf2c98aab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPdmVyaGF1bCUyMG9mJTIwcHVibGljJTIwbGFuZHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mzg0MzAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matt Seymour on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Mesh LLM: distributed AI computing on iroh",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.iroh.computer/blog/mesh-llm",
+      "publishedAt": "Sat, 11 Jul 2026 22:38:57 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30767251/pexels-photo-30767251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Rostislav Uzunov on Pexels"
+    },
+    {
+      "id": "2026-07-12-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "This slushie machine was a lifesaver during NYC’s heat wave",
+      "dek": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja’s latest slushie machine builds on the popular",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+      "publishedAt": "Sat, 11 Jul 2026 22:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/12497795/pexels-photo-12497795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Matheus Bertelli on Pexels"
+    },
+    {
+      "id": "2026-07-12-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+      "dek": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and V",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+      "publishedAt": "2026-07-11T18:44:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1648508954156-5771f3ce3a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcmVnb24lRTIlODAlOTlzJTIwQXR0b3JuZXklMjBHZW5lcmFsJTIwd2l0aGRyYXdzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM4NDMwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kiril Aglichev on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "dek": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. A",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621976975813-10e88ae6e450?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGTCUyMFN0dWRpbyUyMGhlYWQlMjBDb25zdGFudGluJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM4NDMwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yassine Khalfalli on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Nintendo’s Talking Flower got a small price cut",
+      "dek": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with quip",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1631786806208-2152546d8bce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOaW50ZW5kbyVFMiU4MCU5OXMlMjBUYWxraW5nJTIwRmxvd2VyJTIwZ290JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODM4NDMwNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Iliya Jokic on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "dek": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+      "publishedAt": "2026-07-11T14:18:33.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1577942948749-a3dbb5c6db0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGl0ZSUyMEhvdXNlJTIwdGFwcyUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzgzODQzMDQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by René DeAnda on Unsplash"
+    },
+    {
+      "id": "2026-07-12-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "ICE are heavily armed killers. They’re also huge losers",
+      "dek": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nDonald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the fi",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1564841020170-a4f49f146c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJQ0UlMjBhcmUlMjBoZWF2aWx5JTIwYXJtZWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4Mzg0MzA0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Randy Laybourne on Unsplash"
+    }
+  ]
+}
