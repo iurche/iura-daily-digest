@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-15",
+  "heroStoryId": "2026-07-15-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-15-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: Claude’s inner workings, and the future of world models",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “in",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "publishedAt": "Tue, 14 Jul 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-15.png",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+      "dek": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+      "publishedAt": "Tue, 14 Jul 2026 22:08:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1605807357143-edd7bbfb1067?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBVSyUyMElzJTIwUGxhbm5pbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDEwMTczMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Maxim Hopman on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "dek": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklRTIlODAlOTlzJTIwZmlyc3QlMjBoYXJkd2FyZSUyMGRldmljZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTAxNzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Starlink’s V5 dish is now available — here’s how it compares",
+      "dek": "The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX\t\n\nSpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps u",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "publishedAt": "2026-07-15T07:17:27.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1702843431695-68282d907e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGFybGluayVFMiU4MCU5OXMlMjBWNSUyMGRpc2glMjBpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTAxNzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Evgeny Opanasenko on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "AI is doing the work. Are your leaders still doing the thinking?",
+      "dek": "AI has crossed a threshold. Organizations are no longer simply deploying artificial intelligence as a tool that helps people do their jobs. They are deploying AI as an actor that initiates, executes, and reports back—moving through decision loops that leaders used to own. The output is faster, more ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91571420/ai-is-doing-the-work-are-your-leaders-still-doing-the-thinking",
+      "publishedAt": "2026-07-15T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1737388771382-c3bb931d3832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGlzJTIwZG9pbmclMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDEwMTczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+      "dek": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+      "publishedAt": "Tue, 14 Jul 2026 22:09:31 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5821295/pexels-photo-5821295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrew Neel on Pexels"
+    },
+    {
+      "id": "2026-07-15-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "I tricked Claude into leaking your deepest, darkest secrets",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.ayush.digital/blog/the-memory-heist",
+      "publishedAt": "Wed, 15 Jul 2026 06:28:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1745426369212-ca53e971ab8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwdHJpY2tlZCUyMENsYXVkZSUyMGludG8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDEwMTczNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "dek": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "publishedAt": "Tue, 14 Jul 2026 08:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7059613/pexels-photo-7059613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Nothing Ahead on Pexels"
+    },
+    {
+      "id": "2026-07-15-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+      "dek": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+      "publishedAt": "Tue, 14 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4447137/pexels-photo-4447137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Aviz Media on Pexels"
+    },
+    {
+      "id": "2026-07-15-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+      "dek": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+      "publishedAt": "Tue, 14 Jul 2026 10:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/37136560/pexels-photo-37136560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Natalia Olivera on Pexels"
+    },
+    {
+      "id": "2026-07-15-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "dek": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "publishedAt": "Tue, 14 Jul 2026 19:42:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMG9wZW5zJTIwaXRzJTIwbmV3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQxMDE3Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-07-15-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Anthropic’s newest ad is creeping people out",
+      "dek": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlRTIlODAlOTlzJTIwbmV3ZXN0JTIwYWQlMjBpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTAxNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    }
+  ]
+}
