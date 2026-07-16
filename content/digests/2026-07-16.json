@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-16",
+  "heroStoryId": "2026-07-16-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-16-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "dek": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "publishedAt": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "imageUrl": "/images/heroes/2026-07-16.png",
+      "imageCredit": "Photo by Emiliano Vittoriosi on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "dek": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbiUyMEludmVudG9yJTIwb2YlMjBBcHBsZSVFMiU4MCU5OXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDE4ODQxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amit Lahav on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "dek": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1715259247830-67e90c88a1d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbWlkJTIwaGFyZHdhcmUlMjBsZWdhbCUyMGJhdHRsZSUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTg4NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+      "dek": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedica",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/5269726/pexels-photo-5269726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Harvey Tan Villarino on Pexels"
+    },
+    {
+      "id": "2026-07-16-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "When not to use AI at work",
+      "dek": "Companies are investing a lot of money in AI resources right now in the hope that it will enhance people’s performance and make organizations function more efficiently. Because of the size of the investment, there is pressure for people to engage with artificial intelligence in as many tasks as poss",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91571985/when-not-to-use-ai-at-work",
+      "publishedAt": "2026-07-16T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1564572890966-93ca09694117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGVuJTIwbm90JTIwdG8lMjB1c2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDE4ODQxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "In memoriam: 7 of our favorite Sam Neill films",
+      "dek": "The actor, who starred in 1993's Jurassic Park, died Monday in Sydney, Australia, at the age of 78.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+      "publishedAt": "Wed, 15 Jul 2026 18:39:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774872160295-a2c5a5123ea2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbiUyMG1lbW9yaWFtJTNBJTIwNyUyMG9mJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQxODg0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Haberdoedas on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The lost joy of music piracy",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "publishedAt": "Thu, 16 Jul 2026 04:46:21 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1540542608259-5be832201790?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBsb3N0JTIwam95JTIwb2YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDE4ODQxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tim Mossholder on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "publishedAt": "Wed, 15 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774636815965-985e74eb51e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjB1c2VmdWwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDE4ODQxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Apple bans home services from its upcoming Maps ads",
+      "dek": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "publishedAt": "Wed, 15 Jul 2026 18:21:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1615725802642-936d9aade2ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGJhbnMlMjBob21lJTIwc2VydmljZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDE4ODQxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jimmy Jin on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "dek": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "publishedAt": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1582374525731-63789a7db949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0bm90JTIwYWNxdWlyZXMlMjBTaGFwZWQlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTg4NDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kevin Grieve on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "dek": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others.   On this episod",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "publishedAt": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643431772-dc4ef4bbb8cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbnNpZGUlMjBPZGUlMjB3aXRoJTIwQW50aHJvcGljJTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQxODg0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-16-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "dek": "HP’s convertible OmniBook has a great feature set for the price. | Image: HP\t\n\nWith storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usua",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+      "publishedAt": "2026-07-15T22:47:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1663354027456-ce6a7e07d212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIUCUyNiUyMzgyMTclM0JzJTIwT0xFRC1lcXVpcHBlZCUyMDItaW4tMSUyMGxhcHRvcCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0MTg4NDIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrey Matveev on Unsplash"
+    }
+  ]
+}
