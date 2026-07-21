@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-21",
+  "heroStoryId": "2026-07-21-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-21-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "China’s AI models have Trump’s AI world at war with itself",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "publishedAt": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-21.png",
+      "imageCredit": "Photo by Road Ahead on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "dek": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "publishedAt": "Mon, 20 Jul 2026 15:01:20 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1719253481072-5579e62d0a3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIYWNrZXJzJTIwc3RvbGUlMjAlRTIlODAlOThzaWduaWZpY2FudCVFMiU4MCU5OSUyMGFtb3VudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0NjIxMTU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "dek": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monda",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "publishedAt": "2026-07-20T22:19:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXJlJTIwYXJlJTIwdGhlJTIwMzAlMkMwMDAlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDYyMTE1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "I left Amazon to buy a printing company. It was the best career move I ever made",
+      "dek": "After joining Amazon as a product leader in 2022, I saw a series of layoffs and return-to-office mandates over the following three years that made any semblance of presence in home life impossible. The tech industry layoffs disproportionately impacted women, and the workers that remained struggled i",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91573332/i-left-amazon-to-buy-a-printing-company-it-was-the-best-career-move-i-ever-made",
+      "publishedAt": "2026-07-21T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1649734926695-1b1664e98842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwbGVmdCUyMEFtYXpvbiUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ2MjExNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "dek": "Directly added to your Samsung Wallet account, it’s yet another cash-back credit card, this time tailored for Samsung stans.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+      "publishedAt": "Mon, 20 Jul 2026 21:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1610209455607-89e8b3e0e393?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBHYWxheHklMjBDYXJkJTIwSXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDYyMTE1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniele Levis Pelusi on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+      "dek": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "publishedAt": "Mon, 20 Jul 2026 20:30:25 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1592561199818-6b69d3d1d6e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBTcGFjZSUyMEZvcmNlJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDYyMTE1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Monica Garniga on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Incremental – A library for incremental computations",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/janestreet/incremental",
+      "publishedAt": "Tue, 21 Jul 2026 03:50:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbmNyZW1lbnRhbCUyMCVFMiU4MCU5MyUyMEElMjBsaWJyYXJ5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ2MjExNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Susan Q Yin on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: AI hiring biases, and weather data sabotage",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "publishedAt": "Mon, 20 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762330466678-45b42e02f5a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFJJTIwaGlyaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ2MjExNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "AI is more likely than humans to form biases when hiring",
+      "dek": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "publishedAt": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGlzJTIwbW9yZSUyMGxpa2VseSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0NjIxMTYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "dek": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Mon, 20 Jul 2026 14:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5955103/pexels-photo-5955103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Theo  Decker on Pexels"
+    },
+    {
+      "id": "2026-07-21-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community ",
+      "dek": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "publishedAt": "Mon, 20 Jul 2026 12:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1567794917855-763b774c12ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdHJpY3RseVZDJTIwcmV0dXJucyUyMHRvJTIwTmV3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ2MjExNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tjeerd Braat on Unsplash"
+    },
+    {
+      "id": "2026-07-21-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The FCC is planning to retroactively ban disguised DJI gadgets",
+      "dek": "The Skyrover X1 vs the DJI Mini 4 Pro. | Image: AirPhotography\t\n\nLast October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+      "publishedAt": "2026-07-20T22:16:14.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBGQ0MlMjBpcyUyMHBsYW5uaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ2MjExNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by 0xk on Unsplash"
+    }
+  ]
+}
