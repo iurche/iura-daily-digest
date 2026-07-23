@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-23",
+  "heroStoryId": "2026-07-23-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-23-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the en",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "publishedAt": "Wed, 22 Jul 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-23.png",
+      "imageCredit": "Photo by AK on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Social media addiction lawsuit against Meta is dropped",
+      "dek": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "publishedAt": "Wed, 22 Jul 2026 20:36:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1579869847557-1f67382cc158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb2NpYWwlMjBtZWRpYSUyMGFkZGljdGlvbiUyMGxhd3N1aXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDc5NDE2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by dole777 on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+      "dek": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. \nNow, he's helped the company create a $200 Donkey Kong arcade mach",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+      "publishedAt": "2026-07-23T00:30:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/17122728/pexels-photo-17122728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Mao Batista on Pexels"
+    },
+    {
+      "id": "2026-07-23-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Motherhood makes women more creative. So why do we chase moms out of the workplace?",
+      "dek": "Most women have heard the stereotypes about “mom brain”: According to conventional wisdom, mothers—especially new mothers—neurologically reorient around their children, leaving their minds foggy and forgetful. Never mind putting them on that big project at work. (They’ll be lucky if they can find th",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91577883/motherhood-makes-women-more-creative-so-why-do-we-chase-moms-out-of-the-workplace",
+      "publishedAt": "2026-07-23T06:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1593444285833-b243627a7cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3RoZXJob29kJTIwbWFrZXMlMjB3b21lbiUyMG1vcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDc5NDE2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Why Lettuce Is Always Making People Sick",
+      "dek": "The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part of a pattern of leafy greens wreaking digestive havoc.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+      "publishedAt": "Wed, 22 Jul 2026 21:41:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1640958904159-51ae08bd3412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBMZXR0dWNlJTIwSXMlMjBBbHdheXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDc5NDE2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gabriel Mihalcea on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Orcas team up to ram sunfish until they explode",
+      "dek": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+      "publishedAt": "Thu, 23 Jul 2026 04:00:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1624807903172-57c657c75fdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcmNhcyUyMHRlYW0lMjB1cCUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ3OTQxNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Iewek Gnos on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "publishedAt": "Wed, 22 Jul 2026 17:30:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZXJlbmNlJTIwVGFvJTI3cyUyMENoYXRHUFQlMjBjb252ZXJzYXRpb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDc5NDE3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Levart_Photographer on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "dek": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "publishedAt": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1620416265040-cc777cad1883?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTaGFwZS1zaGlmdGluZyUyMG1pcnJvcnMlMjBvbiUyME5BU0ElRTIlODAlOTlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ3OTQxNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Михаил Секацкий on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "dek": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "publishedAt": "Wed, 22 Jul 2026 19:42:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1523365041139-b12e329fa49b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb3VuZENsb3VkJTIwYWNxdWlyZXMlMjBkZWNlbnRyYWxpemVkJTIwbXVzaWMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDc5NDE3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rachit Tank on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "dek": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781444504181-e2cd9e19f37e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBPcGVuQUklRTIlODAlOTlzJTIwaHVtYW4lMjBtaXN0YWtlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ3OTQxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-23-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "dek": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "publishedAt": "Wed, 22 Jul 2026 18:13:58 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8926556/pexels-photo-8926556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Thirdman on Pexels"
+    },
+    {
+      "id": "2026-07-23-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "dek": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic’s $500M Series ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "publishedAt": "Wed, 22 Jul 2026 18:02:57 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4534092/pexels-photo-4534092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by ArtHouse Studio on Pexels"
+    }
+  ]
+}
