@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-24",
+  "heroStoryId": "2026-07-24-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-24-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "dek": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "publishedAt": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "imageUrl": "/images/heroes/2026-07-24.png",
+      "imageCredit": "Photo by Robina Weermeijer on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "An FDA Panel Just Endorsed These Unproven Peptides",
+      "dek": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+      "publishedAt": "Thu, 23 Jul 2026 23:45:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729671318307-83204b416b30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbiUyMEZEQSUyMFBhbmVsJTIwSnVzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0ODgwMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Patreon lays off 20% of its workforce",
+      "dek": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "publishedAt": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "imageUrl": "https://images.pexels.com/photos/1339865/pexels-photo-1339865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Magda Ehlers on Pexels"
+    },
+    {
+      "id": "2026-07-24-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "dek": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "publishedAt": "2026-07-23T21:15:06.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1643323236053-d3a3581a423b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbGV4YSUyMFBsdXMlMjBpcyUyMGdldHRpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDg4MDMzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Johannes Blenke on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "There’s a new workforce crisis and it isn’t burnout",
+      "dek": "Something strange is happening in offices and on video calls right now. By almost every visible measure, people are still showing up and doing their work. They are nodding along in meetings and occasionally unmuting to say it sounds great. And underneath all that motion, a growing number of them hav",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91577182/theres-a-new-workforce-crisis-and-it-isnt-burnout",
+      "publishedAt": "2026-07-24T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1709985532799-92d35afb7593?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVyZSVFMiU4MCU5OXMlMjBhJTIwbmV3JTIwd29ya2ZvcmNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ4ODAzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Boston Public Library on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "dek": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "publishedAt": "Thu, 23 Jul 2026 20:47:33 +0000",
+      "imageUrl": "https://images.pexels.com/photos/971325/pexels-photo-971325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Zain Ali on Pexels"
+    },
+    {
+      "id": "2026-07-24-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Flux 3",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://bfl.ai/blog/flux-3",
+      "publishedAt": "Fri, 24 Jul 2026 06:17:08 +0000",
+      "imageUrl": "https://images.pexels.com/photos/12939554/pexels-photo-12939554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Steve A Johnson on Pexels"
+    },
+    {
+      "id": "2026-07-24-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: energy transmission and US threats against Chinese AI",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "publishedAt": "Thu, 23 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1626345396353-2e1b6ab6b4f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGVuZXJneSUyMHRyYW5zbWlzc2lvbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0ODgwMzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anja van de Gronde on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "How AI helps scientists design the next generation of medicines",
+      "dek": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "publishedAt": "Thu, 23 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBBSSUyMGhlbHBzJTIwc2NpZW50aXN0cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg0ODgwMzM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The power line that could reshape New York’s grid is hitting snags",
+      "dek": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "publishedAt": "Thu, 23 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1509390559807-3144e7d29097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBwb3dlciUyMGxpbmUlMjB0aGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ4ODAzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by American Public Power Association on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
+      "dek": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
+      "publishedAt": "Thu, 23 Jul 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBUcnVtcCUyMEFkbWluaXN0cmF0aW9uJTIwV2FudHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NDg4MDMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-07-24-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "‘The Child Is Terrified’: Measles Doctors Speak Out",
+      "dek": "Hear from six pediatricians in measles hot spot Utah, as the US faces infection levels not seen in over three decades and prepares to lose its status as a country that eliminated the dangerous disease.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/",
+      "publishedAt": "Thu, 23 Jul 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1483193722442-5422d99849bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwlRTIlODAlOThUaGUlMjBDaGlsZCUyMElzJTIwVGVycmlmaWVkJUUyJTgwJTk5JTNBJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODQ4ODAzMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Caleb Woods on Unsplash"
+    }
+  ]
+}
