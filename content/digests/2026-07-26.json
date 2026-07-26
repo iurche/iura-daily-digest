@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-26",
+  "heroStoryId": "2026-07-26-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-26-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Google basically confirms the Pixel 11 is getting a price hike",
+      "dek": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "publishedAt": "2026-07-25T18:13:36.000Z",
+      "imageUrl": "/images/heroes/2026-07-26.png",
+      "imageCredit": "Photo by Pawel Czerwinski on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The invisible tax that might be holding back your startup",
+      "dek": "In most companies, tension between co-founders is treated as a personal issue. It’s uncomfortable, it may affect morale, and in extreme cases, it can become a governance concern, but it is rarely treated as a core business risk. I believe that is a mistake.\nIn high-growth companies, the co-founder r",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91577885/the-invisible-tax-that-might-be-holding-back-your-startup",
+      "publishedAt": "2026-07-26T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBpbnZpc2libGUlMjB0YXglMjB0aGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUwNTMxNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+      "dek": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+      "publishedAt": "Sat, 25 Jul 2026 11:06:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1700887941013-a10f64633fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDcmljdXQlMjBFeHBsb3JlJTIwNSUyMHZzLiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MDUzMTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kelsey Todd on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "dek": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1691097097192-03866b391c97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb25kYXkuY29tJTIwaXMlMjB0aGUlMjBsYXRlc3QlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTA1MzE2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kelly Sikkema on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "dek": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "publishedAt": "Sat, 25 Jul 2026 20:52:30 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1654999084215-1c35f5b7dc37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTRENDJTIwdGVhc2VyJTIwZ2l2ZXMlMjB1cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MDUzMTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Emmanuel Phaeton on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "A shell colon does nothing. Use it anyway",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "publishedAt": "Sat, 25 Jul 2026 13:33:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646353320779-ba853e00a03e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwc2hlbGwlMjBjb2xvbiUyMGRvZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTA1MzE2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ricardo Díaz on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Synth historian Oli Freke will spend big on a good bicycle",
+      "dek": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesize",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "publishedAt": "2026-07-25T15:15:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1600148272607-7bbf03a40d3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTeW50aCUyMGhpc3RvcmlhbiUyME9saSUyMEZyZWtlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUwNTMxNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ryunosuke Kikuno on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Teenage Engineering’s unique music machines are 30 percent off",
+      "dek": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge\t\n\nWith elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are c",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "publishedAt": "2026-07-25T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559819645-2b8cd9be979f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZWVuYWdlJTIwRW5naW5lZXJpbmclRTIlODAlOTlzJTIwdW5pcXVlJTIwbXVzaWMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTA1MzE2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Warner Bros. is suing Amazon for poaching employees",
+      "dek": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-established Hollywood mainstays,\" and that i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+      "publishedAt": "2026-07-25T14:05:12.000Z",
+      "imageUrl": "https://images.pexels.com/photos/9308206/pexels-photo-9308206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Adriano Calleja on Pexels"
+    },
+    {
+      "id": "2026-07-26-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Is this e-reader case a gun?",
+      "dek": "Is an e-reader case as dangerous as a Glock 19? \nLast month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a cutout on the side to ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+      "publishedAt": "2026-07-25T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJcyUyMHRoaXMlMjBlLXJlYWRlciUyMGNhc2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTA1MzE3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "What Surrounds Us will make you think a lot about circles",
+      "dek": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map that's composed entirely of, ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1653558148655-af4633794c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwU3Vycm91bmRzJTIwVXMlMjB3aWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUwNTMxNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Thomas Oxford on Unsplash"
+    },
+    {
+      "id": "2026-07-26-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Folding and flipping phones are getting seriously good",
+      "dek": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Google Zero and armored cars for rich peop",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "publishedAt": "2026-07-25T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1731909008517-e8ece183974d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGb2xkaW5nJTIwYW5kJTIwZmxpcHBpbmclMjBwaG9uZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTA1MzE3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amanz on Unsplash"
+    }
+  ]
+}
