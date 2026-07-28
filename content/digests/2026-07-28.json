@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-28",
+  "heroStoryId": "2026-07-28-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-28-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "publishedAt": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-07-28.png",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "dek": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1741275271469-8f5be530a88c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTYXR5YSUyME5hZGVsbGElMjBzYXlzJTIwY29tcGFuaWVzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUyMjYzNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by EqualStock on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "X Money is launching in the US starting today",
+      "dek": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+      "publishedAt": "2026-07-27T22:10:18.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1690138871287-02b2fc3b87c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYJTIwTW9uZXklMjBpcyUyMGxhdW5jaGluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MjI2MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alexander Shatov on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "How ‘wildflowering’ at work could lead to promotions",
+      "dek": "You might have heard the term “wildflowering” in the dating world. According to a piece in Psychology Today, it “means allowing a relationship to either wilt or bloom completely organically without enforcing any particular timelines, labels, or expectations.” In other words, it’s the idea of letting",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91577986/how-wildflowering-at-work-could-lead-to-promotions",
+      "publishedAt": "2026-07-28T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1590493071119-d00ecd80d418?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjAlRTIlODAlOTh3aWxkZmxvd2VyaW5nJUUyJTgwJTk5JTIwYXQlMjB3b3JrJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUyMjYzNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mathias Reding on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "dek": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "publishedAt": "Mon, 27 Jul 2026 21:56:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjB1bnZlaWxzJTIwQUklMjBzZWN1cml0eSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MjI2MzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "7.1 Earthquake in Japan",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "publishedAt": "Tue, 28 Jul 2026 07:44:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1761264046350-dfe462ed8e05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw3LjElMjBFYXJ0aHF1YWtlJTIwaW4lMjBKYXBhbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MjI2MzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Avi Varma on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "How lasers could help provide fuel for nuclear reactors",
+      "dek": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "publishedAt": "Mon, 27 Jul 2026 14:24:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1610332262984-c4b37b09bf8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBsYXNlcnMlMjBjb3VsZCUyMGhlbHAlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTIyNjM3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Artem Bryzgalov on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "publishedAt": "Mon, 27 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1610332262984-c4b37b09bf8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGxhc2VycyUyMGZvciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MjI2Mzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Artem Bryzgalov on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The path to artificial superintelligence",
+      "dek": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "publishedAt": "Mon, 27 Jul 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1770233621425-5d9ee7a0a700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBwYXRoJTIwdG8lMjBhcnRpZmljaWFsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUyMjYzNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Closing the data loop in AI-driven drug discovery",
+      "dek": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "publishedAt": "Mon, 27 Jul 2026 11:40:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1667372283545-1261fb5c427a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDbG9zaW5nJTIwdGhlJTIwZGF0YSUyMGxvb3AlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTIyNjM3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
+    },
+    {
+      "id": "2026-07-28-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Building the enterprise environment for agentic AI",
+      "dek": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "publishedAt": "Mon, 27 Jul 2026 11:32:58 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1623086381982-6fad9ea88833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHRoZSUyMGVudGVycHJpc2UlMjBlbnZpcm9ubWVudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1MjI2Mzc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    }
+  ]
+}
