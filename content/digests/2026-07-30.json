@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-30",
+  "heroStoryId": "2026-07-30-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-07-30-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "How an overlooked geothermal plant got a second chance",
+      "dek": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "publishedAt": "Wed, 29 Jul 2026 17:58:44 +0000",
+      "imageUrl": "/images/heroes/2026-07-30.png",
+      "imageCredit": "Photo by Jason Mavrommatis on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "dek": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "publishedAt": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBsb2dzJTIwJTI0My4yQiUyMGZyb20lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTM5ODcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "dek": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year.\n\"Copilot is evolving rapidly from ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "publishedAt": "2026-07-29T22:17:38.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBjb25maXJtcyUyMENvcGlsb3QlMjAlRTIlODAlOThzdXBlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1Mzk4NzI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Gen Z women are having an entrepreneurship boom",
+      "dek": "Gen Z women are having a moment when it comes to business. \nAccording to new findings, the youngest generation of working women are founding businesses more than women in other age groups. \nThe data comes from a Gusto survey released this month of more than 1,000 business owners (men and women) who ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91578209/gen-z-women-are-having-an-entrepreneurship-boom",
+      "publishedAt": "2026-07-30T07:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1632312045004-494c905db7d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZW4lMjBaJTIwd29tZW4lMjBhcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTM5ODcyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matheus G.O on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "50% Off DoorDash Promo Code | August 2026",
+      "dek": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/doordash-promo-code/",
+      "publishedAt": "Thu, 30 Jul 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7986987/pexels-photo-7986987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Tamanna Rumee on Pexels"
+    },
+    {
+      "id": "2026-07-30-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "dek": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "publishedAt": "Wed, 29 Jul 2026 22:07:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1773335796044-372d4de93a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNeXRob3MlMjBhdHRhY2slMjBvbiUyMDNyZC1yb3VuZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1Mzk4NzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "AI's top startups are barely publishing their research",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "publishedAt": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1750365919971-7dd273e7b317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyN3MlMjB0b3AlMjBzdGFydHVwcyUyMGFyZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1Mzk4NzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Omar:. Lopez-Rincon on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a chip talent battle, and deflating AI hype",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clockin",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "publishedAt": "Wed, 29 Jul 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1604565011092-c0fa4416f80f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBjaGlwJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUzOTg3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by GR Stocks on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The AI Hype Index: Unsexy AI",
+      "dek": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "publishedAt": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBBSSUyMEh5cGUlMjBJbmRleCUzQSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1Mzk4NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Waymo robotaxis are starting to return to freeways",
+      "dek": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+      "publishedAt": "Wed, 29 Jul 2026 17:50:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694729101068-a2c621f877b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXYXltbyUyMHJvYm90YXhpcyUyMGFyZSUyMHN0YXJ0aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUzOTg3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by gibblesmash asdf on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "dek": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "publishedAt": "Wed, 29 Jul 2026 15:36:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782189752402-4a80e8cca57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbG9uJTIwTXVzayVFMiU4MCU5OXMlMjBYJTIwc2V0dGxlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1Mzk4NzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-07-30-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "dek": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729240100637-121dff881553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIaW50JTJDJTIwYSUyMG5ldyUyMEFJJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODUzOTg3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    }
+  ]
+}
