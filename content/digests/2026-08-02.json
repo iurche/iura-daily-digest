@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-02",
+  "heroStoryId": "2026-08-02-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-02-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "dek": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "publishedAt": "Sat, 01 Aug 2026 10:30:00 +0000",
+      "imageUrl": "/images/heroes/2026-08-02.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "dek": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "publishedAt": "Sat, 01 Aug 2026 15:05:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1657947953120-6e5201f3b3ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVYmVyJTIwaXMlMjBidWlsZGluZyUyMGFuJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODU2NTc3Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mariia Shalabaieva on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Pixel 11 specs and price leak with no surprises",
+      "dek": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB of",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "publishedAt": "2026-08-01T21:31:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1724341039339-036842055cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQaXhlbCUyMDExJTIwc3BlY3MlMjBhbmQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Samuel Angor on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The after-hours advantage: Why your life outside of work matters",
+      "dek": "In a world where AI is taking on an increasing share of repetitive tasks, there’s a higher premium on the unique perspective, identities, and experiences that knowledge workers bring to their jobs from outside of work. However, Americans are participating less in the activities that enrich these att",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91582081/the-after-hours-advantage-why-your-life-outside-of-work-matters",
+      "publishedAt": "2026-08-02T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1624915342872-ee14e5766e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBhZnRlci1ob3VycyUyMGFkdmFudGFnZSUzQSUyMFdoeSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1NjU3Nzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Yarema on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "dek": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "publishedAt": "Sat, 01 Aug 2026 18:20:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1581094488379-6a10d04c0f04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXJlJTI3cyUyMGhvdyUyMGVuZ2luZWVycyUyMHBsYW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by ThisisEngineering on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Go 1.27 Interactive Tour",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "publishedAt": "Sun, 02 Aug 2026 01:35:51 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1603699772478-fbf1648bffa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHbyUyMDEuMjclMjBJbnRlcmFjdGl2ZSUyMFRvdXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Catherine Avak on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "dek": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "publishedAt": "Sat, 01 Aug 2026 09:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Solen Feyissa on Pexels"
+    },
+    {
+      "id": "2026-08-02-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Angela Nissel faces down grief with a laugh",
+      "dek": "Angela Nissel smiles through the pain. | Image: Angela Nissel\t\n\nAngela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+      "publishedAt": "2026-08-01T20:15:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1743780251902-0b6e02bd0bad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbmdlbGElMjBOaXNzZWwlMjBmYWNlcyUyMGRvd24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ezgi Deliklitas on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Is this Billboard Hot 100 hit AI slop?",
+      "dek": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, thoug",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "publishedAt": "2026-08-01T18:20:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612332883331-e8ea07a15f14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJcyUyMHRoaXMlMjBCaWxsYm9hcmQlMjBIb3QlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gennifer Miller on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Spider-Man: Brand New Day leak racks up millions of views",
+      "dek": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+      "publishedAt": "2026-08-01T17:00:12.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGlkZXItTWFuJTNBJTIwQnJhbmQlMjBOZXclMjBEYXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Erik Mclean on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
+      "dek": "Donald Trump speaks during the House Republican Party member retreat. | Image: Mandel NGAN / AFP via Getty Images\t\n\nThe FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
+      "publishedAt": "2026-08-01T15:23:35.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcnVtcCUyMGJsYW1lcyUyMFRpbSUyMFdhbHolMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTY1Nzc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-08-02-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The Verge’s 2026 back-to-school shopping guide",
+      "dek": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shoppi",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+      "publishedAt": "2026-08-01T14:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/8500353/pexels-photo-8500353.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by RDNE Stock project on Pexels"
+    }
+  ]
+}
