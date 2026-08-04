@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-04",
+  "heroStoryId": "2026-08-04-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-04-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Trump’s AI protectionism has come for robotics",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "imageUrl": "/images/heroes/2026-08-04.png",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "dek": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "publishedAt": "Mon, 03 Aug 2026 19:45:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1635627013734-f66718a70c7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaG8lRTIlODAlOTlzJTIwbGVnYWxseSUyMHRvJTIwYmxhbWUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTgzMTM5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dulcey Lima on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "dek": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1580251645806-239f4df8ce13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBzdHVkaW8lMjBiZWhpbmQlMjBQb2slQzMlQTltb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTgzMTM5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dyana Wing So on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The power of good enough",
+      "dek": "I’m not sure about you, but I think I’ve had enough of trying to optimize everything.\nA few days ago I saw one post on LinkedIn giving me 8 Simple Ways to Start a Business. I let out a sigh. Then less than a minute later, another post, 6 Simple Steps to Improve My Life. I thought my life was alright",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91584258/the-power-of-good-enough",
+      "publishedAt": "2026-08-04T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1733731072001-48875b9bc631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBwb3dlciUyMG9mJTIwZ29vZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1ODMxMzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "dek": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "publishedAt": "Mon, 03 Aug 2026 16:10:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1556155304-28f97c2c4c62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyMDI2JTIwVm9sa3N3YWdlbiUyMEpldHRhJTIwU3BvcnQlM0ElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTgzMTQwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by sgcdesignco on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "LLMs reward expertise",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "publishedAt": "Mon, 03 Aug 2026 21:13:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762330464720-d77f2614f1b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMTE1zJTIwcmV3YXJkJTIwZXhwZXJ0aXNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODU4MzE0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sa",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "publishedAt": "Mon, 03 Aug 2026 12:08:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1719253481072-5579e62d0a3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHJld2FyZCUyMGhhY2tpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTgzMTQwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
+      "dek": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+      "publishedAt": "Mon, 03 Aug 2026 11:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1741326757602-186060c5d5b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCZXN0JTIwUm9ib3QlMjBMYXduJTIwTW93ZXJzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODU4MzE0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yarbo Global on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "dek": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1505009258427-29298f4dc5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJQ0UlMjBDb2xsZWN0ZWQlMjBOZWFybHklMjAxJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODU4MzE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Scott Rodgerson on Unsplash"
+    },
+    {
+      "id": "2026-08-04-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "dek": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "publishedAt": "Mon, 03 Aug 2026 18:43:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1615725802642-936d9aade2ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMGZpbmFsbHklMjBmaXhlZCUyMFNpcmkuJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODU4MzE0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jimmy Jin on Unsplash"
+    }
+  ]
+}
