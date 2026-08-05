@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-05",
+  "heroStoryId": "2026-08-05-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-05-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell  Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite a",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "publishedAt": "Tue, 04 Aug 2026 12:14:00 +0000",
+      "imageUrl": "/images/heroes/2026-08-05.png",
+      "imageCredit": "Photo by Daniel on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Mistral Is in the Right Place at the Right Time",
+      "dek": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "publishedAt": "Tue, 04 Aug 2026 09:21:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1717505694141-ada870f2bb95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaXN0cmFsJTIwSXMlMjBpbiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "dek": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "publishedAt": "Tue, 04 Aug 2026 20:26:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbmRyb2lkJTIwYXBwJTIwZGV2ZWxvcGVycyUyMG1heSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Denny Müller on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Ted Lasso returns at an important time for Apple TV",
+      "dek": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important rele",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/38849509/pexels-photo-38849509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Deb Hayes on Pexels"
+    },
+    {
+      "id": "2026-08-05-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Wieden+Kennedy CEO Neal Arthur says every leader needs to understand the customer",
+      "dek": "For decades, Wieden+Kennedy has defined the brands that shape culture. Now, as economic uncertainty, AI, and shifting consumer expectations rewrite the rules of business, CEO Neal Arthur breaks down why understanding your audience is no longer just the marketing team’s job. He shares what today’s mo",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91585092/wiedenkennedy-ceo-neal-arthur-says-every-leader-needs-to-understand-the-customer",
+      "publishedAt": "2026-08-05T04:11:00",
+      "imageUrl": "https://images.pexels.com/photos/3760376/pexels-photo-3760376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrea Piacquadio on Pexels"
+    },
+    {
+      "id": "2026-08-05-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
+      "dek": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+      "publishedAt": "Tue, 04 Aug 2026 16:11:05 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6901037/pexels-photo-6901037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Zain Ali on Pexels"
+    },
+    {
+      "id": "2026-08-05-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "The Golden Age of British Ice Cream",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "publishedAt": "Tue, 04 Aug 2026 18:25:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1778424242390-8f56d3c9ac26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBHb2xkZW4lMjBBZ2UlMjBvZiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jametlene Reskp on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+      "dek": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "publishedAt": "Tue, 04 Aug 2026 16:27:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1624969862644-791f3dc98927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIYWNrZXJzJTIwc3RlYWwlMjBvdmVyJTIwJTI0MTMwTSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Towfiqu barbhuiya on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Spotify expands AI remix and covers project with Merlin partnership",
+      "dek": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "publishedAt": "Tue, 04 Aug 2026 15:50:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1643208589896-07b8feb4dffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcG90aWZ5JTIwZXhwYW5kcyUyMEFJJTIwcmVtaXglMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NTkxNzY2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Thibault Penin on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Texas halts new data centers as governor calls for audits",
+      "dek": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "publishedAt": "Tue, 04 Aug 2026 15:42:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1599669261427-ed90056fb852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMGhhbHRzJTIwbmV3JTIwZGF0YSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Courtney Rose on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
+      "dek": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
+      "publishedAt": "Tue, 04 Aug 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1759629641995-75112252a829?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3N0JTIwYSUyMFNpZGUlMjBFdmVudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brad on Unsplash"
+    },
+    {
+      "id": "2026-08-05-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+      "dek": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+      "publishedAt": "2026-08-05T06:50:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBpcyUyMGNvbWluZyUyMGZvciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg1OTE3NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    }
+  ]
+}
