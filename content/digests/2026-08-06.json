@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-06",
+  "heroStoryId": "2026-08-06-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-06-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Puzzle Corner",
+      "dek": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "publishedAt": "Wed, 05 Aug 2026 14:56:29 +0000",
+      "imageUrl": "/images/heroes/2026-08-06.png",
+      "imageCredit": "Photo by Yan Krukau on Pexels"
+    },
+    {
+      "id": "2026-08-06-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Hungryroot Coupon Codes: 30% Off This August",
+      "dek": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hungryroot-promo-code/",
+      "publishedAt": "Thu, 06 Aug 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5650045/pexels-photo-5650045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by https://kaboompics.com/ on Pexels"
+    },
+    {
+      "id": "2026-08-06-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Why Lightspeed is going all-in on creator-led venture capital",
+      "dek": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own n",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "publishedAt": "Wed, 05 Aug 2026 20:48:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1517026575980-3e1e2dedeab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjBMaWdodHNwZWVkJTIwaXMlMjBnb2luZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MDAzOTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chris Liverani on Unsplash"
+    },
+    {
+      "id": "2026-08-06-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "dek": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three month",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "publishedAt": "2026-08-06T00:25:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1782189752402-4a80e8cca57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbG9uJTIwTXVzayUyNiUyMzgyMTclM0JzJTIwYXR0ZW1wdCUyMGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwMDM5Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-08-06-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Your smartphone is changing your body. Doctors say most people don’t know it’s happening",
+      "dek": "Ask most people what their phone is costing them, and they’ll point to their attention or sleep. But research suggests the cost may also be physical.\nDoctors are now using the informal term “phone body” to describe changes that follow years of hunching, squinting, and scrolling.\nOn average, American",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91582916/smartphones-are-changing-your-body",
+      "publishedAt": "2026-08-06T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIwc21hcnRwaG9uZSUyMGlzJTIwY2hhbmdpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjAwMzk4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rodion Kutsaiev on Unsplash"
+    },
+    {
+      "id": "2026-08-06-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "EVgo starts building Tesla Superchargers under license",
+      "dek": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+      "publishedAt": "Wed, 05 Aug 2026 17:00:38 +0000",
+      "imageUrl": "https://images.pexels.com/photos/2449452/pexels-photo-2449452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Craig Adderley on Pexels"
+    },
+    {
+      "id": "2026-08-06-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Crime Pays but Botany Doesn't",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "publishedAt": "Thu, 06 Aug 2026 04:46:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1612620486050-1462932b56e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDcmltZSUyMFBheXMlMjBidXQlMjBCb3RhbnklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjAwMzk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Annie Spratt on Unsplash"
+    },
+    {
+      "id": "2026-08-06-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from K",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "publishedAt": "Wed, 05 Aug 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1649605551190-b2d000522e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyME5BU0ElRTIlODAlOTlzJTIwbmV3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwMDM5ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by AK on Unsplash"
+    },
+    {
+      "id": "2026-08-06-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Sealy Promo Codes: $100 Off",
+      "dek": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/sealy-promo-code/",
+      "publishedAt": "Thu, 06 Aug 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7957749/pexels-photo-7957749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Tamanna Rumee on Pexels"
+    },
+    {
+      "id": "2026-08-06-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+      "dek": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in a shocking number of systems across the globe.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "publishedAt": "Wed, 05 Aug 2026 23:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwU2VjdXJpdHklMjBQcm8lMjBIYWNrZWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjAwMzk4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by FlyD on Unsplash"
+    }
+  ]
+}
