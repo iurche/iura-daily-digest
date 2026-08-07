@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-07",
+  "heroStoryId": "2026-08-07-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-07-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmur",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "publishedAt": "Thu, 06 Aug 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-08-07.png",
+      "imageCredit": "Photo by Shutter Speed on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+      "dek": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+      "publishedAt": "Thu, 06 Aug 2026 19:30:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1738944910306-14cd13a9cc38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJQ0UlRTIlODAlOTlzJTIwRE5BJTIwQ29sbGVjdGlvbiUyMEluY3JlYXNlcyUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MDg1ODk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ",
+      "dek": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "publishedAt": "Thu, 06 Aug 2026 22:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1738376738680-f1b45e00d98f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIwdGFibGUlMjBhd2FpdHMlM0ElMjBFeGhpYml0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Palina Kharlanovich on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+      "dek": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show.\nThe video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Al",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+      "publishedAt": "2026-08-06T21:15:47.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695277790062-52e80f72ba9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcmV2b3IlMjBOb2FoJTIwaXMlMjBob3N0aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Garv Chaplot on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "California’s AI transparency law doesn’t solve the first-impression problem",
+      "dek": "California’s new AI transparency law took effect this week, but it defines “transparency” in a way that may not help many consumers. The law, which passed in 2024, sets up a robust transparency infrastructure for AI-generated content, but it does not guarantee that the real “story” of a piece of con",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91585542/californias-ai-transparency-law-doesnt-solve-the-first-impression-problem",
+      "publishedAt": "2026-08-07T04:11:00",
+      "imageUrl": "https://images.unsplash.com/photo-1512746133319-6559ec0c1f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDYWxpZm9ybmlhJUUyJTgwJTk5cyUyMEFJJTIwdHJhbnNwYXJlbmN5JTIwbGF3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Vital Sinkevich on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Parasitic zombie-ant fungus thrives in mosses, too",
+      "dek": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+      "publishedAt": "Thu, 06 Aug 2026 17:13:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1600995616615-52152934de1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQYXJhc2l0aWMlMjB6b21iaWUtYW50JTIwZnVuZ3VzJTIwdGhyaXZlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MDg1OTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jesse Bauer on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "publishedAt": "Thu, 06 Aug 2026 20:23:11 +0000",
+      "imageUrl": "https://images.pexels.com/photos/34027172/pexels-photo-34027172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Nikolaos Kofidis on Pexels"
+    },
+    {
+      "id": "2026-08-07-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+      "dek": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+      "publishedAt": "Thu, 06 Aug 2026 17:41:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1665518200269-8f5554aa1e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGb3JkJTIwbmVlZHMlMjBhbm90aGVyJTIwVGF1cnVzJTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU5MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Vitali Adutskevich on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "dek": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "publishedAt": "Thu, 06 Aug 2026 15:10:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1712002641387-be6d0b888a93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBzYXlzJTIwQXBwbGUlRTIlODAlOTlzJTIwb3duJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU5MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Solen Feyissa on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "dek": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "publishedAt": "2026-08-06T20:55:39.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKb255JTIwSXZlJTI2JTIzODIxNyUzQnMlMjBmaXJzdCUyME9wZW5BSSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MDg1OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The AirPods Pro are $60 off, their best price since late June",
+      "dek": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge\t\n\nBest Buy  kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+      "publishedAt": "2026-08-06T20:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBBaXJQb2RzJTIwUHJvJTIwYXJlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYwODU5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Romero on Unsplash"
+    },
+    {
+      "id": "2026-08-07-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The Zelda movie’s Ganondorf casting hints at more movies",
+      "dek": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\"\nNintendo or Sony haven't formally confirmed that there's more than one movie in th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
+      "publishedAt": "2026-08-06T18:31:57.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7234245/pexels-photo-7234245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pavel Danilyuk on Pexels"
+    }
+  ]
+}
