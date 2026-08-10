@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-10",
+  "heroStoryId": "2026-08-10-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-10-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Complicated Case of Passing On Your Digital Estate",
+      "dek": "There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are things you can do now to make the process easier for them.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/digital-estate-planning-tips/",
+      "publishedAt": "Sun, 09 Aug 2026 11:30:00 +0000",
+      "imageUrl": "/images/heroes/2026-08-10.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "No Dogs in Space is a music history podcast for true obsessives",
+      "dek": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a deep dive in",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "publishedAt": "2026-08-09T20:28:31.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1703994643772-8bbbd8590c4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxObyUyMERvZ3MlMjBpbiUyMFNwYWNlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYzNDU2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by mos design on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "3 things no one tells high achievers about success",
+      "dek": "Ironically, research shows that the people who work the hardest and achieve the most are often the least satisfied. The same growth-oriented tendencies that motivate you to succeed can also produce a restlessness that makes it hard to enjoy the success you’ve worked so hard to accrue. This might fee",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91585624/3-things-no-one-tells-high-achievers-about-success",
+      "publishedAt": "2026-08-10T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1592496000931-e50d83df1286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwzJTIwdGhpbmdzJTIwbm8lMjBvbmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjM0NTY0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Morgan Housel on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "dek": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "publishedAt": "Sun, 09 Aug 2026 16:05:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8566628/pexels-photo-8566628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    },
+    {
+      "id": "2026-08-10-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "dek": "The massive Toba eruption seems to have had little climate impact.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "publishedAt": "Sun, 09 Aug 2026 11:00:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1645968897519-d0cc0514e3ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3VudCUyMFRvYmElMjBlcnVwdGlvbiUyMGRvZXNuJTI3dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MzQ1NjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Muhammad Prayogi on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.docker.com/products/docker-sandboxes/",
+      "publishedAt": "Mon, 10 Aug 2026 06:02:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646627927863-19874c27316b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEb2NrZXIlMjBTYW5kYm94ZXMlMjAlRTIlODAlOTMlMjBEaXNwb3NhYmxlJTJDJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYzNDU2NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "dek": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shippin",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "publishedAt": "2026-08-09T17:20:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1614350391736-ed8619d63c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxadWNrZXJiZXJnJTI2JTIzODIxNyUzQnMlMjB5YWNodCUyMHdhcyUyMGNsb3NlciUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MzQ1NjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ibrahim Mushan on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "dek": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "publishedAt": "2026-08-09T15:56:49.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1528036788076-c031f7707270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw0OWVycyUyMGNvYWNoJTIwc2F5cyUyMGhpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2MzQ1NjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jeffrey F Lin on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Dropbox is a PC builder’s best friend",
+      "dek": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot of people very u",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "publishedAt": "2026-08-09T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1777785113189-568862b62bb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEcm9wYm94JTIwaXMlMjBhJTIwUEMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjM0NTY1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Shalyminov on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "AI detectors are creating a new era of distrust",
+      "dek": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT beca",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "publishedAt": "2026-08-09T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGRldGVjdG9ycyUyMGFyZSUyMGNyZWF0aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYzNDU2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Cold War legend of Romania’s tank-melting laser",
+      "dek": "This article is republished with permission from Laser Wars, a newsletter about military laser weapons and other futuristic defense technology.\nEvery conflict gets the legend it deserves. The French-born pirate Jean Lafitte became a “battlefield hero” while fighting for the United States during the ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91585347/the-cold-war-legend-of-romanias-tank-melting-laser",
+      "publishedAt": "2026-08-09T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1563804951831-49844db19644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBDb2xkJTIwV2FyJTIwbGVnZW5kJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYzNDU2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Duncan Kidd on Unsplash"
+    },
+    {
+      "id": "2026-08-10-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+      "dek": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+      "publishedAt": "Mon, 10 Aug 2026 06:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1614727187346-ec3a009092b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZSUyMEFnZW5jaWVzJTIwQXJlJTIwVHJ5aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODYzNDU2NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by NASA on Unsplash"
+    }
+  ]
+}
