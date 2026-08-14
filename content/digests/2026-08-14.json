@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-14",
+  "heroStoryId": "2026-08-14-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-14-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Building a practical path to post-quantum cryptography",
+      "dek": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a m",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "publishedAt": "Thu, 13 Aug 2026 18:11:42 +0000",
+      "imageUrl": "/images/heroes/2026-08-14.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "dek": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "publishedAt": "Thu, 13 Aug 2026 21:14:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1770233621425-5d9ee7a0a700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYXJrJTIwWnVja2VyYmVyZyVFMiU4MCU5OXMlMjBBSSUyME1hbmlmZXN0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zach M on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "dek": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "publishedAt": "Thu, 13 Aug 2026 22:02:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762863732901-7a00250be154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGbG9jayUyMHNheXMlMjBpdHMlMjBuZXclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjY5MTE4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by ROBERTO GOMIS GARCIA on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "dek": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more.\nI",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "publishedAt": "2026-08-14T01:06:15.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcnVtcCUyMGRlY2xhcmVzJTIwMTAwJTIwcGVyY2VudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How to avoid decision fatigue",
+      "dek": "Over the years, I have taught a lot of classes on creativity, and I once had a student ask me whether it would benefit their creativity if they took a different route to work each day. While changing up your environment can create serendipitous engagements with things that might spur a new idea, cha",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91587744/how-to-avoid-decision-fatigue-2",
+      "publishedAt": "2026-08-14T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1744212934802-26b9dc2ca5e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMGF2b2lkJTIwZGVjaXNpb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NjY5MTE4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "US wait times for cancer surgeries are getting longer and longer",
+      "dek": "Study finds wait times for cancer surgeries hit 10-year high.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+      "publishedAt": "Thu, 13 Aug 2026 22:17:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588761775728-d4350ce263e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVUyUyMHdhaXQlMjB0aW1lcyUyMGZvciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nisuda Nirmantha on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://z.ai/blog/glm-5.3",
+      "publishedAt": "Fri, 14 Aug 2026 05:19:59 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588690154757-badf4644190f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHTE0tNS4zJTNBJTIwRnJvbnRpZXIlMjBDb2RpbmclMjB3aXRoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODY2OTExODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Louis Tsai on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "dek": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1707067626388-785a99a5adb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGbG9jayUyMGlzJTIwdGlnaHRlbmluZyUyMGl0cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Usha Kiran on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens W",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "publishedAt": "Thu, 13 Aug 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1717166790103-04b89b96adaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGtpZHMlRTIlODAlOTklMjB0aG91Z2h0cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "dek": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over ye",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "publishedAt": "Thu, 13 Aug 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1674488274758-8fd375504e2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JUUyJTgwJTk5cyUyMGJlaGluZCUyMHRoaXMlMjBzdW1tZXIlRTIlODAlOTlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODY2OTExODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alex Muromtsev on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "How kids feel about AI, in their own words",
+      "dek": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1780533474261-95a7c496dbc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBraWRzJTIwZmVlbCUyMGFib3V0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODY2OTExOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jimmy  Chang on Unsplash"
+    },
+    {
+      "id": "2026-08-14-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "dek": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1715529134972-221f23a6c701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVyZSVFMiU4MCU5OXMlMjBhJTIwRmF0dHklMjBMaXZlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg2NjkxMTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Europeana on Unsplash"
+    }
+  ]
+}
