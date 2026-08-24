@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-24",
+  "heroStoryId": "2026-08-24-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-24-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "dek": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "publishedAt": "2026-08-23T19:14:37.000Z",
+      "imageUrl": "/images/heroes/2026-08-24.png",
+      "imageCredit": "Photo by Miltiadis Fragkidis on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "How to nurture a great company culture as you scale up",
+      "dek": "The larger your business grows, the more difficult it is to maintain a highly engaged culture where employees are excited about the work they do and are committed to helping the organization meet its business and branding goals. Why? Because growth automatically introduces complexity in the workplac",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91591352/how-to-nurture-a-great-company-culture-as-you-scale-up",
+      "publishedAt": "2026-08-24T05:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1673515336391-c63034623475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMG51cnR1cmUlMjBhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc1NTMyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ling App on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
+      "dek": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+      "publishedAt": "Sun, 23 Aug 2026 13:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/17576302/pexels-photo-17576302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrey Matveev on Pexels"
+    },
+    {
+      "id": "2026-08-24-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "dek": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1599182045693-f07ce51e553a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaG8lRTIlODAlOTlzJTIwYmVoaW5kJTIwdGhlJTIwbmV3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc1NTMyNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "dek": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "publishedAt": "Sun, 23 Aug 2026 14:30:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1744212934802-26b9dc2ca5e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEdWUlMjB0byUyMG5lZWQlMjBmb3IlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzU1MzI1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Everything I own, owned",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://schlarp.com/posts/everything-i-own-owned/",
+      "publishedAt": "Sun, 23 Aug 2026 22:41:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1761751087636-c12e5c6b05fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdmVyeXRoaW5nJTIwSSUyMG93biUyQyUyMG93bmVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc1NTMyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christopher Stites on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "dek": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. \nWe are immediatel",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1580855014124-d1e9d454c6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSVFMiU4MCU5OXJlJTIwQWxsJTIwR29pbmclMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NTUzMjU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Viktor Forgacs on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Grand Theft Auto VI exists in its own universe",
+      "dek": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nFour years ago",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/943922/pexels-photo-943922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Laura Gigch on Pexels"
+    },
+    {
+      "id": "2026-08-24-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "How to use AI to give yourself a head start at a new job",
+      "dek": "When you start a new job there is a lot to learn. There are projects, clients, and processes that are likely to be new to you. You may have been pointed at the employee handbook and maybe even given a mentor. But you probably still have more questions than answers for the first few months. As trite ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91593095/how-to-use-ai-to-give-yourself-a-head-start-at-a-new-job",
+      "publishedAt": "2026-08-23T17:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMHVzZSUyMEFJJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc1NTMyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Your UNO skills could be worth $50,000 thanks to Mattel’s new tournament",
+      "dek": "It’s time to find out who really is the most competitive player at family game night. Mattel is putting $50,000 up for grabs at its inaugural UNO Championship.\nThe competition will bring top UNO players to Los Angeles on November 11 to battle for the grand prize, with a championship game happening l",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91593801/your-uno-skills-could-be-worth-50000-thanks-to-mattels-new-tournament",
+      "publishedAt": "2026-08-23T13:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1633285505120-5144276a0757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIwVU5PJTIwc2tpbGxzJTIwY291bGQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzU1MzI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Colin Davis on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "These 2 tools make it easy to create standout visuals",
+      "dek": "This article is republished with permission from Wonder Tools, a newsletter that helps you discover the most useful sites and apps.\nI always fuss over how best to add visual variety. I do that so you, dear reader, aren’t bored by thick walls of text. (I halved the length of this post for the same re",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91593781/these-2-tools-make-it-easy-to-create-standout-visuals",
+      "publishedAt": "2026-08-23T12:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1731694411560-050e5b91e943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVzZSUyMDIlMjB0b29scyUyMG1ha2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzU1MzI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anton Savinov on Unsplash"
+    },
+    {
+      "id": "2026-08-24-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Nuclear power is China’s key for transitioning to a fully renewable grid design",
+      "dek": "Between late 2016 and August 2026, China connected 27 new nuclear reactors to its grid. In the same period, the United States connected two. As Jacopo Buongiorno—professor of nuclear science and engineering and director of the Center for Advanced Nuclear Energy Systems at the Massachusetts Institute",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91591707/nuclear-power-is-chinas-key-for-transitioning-to-a-fully-renewable-grid-design",
+      "publishedAt": "2026-08-23T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1664537877869-b4f80acef4b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOdWNsZWFyJTIwcG93ZXIlMjBpcyUyMENoaW5hJUUyJTgwJTk5cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NTUzMjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Arthur Wang on Unsplash"
+    }
+  ]
+}
