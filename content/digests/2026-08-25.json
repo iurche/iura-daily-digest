@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-25",
+  "heroStoryId": "2026-08-25-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-25-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "How to encourage smarter AI use in the classroom",
+      "dek": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "imageUrl": "/images/heroes/2026-08-25.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "dek": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/best-kindle-accessories/",
+      "publishedAt": "Mon, 24 Aug 2026 11:09:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611328857214-a5aae689f21a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBLaW5kbGUlMjBBY2Nlc3NvcmllcyUyMEklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzYzOTE1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by @felirbe on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "dek": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "publishedAt": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "imageUrl": "https://images.pexels.com/photos/17724734/pexels-photo-17724734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Walls.io on Pexels"
+    },
+    {
+      "id": "2026-08-25-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "dek": "Cursed BIOS. | Photo by Sean Hollister / The Verge\t\n\nWhen a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far.\nThree weeks after a Re",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "publishedAt": "2026-08-24T23:38:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1763162410742-1d0097cea556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZW5vdm8lMjBjb25maXJtcyUyMExlZ2lvbiUyMEdvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc2MzkxNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gavin Phillips on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Target pulls Halloween costume that drew comparisons to blackface caricatures, apologizes",
+      "dek": "Target has removed a children’s Halloween costume from its website after social media users pointed out that it closely resembled imagery from Jim Crow-era blackface minstrelsy.\nThe $25 costume—listed as “Kids’ Glows Under Blacklight Circus Clown Halloween Costume Bodysuit”—had a black-and-orange ha",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91595260/target-halloween-costume-clown-blackface-jim-crow",
+      "publishedAt": "2026-08-24T23:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1619496140817-ccc97b892d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUYXJnZXQlMjBwdWxscyUyMEhhbGxvd2VlbiUyMGNvc3R1bWUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzYzOTE2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dwayne Pounds on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "dek": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "publishedAt": "Mon, 24 Aug 2026 21:45:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1717505694195-e8bf65dc52b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGlzJTIwaGl0dGluZyUyMGVudHJ5LWxldmVsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc2MzkxNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "publishedAt": "Mon, 24 Aug 2026 22:13:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxpQ2xvdWQlMkIlMjBIaWRlJTIwTXklMjBFbWFpbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NjM5MTYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: kids outlearning AI, and space travel agents",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundr",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "publishedAt": "Mon, 24 Aug 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1529390079861-591de354faf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGtpZHMlMjBvdXRsZWFybmluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NjM5MTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Santi Vedrí on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Kids outlearn AI—and we still don’t know why",
+      "dek": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "publishedAt": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1554721299-e0b8aa7666ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxLaWRzJTIwb3V0bGVhcm4lMjBBSSVFMiU4MCU5NGFuZCUyMHdlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODc2MzkxNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrew Ebrahim on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Brake problems in GM EVs draw greater federal scrutiny",
+      "dek": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "publishedAt": "Mon, 24 Aug 2026 14:18:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1652574708398-8b7d40894364?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCcmFrZSUyMHByb2JsZW1zJTIwaW4lMjBHTSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NjM5MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brice Cooper on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Hugging Face reportedly in talks to be acquired for $13B",
+      "dek": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "publishedAt": "Mon, 24 Aug 2026 13:47:26 +0000",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1573327378821-d1d4f3b364aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdWdnaW5nJTIwRmFjZSUyMHJlcG9ydGVkbHklMjBpbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg3NjM5MTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tani Eisenstein on Unsplash"
+    },
+    {
+      "id": "2026-08-25-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The cat-and-mouse game over 3D-printed guns has begun",
+      "dek": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and indivi",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "publishedAt": "2026-08-24T19:50:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1738598647432-9ec379ca2291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBjYXQtYW5kLW1vdXNlJTIwZ2FtZSUyMG92ZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4NzYzOTE2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Vadim Bogulov on Unsplash"
+    }
+  ]
+}
