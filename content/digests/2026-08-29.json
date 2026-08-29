@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-29",
+  "heroStoryId": "2026-08-29-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-08-29-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "dek": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "imageUrl": "/images/heroes/2026-08-29.png",
+      "imageCredit": "Photo by Phát Trương on Pexels"
+    },
+    {
+      "id": "2026-08-29-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Google further buries search results under AI mode",
+      "dek": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "publishedAt": "2026-08-28T22:48:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBmdXJ0aGVyJTIwYnVyaWVzJTIwc2VhcmNoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODgwMDQ1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Shutter Speed on Unsplash"
+    },
+    {
+      "id": "2026-08-29-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "This shirt is like an AI invisibility cloak",
+      "dek": "To the human eye, the Digital Camouflage shirt has an abstract colorful pattern showing green, pink, and orange shapes. To robots, it hides the human wearing it.\nGerman designer Simon Weckert created the button-up shirt to confuse AI surveillance systems following Berlin’s installation of surveillan",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak",
+      "publishedAt": "2026-08-29T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1523663995-8ba5c359fa83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwc2hpcnQlMjBpcyUyMGxpa2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODAwNDUwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by June Liu on Unsplash"
+    },
+    {
+      "id": "2026-08-29-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
+      "dek": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/review/soundcore-liberty-5-pro/",
+      "publishedAt": "Sat, 29 Aug 2026 11:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/33307532/pexels-photo-33307532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrey Matveev on Pexels"
+    },
+    {
+      "id": "2026-08-29-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "I asked 100 companies for my data. Some deleted it instead.",
+      "dek": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "publishedAt": "Sat, 29 Aug 2026 10:50:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1765445666407-c8535808a4a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwYXNrZWQlMjAxMDAlMjBjb21wYW5pZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODAwNDUwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Egor Komarov on Unsplash"
+    },
+    {
+      "id": "2026-08-29-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Iceland votes on whether to restart talks on joining EU",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "publishedAt": "Sat, 29 Aug 2026 11:39:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1660005490330-dcb50ddadfb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJY2VsYW5kJTIwdm90ZXMlMjBvbiUyMHdoZXRoZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODAwNDUwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Frugal Flyer on Unsplash"
+    },
+    {
+      "id": "2026-08-29-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "dek": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nAccording to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\"\n\"We've been hard at work ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "publishedAt": "2026-08-28T22:03:13.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYYm94JTIwQ0VPJTIwY2FsbHMlMjBQcm9qZWN0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODgwMDQ1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Billy Freeman on Unsplash"
+    },
+    {
+      "id": "2026-08-29-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "dek": "The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube\n\t\n\nModders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-ac",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "publishedAt": "2026-08-28T16:22:16.000Z",
+      "imageUrl": "https://images.pexels.com/photos/34625042/pexels-photo-34625042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Matheus Bertelli on Pexels"
+    },
+    {
+      "id": "2026-08-29-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The iPhone Fold could make concerts even worse",
+      "dek": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it.\nThis week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as well",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+      "publishedAt": "2026-08-28T15:26:19.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBpUGhvbmUlMjBGb2xkJTIwY291bGQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODAwNDUwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bagus Hernawan on Unsplash"
+    }
+  ]
+}
