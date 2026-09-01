@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-01",
+  "heroStoryId": "2026-09-01-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-01-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "How engineered microbes could help feed the world’s crops",
+      "dek": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "publishedAt": "Tue, 01 Sep 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-01.png",
+      "imageCredit": "Photo by Warren Umoh on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
+      "dek": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between your teeth.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
+      "publishedAt": "Tue, 01 Sep 2026 09:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8055197/pexels-photo-8055197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Annushka  Ahuja on Pexels"
+    },
+    {
+      "id": "2026-09-01-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+      "dek": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "publishedAt": "Mon, 31 Aug 2026 17:02:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782538033278-732fa0f3cb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaW0lMjBDb29rJUUyJTgwJTk5cyUyMHBhcnRpbmclMjBtZXNzYWdlJTNBJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODgyNTkzNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "TP-Link’s first Wi-Fi 8 router is almost here",
+      "dek": "Here you can see the Archer 8 Ultra (bottom) and the Deco 8 Ultra (top). | Image: TP-Link\t\n\nThe Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router and Deco 8 Ultra mesh system a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability",
+      "publishedAt": "2026-09-01T10:18:36.000Z",
+      "imageUrl": "https://images.pexels.com/photos/32698413/pexels-photo-32698413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pascal 📷 on Pexels"
+    },
+    {
+      "id": "2026-09-01-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "These are the skills you need to navigate an increasingly uncertain future",
+      "dek": "Most design and business education teaches students to solve problems that already exist. But in a world shifting at supersonic speed, the more urgent skill isn’t problem-solving—it’s learning how to notice, navigate, and shape the problems coming next.\nAfter three years of teaching our course “View",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91585811/durable-skills-for-an-uncertain-future-skills-career-advice-uncertainty",
+      "publishedAt": "2026-09-01T10:06:00",
+      "imageUrl": "https://images.unsplash.com/photo-1772723822802-11e955dfae8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGVzZSUyMGFyZSUyMHRoZSUyMHNraWxscyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4MjU5MzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by T on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "dek": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "publishedAt": "Mon, 31 Aug 2026 15:33:32 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5444631/pexels-photo-5444631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Brett Jordan on Pexels"
+    },
+    {
+      "id": "2026-09-01-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "GPU World",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.gpuworld.org/",
+      "publishedAt": "Tue, 01 Sep 2026 03:16:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1555581064-8ce820e50679?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHUFUlMjBXb3JsZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4MjU5MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Artiom Vallat on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1530047139082-5435ca3c4614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBIdWdnaW5nJTIwRmFjZSUyMGhhY2slMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODI1OTM1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Omar Lopez on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "John Ternus is now the CEO of Apple",
+      "dek": "Apple SVP John Ternus takes over as CEO from Tim Cook. | AFP via Getty Images\t\n\nFor the first time since 2011, one of the world's most valuable companies has a new leader, as today marks John Ternus' first day as Apple's CEO. He's replacing Tim Cook, who will continue on as the executive chairman on",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+      "publishedAt": "2026-09-01T10:04:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1557080768-1b6176358e51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKb2huJTIwVGVybnVzJTIwaXMlMjBub3clMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODI1OTM1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Doyoun Seo on Unsplash"
+    },
+    {
+      "id": "2026-09-01-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Dyson made a camera-equipped toothbrush that flosses for you",
+      "dek": "Dyson is expanding into oral care with its first toothbrush featuring a camera and flossing capabilities. | Image: Dyson\t\n\nDyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the fi",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
+      "publishedAt": "2026-09-01T09:30:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/15519785/pexels-photo-15519785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Optical Chemist on Pexels"
+    },
+    {
+      "id": "2026-09-01-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Google TV Streamer now costs $50 more",
+      "dek": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. \nThe price hike comes just a couple of weeks after Google launched its new lineup",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "publishedAt": "2026-08-31T22:32:51.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1664451659119-7cd033a53fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBHb29nbGUlMjBUViUyMFN0cmVhbWVyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODgyNTkzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Victor Carvalho on Unsplash"
+    }
+  ]
+}
