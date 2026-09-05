@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-05",
+  "heroStoryId": "2026-09-05-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-05-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Architecting memory and storage in the AI era",
+      "dek": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "publishedAt": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "imageUrl": "/images/heroes/2026-09-05.png",
+      "imageCredit": "Photo by Luke Caunt on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
+      "dek": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/",
+      "publishedAt": "Fri, 04 Sep 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1690394432973-bc1d5d0e1964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBhJTIwU2VjcmV0JTIwT3Jhbmd1dGFuJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODg2MDA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Valentine on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "dek": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "publishedAt": "Fri, 04 Sep 2026 17:52:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1608396365879-423c3ed62ef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKdWRnZSUyMGJsb2NrcyUyMFglMjByaXZhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4NjAwOTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "dek": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the prom",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "publishedAt": "2026-09-04T21:23:50.000Z",
+      "imageUrl": "https://images.pexels.com/photos/3846434/pexels-photo-3846434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Layla Yehia on Pexels"
+    },
+    {
+      "id": "2026-09-05-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "What to expect at Apple’s iPhone 18 launch event on Wednesday",
+      "dek": "Apple’s annual iPhone launch event will take place on Wednesday, September 9. It is a staple of the tech scene every year, but this year’s iPhone event is arguably one of the most consequential for Apple in well over a decade.\nNot only is the company expected to unveil its first-ever foldable iPhone",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91596585/what-to-expect-apple-iphone-18-launch-event-wednesday-fold-watch-tv-price-john-ternus",
+      "publishedAt": "2026-09-05T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1646612968068-6d35e36086e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwdG8lMjBleHBlY3QlMjBhdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4NjAwOTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by George Pagan III on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "dek": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "publishedAt": "Fri, 04 Sep 2026 22:49:17 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589262804704-c5aa9e6def89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZnRlciUyMDglMjB5ZWFycyUyQyUyMEV1cm9wZSUyN3MlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODYwMDk5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christian Lue on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "AI handles incidents, engineers lose touch with their systems",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "publishedAt": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1659353589316-d4b2ed41ad2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGhhbmRsZXMlMjBpbmNpZGVudHMlMkMlMjBlbmdpbmVlcnMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODYwMDk5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Fotos on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: selling battlefield drone data and AI reshaping language",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, wh",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "publishedAt": "Fri, 04 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776632599097-081cb163ba63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHNlbGxpbmclMjBiYXR0bGVmaWVsZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4NjAwOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by RECEP TİRYAKİ on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "What will Apple’s John Ternus era look like?",
+      "dek": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far,",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "publishedAt": "Fri, 04 Sep 2026 17:18:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/29073142/pexels-photo-29073142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Hans Herrington on Pexels"
+    },
+    {
+      "id": "2026-09-05-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "dek": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1668723926251-e67af6e0d689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZXNzJTIwdGhhbiUyMDI0JTIwaG91cnMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODYwMDk5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The White House is making arcade games racist",
+      "dek": "Trump’s racist new “Build the Wall” game. | Image: The White House\t\n\nThe PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "publishedAt": "2026-09-04T19:42:54.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1485394595691-5411947d63a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBXaGl0ZSUyMEhvdXNlJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODYwMDk5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by David Everett Strickler on Unsplash"
+    },
+    {
+      "id": "2026-09-05-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+      "dek": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, aft",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+      "publishedAt": "2026-09-04T18:00:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1611106387961-5f77216b2f87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb1BybyUyMHNheXMlMjBpdCUyNiUyMzgyMTclM0JzJTIwc3RpbGwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODYwMDk5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Isaac Barcenas on Unsplash"
+    }
+  ]
+}
