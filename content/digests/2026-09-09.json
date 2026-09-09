@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-09",
+  "heroStoryId": "2026-09-09-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-09-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Batteries just broke another record in the US",
+      "dek": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "publishedAt": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-09.png",
+      "imageCredit": "Photo by Vanya Smythe on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
+      "dek": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
+      "publishedAt": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1604496464355-a5032e3b47e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwVVMlMjBDZW5zdXMlMjBSZXBvcnQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODk0OTE1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Clay Banks on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "dek": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwZGVidXRzJTIwaXRzJTIwTXVzZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4OTQ5MTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits ",
+      "dek": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot co",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "publishedAt": "2026-09-09T09:56:28.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1782139586955-114f0e5f8e8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3JlJTIwdGhhbiUyMDElMjBpbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4OTQ5MTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "12 signs you’re becoming irrelevant at work (and what to do about it)",
+      "dek": "Feeling overlooked in meetings or left out of key decisions can signal a troubling shift in your workplace standing. This article outlines 12 specific warning signs that your professional relevance may be slipping, along with practical strategies to reverse the trend. Here’s how to rebuild your impa",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91588217/12-signs-youre-becoming-irrelevant-at-work-and-how-to-fix-it-irrelevant-work-career-advice",
+      "publishedAt": "2026-09-09T10:07:00",
+      "imageUrl": "https://images.unsplash.com/photo-1635011756521-005b4cb6f341?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxMiUyMHNpZ25zJTIweW91JUUyJTgwJTk5cmUlMjBiZWNvbWluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4OTQ5MTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tim Mossholder on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "EV batteries last longer than drivers feared",
+      "dek": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+      "publishedAt": "Tue, 08 Sep 2026 13:56:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFViUyMGJhdHRlcmllcyUyMGxhc3QlMjBsb25nZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODk0OTE1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kumpan Electric on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Muse – Meta’s personal AI agent",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://ai.meta.com/muse/",
+      "publishedAt": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4389971/pexels-photo-4389971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Darlene Alderson on Pexels"
+    },
+    {
+      "id": "2026-09-09-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Understanding the thermal ceiling in portable power",
+      "dek": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelera",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "publishedAt": "Wed, 09 Sep 2026 08:18:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1582203423341-64b918240e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVbmRlcnN0YW5kaW5nJTIwdGhlJTIwdGhlcm1hbCUyMGNlaWxpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODk0OTE1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SJ 📸 on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "What OpenAI’s latest controversy tells us about the future of math",
+      "dek": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "publishedAt": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwT3BlbkFJJUUyJTgwJTk5cyUyMGxhdGVzdCUyMGNvbnRyb3ZlcnN5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODg5NDkxNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: our 35 Innovators Under 35 this year",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "publishedAt": "Tue, 08 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774636816090-ff9296733091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMG91ciUyMDM1JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODg5NDkxNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "This founder is teaching chips how to recycle (their energy)",
+      "dek": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "publishedAt": "Tue, 08 Sep 2026 10:36:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwZm91bmRlciUyMGlzJTIwdGVhY2hpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4ODk0OTE1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by National Cancer Institute on Unsplash"
+    },
+    {
+      "id": "2026-09-09-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "dek": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "publishedAt": "Tue, 08 Sep 2026 10:34:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwQUklMjBlbnRyZXByZW5ldXIlMjBpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg4OTQ5MTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    }
+  ]
+}
