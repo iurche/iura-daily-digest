@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-12",
+  "heroStoryId": "2026-09-12-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-12-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: biotech’s future and cheaper, cleaner steel",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and b",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "publishedAt": "Fri, 11 Sep 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-12.png",
+      "imageCredit": "Photo by Kate P on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "dek": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "publishedAt": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7651623/pexels-photo-7651623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    },
+    {
+      "id": "2026-09-12-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "dek": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "publishedAt": "2026-09-11T20:44:02.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1528747008803-f9f5cc8f1a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMYXd5ZXIlMjBmaW5lZCUyMCUyNDVLJTIwb3ZlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5MjA2MjU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Melinda Gimpel on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "4 ways to get your iPhone ready for iOS 27",
+      "dek": "This week Apple introduced its new iPhone lineup, including the iPhone 18 Pro series and the iPhone Duo. The devices feature the most advanced tech that Apple has ever stuffed into a smartphone. But if you’re not in the market for a new iPhone, there’s some good news: The company also announced a re",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91597258/4-ways-to-get-your-iphone-ready-for-ios-27-storage-update-apple",
+      "publishedAt": "2026-09-12T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1771607027595-d27c1967f222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw0JTIwd2F5cyUyMHRvJTIwZ2V0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
+      "dek": "And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+      "publishedAt": "Sat, 12 Sep 2026 09:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1623150264015-c29055b40e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3UlMjBEb24lRTIlODAlOTl0JTIwSGF2ZSUyMGElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTIwNjI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Some satellite companies still have an appetite for boutique launch services",
+      "dek": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "publishedAt": "Fri, 11 Sep 2026 23:34:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1708738793054-32b71e3fc822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTb21lJTIwc2F0ZWxsaXRlJTIwY29tcGFuaWVzJTIwc3RpbGwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTIwNjI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kevin Stadnyk on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://eiln.github.io/posts/ane.html",
+      "publishedAt": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781444292904-f2c8963c2f9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXRyb3NwZWN0aXZlbHklMjBSZXZlcnNlLUVuZ2luZWVyaW5nJTIwQXBwbGUlMjdzJTIwTmV1cmFsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "dek": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "publishedAt": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1656639969809-ebc544c96955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSb2Jsb3glMjBpcyUyMG1ha2luZyUyMGl0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Oberon Copeland @veryinformed.com on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "dek": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "publishedAt": "Fri, 11 Sep 2026 18:58:01 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1578924825042-31d14cf13c35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDZW50cmFsJTIwRXVyYXNpYSUyMG5hbWVzJTIwaXRzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by British Library on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+      "dek": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "publishedAt": "Fri, 11 Sep 2026 15:19:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/9202377/pexels-photo-9202377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Marek Piwnicki on Pexels"
+    },
+    {
+      "id": "2026-09-12-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
+      "dek": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official W",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+      "publishedAt": "2026-09-11T17:16:59.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1783322304587-32d605a29560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYXR0JTIwTXVsbGVud2VnJTIwcmV0dXJucyUyMGFzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Harry Feller on Unsplash"
+    },
+    {
+      "id": "2026-09-12-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "We unfolded the iPhone Duo",
+      "dek": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+      "publishedAt": "2026-09-11T16:22:24.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1759588073186-1d4ac7e33623?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyMHVuZm9sZGVkJTIwdGhlJTIwaVBob25lJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODkyMDYyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by ubeyonroad on Unsplash"
+    }
+  ]
+}
