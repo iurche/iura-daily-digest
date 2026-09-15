@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-15",
+  "heroStoryId": "2026-09-15-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-15-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "dek": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "publishedAt": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-15.png",
+      "imageCredit": "Photo by George Pagan III on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Census Bureau Is Overrun With Staffers From a MAGA Think Tank",
+      "dek": "The US Census is home to vast troves of sensitive data on nearly every person living in the country, which is used for apportioning and drawing congressional districts as well as allocating federal funding based on population sizes.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/",
+      "publishedAt": "Tue, 15 Sep 2026 10:15:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1585282263861-f55e341878f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBDZW5zdXMlMjBCdXJlYXUlMjBJcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NDY4Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brian McGowan on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "dek": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "publishedAt": "Mon, 14 Sep 2026 17:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6348042/pexels-photo-6348042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Liza Summer on Pexels"
+    },
+    {
+      "id": "2026-09-15-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "dek": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "publishedAt": "2026-09-15T08:54:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBpc3N1ZXMlMjBlbWVyZ2VuY3klMjBXaW5kb3dzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk0Njg2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Punk’s not dead—it’s in the boardroom",
+      "dek": "A few years ago Adrian Swinscoe, a customer experience consultant, was lamenting that the field had become overly focused on benchmarks, metrics, and other abstract notions removed from actually connecting with customers.\n“People were getting so much into the details, they were losing sight of the c",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91603663/punks-not-dead-its-in-the-boardroom",
+      "publishedAt": "2026-09-15T10:01:00",
+      "imageUrl": "https://images.unsplash.com/photo-1588720832100-5ee8c769c294?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQdW5rJUUyJTgwJTk5cyUyMG5vdCUyMGRlYWQlRTIlODAlOTRpdCVFMiU4MCU5OXMlMjBpbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NDY4Njk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Etienne Girardet on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "dek": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "publishedAt": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    },
+    {
+      "id": "2026-09-15-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Let's make quality the norm again",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.forbrukerradet.no/short-life/",
+      "publishedAt": "Tue, 15 Sep 2026 10:00:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1562776903-cc60d622df72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZXQlMjdzJTIwbWFrZSUyMHF1YWxpdHklMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTQ2ODY5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amanda Jones on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The AI industry has taken a doomer turn. What now?",
+      "dek": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "publishedAt": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBBSSUyMGluZHVzdHJ5JTIwaGFzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk0Njg2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Donated livers can be made biologically younger",
+      "dek": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "publishedAt": "Mon, 14 Sep 2026 16:11:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1715529134972-221f23a6c701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEb25hdGVkJTIwbGl2ZXJzJTIwY2FuJTIwYmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTQ2ODY5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Europeana on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "AI agents blew the whistle on their cheating colleagues",
+      "dek": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "publishedAt": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGFnZW50cyUyMGJsZXclMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTQ2ODcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "publishedAt": "Mon, 14 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729240100637-121dff881553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFJJUUyJTgwJTk5cyUyMHJlYWwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTQ2ODcwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-15-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "dek": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlRTIlODAlOTlzJTIwbmV3JTIwQUklMjAlRTIlODAlOThjb2RlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk0Njg3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    }
+  ]
+}
