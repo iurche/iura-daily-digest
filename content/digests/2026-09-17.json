@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-17",
+  "heroStoryId": "2026-09-17-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-17-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Meet the innovators under 35 shaping climate tech",
+      "dek": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-17.png",
+      "imageCredit": "Photo by Matt Ridley on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster",
+      "dek": "Vin Diesel, the star of the series, didn’t make a planned appearance at the grand opening of its dynamite new theme park ride. But it didn’t stop his fans from having a good time.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/fast-and-furious-roller-coaster/",
+      "publishedAt": "Thu, 17 Sep 2026 10:30:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/4529780/pexels-photo-4529780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Erik Mclean on Pexels"
+    },
+    {
+      "id": "2026-09-17-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "dek": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1631689646546-ae2f341c089d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIwc3RhcnR1cCVFMiU4MCU5OXMlMjBuZXh0JTIwdGVhbW1hdGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTY0MTM3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The streamers are fighting over Halloween",
+      "dek": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all premiered early looks at upcoming horror-adjacent ser",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+      "publishedAt": "2026-09-17T03:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1573128929901-05c26f82a9ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBzdHJlYW1lcnMlMjBhcmUlMjBmaWdodGluZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NjQxMzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Claudio Schwarz on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How to keep your job in the AI age without knowing AI",
+      "dek": "Artificial intelligence is reshaping every industry, but staying relevant doesn’t require learning to code or becoming a data scientist. This guide draws on insights from career strategists and organizational psychologists to show how nontechnical professionals can build lasting value in an AI-drive",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91593840/how-to-future-proof-your-career-against-ai-without-becoming-technical-technology-ai-career-advice",
+      "publishedAt": "2026-09-17T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1586739051907-cadac873075a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMGtlZXAlMjB5b3VyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk2NDEzNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Clarissa Watson on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "dek": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "publishedAt": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMHJlcG9ydGVkbHklMjBidWlsZGluZyUyMHNlcnZlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NjQxMzczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "One Year of Sponsored Servo Development",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "publishedAt": "Thu, 17 Sep 2026 08:13:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1620924333549-6ca69f51e5c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPbmUlMjBZZWFyJTIwb2YlMjBTcG9uc29yZWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTY0MTM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nick Fewings on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Meet a mouse whose brain cortex is made up of human cells",
+      "dek": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1648331607020-aa51a96ff38d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZWV0JTIwYSUyMG1vdXNlJTIwd2hvc2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTY0MTM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kevin Yates on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Building the materials foundation for AI",
+      "dek": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "publishedAt": "Wed, 16 Sep 2026 12:47:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1709200307388-1c6718ce5177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHRoZSUyMG1hdGVyaWFscyUyMGZvdW5kYXRpb24lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTY0MTM3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by EqualStock on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the ec",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "publishedAt": "Wed, 16 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1633769572593-a59f3b471ebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFJJUUyJTgwJTk5cyUyMHRyaWxsaW9uLWRvbGxhciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NjQxMzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by rc.xyz NFT gallery on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The EU Wants to Break Up Kids and Their Chatbots",
+      "dek": "ChatGPT, Character.ai, and Snapchat’s My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+      "publishedAt": "Thu, 17 Sep 2026 10:06:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBFVSUyMFdhbnRzJTIwdG8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTY0MTM3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christian Lue on Unsplash"
+    },
+    {
+      "id": "2026-09-17-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Hundreds of Election Deniers Will Be on the Ballot This November",
+      "dek": "197 election deniers are running for Congress or statewide office in 43 states. Many of them are seeking roles that would put them in charge of voting for the 2028 presidential election.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/hundreds-of-election-deniers-will-be-on-the-ballot-this-november/",
+      "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1540908390241-82158ab62887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdW5kcmVkcyUyMG9mJTIwRWxlY3Rpb24lMjBEZW5pZXJzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk2NDEzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Element5 Digital on Unsplash"
+    }
+  ]
+}
