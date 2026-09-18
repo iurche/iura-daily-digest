@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-18",
+  "heroStoryId": "2026-09-18-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-18-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "dek": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "publishedAt": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-18.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+      "dek": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/gallery/iphone-buying-guide/",
+      "publishedAt": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JUUyJTgwJTk5cyUyMHRoZSUyMEJlc3QlMjBpUGhvbmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTcyNjMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bagus Hernawan on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Google DeepMind launches institute to widen the AGI debate",
+      "dek": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "publishedAt": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "imageUrl": "https://images.pexels.com/photos/17485744/pexels-photo-17485744.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Google DeepMind on Pexels"
+    },
+    {
+      "id": "2026-09-18-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Waymo says Singapore will be its next international robotaxi city",
+      "dek": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. | Photo by Smith Collection/Gado/Getty Images\t\n\nWaymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "publishedAt": "2026-09-18T02:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/32461216/pexels-photo-32461216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Abhishek  Navlakha on Pexels"
+    },
+    {
+      "id": "2026-09-18-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Think you can design a better iPhone? Here’s your chance",
+      "dek": "If you ever wanted to design your own iPhone, a new website gives you the tools.\n“Design the Next iPhone” is a one-off site from Neal Agarwal, a game designer, that lets users add features ranging from serious to absurd to customize a new iPhone.\nThe site features a 3D rendering of a standard iPhone",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91606973/design-the-next-iphone-builder",
+      "publishedAt": "2026-09-18T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1567446360761-9c620ea15851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGluayUyMHlvdSUyMGNhbiUyMGRlc2lnbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NzI2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rob Coates on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "A dolphin named Bubbles makes other fish vomit, then eats it",
+      "dek": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+      "publishedAt": "Thu, 17 Sep 2026 13:57:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591706405280-f03acb082051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwZG9scGhpbiUyMG5hbWVkJTIwQnViYmxlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NzI2MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ranae Smith on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "OpenJev",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://openjev.com/",
+      "publishedAt": "Fri, 18 Sep 2026 09:42:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1603328203114-8b9c370b374d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuSmV2JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk3MjYzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Intricate Explorer on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: mice with part-human brains and climate tech innovators",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position an",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "publishedAt": "Thu, 17 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1641667185876-612c36b46b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMG1pY2UlMjB3aXRoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk3MjYzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marvin Zettl on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The fix for rogue AI agents could be more AI",
+      "dek": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1639640030255-e3129b069f52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBmaXglMjBmb3IlMjByb2d1ZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5NzI2MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by i am not cheerleader on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "dek": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1676272682018-b1435bad1cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBjYXVnaHQlMjBpdHMlMjBtb2RlbHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTcyNjM0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rolf van Root on Unsplash"
+    },
+    {
+      "id": "2026-09-18-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "dek": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "publishedAt": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1704383293727-acb2b9d30e29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQaW50ZXJlc3QlMjB0ZWFzZXMlMjBhJTIwbmV3JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk3MjYzNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Abid Shah on Unsplash"
+    }
+  ]
+}
