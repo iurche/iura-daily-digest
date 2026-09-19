@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-19",
+  "heroStoryId": "2026-09-19-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-19-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: AI’s extinction risk and bioweapons threat",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "publishedAt": "Fri, 18 Sep 2026 12:10:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-19.png",
+      "imageCredit": "Photo by engin akyurt on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+      "dek": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "publishedAt": "Sat, 19 Sep 2026 06:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1656835125181-fc85c0ec92d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYaWFvbWklMjBIYXMlMjBhJTIwTHV4dXJ5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk4MTE2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by He Junhui on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "World model companies are keeping a lot of secrets",
+      "dek": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "imageUrl": "https://images.pexels.com/photos/8828311/pexels-photo-8828311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Lara Jameson on Pexels"
+    },
+    {
+      "id": "2026-09-19-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "dek": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "publishedAt": "2026-09-18T21:07:24.000Z",
+      "imageUrl": "https://images.pexels.com/photos/15863000/pexels-photo-15863000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrew Neel on Pexels"
+    },
+    {
+      "id": "2026-09-19-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "iPhone 18 too expensive? Here are 3 ways to make your old iPhone feel like new again",
+      "dek": "The new iPhone 18 Pro series went on sale this week. Though they are the best iPhones Apple has ever made, their enhanced features—blazing-fast chips, better cameras, and foldability—come at a high price. While the iPhone 17 Pro and iPhone 17 Pro Max started at $1,099 and $1,199, respectively, the i",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91598687/iphone-18-too-expensive-here-are-3-ways-to-make-your-old-iphone-feel-like-new-again",
+      "publishedAt": "2026-09-19T09:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1789640201654-d2875b01f6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjAxOCUyMHRvbyUyMGV4cGVuc2l2ZSUzRiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODExNjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amanz on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Meet the winner of Nikon's Small World in Motion video contest",
+      "dek": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "publishedAt": "Fri, 18 Sep 2026 13:56:57 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1771792329945-a65d7e0bb607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZWV0JTIwdGhlJTIwd2lubmVyJTIwb2YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTgxMTYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "publishedAt": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1644648479153-2a3dbee76212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdW1hbiUyMGJyYWluJTIwaXMlMjB0d28lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTgxMTYyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BUDDHI Kumar SHRESTHA on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Could AI really kill us all? Your questions, answered.",
+      "dek": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "publishedAt": "Fri, 18 Sep 2026 11:29:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1732780484428-4619d6a42a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDb3VsZCUyMEFJJTIwcmVhbGx5JTIwa2lsbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODExNjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Whoop Promo Codes: 20% Off This September 2026",
+      "dek": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/whoop-promo-code/",
+      "publishedAt": "Sat, 19 Sep 2026 05:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1655855438678-e1d77c8abd31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaG9vcCUyMFByb21vJTIwQ29kZXMlM0ElMjAyMCUyNSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODExNjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jen Shish on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "dek": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "publishedAt": "Fri, 18 Sep 2026 15:00:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1728983188655-8ed9816fcf21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMFBBQ3MlMjBIYXZlJTIwRHVtcGVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk4MTE2MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "dek": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "publishedAt": "Fri, 18 Sep 2026 17:33:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1688235142578-c4e1523c6347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlRTIlODAlOTlzJTIwbmV3JTIwJUUyJTgwJTk4Q0MlRTIlODAlOTklMjBpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODExNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Adarsh Chauhan on Unsplash"
+    },
+    {
+      "id": "2026-09-19-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "dek": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "publishedAt": "Fri, 18 Sep 2026 17:09:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1778683033979-6b336240b718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEYXJpbyUyMEFtb2RlaSUyMGFuZCUyMG90aGVyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk4MTE2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    }
+  ]
+}
