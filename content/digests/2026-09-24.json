@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-24",
+  "heroStoryId": "2026-09-24-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-24-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "AI is dominating the conversation at Climate Week",
+      "dek": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than us",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "publishedAt": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-24.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
+      "dek": "A growing body of research is putting the ovary in a new light, not as an egg factory with an expiration date, but as an organ that shapes women’s health long after the fertile years have passed.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ovary-activity-after-menopause/",
+      "publishedAt": "Thu, 24 Sep 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1778082628895-368d7b06b413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBPdmFyeSUyMElzJTIwU3VycHJpc2luZ2x5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTAyNDY1MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Everything new coming to Meta’s AI agent Muse",
+      "dek": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "publishedAt": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1580855014124-d1e9d454c6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdmVyeXRoaW5nJTIwbmV3JTIwY29taW5nJTIwdG8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDI0NjUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Viktor Forgacs on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "dek": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently i",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "publishedAt": "2026-09-24T09:04:18.000Z",
+      "imageUrl": "https://images.pexels.com/photos/33049900/pexels-photo-33049900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Alexey K. on Pexels"
+    },
+    {
+      "id": "2026-09-24-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Diesel prices are surging. These shippers say Tesla’s electric trucks can save money over time",
+      "dek": "Tesla just landed the largest-ever U.S. order for electric heavy-duty trucks: 2,500 Tesla Semis, which would double the number of Class 8 electric trucks on the road.\nA coalition of companies including Microsoft and PepsiCo is behind the order, which Tesla expects to deliver in 18 months. A financin",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91611804/as-diesel-prices-spike-these-shippers-are-leaning-into-electric-trucks",
+      "publishedAt": "2026-09-24T10:08:00",
+      "imageUrl": "https://images.unsplash.com/photo-1564914236221-d13fe3b30205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEaWVzZWwlMjBwcmljZXMlMjBhcmUlMjBzdXJnaW5nLiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwMjQ2NTE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Studio Pizza on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Here's the Torcal, the first fully electric Bentley",
+      "dek": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+      "publishedAt": "Wed, 23 Sep 2026 21:06:07 +0000",
+      "imageUrl": "https://images.pexels.com/photos/20859338/pexels-photo-20859338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Enrique on Pexels"
+    },
+    {
+      "id": "2026-09-24-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Nokia Design Archive",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://nokiadesignarchive.aalto.fi/index.html",
+      "publishedAt": "Thu, 24 Sep 2026 09:49:33 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781155134242-324a94ce0485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOb2tpYSUyMERlc2lnbiUyMEFyY2hpdmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDI0NjUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by He Junhui on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "A congressional representative just proposed killing America’s border tower program",
+      "dek": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” i",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "publishedAt": "Wed, 23 Sep 2026 17:10:11 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588173926570-8f5dbece16aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwY29uZ3Jlc3Npb25hbCUyMHJlcHJlc2VudGF0aXZlJTIwanVzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwMjQ2NTIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quick PS on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "publishedAt": "Wed, 23 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1591914227457-2eed92364074?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEluZGlhJUUyJTgwJTk5cyUyMHNtYXJ0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTAyNDY1MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Piero Regnante on Unsplash"
+    },
+    {
+      "id": "2026-09-24-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
+      "dek": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
+      "publishedAt": "Wed, 23 Sep 2026 18:15:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5458763/pexels-photo-5458763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Diego S. on Pexels"
+    },
+    {
+      "id": "2026-09-24-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "dek": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "publishedAt": "Wed, 23 Sep 2026 12:54:58 +0000",
+      "imageUrl": "https://images.pexels.com/photos/32021560/pexels-photo-32021560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Tim Witzdam on Pexels"
+    }
+  ]
+}
