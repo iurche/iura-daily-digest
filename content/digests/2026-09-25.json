@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-25",
+  "heroStoryId": "2026-09-25-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-25-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "dek": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learni",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
+      "imageUrl": "/images/heroes/2026-09-25.png",
+      "imageCredit": "Photo by Giorgio Trovato on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "dek": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "publishedAt": "Thu, 24 Sep 2026 17:39:24 +0000",
+      "imageUrl": "https://images.pexels.com/photos/5311549/pexels-photo-5311549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Rulo Davila on Pexels"
+    },
+    {
+      "id": "2026-09-25-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Here’s the Tesla Semi… again",
+      "dek": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+      "publishedAt": "2026-09-25T02:12:57.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1714538701025-31efd7a24a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXJlJUUyJTgwJTk5cyUyMHRoZSUyMFRlc2xhJTIwU2VtaSVFMiU4MCVBNiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwMzMzMTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Krish Parmar on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "We have a love-hate relationship with technology, and that’s never going to change",
+      "dek": "Well over a decade after first teasing the idea of making home deliveries via drone, Amazon is now actively testing the concept in a Dallas suburb and elsewhere. Reports suggest the reaction is, well, mixed. Yes, some customers seem delighted. But other residents complain the drones are loud, annoyi",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91612937/technology-love-hate-relationship",
+      "publishedAt": "2026-09-25T10:15:00",
+      "imageUrl": "https://images.unsplash.com/photo-1518541511379-fb7260465800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyMGhhdmUlMjBhJTIwbG92ZS1oYXRlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTAzMzMxMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by DESIGNECOLOGIST on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Google's first Suncatcher orbital data center test launches October 1",
+      "dek": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "publishedAt": "Thu, 24 Sep 2026 16:16:34 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjdzJTIwZmlyc3QlMjBTdW5jYXRjaGVyJTIwb3JiaXRhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwMzMzMTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mitchell Luo on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.dawo.community/en/",
+      "publishedAt": "Fri, 25 Sep 2026 08:06:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1586449480523-8db040d36c0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEdXRjaCUyMGdvdmVybm1lbnRzJTIwYnVpbGRzJTIwYWx0ZXJuYXRpdmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDMzMzEzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by KOBU Agency on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Young organs may not be a fountain of youth for recipients",
+      "dek": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "publishedAt": "Fri, 25 Sep 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1699516764573-29a2e5f67b32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VuZyUyMG9yZ2FucyUyMG1heSUyMG5vdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwMzMzMTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced pla",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "publishedAt": "Thu, 24 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1774636815965-985e74eb51e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBiaWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDMzMzEzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-25-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "TechCrunch Founder Summit 2026: Everything you need to know ",
+      "dek": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "Thu, 24 Sep 2026 16:46:47 +0000",
+      "imageUrl": "https://images.pexels.com/photos/19747906/pexels-photo-19747906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Aathif Aarifeen on Pexels"
+    },
+    {
+      "id": "2026-09-25-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "dek": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "publishedAt": "Thu, 24 Sep 2026 16:35:13 +0000",
+      "imageUrl": "https://images.pexels.com/photos/35977121/pexels-photo-35977121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Vishal Kampani on Pexels"
+    },
+    {
+      "id": "2026-09-25-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "dek": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 24 Sep 2026 16:03:36 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1616141893496-fbc65370493e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZWV0JTIwdGhlJTIwbmV4dCUyMHdhdmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDMzMzE0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matt Paul Catalano on Unsplash"
+    }
+  ]
+}
