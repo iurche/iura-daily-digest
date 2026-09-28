@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-28",
+  "heroStoryId": "2026-09-28-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-28-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Who’s liable when AI agents go rogue?",
+      "dek": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "imageUrl": "/images/heroes/2026-09-28.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "dek": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "publishedAt": "Mon, 28 Sep 2026 11:32:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBQYXVzZXMlMjBUcmFpbmluZyUyMEl0cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNTk3NzkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "dek": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "publishedAt": "Sun, 27 Sep 2026 15:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/16688486/pexels-photo-16688486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Shantanu Kumar on Pexels"
+    },
+    {
+      "id": "2026-09-28-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+      "dek": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Starlink constellation. The 26 satellites will be riding atop Starship, which Space",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+      "publishedAt": "2026-09-28T12:09:17.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1634175735590-b2ed7b02d143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBwcmVwcyUyMG5leHQtZ2VuJTIwU3RhcmxpbmslMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDU5Nzc5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Anirudh on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How to onboard a virtual teammate",
+      "dek": "Imagine going to a job board, making a hire for a chief of staff, and onboarding that new hire within a few minutes.\nThat’s the fantasy that artificial intelligence companies are making a reality with virtual teammates. Optimizely recently released virtual teammates to provide marketers with role-sp",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91604181/how-to-onboard-a-virtual-teammate-technology-ai-onboard-virtual-teammate",
+      "publishedAt": "2026-09-28T11:16:04",
+      "imageUrl": "https://images.unsplash.com/photo-1721829780603-6c2d8ca9ea19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjB0byUyMG9uYm9hcmQlMjBhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA1OTc3OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Tanya Prodaan on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "dek": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "publishedAt": "Mon, 28 Sep 2026 11:00:09 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBnb2VzJTIwcXVpZXQlMjBhZnRlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNTk3Nzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://git.mills.io/prologic/parley",
+      "publishedAt": "Mon, 28 Sep 2026 10:30:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQYXJsZXklM0ElMjBGZWRlcmF0ZWQlMkMlMjBkZWNlbnRyYWxpc2VkJTIwY2hhdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNTk3Nzk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Levart_Photographer on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "dek": "This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor\t\n\nHonor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery.\nThis is Honor's first flagship launch - Robot P",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "publishedAt": "2026-09-28T08:00:36.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1760708368766-1d36cd72591e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb25vciVFMiU4MCU5OXMlMjBNYWdpYyUyMDklMjBQcm8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDU5Nzc5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrey Matveev on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "dek": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not graphicall",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "publishedAt": "2026-09-27T21:59:57.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1735280048622-c1f3d2df7b59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPdXQlMjBvZiUyMHRoZSUyMFBhcmslMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDU5Nzc5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quan Jing on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+      "dek": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "publishedAt": "2026-09-27T20:46:36.000Z",
+      "imageUrl": "https://images.pexels.com/photos/17684567/pexels-photo-17684567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Egor Komarov on Pexels"
+    },
+    {
+      "id": "2026-09-28-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "dek": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "publishedAt": "2026-09-27T17:21:07.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBhZ2VudHMlMjB0cmllZCUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA1OTc3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-09-28-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Why OLPC’s $100 laptop never stood a chance",
+      "dek": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "publishedAt": "2026-09-27T12:25:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/6994155/pexels-photo-6994155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Kindel Media on Pexels"
+    }
+  ]
+}
