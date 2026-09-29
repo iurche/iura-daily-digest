@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-29",
+  "heroStoryId": "2026-09-29-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-29-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "dek": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "publishedAt": "Tue, 29 Sep 2026 11:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-09-29.png",
+      "imageCredit": "Photo by Huma Kabakci on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "dek": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "publishedAt": "Tue, 29 Sep 2026 10:36:22 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBEZWxheXMlMjBSZWxlYXNlJTIwb2YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "dek": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "publishedAt": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlRTIlODAlOTlzJTIwcHJvc3BlY3R1cyUyMGRldGFpbHMlMjBsb3NzZXMlMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Your car’s data privacy problems are worse than you think",
+      "dek": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how aggressively you turn, and much more.\nThe legality of",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1625970488705-7de6f59ab834?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VyJTIwY2FyJUUyJTgwJTk5cyUyMGRhdGElMjBwcml2YWN5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA2ODIzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Cooper on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Hundreds of robots are roaming this Chinese theme park. It’s only the beginning of our humanoid future",
+      "dek": "The Chinese robot manufacturer AgiBot just released more than 300 autonomous robots into a theme park to let them mingle freely with the public. It’s the largest deployment of this kind ever. In fact, this embodied AI invasion dwarfs any other public deployment of robots in China. Nothing in the Wes",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction",
+      "publishedAt": "2026-09-29T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdW5kcmVkcyUyMG9mJTIwcm9ib3RzJTIwYXJlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA2ODIzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Emilipothèse on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+      "dek": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+      "publishedAt": "Mon, 28 Sep 2026 21:26:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjdzJTIwU3RhcnNoaXAlMjBnb2VzJTIwb3JiaXRhbCUyQyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNjgyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sven Piper on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "AI companies leak data to advertisers [pdf]",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "publishedAt": "Tue, 29 Sep 2026 09:03:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1709120395858-92f1c7c577f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGNvbXBhbmllcyUyMGxlYWslMjBkYXRhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA2ODIzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Numan Ali on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Making AI an asset, not an expense",
+      "dek": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "publishedAt": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYWtpbmclMjBBSSUyMGFuJTIwYXNzZXQlMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "When can we say AI made a scientific discovery?",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "publishedAt": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1673515336677-ef1cf9e20ea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGVuJTIwY2FuJTIwd2UlMjBzYXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ling App on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: rogue agent liability and the AI Hype Index",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swa",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "publishedAt": "Mon, 28 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1707546853890-77b05c5621d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHJvZ3VlJTIwYWdlbnQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Hossein Nasr on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Nvidia launches new platform for reining in rogue AI agents",
+      "dek": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "publishedAt": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOdmlkaWElMjBsYXVuY2hlcyUyMG5ldyUyMHBsYXRmb3JtJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA2ODIzMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mariia Berezovsky on Unsplash"
+    },
+    {
+      "id": "2026-09-29-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "dek": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "publishedAt": "Mon, 28 Sep 2026 16:47:49 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1760520338259-64e68f6850b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBpUGhvbmUlMjBEdW8lMjBtYXklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDY4MjMwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Daniel Romero on Unsplash"
+    }
+  ]
+}
