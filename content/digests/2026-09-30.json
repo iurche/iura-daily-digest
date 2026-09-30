@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-30",
+  "heroStoryId": "2026-09-30-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-09-30-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "dek": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "publishedAt": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "imageUrl": "/images/heroes/2026-09-30.png",
+      "imageCredit": "Photo by Gennifer Miller on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
+      "dek": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move through it.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
+      "publishedAt": "Wed, 30 Sep 2026 10:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/20246396/pexels-photo-20246396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Miguel Cuenca on Pexels"
+    },
+    {
+      "id": "2026-09-30-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "OpenAI’s latest features take direct aim at the app store model",
+      "dek": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "publishedAt": "Tue, 29 Sep 2026 20:15:47 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklRTIlODAlOTlzJTIwbGF0ZXN0JTIwZmVhdHVyZXMlMjB0YWtlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA3Njc4OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+      "dek": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device.\nAll three products are set to showcase Siri AI, Apple's overhauled AI-powered ass",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+      "publishedAt": "2026-09-30T11:11:24.000Z",
+      "imageUrl": "https://images.pexels.com/photos/236086/pexels-photo-236086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pixabay on Pexels"
+    },
+    {
+      "id": "2026-09-30-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "The two clock paradox: How short-form content became premium entertainment (and what to do about it)",
+      "dek": "Entertainment companies everywhere are now acknowledging that they have to operate based upon two clocks. One of them is an alarm clock—the premiere you clear your night for, the finale you go to great lengths to avoid spoilers for, and the release that causes you to refresh the page at midnight in ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91607253/the-two-clock-paradox-how-short-form-content-became-premium-entertainment-and-what-to-do-about-it-innovation-entertainment-content",
+      "publishedAt": "2026-09-30T10:04:00",
+      "imageUrl": "https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjB0d28lMjBjbG9jayUyMHBhcmFkb3glM0ElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDc2Nzg5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Thomas Bormans on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "dek": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+      "publishedAt": "Tue, 29 Sep 2026 22:30:37 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3N0JTIwcG93ZXJmdWwlMjBvYmVzaXR5JTIwZHJ1ZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNzY3ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Myriam Zilles on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Pi.dev: You Said No MCP",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://earendil.com/posts/you-said-no-mcp/",
+      "publishedAt": "Wed, 30 Sep 2026 09:55:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1728456354834-defede0b4ee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQaS5kZXYlM0ElMjBZb3UlMjBTYWlkJTIwTm8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDc2Nzg5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedali",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "publishedAt": "Tue, 29 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGNsaW1hdGUlMjB0ZWNoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA3Njc4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "dek": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "publishedAt": "Tue, 29 Sep 2026 18:48:03 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776702077199-7ff2d56b920d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3JlJTIwV2F5cyUyMHRvJTIwRGlzcnVwdCUzQSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNzY3ODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "dek": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and w",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "publishedAt": "2026-09-30T00:19:13.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1782414963066-2aab3094fd43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTYW0lMjBBbHRtYW4lMjBzYXlzJTIwT3BlbkFJJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA3Njc4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Trump orders US government to call AI ‘Super Intelligence’",
+      "dek": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new exe",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "publishedAt": "2026-09-29T22:25:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUcnVtcCUyMG9yZGVycyUyMFVTJTIwZ292ZXJubWVudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNzY3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by History in HD on Unsplash"
+    },
+    {
+      "id": "2026-09-30-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "BMW’s revamped i3 boasts up to 468 miles of range",
+      "dek": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. \nLet's start with",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+      "publishedAt": "2026-09-29T22:01:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1663433340126-1868f62ca7a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCTVclRTIlODAlOTlzJTIwcmV2YW1wZWQlMjBpMyUyMGJvYXN0cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwNzY3ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nayan Bhalotia on Unsplash"
+    }
+  ]
+}
