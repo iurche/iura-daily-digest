@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-01",
+  "heroStoryId": "2026-10-01-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-01-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "dek": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "publishedAt": "Thu, 01 Oct 2026 10:32:24 +0000",
+      "imageUrl": "/images/heroes/2026-10-01.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
+      "dek": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
+      "publishedAt": "Thu, 01 Oct 2026 11:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7089020/pexels-photo-7089020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by MART  PRODUCTION on Pexels"
+    },
+    {
+      "id": "2026-10-01-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "dek": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+      "publishedAt": "Wed, 30 Sep 2026 23:08:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1618349131771-48417d67906c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBQZW50YWdvbiUyMHRhcHMlMjBFbG9uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA4NTYwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Levi Meir Clancy on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Huawei made a whole camera to attach to its latest phone",
+      "dek": "I’m sorry, this is just a camera that makes phone calls. | Image: Huawei\t\n\nOver the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could n",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+      "publishedAt": "2026-10-01T10:15:48.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1681928411570-09b1bab3a6ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIdWF3ZWklMjBtYWRlJTIwYSUyMHdob2xlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA4NTYwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "This Swedish travel agency caters specifically to introverts",
+      "dek": "People seeking travel experiences better suited to their introverted personality are in luck. Announced on September 29, Sweden’s new Introvert Travel Agency caters its services specifically to introverts, people who typically prefer quiet introspection and solitude or small-group interaction over n",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91616065/sweden-now-has-a-travel-agency-specifically-for-introverts",
+      "publishedAt": "2026-10-01T11:03:00",
+      "imageUrl": "https://images.unsplash.com/photo-1588653818221-2651ec1a6423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwU3dlZGlzaCUyMHRyYXZlbCUyMGFnZW5jeSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwODU2MDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ana Bórquez on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Dinosaur-killing impact crater might have been teeming with life",
+      "dek": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+      "publishedAt": "Wed, 30 Sep 2026 21:54:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1617742760787-6384fd3d13c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEaW5vc2F1ci1raWxsaW5nJTIwaW1wYWN0JTIwY3JhdGVyJTIwbWlnaHQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDg1NjAwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marjolijn van Raaij on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "StreetComplete on iOS is now in public beta",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "publishedAt": "Thu, 01 Oct 2026 10:59:57 +0000",
+      "imageUrl": "https://images.pexels.com/photos/694424/pexels-photo-694424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Mustafa ezz on Pexels"
+    },
+    {
+      "id": "2026-10-01-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "How smaller, distributed batteries could help the grid",
+      "dek": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "publishedAt": "Thu, 01 Oct 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1619641805634-b867f535071c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBzbWFsbGVyJTJDJTIwZGlzdHJpYnV0ZWQlMjBiYXR0ZXJpZXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDg1NjAwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Roberto Sorin on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computer",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "publishedAt": "Wed, 30 Sep 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675557009317-bb59e35aba82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyME9wZW5BSSVFMiU4MCU5OXMlMjBjaGllZiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwODU2MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jonathan Kemper on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
+      "dek": "James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and AI data centers.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
+      "publishedAt": "Thu, 01 Oct 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1589340666696-afe495ad7097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYWRpc29uJTIwU3F1YXJlJTIwR2FyZGVuJUUyJTgwJTk5cyUyMEphbWVzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA4NTYwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chris Appano on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "dek": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant ",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "publishedAt": "Wed, 30 Sep 2026 20:20:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1566927472544-3386c0cb9802?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJcyUyME5la28lMjBIZWFsdGglRTIlODAlOTlzJTIwYm9keSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwODU2MDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Cristina Hernández on Unsplash"
+    },
+    {
+      "id": "2026-10-01-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "dek": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "publishedAt": "Wed, 30 Sep 2026 16:24:23 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782747459857-f91befef627a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwZGlzcHV0ZXMlMjBjbGFpbSUyMHRoYXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDg1NjAwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    }
+  ]
+}
