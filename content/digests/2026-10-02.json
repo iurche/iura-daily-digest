@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-02",
+  "heroStoryId": "2026-10-02-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-02-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "A new contest pits competitors against each other in a race to biological youth",
+      "dek": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "publishedAt": "Fri, 02 Oct 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-10-02.png",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "ChatGPT can now virtually try on clothes for you",
+      "dek": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "publishedAt": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwY2FuJTIwbm93JTIwdmlydHVhbGx5JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA5NDA3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Levart_Photographer on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "AI music maker Suno now generates spoken words",
+      "dek": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "publishedAt": "2026-10-02T09:42:19.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7097832/pexels-photo-7097832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by cottonbro studio on Pexels"
+    },
+    {
+      "id": "2026-10-02-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Independent candidates are making their independence their biggest brand asset",
+      "dek": "The Democratic and Republican parties both have brand problems, so independent candidates across the country are using campaign logos specifically designed to let voters know they stand with neither of them. The new, must-have brand asset for independent candidates today is the word itself: independ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91614149/independent-candidate-branding-2026-elections",
+      "publishedAt": "2026-10-02T10:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1587137822244-a3068fd387f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJbmRlcGVuZGVudCUyMGNhbmRpZGF0ZXMlMjBhcmUlMjBtYWtpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDk0MDcwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by LSE Library on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Marvel releases one last VisionQuest trailer",
+      "dek": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+      "publishedAt": "Thu, 01 Oct 2026 18:04:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYXJ2ZWwlMjByZWxlYXNlcyUyMG9uZSUyMGxhc3QlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDk0MDcwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Waldemar Brandt on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Pi 1.0",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://earendil.com/posts/pi-1-0/",
+      "publishedAt": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646614699603-1a48cceecdb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQaSUyMDEuMCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwOTQwNzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve Sharp on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Don’t be fooled—LLMs don’t reason",
+      "dek": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "publishedAt": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1743785416211-1eaa5a6232b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEb24lRTIlODAlOTl0JTIwYmUlMjBmb29sZWQlRTIlODAlOTRMTE1zJTIwZG9uJUUyJTgwJTk5dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkwOTQwNzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "publishedAt": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1724137024684-38eca56ecc2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFJJTIwJUUyJTgwJTlDbWluZC1yZWFkaW5nJUUyJTgwJTlEJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA5NDA3MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Amazon Kindle, Paperwhite, and Colorsoft 2026: Specs, Price, Release Date",
+      "dek": "Ahead of the Kindle’s 20th anniversary next year, Amazon is refreshing its entire range of e-readers with fresh colors, an aluminum build, and a new frame design that’s both thinner and lighter.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
+      "publishedAt": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1649734926695-1b1664e98842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbWF6b24lMjBLaW5kbGUlMkMlMjBQYXBlcndoaXRlJTJDJTIwYW5kJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTA5NDA3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "This startup wants to turn idle car inventory into rental revenue",
+      "dek": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+      "publishedAt": "Thu, 01 Oct 2026 17:09:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1517309561013-16f6e4020305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwc3RhcnR1cCUyMHdhbnRzJTIwdG8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDk0MDcwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Nandha Kumar on Unsplash"
+    },
+    {
+      "id": "2026-10-02-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "dek": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside App",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "publishedAt": "2026-10-01T22:51:36.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSVFMiU4MCU5OXMlMjByZXBvcnRlZGx5JTIwZGV2ZWxvcGluZyUyMGElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MDk0MDcxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    }
+  ]
+}
