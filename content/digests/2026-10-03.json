@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-03",
+  "heroStoryId": "2026-10-03-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-03-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Redefining enterprise intelligence with autonomous AI",
+      "dek": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "publishedAt": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "imageUrl": "/images/heroes/2026-10-03.png",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "dek": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publishedAt": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSUyMHNheXMlMjBpdCVFMiU4MCU5OXMlMjB0aWdodGVuaW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEwMjQzOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Meta open sources code to let you make Muse AI gadgets",
+      "dek": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Mus",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "publishedAt": "2026-10-02T21:08:37.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwb3BlbiUyMHNvdXJjZXMlMjBjb2RlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEwMjQzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The secret message of John Wilson’s debut feature documentary, ‘The History of Concrete’ ",
+      "dek": "Nobody who’s remotely familiar with John Wilson’s funny, angsty HBO series How To with John Wilson will be surprised to discover that his debut feature documentary, The History of Concrete, is not really about concrete. Wilson introduces us to a guy who removes tattoos from corpses and mounts the de",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91616813/the-secret-message-of-john-wilsons-debut-feature-documentary-the-history-of-concrete",
+      "publishedAt": "2026-10-03T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1571333452531-727c64f60e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBzZWNyZXQlMjBtZXNzYWdlJTIwb2YlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTAyNDM5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Paolo Chiabrando on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
+      "dek": "After years of testing repellents, traps, and sprays, I found a few ways to keep the bugs at bay—and plenty that aren’t worth the effort.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/best-mosquito-repellents/",
+      "publishedAt": "Sat, 03 Oct 2026 10:03:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1707943768453-7850f916ebde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCZXN0JTIwTW9zcXVpdG8lMjBSZXBlbGxlbnRzJTIwZm9yJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEwMjQzOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by National Institute of Allergy and Infectious Diseases on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Research roundup: 6 cool science stories we almost missed",
+      "dek": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+      "publishedAt": "Fri, 02 Oct 2026 18:17:27 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1770580684312-3bdc8625a67c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXNlYXJjaCUyMHJvdW5kdXAlM0ElMjA2JTIwY29vbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxMDI0Mzk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Etienne Girardet on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "An AI agent emailed researchers for help. It told us why",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "publishedAt": "Sat, 03 Oct 2026 10:07:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbiUyMEFJJTIwYWdlbnQlMjBlbWFpbGVkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEwMjQzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. On",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "publishedAt": "Fri, 02 Oct 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1778169577789-6237e502f5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGElMjBiaW9sb2dpY2FsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEwMjQzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "dek": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intell",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1674027215016-0a4abfdbf1cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJdCVFMiU4MCU5OXMlQzIlQTBub3QlMjBBSSUyMGFueW1vcmUlMkMlQzIlQTBpdCVFMiU4MCU5OXMlQzIlQTAlRTIlODAlOThzdXBlciUyMGludGVsbGlnZW5jZSVFMiU4MCU5OSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxMDI0Mzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Growtika on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "dek": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publishedAt": "Fri, 02 Oct 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1635335874521-7987db781153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaXJjdWl0JTIwQnJlYWtlciUyMExhYnMlMjBob3BlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxMDI0NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by mostafa mahmoudi on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Pope Leo XIV is not a fan of AI-generated art",
+      "dek": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "publishedAt": "Fri, 02 Oct 2026 15:39:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1538175911510-25336f95b07d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQb3BlJTIwTGVvJTIwWElWJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTAyNDQwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ashwin Vaswani on Unsplash"
+    },
+    {
+      "id": "2026-10-03-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "dek": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "publishedAt": "Fri, 02 Oct 2026 14:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1701501541638-c2ed4196b4fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZWNoQ3J1bmNoJTIwRGlzcnVwdCUyMDIwMjYlM0ElMjBDbGF5JUUyJTgwJTk5cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxMDI0NDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Souvik Naskar on Unsplash"
+    }
+  ]
+}
