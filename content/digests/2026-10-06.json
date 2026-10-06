@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-06",
+  "heroStoryId": "2026-10-06-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-06-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Here’s how our climate team picked 10 promising companies to watch",
+      "dek": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the hottest ever recorded.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "/images/heroes/2026-10-06.png",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Etched fields funding offers at $40B+ valuation, sources say",
+      "dek": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "publishedAt": "Mon, 05 Oct 2026 20:24:09 +0000",
+      "imageUrl": "https://images.pexels.com/photos/31841047/pexels-photo-31841047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Freek Wolsink on Pexels"
+    },
+    {
+      "id": "2026-10-06-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "The best October Prime Day tech deals we found",
+      "dek": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personally like, too). There are plenty of headphone deals, plus some great products in t",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+      "publishedAt": "2026-10-06T10:55:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1739722066986-99bcdccf391b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBiZXN0JTIwT2N0b2JlciUyMFByaW1lJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "People will be your competitive advantage",
+      "dek": "One of the biggest mistakes companies are making with AI is treating it primarily as a way to reduce talent, rather than as an opportunity to rethink how people and technology can work together.\nThe temptation is understandable, as AI can automate work and take on tasks that once required large team",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91617580/people-will-be-your-competitive-advantage",
+      "publishedAt": "2026-10-06T12:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1773937193272-b32a17dd81ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQZW9wbGUlMjB3aWxsJTIwYmUlMjB5b3VyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "94 Best Prime Day Deals We’re Shopping This October (2026)",
+      "dek": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+      "publishedAt": "Tue, 06 Oct 2026 11:48:23 +0000",
+      "imageUrl": "https://images.pexels.com/photos/16158539/pexels-photo-16158539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Erik Mclean on Pexels"
+    },
+    {
+      "id": "2026-10-06-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "dek": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "publishedAt": "Mon, 05 Oct 2026 22:26:35 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1676573408178-a5f280c3a320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNQ1AlMjBmb3IlMjBhZ2VudC10by1hZ2VudCUyMGNvbW1zJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Emiliano Vittoriosi on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Nobel Prize in Physics goes to Francis Halzen",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/2026/",
+      "publishedAt": "Tue, 06 Oct 2026 09:48:46 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1756829007483-414057ed33cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOb2JlbCUyMFByaXplJTIwaW4lMjBQaHlzaWNzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Adil Shamim on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "WeLion New Energy and its semi-solid-state batteries",
+      "dek": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZUxpb24lMjBOZXclMjBFbmVyZ3klMjBhbmQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTI4OTM1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zbynek Burival on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Form Energy and its iron batteries",
+      "dek": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output var",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1698911890234-9be8135bfebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGb3JtJTIwRW5lcmd5JTIwYW5kJTIwaXRzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "X-energy and its helium-cooled nuclear reactors",
+      "dek": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1525212746907-ff35fbdef9ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYLWVuZXJneSUyMGFuZCUyMGl0cyUyMGhlbGl1bS1jb29sZWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTI4OTM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Marija Zaric on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Energy Dome and its carbon dioxide batteries",
+      "dek": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.  As the world races to meet growing electricity demand, solar and o",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1573925662400-8c3142d16905?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFbmVyZ3klMjBEb21lJTIwYW5kJTIwaXRzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTEyODkzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yusuf Evli on Unsplash"
+    },
+    {
+      "id": "2026-10-06-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "dek": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing bu",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1551481921-cd2a3c855805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxCcmltc3RvbmUlMjBhbmQlMjBpdHMlMjBvbmUtc3RvcCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxMjg5MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Dave Lowe on Unsplash"
+    }
+  ]
+}
