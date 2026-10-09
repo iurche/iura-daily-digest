@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-09",
+  "heroStoryId": "2026-10-09-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-09-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "We’re putting too much faith in AI’s ability to say no",
+      "dek": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recentl",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-10-09.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
+      "dek": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+      "publishedAt": "Fri, 09 Oct 2026 04:46:11 +0000",
+      "imageUrl": "https://images.pexels.com/photos/38196140/pexels-photo-38196140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Yura Forrat on Pexels"
+    },
+    {
+      "id": "2026-10-09-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "dek": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "publishedAt": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1736787016329-b929192eb721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcmV0ZW5kJTIweW91JUUyJTgwJTk5cmUlMjBzaXR0aW5nJTIwYXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTU0ODA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "dek": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"\nIn a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sen",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "publishedAt": "2026-10-09T09:48:26.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1782511742843-1b901be04a3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPcGVuQUklMjBkb3VibGVzJTIwZG93biUyMG9uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTE1NDgwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "This AI-powered brain implant hints at the future of human interaction",
+      "dek": "For the first time, a single brain implant can now read a paralyzed person’s attempts to speak and gesture at the same time, turning them into text and the gestures of a digital avatar. According to the research paper published in Nature, the device uses artificial intelligence models to read the br",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91613405/brain-implant-read-speech-and-gestures",
+      "publishedAt": "2026-10-09T10:30:00",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwQUktcG93ZXJlZCUyMGJyYWluJTIwaW1wbGFudCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxNTQ4MDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "dek": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "publishedAt": "Thu, 08 Oct 2026 21:37:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglMjBjYWxscyUyMGZvciUyMGJldHRlciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxNTQ4MDY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "publishedAt": "Fri, 09 Oct 2026 11:03:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMZXQlMjB5b3VyJTIwQUklMjBhZ2VudHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTU0ODA2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Job titles of the future: Delivery drone air traffic controller",
+      "dek": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1653038417332-6db0ff9d4bfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKb2IlMjB0aXRsZXMlMjBvZiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxNTQ4MDY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Winkler on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "dek": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1776079614428-45eeb0f1c53c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSVFMiU4MCU5OXJlJTIwc3RpbGwlMjBmaWd1cmluZyUyMG91dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxNTQ4MDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-09-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "dek": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "imageUrl": "https://images.pexels.com/photos/11451504/pexels-photo-11451504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Vincent Santamaria on Pexels"
+    },
+    {
+      "id": "2026-10-09-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Google brings agentic AI to Gemini, starting with businesses",
+      "dek": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/30869081/pexels-photo-30869081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Winkler on Pexels"
+    },
+    {
+      "id": "2026-10-09-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Anthropic changes usage policy to ban model abuse and election interference",
+      "dek": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1679403766669-17890714e491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlMjBjaGFuZ2VzJTIwdXNhZ2UlMjBwb2xpY3klMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTU0ODA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Andrew Neel on Unsplash"
+    }
+  ]
+}
