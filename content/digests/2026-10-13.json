@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-13",
+  "heroStoryId": "2026-10-13-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-13-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: open model trade-offs and geothermal power’s promise",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "publishedAt": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-10-13.png",
+      "imageCredit": "Photo by Google DeepMind on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "ExpressVPN Coupons: 80% Off",
+      "dek": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/expressvpn-coupons/",
+      "publishedAt": "Tue, 13 Oct 2026 05:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6207767/pexels-photo-6207767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Antoni Shkraba on Pexels"
+    },
+    {
+      "id": "2026-10-13-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Meta releases its first frontier model, Muse Wonder",
+      "dek": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "publishedAt": "Mon, 12 Oct 2026 17:56:56 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwcmVsZWFzZXMlMjBpdHMlMjBmaXJzdCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxODk2ODM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Apple launches HomeView, its first smart display for the home",
+      "dek": "The HomeView is a smart speaker with a touchscreen display. It’s available in silver, starlight, rose pink, and space grey. | Image: Apple\t\n\nIt's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's g",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/29073142/pexels-photo-29073142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Hans Herrington on Pexels"
+    },
+    {
+      "id": "2026-10-13-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Character.ai has filed for Chapter 11 bankruptcy protection as it moves to sell assets to Disney",
+      "dek": "Controversial chatbot platform Character.ai is seeking Chapter 11 bankruptcy protection in the wake of mounting legal challenges and runaway operating costs, the four-year-old startup said in a surprise announcement on Monday.\nThe move comes as the Menlo Park, California, company has faced a number ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91622790/character-ai-bankrupt-chatbot-platform-sell-disney",
+      "publishedAt": "2026-10-13T12:46:00",
+      "imageUrl": "https://images.pexels.com/photos/14553709/pexels-photo-14553709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Bibek ghosh on Pexels"
+    },
+    {
+      "id": "2026-10-13-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "dek": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "publishedAt": "Mon, 12 Oct 2026 20:26:14 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1728034145422-93cc7a8b04a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZnRlciUyMGElMjAxMC15ZWFyJTIwcmVkZW1wdGlvbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxODk2ODM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "11 year old unsoundness bugs found in Rust borrow checker",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/rust-lang/rust/issues/164250",
+      "publishedAt": "Tue, 13 Oct 2026 10:27:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1782227800015-95fc5867d9b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxMSUyMHllYXIlMjBvbGQlMjB1bnNvdW5kbmVzcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxODk2ODM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "dek": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "publishedAt": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/39460789/pexels-photo-39460789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Magda Ehlers on Pexels"
+    },
+    {
+      "id": "2026-10-13-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "AI labs are buying data from dead startups to train their models",
+      "dek": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "publishedAt": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGxhYnMlMjBhcmUlMjBidXlpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTg5NjgzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "dek": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "publishedAt": "Mon, 12 Oct 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1758844899358-6e2d33577351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZWNoQ3J1bmNoJTIwRGlzcnVwdCUyMDIwMjYlMjBzdGFydHMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MTg5NjgzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Everything Apple launched at its &#8216;Welcome Home&#8217; event",
+      "dek": "Apple unveiled a slate of new smart home gadgets at its aptly named \"Welcome Home\" event today, including its first (and highly anticipated) smart home hub. That flagship announcement came alongside much-needed refreshes for Apple's HomePod Mini and TV 4K devices, and a selection of new smart home a",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxFdmVyeXRoaW5nJTIwQXBwbGUlMjBsYXVuY2hlZCUyMGF0JTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTE4OTY4NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    },
+    {
+      "id": "2026-10-13-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "All the news from Apple&#8217;s ‘Welcome home’ event",
+      "dek": "Apple is hosting an event on October 13th that seems like it will be all about its efforts for the smart home. The event’s tagline is certainly a big hint — “Welcome home” — but the company is also heavily rumored to be launching a series of new smart home products soon.\nOne of the rumored new produ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements",
+      "publishedAt": "2026-10-13T12:45:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1738190228336-aa4cf73874b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbGwlMjB0aGUlMjBuZXdzJTIwZnJvbSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkxODk2ODQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by John Cardamone on Unsplash"
+    }
+  ]
+}
