@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-22",
+  "heroStoryId": "2026-10-22-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-22-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Making the case for context-aware AI",
+      "dek": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "publishedAt": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "imageUrl": "/images/heroes/2026-10-22.png",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Tesla says it will start selling Cybercabs by end of year",
+      "dek": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s thi",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "publishedAt": "Thu, 22 Oct 2026 00:17:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1641052243298-df9255d4ddc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZXNsYSUyMHNheXMlMjBpdCUyMHdpbGwlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjY2NjA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by idea inc. on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "YouTube says it isn’t testing hiding the dislike button",
+      "dek": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTub",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "publishedAt": "2026-10-21T23:46:45.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1521302200778-33500795e128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZb3VUdWJlJTIwc2F5cyUyMGl0JTIwaXNuJUUyJTgwJTk5dCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyNjY2MDc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Christian Wiediger on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The next Xbox could cost $1,800. Here’s why",
+      "dek": "Gamers looking to buy a new Xbox or PlayStation in the coming months are already bracing for higher prices, as surging demand from AI companies drives up the cost of memory chips. But as Microsoft and Sony work on their next-generation consoles, the recent price hikes on existing devices could look ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91627597/the-next-xbox-could-cost-1800-heres-why",
+      "publishedAt": "2026-10-22T10:11:00",
+      "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBuZXh0JTIwWGJveCUyMGNvdWxkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI2NjYwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Billy Freeman on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "dek": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less Personalized Ads models at the beginning of this year.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "publishedAt": "Thu, 22 Oct 2026 10:43:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518196-f48a24b49fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJUUyJTgwJTk5cyUyMEFkJTIwU2FsZXMlMjBBcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjY2NjA3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "dek": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "publishedAt": "Wed, 21 Oct 2026 22:06:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1604586376807-f73185cf5867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxYYm94JTIwd2FudHMlMjB5b3UlMjB0byUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyNjY2MDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kamil Switalski on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "publishedAt": "Thu, 22 Oct 2026 08:51:31 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1559588501-59a118c47e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDVkUtMjAyNi0xMTE5NDMlM0ElMjBDb21wcm9taXNlZCUyMEludGVybWVkaWF0ZSUyMENlcnRpZmljYXRlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI2NjYwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Robert Anasch on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Three things you should know about permafrost",
+      "dek": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "publishedAt": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1744212934825-2c144b7f9e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaHJlZSUyMHRoaW5ncyUyMHlvdSUyMHNob3VsZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyNjY2MDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "AI’s hidden storage bill: What inference leaves behind",
+      "dek": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "publishedAt": "Thu, 22 Oct 2026 08:41:18 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729912316735-fbaffc8ccc47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSVFMiU4MCU5OXMlMjBoaWRkZW4lMjBzdG9yYWdlJTIwYmlsbCUzQSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyNjY2MDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jason Leung on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: introducing the Impossible issue",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "publishedAt": "Wed, 21 Oct 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGludHJvZHVjaW5nJTIwdGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI2NjYwODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-22-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "TechCrunch Founder Summit 2026: Everything you need to know ",
+      "dek": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "Wed, 21 Oct 2026 21:16:20 +0000",
+      "imageUrl": "https://images.pexels.com/photos/19747906/pexels-photo-19747906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Aathif Aarifeen on Pexels"
+    },
+    {
+      "id": "2026-10-22-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "dek": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "publishedAt": "Wed, 21 Oct 2026 20:57:40 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781444504263-231cc860f263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxZZWFyLW9sZCUyMEFJJTIwbGFiJTIwRmxhcHBpbmclMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjY2NjA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    }
+  ]
+}
