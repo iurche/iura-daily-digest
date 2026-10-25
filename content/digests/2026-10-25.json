@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-25",
+  "heroStoryId": "2026-10-25-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-25-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
+      "dek": "WIRED attempts what even the Swedish brand hasn’t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
+      "publishedAt": "Sun, 25 Oct 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1783705060473-f8a990b26b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyMExpbmtlZCUyMDE1MCUyMG9mJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI5MjM2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "dek": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "publishedAt": "Sat, 24 Oct 2026 15:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729671318318-9272ef391e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQSFAtb2NhbHlwc2UlM0ElMjBIb3clMjB0d28lMjBjcml0aWNhbCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyOTIzNjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Blue Planet III is keeping the rough edges in the age of AI",
+      "dek": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "publishedAt": "2026-10-24T21:29:12.000Z",
+      "imageUrl": "https://images.pexels.com/photos/7826348/pexels-photo-7826348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by adiprayogo liemena on Pexels"
+    },
+    {
+      "id": "2026-10-25-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "What’s really fueling the recent generosity boom",
+      "dek": "Generosity is in the air, or so it would seem. The Trump administration recently mailed a round of $500 checks to almost a million users of Healthcare.gov. The AI rivals OpenAI and Anthropic have promised to share their (eventual) wealth with the public beyond investors, and Anthropic this week got ",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91628347/whats-really-fueling-the-recent-generosity-boom",
+      "publishedAt": "2026-10-25T10:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1667465762235-699f1edb6705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JUUyJTgwJTk5cyUyMHJlYWxseSUyMGZ1ZWxpbmclMjB0aGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjkyMzYxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "dek": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "publishedAt": "Sat, 24 Oct 2026 11:50:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1601370552761-d129028bd833?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwMSUyQzAwMC1taWxlJTIwY2xvdWQlMjBvbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyOTIzNjEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by engin akyurt on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "publishedAt": "Sun, 25 Oct 2026 09:00:40 +0000",
+      "imageUrl": "https://images.pexels.com/photos/13640269/pexels-photo-13640269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by FILIPE COELHO on Pexels"
+    },
+    {
+      "id": "2026-10-25-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "9 Unique Apps to Try on the iPhone Duo",
+      "dek": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+      "publishedAt": "Sat, 24 Oct 2026 10:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHw5JTIwVW5pcXVlJTIwQXBwcyUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI5MjM2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by William Hook on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Pennsylvania will require labels on AI-generated ads",
+      "dek": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1576082176859-e557bdc7b1b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQZW5uc3lsdmFuaWElMjB3aWxsJTIwcmVxdWlyZSUyMGxhYmVscyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkyOTIzNjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Katherine McAdoo on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "dek": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1743785416211-1eaa5a6232b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxGaWVsZGVkJTIwaXMlMjBvYnNlc3NlZCUyMHdpdGglMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjkyMzYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "dek": "LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG\t\n\nBlack Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1760901627502-4969155b3330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMRyVFMiU4MCU5OXMlMjBicmlsbGlhbnQlMjBDNiUyME9MRUQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MjkyMzYxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Gavin Phillips on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "What to expect from Apple’s ‘Pro and tell’ event",
+      "dek": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "publishedAt": "2026-10-24T14:15:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1467746474745-41dd2c7524ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwdG8lMjBleHBlY3QlMjBmcm9tJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI5MjM2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rita Morais on Unsplash"
+    },
+    {
+      "id": "2026-10-25-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "dek": "The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nIt looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwaG9wZSUyMEFwcGxlJUUyJTgwJTk5cyUyMHRvdWNoc2NyZWVuJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTI5MjM2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Sumudu Mohottige on Unsplash"
+    }
+  ]
+}
