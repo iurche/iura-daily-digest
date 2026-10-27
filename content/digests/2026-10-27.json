@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-27",
+  "heroStoryId": "2026-10-27-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-27-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "How solid-state transformers could help power the AI boom",
+      "dek": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to m",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "publishedAt": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1755795593016-698273b48357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBzb2xpZC1zdGF0ZSUyMHRyYW5zZm9ybWVycyUyMGNvdWxkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMwOTk1OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by wen jian on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "dek": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "imageUrl": "https://images.pexels.com/photos/21614838/pexels-photo-21614838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by 晓逸 善 on Pexels"
+    },
+    {
+      "id": "2026-10-27-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "dek": "Sterling Anderson, General Motors’ chief product officer, delivers a speech during the brand's annual technology event in New York on October 21st, 2026. Photo: Charly Triballeau / AFP via Getty Images | AFP via Getty Images\t\n\nAt a splashy event in New York City last week, General Motors unveiled it",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1729062172760-2360e4ebadf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdGVybGluZyUyMEFuZGVyc29uJTIwZG9lc24lRTIlODAlOTl0JTIwdGhpbmslMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzA5OTU5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "The lesson of the Theranos film for today? Before you buy the AI claim, ask to see everything",
+      "dek": "Thirty-four days before reporting to federal prison, Elizabeth Holmes opened her private life to a film crew. Nathan Fielder and Lance Oppenheim kept filming for about three years, and the result, You Can See Everything, opened in theaters this month to huge box office and wide acclaim. The title ec",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91629649/the-lesson-of-the-theranos-film-for-today-before-you-buy-the-ai-claim-ask-to-see-everything-leadership-ai-technology-theranos-you-can-see-everything",
+      "publishedAt": "2026-10-27T10:04:00",
+      "imageUrl": "https://images.unsplash.com/photo-1786667395507-9de626e5a28d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBsZXNzb24lMjBvZiUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Far Chinberdiev on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "AI Agents Are Media’s New Favorite Audience",
+      "dek": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "publishedAt": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135751-15e514d909f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMEFnZW50cyUyMEFyZSUyME1lZGlhJUUyJTgwJTk5cyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Microsoft offers to buy out a quarter of its workforce",
+      "dek": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "publishedAt": "Mon, 26 Oct 2026 22:36:06 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBvZmZlcnMlMjB0byUyMGJ1eSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Three new discoveries in mathematics, computer science, and physics",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "publishedAt": "Mon, 26 Oct 2026 21:35:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1783646177553-9cd5618d7b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaHJlZSUyMG5ldyUyMGRpc2NvdmVyaWVzJTIwaW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzA5OTU5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Will the real Anthropic please stand up",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "publishedAt": "Mon, 26 Oct 2026 17:45:43 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1729240100637-121dff881553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaWxsJTIwdGhlJTIwcmVhbCUyMEFudGhyb3BpYyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the ",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "publishedAt": "Mon, 26 Oct 2026 12:40:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781105953552-25d0e892380c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGV2ZXJ5ZGF5JTIwQUklMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzA5OTU5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "dek": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlRTIlODAlOTlzJTIwSVBPJTIwZmlsaW5nJTIwcmV2ZWFscyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Data center backlash is uniting America",
+      "dek": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "publishedAt": "2026-10-27T10:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEYXRhJTIwY2VudGVyJTIwYmFja2xhc2glMjBpcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMDk5NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Kevin Ache on Unsplash"
+    },
+    {
+      "id": "2026-10-27-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "dek": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on Novem",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "publishedAt": "2026-10-27T09:54:22.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1683835444337-d81bb4ce325b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBY2VyJTIwaXMlMjBicmluZ2luZyUyMGElMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzA5OTU5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by max im on Unsplash"
+    }
+  ]
+}
