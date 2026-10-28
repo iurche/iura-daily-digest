@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-28",
+  "heroStoryId": "2026-10-28-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-28-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are f",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "publishedAt": "Tue, 27 Oct 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMEFudGhyb3BpYyVFMiU4MCU5OXMlMjBJUE8lMkMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzE4ODA0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
+      "dek": "The base model—without thrusters or the flight system—will likely cost several times that amount to buy. “I’m going to do everything in my power to get the flying one,” says one customer.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
+      "publishedAt": "Wed, 28 Oct 2026 09:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1737388771382-c3bb931d3832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBNZW4lMjBTcGVuZGluZyUyMCUyNDUwJTJDMDAwJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMxODgwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+      "dek": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt.\nNewly filed court documents show that in March 2023, Meta discussed a \"Whisper strate",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "publishedAt": "2026-10-28T11:30:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/6605437/pexels-photo-6605437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Engin Akyurt on Pexels"
+    },
+    {
+      "id": "2026-10-28-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Anthropic and OpenAI might be building the future, but someone else may own it",
+      "dek": "Wall Street is busy preparing for what could become the three biggest initial public offerings in history. SpaceX has already gone public, and Anthropic and OpenAI are expected to follow suit. Yet even as investors scramble to get in, doubts are growing over whether these frontier AI labs can ever g",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91620861/anthropic-and-openai-might-be-building-the-future-but-someone-else-may-own-it-anthropic-open-ai_technology-ai",
+      "publishedAt": "2026-10-28T10:07:00",
+      "imageUrl": "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrew Neel on Pexels"
+    },
+    {
+      "id": "2026-10-28-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "dek": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "imageUrl": "https://images.pexels.com/photos/15863044/pexels-photo-15863044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Andrew Neel on Pexels"
+    },
+    {
+      "id": "2026-10-28-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "dek": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "publishedAt": "Tue, 27 Oct 2026 18:49:08 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1771942202908-6ce86ef73701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxWaWJlJTIwZ2VuZXMlM0YlMjBOYXR1cmFsJTI4aXNoJTI5JTIwbGFuZ3VhZ2UlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzE4ODA1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bharath Kumar on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Git for the US Code",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://lexifina.com/blog/git-for-the-us-code",
+      "publishedAt": "Wed, 28 Oct 2026 01:47:50 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1649372000677-e6becdfa2ff2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHaXQlMjBmb3IlMjB0aGUlMjBVUyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMTg4MDUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by PaaZ PG on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "dek": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "publishedAt": "Tue, 27 Oct 2026 19:39:04 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1781643439137-b578fa8b1179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbnRocm9waWMlMjBTYXlzJTIwSXQlMjBXaWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMxODgwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brecht Corbeel on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "dek": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "publishedAt": "Tue, 27 Oct 2026 13:29:41 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1643113232261-affb1c8ed5c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVSyUyMFBvbGl0aWNpYW4lMjBKZXNzJTIwQXNhdG8lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzE4ODA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mathew Browne on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+      "dek": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.\nAccording to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "publishedAt": "2026-10-28T11:27:30.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXRhJTIwcXVpZXRseSUyMGxhdW5jaGVkJTIwYW4lMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzE4ODA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Julio Lopez on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "dek": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with l",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "publishedAt": "2026-10-27T22:55:05.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIZXJlJUUyJTgwJTk5cyUyMHdoeSUyMHRoZSUyMGlQaG9uZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMTg4MDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bagus Hernawan on Unsplash"
+    },
+    {
+      "id": "2026-10-28-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "dek": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "publishedAt": "2026-10-27T20:48:58.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1713947503867-3b27964f042b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxSZXNlYXJjaGVycyUyMGFyZSUyMGdldHRpbmclMjB0aXJlZCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMTg4MDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Vitaly Gariev on Unsplash"
+    }
+  ]
+}
