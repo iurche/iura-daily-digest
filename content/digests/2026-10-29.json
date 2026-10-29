@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-29",
+  "heroStoryId": "2026-10-29-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-10-29-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "We urgently need to monitor AI agents’ actions in real time",
+      "dek": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "publishedAt": "Thu, 29 Oct 2026 10:11:12 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1703449672961-4b4b19956ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXZSUyMHVyZ2VudGx5JTIwbmVlZCUyMHRvJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMyNzQ5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Jon Tyson on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "dek": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "publishedAt": "Thu, 29 Oct 2026 10:45:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbiUyMEFJJTIwQnJlYWt0aHJvdWdoJTIwSGFzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMyNzQ5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "dek": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "publishedAt": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBqdXN0JTIwc2hhcmVkJTIwQXp1cmUlRTIlODAlOTlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMyNzQ5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "AI has come for Arizona’s water",
+      "dek": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surro",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "publishedAt": "2026-10-29T10:00:04.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1744644840625-eb330007e28c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGhhcyUyMGNvbWUlMjBmb3IlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzI3NDk0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Want to protect voting rights? Businesses need to get involved",
+      "dek": "With days until the election, Patagonia employees and grantees gathered virtually for a “Know Your Voting Rights” training with the American Civil Liberties Union (ACLU). The nearly 100 attendees walked away with information on how to arrive at the polls without impediment, cast their ballot free fr",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91631457/businesses-can-protect-voting-rights-this-election-cycle",
+      "publishedAt": "2026-10-29T11:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXYW50JTIwdG8lMjBwcm90ZWN0JTIwdm90aW5nJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMyNzQ5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Element5 Digital on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "dek": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "publishedAt": "Wed, 28 Oct 2026 22:51:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1518364538800-6bae3c2ea0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVTEElMjdzJTIwVnVsY2FuJTIwcm9ja2V0JTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzI3NDk0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Bill Jelen on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://divagr.com/blog/qwenputer",
+      "publishedAt": "Thu, 29 Oct 2026 00:25:45 +0000",
+      "imageUrl": "https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Markus Spiske on Pexels"
+    },
+    {
+      "id": "2026-10-29-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Our climate models have a big, dangerous blind spot",
+      "dek": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "publishedAt": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPdXIlMjBjbGltYXRlJTIwbW9kZWxzJTIwaGF2ZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMjc0OTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Markus Spiske on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Creating AI value with enterprise context",
+      "dek": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "publishedAt": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDcmVhdGluZyUyMEFJJTIwdmFsdWUlMjB3aXRoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTMyNzQ5NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "The Download: dead startups fueling AI and interspecies communication",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth muc",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "publishedAt": "Wed, 28 Oct 2026 12:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1728483255642-e824332b91d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMGRlYWQlMjBzdGFydHVwcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMjc0OTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "dek": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+      "publishedAt": "Thu, 29 Oct 2026 10:30:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1654375408506-382720d3e05f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwSGFja2VyJTIwVGFyZ2V0ZWQlMjBIaWdoLVN0YWtlcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzMjc0OTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Boitumelo on Unsplash"
+    },
+    {
+      "id": "2026-10-29-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "I Gave My Blood to the AI Death Clock",
+      "dek": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "publishedAt": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/6823603/pexels-photo-6823603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Artem Podrez on Pexels"
+    }
+  ]
+}
