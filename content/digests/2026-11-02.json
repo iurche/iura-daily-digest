@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-02",
+  "heroStoryId": "2026-11-02-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-11-02-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Stop counting tokens, start counting what ships",
+      "dek": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "publishedAt": "Mon, 02 Nov 2026 13:10:32 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1542731695-2eb61cb7a576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdG9wJTIwY291bnRpbmclMjB0b2tlbnMlMkMlMjBzdGFydCUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzNjI4MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Scott Umstattd on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "SpaceX’s big mobile carrier plans could reportedly involve buying Boost Mobile",
+      "dek": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from the Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring Boost",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "publishedAt": "2026-11-02T14:05:34.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTcGFjZVglRTIlODAlOTlzJTIwYmlnJTIwbW9iaWxlJTIwY2FycmllciUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzNjI4MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by SpaceX on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "This election forecast tool updates every 10 minutes. Here’s what it’s predicting about Democrats’ chances",
+      "dek": "With control of the U.S. Senate on the line, a new tool is tracking the battle in near real time.\nThroughout the day, the platform pulls data from the prediction markets Kalshi and Polymarket, and then uses statistical models to simulate a million versions of the midterm elections, with outcomes for",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91633434/midterm-elections-2026-real-time-forecast-predictions-dems-chances",
+      "publishedAt": "2026-11-02T13:12:00",
+      "imageUrl": "https://images.unsplash.com/photo-1604496464355-a5032e3b47e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwZWxlY3Rpb24lMjBmb3JlY2FzdCUyMHRvb2wlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzYyODM1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Clay Banks on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
+      "dek": "I tested Birdbuddy’s Nook and Birdfy’s Rookie in my backyard. Saving money comes with compromises, but some are easier to live with.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
+      "publishedAt": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/29216693/pexels-photo-29216693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by esma bartin on Pexels"
+    },
+    {
+      "id": "2026-11-02-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "dek": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "publishedAt": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1579892239804-00e520393fb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyJTIwZGF5cyUyMHRpbGwlMjBUZWNoQ3J1bmNoJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM2MjgzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Claudio Schwarz on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "This $48 e-paper display can be whatever you want it to be",
+      "dek": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "publishedAt": "Mon, 02 Nov 2026 12:00:07 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1763047360803-4f0432c73b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGlzJTIwJTI0NDglMjBlLXBhcGVyJTIwZGlzcGxheSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzNjI4MzU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Douglas M. Lugo Aponte on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://hackerbooks.org",
+      "publishedAt": "Sun, 01 Nov 2026 15:58:28 +0000",
+      "imageUrl": "https://images.pexels.com/photos/440305/pexels-photo-440305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Vedant Sharma on Pexels"
+    },
+    {
+      "id": "2026-11-02-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "The Download: the agentic web arrives and the drive for safer roads",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous softwa",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "publishedAt": "Mon, 02 Nov 2026 13:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1777043683279-44993862c58d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMHRoZSUyMGFnZW50aWMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzYyODM1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "The agentic web is here",
+      "dek": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "publishedAt": "Mon, 02 Nov 2026 09:35:19 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1762330470070-249e7c23c8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBhZ2VudGljJTIwd2ViJTIwaXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzYyODM1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zulfugar Karimov on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Affinity’s creative studio is now available on iPad for free",
+      "dek": "The UI has been optimized for iPads, so you can switch between different design functions using the tabs at the top-left of the screen. | Image: Canva\t\n\nCanva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/design/1024283/canva-affinity-for-ipad-design-app-availability",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1767989205036-64de275b8710?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBZmZpbml0eSVFMiU4MCU5OXMlMjBjcmVhdGl2ZSUyMHN0dWRpbyUyMGlzJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM2MjgzNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "More European supermarkets are getting their freezers hacked",
+      "dek": "Employees at an ICA Kvantum supermarket in Sjoebo, Sweden unloading spoiled food from the freezer units. | Image: Johan Nilsson / TT News Agency / AFP via Getty Images\t\n\nGrocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "publishedAt": "2026-11-02T13:00:35.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1791114401331-c753260d8c29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNb3JlJTIwRXVyb3BlYW4lMjBzdXBlcm1hcmtldHMlMjBhcmUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5MzYyODM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by T on Unsplash"
+    },
+    {
+      "id": "2026-11-02-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Jackery made its portable power stations even smaller",
+      "dek": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 in",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "imageUrl": "https://images.pexels.com/photos/37489613/pexels-photo-37489613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Amar  Preciado on Pexels"
+    }
+  ]
+}
