@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-05",
+  "heroStoryId": "2026-11-05-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-11-05-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "publishedAt": "Thu, 05 Nov 2026 13:10:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1543273984-c84d0cc090a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBEb3dubG9hZCUzQSUyMFRleGFzJUUyJTgwJTk5cyUyMGZyYWdpbGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5Mzg4NjAxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Chandler Cruttenden on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+      "dek": "Adult content creators and free speech advocates are sounding the alarm over a new law about to take effect in the United Kingdom banning simulated incest and some depictions of oral sex.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+      "publishedAt": "Thu, 05 Nov 2026 07:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1548544472-eaef1d28cbb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwTmV3JTIwVUslMjBQb3JuJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM4ODYwMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Viktor Forgacs on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Snapchat surpasses 30M paid subscribers",
+      "dek": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "publishedAt": "Wed, 04 Nov 2026 21:49:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1611162617263-4ec3060a058e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTbmFwY2hhdCUyMHN1cnBhc3NlcyUyMDMwTSUyMHBhaWQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5Mzg4NjAyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alexander Shatov on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "Discord is ditching Electron and its new app uses less RAM",
+      "dek": "Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app fully to Rust - a modern programming language designed for spe",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "publishedAt": "2026-11-05T11:39:42.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1614680376739-414d95ff43df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEaXNjb3JkJTIwaXMlMjBkaXRjaGluZyUyMEVsZWN0cm9uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM4ODYwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alexander Shatov on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Stop climbing the wrong career mountain",
+      "dek": "In November 2015, I booked a suite in a midtown Manhattan hotel and spent the night pacing, rehearsing my presentation in an empty room. The next morning I would host the first breakfast workshop for my new wealth advisory firm. I had left a prominent position as a director of wealth management at M",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91624559/stop-climbing-the-wrong-mountain-leadership-wealth-happiness",
+      "publishedAt": "2026-11-05T11:26:00",
+      "imageUrl": "https://images.unsplash.com/photo-1551241612-c5907dcba807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTdG9wJTIwY2xpbWJpbmclMjB0aGUlMjB3cm9uZyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzODg2MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Goru Vamsi Krishna on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "dek": "The spirit of AMG is alive via three axial flux electric motors.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "publishedAt": "Thu, 05 Nov 2026 09:00:13 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1617814065893-00757125efab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNZXJjZWRlcy1BTUclMjBHVCUyMDQtRG9vciUyMENvdXBlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM4ODYwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Flavien on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "Sshole",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://sshhole.com",
+      "publishedAt": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1767989205241-ece4586bb335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTc2hvbGUlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5Mzg4NjAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Logan Voss on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "A new bill could change how the US builds energy infrastructure ",
+      "dek": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "publishedAt": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1647005039373-e8fff57b75f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBJTIwbmV3JTIwYmlsbCUyMGNvdWxkJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTM4ODYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Abhinav Arya on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "dek": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "publishedAt": "Wed, 04 Nov 2026 18:50:55 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1609704001758-682c89a4d8b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUZXhhcyUyMHdhcyUyMHRoZSUyMG5ldyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzODg2MDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Pete Alexopoulos on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "What’s next for US energy policy after the midterm elections?",
+      "dek": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "publishedAt": "Wed, 04 Nov 2026 17:08:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1586720727248-69ad078acd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JUUyJTgwJTk5cyUyMG5leHQlMjBmb3IlMjBVUyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzkzODg2MDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Matt Taylor on Unsplash"
+    },
+    {
+      "id": "2026-11-05-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "dek": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+      "publishedAt": "Wed, 04 Nov 2026 20:41:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1764862481513-60c8207e200b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBCaWdnZXN0JTIwUHJvLUFJJTIwU3VwZXIlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5Mzg4NjAyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Barnaby Woodrow on Unsplash"
+    }
+  ]
+}
