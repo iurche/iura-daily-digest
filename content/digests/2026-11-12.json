@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-12",
+  "heroStoryId": "2026-11-12-in-the-world-0",
+  "stories": [
+    {
+      "id": "2026-11-12-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "The Download: COP31’s climate challenge and the quest for immortality",
+      "dek": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN clim",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "publishedAt": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/7767795/pexels-photo-7767795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by MART  PRODUCTION on Pexels"
+    },
+    {
+      "id": "2026-11-12-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "dek": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "publishedAt": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1608446781624-bb081c6c0e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBcHBsZSVFMiU4MCU5OXMlMjBIb21lVmlldyUyMFRyaWVzJTIwRmFjZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NDkyNjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by James Yarema on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "dek": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1609024682297-1520a7e15573?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKZW5zZW4lMjBIdWFuZyUyMGFjY3VzZWQlMjBvZiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NDkyNjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Zecheng Zhao on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "I reviewed the Apple HomeView, ask me anything",
+      "dek": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge\t\n\nHi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView.\nI put th",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "publishedAt": "2026-11-12T14:10:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxJJTIwcmV2aWV3ZWQlMjB0aGUlMjBBcHBsZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NDkyNjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Priscilla Du Preez 🇨🇦 on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "How low will Nvidia stock go? Analysts worry that CEO succession could be a long-term threat to the price",
+      "dek": "Shares of Nvidia Corporation (Nasdaq: NVDA) are once again sinking in premarket trading this morning after reports yesterday that the company’s board has convened to discuss whether to oust its embattled cofounder and CEO, Jensen Huang.\nAs of this writing, NVDA shares are down more than 7% in premar",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91640961/how-low-will-nvidia-stock-go-analysts-worry-that-ceo-succession-could-be-a-long-term-threat-to-the-price",
+      "publishedAt": "2026-11-12T13:23:00",
+      "imageUrl": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBsb3clMjB3aWxsJTIwTnZpZGlhJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ0OTI2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mariia Berezovsky on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "dek": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "publishedAt": "Wed, 11 Nov 2026 20:22:03 +0000",
+      "imageUrl": "https://images.pexels.com/photos/39853121/pexels-photo-39853121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Vitaly Gariev on Pexels"
+    },
+    {
+      "id": "2026-11-12-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "NVIDIA Announces CEO Transition",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "publishedAt": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxOVklESUElMjBBbm5vdW5jZXMlMjBDRU8lMjBUcmFuc2l0aW9uJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ0OTI2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Mariia Berezovsky on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "What to know about this year’s UN climate talks",
+      "dek": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "publishedAt": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1673515336391-c63034623475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwdG8lMjBrbm93JTIwYWJvdXQlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5NDQ5MjY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Ling App on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "Why the data center you dread might never even be built",
+      "dek": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "publishedAt": "Wed, 11 Nov 2026 20:15:15 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaHklMjB0aGUlMjBkYXRhJTIwY2VudGVyJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ0OTI2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Taylor Vick on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "dek": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "publishedAt": "Wed, 11 Nov 2026 20:04:28 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1613135831424-334139c6a221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxPbGFmJTIwU2Fra2VycyUyMGlzJTIwYmV0dGluZyVDMiVBMGhlJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ0OTI2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Lars Bo Nielsen on Unsplash"
+    },
+    {
+      "id": "2026-11-12-in-the-world-10",
+      "topic": "in-the-world",
+      "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "dek": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "publishedAt": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "imageUrl": "https://images.pexels.com/photos/31259212/pexels-photo-31259212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by EqualStock IN on Pexels"
+    },
+    {
+      "id": "2026-11-12-in-the-world-11",
+      "topic": "in-the-world",
+      "headline": "Siri co-founder backs Helix for its voice ID tech",
+      "dek": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "publishedAt": "Wed, 11 Nov 2026 15:02:47 +0000",
+      "imageUrl": "https://images.pexels.com/photos/40193375/pexels-photo-40193375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Caleb Oquendo on Pexels"
+    }
+  ]
+}
