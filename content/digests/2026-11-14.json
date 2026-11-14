@@ -9,9 +9,10 @@
       "dek": "Sources converge on outcome-based roadmaps, hybrid Agile/phase-gate delivery and AI taking over performative PM work, leaving judgment as the scarce skill.",
       "source": "Userpilot",
       "sourceUrl": "https://userpilot.com/blog/product-management-trends-2026/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1614036634955-ae5e90f9b9eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTIwbWFuYWdlbWVudCUyMHRyZW5kcyUyMDIwMjYlM0ElMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzk0NjYwMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": true
+      "isHero": true,
+      "imageCredit": "Photo by Brands&People on Unsplash"
     },
     {
       "id": "2026-11-14-product-design-1",
@@ -20,9 +21,10 @@
       "dek": "Argues personality belongs in onboarding and brand moments while checkout and management screens stay clean; covers tactile textures and translucent layers.",
       "source": "DesignRush",
       "sourceUrl": "https://www.designrush.com/trends/product-design-trends",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1716471330463-f475b00f0506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwxMCUyMHByb2R1Y3QlMjBkZXNpZ24lMjB0cmVuZHMlMjBwcm9kdWN0LWRlc2lnbnxlbnwwfDB8fHwxNzk0NjYwMDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Andy Brown on Unsplash"
     },
     {
       "id": "2026-11-14-product-design-2",
@@ -31,9 +33,10 @@
       "dek": "Design shifts from late-stage polish to a strategic engine of product-led growth, with new roles such as AI experience designer emerging.",
       "source": "El Passion",
       "sourceUrl": "https://www.elpassion.com/blog/product-design-trends-for-2026-and-beyond",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1716471330463-f475b00f0506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxQcm9kdWN0JTIwZGVzaWduJTIwdHJlbmRzJTIwZm9yJTIwcHJvZHVjdC1kZXNpZ258ZW58MHwwfHx8MTc5NDY2MDAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Andy Brown on Unsplash"
     },
     {
       "id": "2026-11-14-ux-research-0",
@@ -42,9 +45,10 @@
       "dek": "Overview of testing, card sorting, tree testing and repository tools used across research workflows.",
       "source": "UserTesting",
       "sourceUrl": "https://www.usertesting.com/blog/ux-research-tools",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMHJlc2VhcmNoJTIwdG9vbHMlM0ElMjB0aGUlMjB1eC1yZXNlYXJjaHxlbnwwfDB8fHwxNzk0NjYwMDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by UX Indonesia on Unsplash"
     },
     {
       "id": "2026-11-14-ux-research-1",
@@ -53,9 +57,10 @@
       "dek": "Method choice should follow research goals, product stage and team capacity; AI-powered analysis is speeding up testing.",
       "source": "Lazarev",
       "sourceUrl": "https://www.lazarev.agency/articles/ux-research-methods",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1586936893354-362ad6ae47ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMHJlc2VhcmNoJTIwbWV0aG9kcyUyMHJldmlld2VkJTNBJTIwdXgtcmVzZWFyY2h8ZW58MHwwfHx8MTc5NDY2MDAyNXww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by UX Indonesia on Unsplash"
     },
     {
       "id": "2026-11-14-ux-research-2",
@@ -64,9 +69,10 @@
       "dek": "Roundup of design, prototyping and research tools with emphasis on consolidating research into a searchable repository.",
       "source": "Looppanel",
       "sourceUrl": "https://www.looppanel.com/blog/ux-design-tools",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVWCUyMGRlc2lnbiUyMHRvb2xzJTIwZ3VpZGUlMjB1eC1yZXNlYXJjaHxlbnwwfDB8fHwxNzk0NjYwMDI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by UX Indonesia on Unsplash"
     },
     {
       "id": "2026-11-14-ai-tools-0",
@@ -75,9 +81,10 @@
       "dek": "GitHub Copilot Chat adds cloud-agent session views alongside new voice-agent and AI-gateway launches.",
       "source": "Kingy AI",
       "sourceUrl": "https://kingy.ai/ai-launch-tracker/2026-06-11-ai-launch-radar/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEYWlseSUyMEFJJTIwTGF1bmNoJTIwUmFkYXIlM0ElMjBhaS10b29sc3xlbnwwfDB8fHwxNzk0NjYwMDI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
     },
     {
       "id": "2026-11-14-ai-tools-1",
@@ -86,9 +93,10 @@
       "dek": "Weekly changelog roundup including Mistral's Shieldstral safety and moderation product.",
       "source": "Neuronfeed",
       "sourceUrl": "https://neuronfeed.com/whats-new",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxXaGF0JTI3cyUyMG5ldyUyMGluJTIwQUklMjBhaS10b29sc3xlbnwwfDB8fHwxNzk0NjYwMDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
     },
     {
       "id": "2026-11-14-ai-tools-2",
@@ -97,9 +105,10 @@
       "dek": "Coverage of Mistral Vibe, a coding and productivity agent, and other late-May model and program launches.",
       "source": "Kingy AI",
       "sourceUrl": "https://kingy.ai/?p=16479",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1738107445976-9fbed007121f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGxhdW5jaCUyMHJvdW5kdXAlM0ElMjBNaXN0cmFsJTIwYWktdG9vbHN8ZW58MHwwfHx8MTc5NDY2MDAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Solen Feyissa on Unsplash"
     },
     {
       "id": "2026-11-14-ai-research-0",
@@ -108,9 +117,10 @@
       "dek": "AI sped up Alzheimer's diagnosis and extreme-weather prediction; most advances came from industry labs rather than academia.",
       "source": "Axios",
       "sourceUrl": "https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHwyMDI1JTI3cyUyMEFJLWZ1ZWxlZCUyMHNjaWVudGlmaWMlMjBicmVha3Rocm91Z2hzJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc5NDY2MDAyOHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Growtika on Unsplash"
     },
     {
       "id": "2026-11-14-ai-research-1",
@@ -119,9 +129,10 @@
       "dek": "CSET analysis of whether published research shows AI genuinely accelerating R&D in medicine, science and engineering.",
       "source": "CSET Georgetown",
       "sourceUrl": "https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxNYWNoaW5lJTIwaW50ZWxsaWdlbmNlJTIwZm9yJTIwc2NpZW50aWZpYyUyMGFpLXJlc2VhcmNofGVufDB8MHx8fDE3OTQ2NjAwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
     },
     {
       "id": "2026-11-14-ai-research-2",
@@ -130,9 +141,10 @@
       "dek": "Shift toward foundation models tailored to particular fields, embedding physical constraints and domain knowledge.",
       "source": "IntuitionLabs",
       "sourceUrl": "https://intuitionlabs.ai/articles/latest-ai-research-trends-2025",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMYXRlc3QlMjBBSSUyMHJlc2VhcmNoJTIwdHJlbmRzJTNBJTIwYWktcmVzZWFyY2h8ZW58MHwwfHx8MTc5NDY2MDAzMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
     },
     {
       "id": "2026-11-14-iot-hardware-0",
@@ -141,9 +153,10 @@
       "dek": "Leading LoRaWAN networks are growing up to 50% annually as deployments accelerate.",
       "source": "IT Brief",
       "sourceUrl": "https://itbrief.news/tag/sensors",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1586448910721-c50b1e35a558?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxMb1JhV0FOJTIwdG9wcyUyMDEyNSUyMG1pbGxpb24lMjBpb3QtaGFyZHdhcmV8ZW58MHwwfHx8MTc5NDY2MDAzMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by KOBU Agency on Unsplash"
     },
     {
       "id": "2026-11-14-iot-hardware-1",
@@ -152,9 +165,10 @@
       "dek": "New LoRaWAN energy meter supports 10A/100A CT clamps and environmental sensing.",
       "source": "CNX Software",
       "sourceUrl": "https://www.cnx-software.com/news/sensors/page/10/?amp=1",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1662601699213-cb84f13d86df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxEdWFsLWNoYW5uZWwlMjBMb1JhV0FOJTIwQUMlMjBlbmVyZ3klMjBpb3QtaGFyZHdhcmV8ZW58MHwwfHx8MTc5NDY2MDAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Newpowa on Unsplash"
     },
     {
       "id": "2026-11-14-iot-hardware-2",
@@ -163,9 +177,10 @@
       "dek": "Latest product listings include a Renesas 64-bit edge processor and an NXP AI-assisted connected-device platform.",
       "source": "IoT Insider",
       "sourceUrl": "https://www.iotinsider.com/category/products",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/35652456/pexels-photo-35652456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Tanha Tamanna  Syed on Pexels"
     },
     {
       "id": "2026-11-14-aiot-0",
@@ -174,9 +189,10 @@
       "dek": "Frontiers research topic on architectures, edge intelligence and applications of AIoT.",
       "source": "Frontiers",
       "sourceUrl": "https://www.frontiersin.org/research-topics/73661",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1777306469578-66a3af4f6bb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTNBJTIwVGhlJTIwQ29udmVyZ2VuY2UlMjBvZiUyMGFpb3R8ZW58MHwwfHx8MTc5NDY2MDAzMnww&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Brett Jordan on Unsplash"
     },
     {
       "id": "2026-11-14-aiot-1",
@@ -185,9 +201,10 @@
       "dek": "Renesas on distributed intelligence: AI embedded into low-power endpoint components.",
       "source": "Renesas",
       "sourceUrl": "https://www.renesas.com/us/en/blogs/convergence-ai-and-iot-embedded-space",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBjb252ZXJnZW5jZSUyMG9mJTIwQUklMjBhaW90fGVufDB8MHx8fDE3OTQ2NjAwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Steve A Johnson on Unsplash"
     },
     {
       "id": "2026-11-14-aiot-2",
@@ -196,9 +213,10 @@
       "dek": "Combining sensor data with AI/ML for real-time processing at the edge.",
       "source": "DevOps.com",
       "sourceUrl": "https://devops.com/aiot-and-intelligence-on-the-edge/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSW9UJTIwYW5kJTIwaW50ZWxsaWdlbmNlJTIwb24lMjBhaW90fGVufDB8MHx8fDE3OTQ2NjAwMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Igor Omilaev on Unsplash"
     },
     {
       "id": "2026-11-14-smart-agriculture-0",
@@ -207,9 +225,10 @@
       "dek": "IEEE overview of AI for sustainable farming; notes energy-efficient models remain limited in adoption and data quality is a recurring barrier.",
       "source": "IEEE Innovate",
       "sourceUrl": "https://innovate.ieee.org/innovation-spotlight/ai-for-green-agriculture-and-sustainable-resource-management/",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/5230957/pexels-photo-5230957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Anna Shvets on Pexels"
     },
     {
       "id": "2026-11-14-smart-agriculture-1",
@@ -218,9 +237,10 @@
       "dek": "Vendor analysis claiming AI can cut agricultural energy use by up to 15% (unverified).",
       "source": "Agritecture",
       "sourceUrl": "https://agritecture.com/blog/ai-in-agriculture-energy-management",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxIb3clMjBBSSUyMGlzJTIwcG93ZXJpbmclMjBzbWFydC1hZ3JpY3VsdHVyZXxlbnwwfDB8fHwxNzk0NjYwMDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Chris Ensminger on Unsplash"
     },
     {
       "id": "2026-11-14-smart-agriculture-2",
@@ -229,9 +249,10 @@
       "dek": "Review of smart irrigation, real-time monitoring and renewable integration; agriculture uses almost 30% of global energy.",
       "source": "Energies (MDPI)",
       "sourceUrl": "https://mdpi.com/1996-1073/17/23/5984",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1627920769842-6887c6df05ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBSSUyMGFuZCUyMElvVCUyMGZvciUyMHNtYXJ0LWFncmljdWx0dXJlfGVufDB8MHx8fDE3OTQ2NjAwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by James Baltz on Unsplash"
     },
     {
       "id": "2026-11-14-career-signals-0",
@@ -240,9 +261,10 @@
       "dek": "€120k–150k plus equity, permanent full-time director role.",
       "source": "Factorial",
       "sourceUrl": "https://careers.factorialhr.com/job_posting/senior-director-of-product-design-273989",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/3974754/pexels-photo-3974754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Andrea Piacquadio on Pexels"
     },
     {
       "id": "2026-11-14-career-signals-1",
@@ -251,9 +273,10 @@
       "dek": "€68k–107k, hybrid; process includes a VP/Director interview.",
       "source": "Factorial",
       "sourceUrl": "https://jobs.generalcatalyst.com/companies/factorial-2-c935a743-fbc6-456b-b258-e6cd1d93b9ca/jobs/82885915-senior-staff-product-designer",
-      "imageUrl": null,
+      "imageUrl": "https://images.pexels.com/photos/5990031/pexels-photo-5990031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by cottonbro studio on Pexels"
     },
     {
       "id": "2026-11-14-career-signals-2",
@@ -262,9 +285,10 @@
       "dek": "Barcelona; wants 8–10 years experience with 5+ at senior or lead level.",
       "source": "Wallapop",
       "sourceUrl": "https://job-boards.greenhouse.io/wallapop/jobs/4483615101",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZW5pb3IlMjBQcm9kdWN0JTIwRGVzaWduZXIlMjAlRTIlODAlOTQlMjBjYXJlZXItc2lnbmFsc3xlbnwwfDB8fHwxNzk0NjYwMDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Theme Photos on Unsplash"
     },
     {
       "id": "2026-11-14-career-signals-3",
@@ -273,9 +297,120 @@
       "dek": "Hybrid; London, Paris, Barcelona or Berlin.",
       "source": "Spendesk",
       "sourceUrl": "https://www.indexventures.com/startup-jobs/spendesk/senior-product-designer-4/",
-      "imageUrl": null,
+      "imageUrl": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxTZW5pb3IlMjBQcm9kdWN0JTIwRGVzaWduZXIlMjAlRTIlODAlOTQlMjBjYXJlZXItc2lnbmFsc3xlbnwwfDB8fHwxNzk0NjYwMDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "publishedAt": "2026-11-14T08:00:00.000Z",
-      "isHero": false
+      "isHero": false,
+      "imageCredit": "Photo by Theme Photos on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "dek": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "publishedAt": "Fri, 13 Nov 2026 21:44:38 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1588173926570-8f5dbece16aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxVUyUyMGdvdmVybm1lbnQlMjBncm91bmRzJTIwYWxsJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ2NjAwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Quick PS on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "dek": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1612771322163-3a2817f95d47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKZW5zZW4lMjBIdWFuZyUyMGFuZCUyMHRoZSUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NjYwMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Yousaf Khalil on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-2",
+      "topic": "in-the-world",
+      "headline": "Taxing billionaires failed in California, but other states are taking steps to collect from the rich",
+      "dek": "State efforts to tax the rich did relatively well in the 2026 midterm elections, following a series of state legislative moves in that direction in recent years.\nThat might come as a surprise because a majority of voters rejected California’s Proposition 40. The much-publicized ballot initiative wou",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91641216/taxing-billionaires-failed-california-other-states-taking-steps-collect-rich",
+      "publishedAt": "2026-11-14T12:00:00",
+      "imageUrl": "https://images.unsplash.com/photo-1756755997166-0b232d95ab56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUYXhpbmclMjBiaWxsaW9uYWlyZXMlMjBmYWlsZWQlMjBpbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NjYwMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Meg on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-3",
+      "topic": "in-the-world",
+      "headline": "James Webb telescope finds ice older than the star it orbits",
+      "dek": "Radiation and collisions reshape the planetary building materials.",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "publishedAt": "Sat, 14 Nov 2026 12:15:48 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1708257105880-11cd2deba6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxKYW1lcyUyMFdlYmIlMjB0ZWxlc2NvcGUlMjBmaW5kcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NjYwMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by NASA Hubble Space Telescope on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-4",
+      "topic": "in-the-world",
+      "headline": "Ggml v1.0.0",
+      "dek": "Comments",
+      "source": "Hacker News",
+      "sourceUrl": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "publishedAt": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1645820297532-90f61fbe0789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxHZ21sJTIwdjEuMC4wJTIwaW4tdGhlLXdvcmxkfGVufDB8MHx8fDE3OTQ2NjAwNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Alexander Van Steenberge on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-5",
+      "topic": "in-the-world",
+      "headline": "The Microsoft Outage Is a Warning for the World",
+      "dek": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "publishedAt": "Fri, 13 Nov 2026 17:15:54 +0000",
+      "imageUrl": "https://images.unsplash.com/photo-1662947036644-ecfde1221ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxUaGUlMjBNaWNyb3NvZnQlMjBPdXRhZ2UlMjBJcyUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NjYwMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by BoliviaInteligente on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-6",
+      "topic": "in-the-world",
+      "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "dek": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images\t\n\nTakeoffs from airports throughout the US largely stopped on Friday after the FAA issued a n",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "publishedAt": "2026-11-14T01:53:04.000Z",
+      "imageUrl": "https://images.pexels.com/photos/67563/plane-aircraft-jet-airbase-67563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "imageCredit": "Photo by Pixabay on Pexels"
+    },
+    {
+      "id": "2026-11-14-in-the-world-7",
+      "topic": "in-the-world",
+      "headline": "Amazon has a plan to index the world’s online shopping data",
+      "dek": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "publishedAt": "2026-11-13T23:49:11.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1649734926695-1b1664e98842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxBbWF6b24lMjBoYXMlMjBhJTIwcGxhbiUyMGluLXRoZS13b3JsZHxlbnwwfDB8fHwxNzk0NjYwMDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rubaitul Azad on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-8",
+      "topic": "in-the-world",
+      "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "dek": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and ",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1676272682018-b1435bad1cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDaGF0R1BUJTIwV2FsbGV0JTIwbGV0cyUyME9wZW5BSSVFMiU4MCU5OXMlMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5NDY2MDA0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Rolf van Root on Unsplash"
+    },
+    {
+      "id": "2026-11-14-in-the-world-9",
+      "topic": "in-the-world",
+      "headline": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "dek": "The CMF Speaker S comes in four colors: white, dark gray, orange, and turquoise. | Image: CMF by Nothing\t\n\nBluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S fro",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "publishedAt": "2026-11-13T20:30:00.000Z",
+      "imageUrl": "https://images.unsplash.com/photo-1793949411412-2364dedd4db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzEwNTJ8MHwxfHNlYXJjaHwxfHxDTUYlRTIlODAlOTlzJTIwbWlsayUyMGNhcnRvbi1zaGFwZWQlMjBCbHVldG9vdGglMjBpbi10aGUtd29ybGR8ZW58MHwwfHx8MTc5NDY2MDA0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": "Photo by Amanz on Unsplash"
     }
   ]
 }
