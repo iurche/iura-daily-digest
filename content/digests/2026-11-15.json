@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-15",
+  "heroStoryId": "2026-11-15-product-design-0",
+  "stories": [
+    {
+      "id": "2026-11-15-product-design-0",
+      "topic": "product-design",
+      "headline": "Design moves into discovery as PM roles split and outcome roadmaps take over",
+      "dek": "Userpilot argues the PM role is dividing in two, with AI-focused PMs commanding far higher pay. Designers are increasingly pulled in at discovery rather than handed finished specs.",
+      "source": "Userpilot",
+      "sourceUrl": "https://userpilot.com/blog/product-management-trends-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": true
+    },
+    {
+      "id": "2026-11-15-product-design-1",
+      "topic": "product-design",
+      "headline": "Ten product design trends for 2026 and where each one actually works",
+      "dek": "DesignRush surveys trends from adaptive interfaces to spatial design, arguing winning products have a clear point of view while keeping core flows like checkout clean.",
+      "source": "DesignRush",
+      "sourceUrl": "https://www.designrush.com/trends/product-design-trends",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-product-design-2",
+      "topic": "product-design",
+      "headline": "Design systems as competitive infrastructure",
+      "dek": "El Passion frames the design system as core infrastructure that cuts development cost (vendor claim) and keeps AI-era product teams consistent.",
+      "source": "El Passion",
+      "sourceUrl": "https://www.elpassion.com/blog/product-design-trends-for-2026-and-beyond",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ux-research-0",
+      "topic": "ux-research",
+      "headline": "UX research methods as decision tools: choosing by question, stage and team capacity",
+      "dek": "Lazarev's guide matches each method to the decision it informs, from surveys and interviews to tree testing for IA-heavy dashboards.",
+      "source": "Lazarev",
+      "sourceUrl": "https://www.lazarev.agency/articles/ux-research-methods",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ux-research-1",
+      "topic": "ux-research",
+      "headline": "UX research tools: AI-assisted analysis and central repositories",
+      "dek": "UserTesting's roundup covers tools that automate analysis and testing and surface patterns teams may miss, plus repositories for collating findings.",
+      "source": "UserTesting",
+      "sourceUrl": "https://www.usertesting.com/blog/ux-research-tools",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ai-tools-0",
+      "topic": "ai-tools",
+      "headline": "AI launches shift toward the operating layer around agents",
+      "dek": "A launch radar notes recent activity centres on agent tooling rather than giant new models, such as Copilot Chat search across cloud-agent sessions and AI gateways for cost control.",
+      "source": "Kingy AI",
+      "sourceUrl": "https://kingy.ai/ai-launch-tracker/2026-06-11-ai-launch-radar/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ai-tools-1",
+      "topic": "ai-tools",
+      "headline": "What's new in AI tools: running changelog",
+      "dek": "Neuronfeed tracks new releases and updates across AI tools in a running feed.",
+      "source": "Neuronfeed",
+      "sourceUrl": "https://neuronfeed.com/whats-new",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ai-research-0",
+      "topic": "ai-research",
+      "headline": "2025's AI-fueled scientific breakthroughs, from Alzheimer's diagnosis to weather forecasting",
+      "dek": "Axios reviews how AI combined with physics-based models improved extreme-weather prediction, and how many advances came from tools built outside traditional research institutions.",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-ai-research-1",
+      "topic": "ai-research",
+      "headline": "Machine intelligence for scientific discovery and engineering invention",
+      "dek": "Georgetown CSET examines how modern AI and ML are accelerating growth across research disciplines.",
+      "source": "Georgetown CSET",
+      "sourceUrl": "https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-iot-hardware-0",
+      "topic": "iot-hardware",
+      "headline": "Next-generation connected IoT faces a fragmented standards landscape",
+      "dek": "Panasonic argues sensor and hardware demand across industries is outpacing interoperability, with competing ecosystems and standards.",
+      "source": "Panasonic Connect",
+      "sourceUrl": "https://connect.na.panasonic.com/blog/toughbook/the-next-generation-of-connected-iot",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-iot-hardware-1",
+      "topic": "iot-hardware",
+      "headline": "Dual-channel LoRaWAN energy meter adds CT clamps plus temperature and humidity",
+      "dek": "CNX Software covers a LoRaWAN AC energy meter with 10A/100A CT clamps and environmental sensing.",
+      "source": "CNX Software",
+      "sourceUrl": "https://www.cnx-software.com/news/sensors/page/10/?amp=1",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-aiot-0",
+      "topic": "aiot",
+      "headline": "AIoT moves intelligence from cloud to edge",
+      "dek": "DevOps.com explains how pairing sensor data with ML enables real-time analysis at the edge, with 5G pushing compute closer to devices.",
+      "source": "DevOps.com",
+      "sourceUrl": "https://devops.com/aiot-and-intelligence-on-the-edge/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-aiot-1",
+      "topic": "aiot",
+      "headline": "Research topic: lightweight AI models and distributed intelligence for AIoT",
+      "dek": "Frontiers frames open challenges in AIoT: models for constrained devices and splitting intelligence across device, edge and cloud.",
+      "source": "Frontiers",
+      "sourceUrl": "https://www.frontiersin.org/research-topics/73661",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-aiot-2",
+      "topic": "aiot",
+      "headline": "When AI meets IoT: will AIoT reshape industries?",
+      "dek": "Tech Wire Asia looks at AIoT adoption across smart cities, healthcare, manufacturing and logistics, and the security and integration obstacles.",
+      "source": "Tech Wire Asia",
+      "sourceUrl": "https://techwireasia.com/?p=206159",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-smart-agriculture-0",
+      "topic": "smart-agriculture",
+      "headline": "Solar-powered AI greenhouse irrigation cuts 1,277 kWh a year",
+      "dek": "A study in Energy Engineering reports an IoT and AI irrigation system saving 1,277.5 kWh and 638.75 kg CO2 annually.",
+      "source": "Energy Engineering (TechScience)",
+      "sourceUrl": "https://www.techscience.com/energy/v122n10/64005",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-smart-agriculture-1",
+      "topic": "smart-agriculture",
+      "headline": "Combining renewables, AI and IoT for climate-smart farming",
+      "dek": "A review in Energies notes agriculture uses nearly 30% of global energy and calls for targeted policy and capacity building.",
+      "source": "Energies (MDPI)",
+      "sourceUrl": "https://mdpi.com/1996-1073/17/23/5984",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-smart-agriculture-2",
+      "topic": "smart-agriculture",
+      "headline": "AI in agricultural energy management",
+      "dek": "Agritecture claims AI can cut agricultural energy use by up to 15% (industry claim, unverified).",
+      "source": "Agritecture",
+      "sourceUrl": "https://agritecture.com/blog/ai-in-agriculture-energy-management",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-career-signals-0",
+      "topic": "career-signals",
+      "headline": "Factorial: Senior Director of Product Design (Barcelona)",
+      "dek": "Listed at €120,000-150,000 plus equity; requires experience building design teams and owning hiring. Posting dated Feb 2026, so confirm it is still open.",
+      "source": "Factorial",
+      "sourceUrl": "https://careers.factorialhr.com/job_posting/senior-director-of-product-design-273989",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-career-signals-1",
+      "topic": "career-signals",
+      "headline": "Factorial: Senior/Staff Product Designer",
+      "dek": "Listed at €68,000-107,000, partnering with the Design Director and product leadership. Posted Jun 2026.",
+      "source": "Factorial via General Catalyst",
+      "sourceUrl": "https://jobs.generalcatalyst.com/companies/factorial-2-c935a743-fbc6-456b-b258-e6cd1d93b9ca/jobs/82885915-senior-staff-product-designer",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-career-signals-2",
+      "topic": "career-signals",
+      "headline": "Wallapop: Senior Product Designer",
+      "dek": "Asks for a very senior profile, ideally 8-10 years in product design with 5+ at senior or lead level.",
+      "source": "Wallapop (Greenhouse)",
+      "sourceUrl": "https://job-boards.greenhouse.io/wallapop/jobs/4483615101",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-career-signals-3",
+      "topic": "career-signals",
+      "headline": "Spendesk: Senior Product Designer, AI and automation workflows",
+      "dek": "Hybrid role based in London, Paris, Barcelona or Berlin.",
+      "source": "Spendesk via Index Ventures",
+      "sourceUrl": "https://www.indexventures.com/startup-jobs/spendesk/senior-product-designer-4/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Digital technology is not to blame for our hyperfast lives",
+      "dek": "An Aeon essay argues digital tech is not the main cause of modern time pressure.",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/essays/digital-technology-is-not-to-blame-for-our-hyperfast-lives",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-15-in-the-world-1",
+      "topic": "in-the-world",
+      "headline": "Bernard Stiegler's philosophy on how technology shapes our world",
+      "dek": "Aeon explores Stiegler's view that tools shape how we understand ourselves, treating technics as an open-ended creative process.",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "isHero": false
+    }
+  ]
+}
