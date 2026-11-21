@@ -1,101 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.fastcompany.com/91623392/why-live-nation-is-going-all-in-on-designing-its-own-concert-venues",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.fastcompany.com/91627597/the-next-xbox-could-cost-1800-heres-why",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
     "date": "2026-10-23"
   },
@@ -1566,5 +1470,53 @@
   {
     "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
     "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "date": "2026-11-21"
   }
 ]
