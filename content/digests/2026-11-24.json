@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-24",
+  "heroStoryId": "2026-11-24-product-design-0",
+  "stories": [
+    {
+      "id": "2026-11-24-product-design-0",
+      "topic": "product-design",
+      "headline": "Product management trends 2026: the PM role splits and the middle collapses",
+      "dek": "Userpilot argues AI is dividing product management into two tracks, with outcomes over output becoming the dominant measure.",
+      "source": "Userpilot",
+      "sourceUrl": "https://userpilot.com/blog/product-management-trends-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": true
+    },
+    {
+      "id": "2026-11-24-product-design-1",
+      "topic": "product-design",
+      "headline": "Navigating the next decade as a product designer in tech",
+      "dek": "Atlassian describes the engineering-product-design triad as industry standard and what that means for designers' scope.",
+      "source": "Atlassian",
+      "sourceUrl": "https://www.atlassian.com/blog/how-we-build/navigating-the-next-decade-as-a-product-designer-in-tech",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-product-design-2",
+      "topic": "product-design",
+      "headline": "10 product design trends for 2026, and where each one actually works",
+      "dek": "DesignRush argues winning products pair a clear point of view with adaptive interfaces and personality that can't be prompted.",
+      "source": "DesignRush",
+      "sourceUrl": "https://www.designrush.com/trends/product-design-trends",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-product-design-3",
+      "topic": "product-design",
+      "headline": "Product management trends: AI adoption as a competitive baseline",
+      "dek": "Airtable's outlook treats AI-powered product strategy as table stakes rather than a future goal.",
+      "source": "Airtable",
+      "sourceUrl": "https://www.airtable.com/articles/product-management-trends",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ux-research-0",
+      "topic": "ux-research",
+      "headline": "UX design research methods: a guide to choosing the right one",
+      "dek": "Figma's resource library maps research methods to design phases and stresses mixing qualitative and quantitative approaches.",
+      "source": "Figma",
+      "sourceUrl": "https://figma.com/resource-library/ux-design-research-methods/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ux-research-1",
+      "topic": "ux-research",
+      "headline": "UX research tools: what teams use across the research lifecycle",
+      "dek": "UserTesting surveys the tool landscape from remote interviews to analysis and repositories.",
+      "source": "UserTesting",
+      "sourceUrl": "https://www.usertesting.com/blog/ux-research-tools",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ux-research-2",
+      "topic": "ux-research",
+      "headline": "65 UX methods and when to use them",
+      "dek": "A practical catalogue of methods for matching research technique to the question being asked.",
+      "source": "UX Collective",
+      "sourceUrl": "https://uxdesign.cc/65-ux-methods-and-when-to-use-them-73e70c742d12",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-tools-0",
+      "topic": "ai-tools",
+      "headline": "Google, Anthropic, Microsoft release video features and enterprise productivity tools",
+      "dek": "eMarketer rounds up recent releases from the major AI vendors aimed at enterprise productivity.",
+      "source": "eMarketer",
+      "sourceUrl": "https://www.emarketer.com/content/google-anthropic-microsoft-release-productivity-enhancing-enterprise-tools-video-features",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-tools-1",
+      "topic": "ai-tools",
+      "headline": "Daily AI Launch Radar",
+      "dek": "A running tracker of new AI product launches, including Copilot cloud-agent updates and new voice agents.",
+      "source": "Kingy AI",
+      "sourceUrl": "https://kingy.ai/ai-launch-tracker/2026-06-11-ai-launch-radar/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-tools-2",
+      "topic": "ai-tools",
+      "headline": "AI tool releases this week: a guide to new tools",
+      "dek": "StoryChief keeps a weekly list of newly released AI tools and updates.",
+      "source": "StoryChief",
+      "sourceUrl": "https://storychief.io/blog/new-ai-tools",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-research-0",
+      "topic": "ai-research",
+      "headline": "2025's AI-fueled scientific breakthroughs",
+      "dek": "Axios reviews AI applications in Alzheimer's diagnosis, extreme-weather detection and cement-alternative materials, plus the US Genesis Mission.",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2025/12/31/2025-ai-scientific-breakthroughs",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-research-1",
+      "topic": "ai-research",
+      "headline": "Benjamin Kompa and autonomous science tools",
+      "dek": "MIT Technology Review profiles an innovator building AI software that designs and directs real lab experiments.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/innovator/benjamin-kompa-autonomous-science-tools/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-ai-research-2",
+      "topic": "ai-research",
+      "headline": "Machine intelligence for scientific discovery and engineering invention",
+      "dek": "Georgetown's CSET analyses how AI is changing the pace and structure of scientific research.",
+      "source": "CSET Georgetown",
+      "sourceUrl": "https://cset.georgetown.edu/publication/machine-intelligence-for-scientific-discovery-and-engineering-invention/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-iot-hardware-0",
+      "topic": "iot-hardware",
+      "headline": "Computer Weekly: latest Internet of Things news",
+      "dek": "Coverage of enterprise 5G, AI and the connected-device market, which Computer Weekly projects near $2tn by 2028.",
+      "source": "Computer Weekly",
+      "sourceUrl": "https://www.computerweekly.com/news/Internet-of-Things-IoT/page/3",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-iot-hardware-1",
+      "topic": "iot-hardware",
+      "headline": "TechRadar: sensors coverage, including Wi-Fi sensing standard",
+      "dek": "A developing standard would let ordinary Wi-Fi devices act as capable sensors.",
+      "source": "TechRadar",
+      "sourceUrl": "https://www.techradar.com/tag/sensors/page/2",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-iot-hardware-2",
+      "topic": "iot-hardware",
+      "headline": "RCR Wireless: sensors news",
+      "dek": "Ongoing coverage of IoT sensor deployments and wireless connectivity, including LoRaWAN passing 125 million devices.",
+      "source": "RCR Wireless",
+      "sourceUrl": "https://www.rcrwireless.com/category/sensors",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-aiot-0",
+      "topic": "aiot",
+      "headline": "AI upgrades the Internet of Things",
+      "dek": "Communications of the ACM examines how embedded intelligence is changing connected devices.",
+      "source": "Communications of the ACM",
+      "sourceUrl": "https://cacm.acm.org/news/ai-upgrades-the-internet-of-things",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-aiot-1",
+      "topic": "aiot",
+      "headline": "The convergence of AI and IoT in the embedded space",
+      "dek": "Renesas describes AI embedded across device, edge and cloud layers, with APIs providing interoperability.",
+      "source": "Renesas",
+      "sourceUrl": "https://www.renesas.com/us/en/blogs/convergence-ai-and-iot-embedded-space",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-aiot-2",
+      "topic": "aiot",
+      "headline": "What is the Artificial Intelligence of Things (AIoT)?",
+      "dek": "Cisco explains how AIoT lets connected systems analyse data and decide autonomously, and the security safeguards it needs.",
+      "source": "Cisco",
+      "sourceUrl": "https://www.cisco.com/site/us/en/learn/topics/artificial-intelligence/what-is-aiot.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-smart-agriculture-0",
+      "topic": "smart-agriculture",
+      "headline": "AI for green agriculture and sustainable resource management",
+      "dek": "IEEE Innovate explores efficient AI models for farming, noting adoption remains limited and data quality is a constraint.",
+      "source": "IEEE Innovate",
+      "sourceUrl": "https://innovate.ieee.org/innovation-spotlight/ai-for-green-agriculture-and-sustainable-resource-management/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-smart-agriculture-1",
+      "topic": "smart-agriculture",
+      "headline": "IoT and AI for precision inputs in agriculture: a systematic review",
+      "dek": "A review finds IoT and AI enable more precise water, fertilizer and pesticide use, while flagging sensor energy use and e-waste.",
+      "source": "MDPI",
+      "sourceUrl": "https://www.mdpi.com/2076-3417/16/1/225/html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-smart-agriculture-2",
+      "topic": "smart-agriculture",
+      "headline": "ITU focus group catalogues AI and IoT use cases in digital agriculture",
+      "dek": "ITU-T's FG-AI4A deliverable covers use cases and sustainability recommendations.",
+      "source": "ITU",
+      "sourceUrl": "https://itu.int/en/ITU-T/focusgroups/ai4a/Documents/Deliverables/FGAI4A-05.pdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-career-signals-0",
+      "topic": "career-signals",
+      "headline": "Senior Director of Product Design — Factorial (Barcelona)",
+      "dek": "Director-level role listed at €120–150k plus equity, posted October 2026.",
+      "source": "Factorial via General Catalyst",
+      "sourceUrl": "https://jobs.generalcatalyst.com/companies/factorial-2-c935a743-fbc6-456b-b258-e6cd1d93b9ca/jobs/96268757-senior-director-of-product-design",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-career-signals-1",
+      "topic": "career-signals",
+      "headline": "Senior/Staff Product Designer — Factorial (Barcelona)",
+      "dek": "Hybrid role listed at €68–107k, partnering with the Design Director on long-term direction.",
+      "source": "Factorial via General Catalyst",
+      "sourceUrl": "https://jobs.generalcatalyst.com/companies/factorial-2-c935a743-fbc6-456b-b258-e6cd1d93b9ca/jobs/96268764-senior-staff-product-designer",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-career-signals-2",
+      "topic": "career-signals",
+      "headline": "Senior Product Designer — Wallapop",
+      "dek": "Seeks 8–10 years in product design with 5+ at senior or lead level.",
+      "source": "Wallapop via Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/wallapop/jobs/4483615101",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-career-signals-3",
+      "topic": "career-signals",
+      "headline": "Senior Product Designer — Spendesk (Barcelona)",
+      "dek": "Hybrid role focused on AI-powered and automation-driven workflows.",
+      "source": "Index Ventures",
+      "sourceUrl": "https://www.indexventures.com/startup-jobs/spendesk/senior-product-designer-4/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    },
+    {
+      "id": "2026-11-24-in-the-world-0",
+      "topic": "in-the-world",
+      "headline": "Constructive technology criticism",
+      "dek": "A Columbia Journalism Review report argues tech criticism skews negative and lacks a constructive agenda.",
+      "source": "Columbia Journalism Review",
+      "sourceUrl": "https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "isHero": false
+    }
+  ]
+}
