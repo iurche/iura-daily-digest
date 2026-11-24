@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.fastcompany.com/91628347/whats-really-fueling-the-recent-generosity-boom",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-    "date": "2026-10-25"
-  },
-  {
     "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
     "date": "2026-10-26"
   },
@@ -1598,5 +1550,77 @@
   {
     "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
     "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.airtable.com/articles/product-management-trends",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.computerweekly.com/news/Internet-of-Things-IoT/page/3",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.techradar.com/tag/sensors/page/2",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.rcrwireless.com/category/sensors",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.mdpi.com/2076-3417/16/1/225/html",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://jobs.generalcatalyst.com/companies/factorial-2-c935a743-fbc6-456b-b258-e6cd1d93b9ca/jobs/96268764-senior-staff-product-designer",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1041150/hulu-disney-plus-black-friday-ad-free-streaming-subscription-deal-sale-2026",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.fastcompany.com/91638523/google-broke-biggest-promise-about-gmail-1-thing-no-company-should-do",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+    "date": "2026-11-24"
   }
 ]
